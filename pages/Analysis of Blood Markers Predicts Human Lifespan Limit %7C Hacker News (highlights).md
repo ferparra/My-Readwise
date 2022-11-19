@@ -1,0 +1,9 @@
+title:: Analysis of Blood Markers Predicts Human Lifespan Limit | Hacker News (highlights)
+author:: [[news.ycombinator.com]]
+full-title:: "Analysis of Blood Markers Predicts Human Lifespan Limit | Hacker News"
+category:: #articles
+url:: https://news.ycombinator.com/item?id=27288796
+
+- Highlights first synced by [[Readwise]] [[Nov 18th, 2022]]
+	- If you're new to this area of biomarkers and longevity, there are several people to follow with different approaches:- David Sinclair Why We Age and Why We Don't Have To. Mostly focused on NAD+, sirtuins, use of yamanaka factors to reset epigenetic clock- Horvath for horvath clock using dna methylation to measure aging in organisms.- Michael Lustgarten a good curator for biomarker related research for longevity- Rhonda Patrick has insightful scientific interviews and dietary and behavioral interventionsThere's a spreadsheet with 9 biomarkers (with correlations) and age for Levine's Phenotypic Age floating around, based off this paper: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5940111/
+	- Strangely, my son who is six, who has exhibited symptoms of schizophrenia and has been formally diagnosed with ODD (oppositional defiant disorder), responds incredibly well to a combination of Niacin/Magnesium.He becomes a different person when he has taken his vitamins for the day, a more caring person.  It's been a profound transition, and one that we didn't expect.  We had tried everything - improving sleep, improving diet, weekly behavioral therapy.  Nothing has come remotely close to the impact that the Niacin/Magnesium combination.  It's probably a 70% improvement in behavior.  That dramatic.

@@ -1,0 +1,17 @@
+title:: After Reflecting on The... (highlights)
+author:: [[@infoarbitrage on Twitter]]
+full-title:: "After Reflecting on The..."
+category:: #tweets
+url:: https://twitter.com/infoarbitrage/status/1441886474446643200
+
+- Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
+	- After reflecting on the past few days and the overwhelming responses to my career change, I wanted to shine a light on the importance of very special class of individuals: MENTORS. /1 ([View Tweet](https://twitter.com/infoarbitrage/status/1441886474446643200))
+		- **Note**: Thread
+	- And for me, as a career changer (from Wall Street to seed stage technology investor), these people played perhaps an even more critical role in my work life. /2 ([View Tweet](https://twitter.com/infoarbitrage/status/1441886831793123331))
+	- My mentors helped me make important connections in my new life, test assumptions about how decisions were made and how the business actually worked, and served as role models and metaphors for the kind of professional I aspired to become. /3 ([View Tweet](https://twitter.com/infoarbitrage/status/1441887485257256961))
+	- There is much I'd like to share about how I sourced these people, how I built these relationships and how I worked to pay it forward after I got my sea legs in the business, but for now let me just thank a few of the most impactful mentors in my post-Wall Street life. /4 ([View Tweet](https://twitter.com/infoarbitrage/status/1441887865332330498))
+	- First is @fredwilson. The fact that he was someone in my orbit literally changed my trajectory. So much to say about Fred, but suffice it to say that he is both a visionary and a class act. I'm grateful for his support over all these years. /5 ([View Tweet](https://twitter.com/infoarbitrage/status/1441888316350099457))
+	- Then there's @bfeld. Brad's biggest impact on me was less about "business" and more about "people" - which is, to be honest, the business! His openness, his sense of humanity and his encouragement to take the time to think and reflect altered how I approached business + life. /6 ([View Tweet](https://twitter.com/infoarbitrage/status/1441889022540873733))
+	- Consider my friend @mattcharris. When he and I first met he had light-years more experience than me but was still very much proving himself to himself and the market. Now he's a supernova in the fintech world. But his pragmatic, honest, humanistic approach was a model for me. /7 ([View Tweet](https://twitter.com/infoarbitrage/status/1441889668878852098))
+	- The last of the "Big 4" is @joshk. Already a wildly successful founder and an emerging VC power, I had the chance to invest as an angel alongside Josh in Invite Media and got to see how he built deep, trusting founder relationships. He's truly one of the best. /8 ([View Tweet](https://twitter.com/infoarbitrage/status/1441890462311141379))
+	- The bottom line is that it takes a village. Network building and mentorship is critical to all aspects of not just the venture business but ANY endeavor where you ultimately need others to be successful. I've been fortunate to have so many great people in my corner. Thank you. /e ([View Tweet](https://twitter.com/infoarbitrage/status/1441890794168852481))

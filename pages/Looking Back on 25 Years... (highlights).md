@@ -1,0 +1,18 @@
+title:: Looking Back on 25 Years... (highlights)
+author:: [[@DonJRobertson on Twitter]]
+full-title:: "Looking Back on 25 Years..."
+category:: #tweets
+url:: https://twitter.com/DonJRobertson/status/1417391405694078976
+
+- Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
+	- Looking back on 25 years or so of working as, training, and writing about psychotherapy, in all honesty, I would say that some (but not all) of the individuals I've known who did the most harm to others around them happened to be ones presenting themselves as "victims". ([View Tweet](https://twitter.com/DonJRobertson/status/1417385778804580361))
+		- **Note**: Thread
+	- That's not to blame victims but it's common sense that as society makes more allowances for those we consider vulnerable there will increasingly be a minority of troublesome, or even genuinely malicious, individuals who exploit the sympathy that society's true victims deserve. ([View Tweet](https://twitter.com/DonJRobertson/status/1417385781446991895))
+	- A wolf in sheep's clothing, the saying goes.  I have in mind, e.g., individuals who awaken with burning uncontrollable feelings of rage each morning, which biases their judgement, and leads them to victimize innocent people, sometimes quite obsessively. ([View Tweet](https://twitter.com/DonJRobertson/status/1417385783888068608))
+	- Our emotional lives are largely private.  That inevitably means we have a distorted perception of the state of mind of other people.  What's really going on inside them is normally kept from our gaze.  There are people who fantasize for hours each day about violent revenge. ([View Tweet](https://twitter.com/DonJRobertson/status/1417385786333442048))
+	- Anger twists reason out of shape, though, especially when it's as prolonged and intense as it can be.  Sometimes people genuinely see themselves as the victims, where the crimes against them are totally imaginary. ([View Tweet](https://twitter.com/DonJRobertson/status/1417385789198065668))
+	- They'll spend weeks or months, even years, plotting the destruction of other people who are, arguably, the real victims in the situation.  There are many people in life who deserve our sympathy but we have to remember that not everything is as it seems with certain people. ([View Tweet](https://twitter.com/DonJRobertson/status/1417385792272543746))
+	- Sometimes vicious, or even dangerous, people, are very adept at convincing others of untruths, or outright lies, and portraying themselves as the underdog.  I think the majority of people probably underestimate how common this is in life, though, and so they risk falling for it. ([View Tweet](https://twitter.com/DonJRobertson/status/1417385794625495055))
+	- People don't realize how intense rage can be - because we often keep it hidden.  There are folk who regularly scream aloud and punch or throw things just because they wake up boiling over with intense rage, consumed by hatred for specific individuals or just society in general. ([View Tweet](https://twitter.com/DonJRobertson/status/1417391400723832836))
+	- Then they'll smile sweetly at you while they quietly spend hours plotting different ways to torture or destroy you because they imagine you looked at them the wrong way, or for some other perceived infringement. ([View Tweet](https://twitter.com/DonJRobertson/status/1417391403227885568))
+	- I was very angry myself as a teen but then gradually, it faded, and by my mid twenties, I think it had gone away completely.  I'm not even sure why.  It just started to feel more and more pointless and it never really came back. ([View Tweet](https://twitter.com/DonJRobertson/status/1417391405694078976))

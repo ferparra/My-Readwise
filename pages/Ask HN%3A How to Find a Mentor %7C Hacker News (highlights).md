@@ -1,0 +1,8 @@
+title:: Ask HN: How to Find a Mentor | Hacker News (highlights)
+author:: [[news.ycombinator.com]]
+full-title:: "Ask HN: How to Find a Mentor | Hacker News"
+category:: #articles
+url:: https://news.ycombinator.com/item?id=25810691
+
+- Highlights first synced by [[Readwise]] [[Nov 18th, 2022]]
+	- Don't start by asking "Will you be my mentor?" or "Can you review my skills and give me feedback?" It's a big investment of time and effort, if they don't know you.- Instead, ask one or two thoughtful questions related to their expertise. Many people are happy to help, especially if it only takes 10 minutes of their time.- If they don't respond, don't let that discourage you. Sometimes it's a numbers game: reach out to enough people and you'll find a connection.- How to reach out the first time? There's a lot of ways you can try. Comment on an article they wrote, or email them about it. Engage them on a thread here on HN. Reply to them on Twitter. Attend an online event where people are speaking about the topics you're interested in.- Most importantly, follow up. After they respond or you get to talk to them, send a thank-you summarizing what you learned and what was most helpful for you.- Better yet, send another thank-you a month later with how their advice helped you: what did you do with it, and what was the result? People love to hear how their advice helped. You'll stand out from the crowd and they're more likely to continue engaging with you... and that's how the longer-term relationship can get started.

@@ -1,0 +1,21 @@
+title:: A #KlimaDAO Summary. The... (highlights)
+author:: [[@OccultDegen on Twitter]]
+full-title:: "A \#KlimaDAO Summary. The..."
+category:: #tweets
+url:: https://twitter.com/OccultDegen/status/1451338881367003138
+
+- Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
+	- A #KlimaDAO summary. The goal is to increase the value of carbon offset credits in the global market by creating a black hole of buy pressure on chain. Verified carbon credits are brought on chain by the Toucan protocol as BCT tokens (base carbon tons). ([View Tweet](https://twitter.com/OccultDegen/status/1451338881367003138))
+		- **Note**: Thread
+	- The owner of BCT tokens may then exchange them for discounted KLIMA tokens which vest over a few days to reduce immediate arbitrage. These BCT tokens are now permanently locked in the KLIMA treasury. ([View Tweet](https://twitter.com/OccultDegen/status/1451338882264485891))
+	- BCT tokens could also be converted into liquidity position tokens with either USDC or KLIMA and these could be exchanged for KLIMA via the same bonding mechanism directly with the protocol. ([View Tweet](https://twitter.com/OccultDegen/status/1451338883157958657))
+	- The KLIMA protocol thus owns almost all of the market liquidity for KLIMA and BCT and resulting transaction fees. They do not need to distribute KLIMA tokens to liquidity providers thereby reducing a source of ongoing expense and sell pressure. ([View Tweet](https://twitter.com/OccultDegen/status/1451338884047118337))
+	- An investor may also simply buy KLIMA and stake it. This action increases the price of the token and protocol market cap. A higher market cap gives the protocol more room to provide discounted bonds, incentivizing treasury growth. ([View Tweet](https://twitter.com/OccultDegen/status/1451338885871464449))
+	- When BCT is deposited the protocol creates KLIMA to pay the bonder and the stakers with an equal number of KLIMA tokens to BCT deposited. This provides the “high” APY. This KLIMA is sent to the staking contract but nothing is sent back to the protocol in return. ([View Tweet](https://twitter.com/OccultDegen/status/1451338886932844549))
+	- KLIMA and staked KLIMA (sKLIMA) are coded to be 1:1 in value, so more sKLIMA is created in stakers wallets (no transaction) to reflect the new higher value (rebase mechanism) every 8 hours. ([View Tweet](https://twitter.com/OccultDegen/status/1451338887914262540))
+	- There is an initial growth phase where monetary policy levers are set to encourage treasury growth and reward KLIMA investors. No similar project has yet reached mature market dynamics but KLIMA is will likely be the first one to reach this. ([View Tweet](https://twitter.com/OccultDegen/status/1451338888820273153))
+	- The founders plan to utilize this market power to help improve the number and quality of carbon offset projects in developing countries. ([View Tweet](https://twitter.com/OccultDegen/status/1451338890711818240))
+	- There are many aspects of the project which I did not touch on (background, risks, OlympusDAO fork etc) but I hope this sparks interest and explains some of the difficult to conceptualize aspects of the KLIMA protocol. ([View Tweet](https://twitter.com/OccultDegen/status/1451338892762886146))
+	- To see real time analytics check out this community members dashboard: https://t.co/JwZI3qlPzQ ([View Tweet](https://twitter.com/OccultDegen/status/1451340764231966721))
+	- If demand for KLIMA drops to zero the token price would drop to intrinsic value. If it drops below IV then the protocol would market buy KLIMA tokens to restore to IV (an increase in deflationary control variable). ([View Tweet](https://twitter.com/OccultDegen/status/1451341283893600259))
+	- My personal hope is that this empowers land owners to preserve a healthy ecosystem. Making it valuable to sink carbon. I envision this benefiting indigenous tribes and restoring the value their ancestors placed on the land. ([View Tweet](https://twitter.com/OccultDegen/status/1451344147802116099))

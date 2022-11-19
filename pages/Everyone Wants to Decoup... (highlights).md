@@ -1,0 +1,48 @@
+title:: Everyone Wants to Decoup... (highlights)
+author:: [[@dvassallo on Twitter]]
+full-title:: "Everyone Wants to Decoup..."
+category:: #tweets
+url:: https://twitter.com/dvassallo/status/1369000671698161671
+
+- Highlights first synced by [[Readwise]] [[Nov 18th, 2022]]
+	- Everyone wants to decouple time from money.
+	  
+	  The problem? It's an extremely unpredictable way to make a living. For every successful creator, there are thousands who make nothing or almost nothing.
+	  
+	  So, how do you make the unpredictable, predictable? Here's what I learned: ([View Tweet](https://twitter.com/dvassallo/status/1369000642967142401))
+		- **Note**: Thread
+	- See, there are two very distinct worlds of how to make a living in our universe.
+	  
+	  The first world is the one we're mostly familiar with, where you follow a predictable career path. ([View Tweet](https://twitter.com/dvassallo/status/1369000643789283330))
+	- Say you want to make a living as a programmer, a doctor, a plumber, an English teacher, etc. If you do certain things (learn to code, get a specific degree, etc.) you can increase the odds of getting what you want to very close to 100%. ([View Tweet](https://twitter.com/dvassallo/status/1369000644707823626))
+	- And you can also expect such a profession to earn you a certain amount of money within a relatively narrow income range. Payoffs in this world tend to follow a normal distribution. The path to get what you want, and the expected payoff, are both highly predictable. ([View Tweet](https://twitter.com/dvassallo/status/1369000645676695556))
+	- In the second world, the payoffs tend to follow a Pareto distribution, where you can expect wild differences in income among people doing the same thing. Making a living in this world is far from predictable. ([View Tweet](https://twitter.com/dvassallo/status/1369000646821752839))
+	- There is no guaranteed way to make a living as a musician, an author, a startup founder, a blogger, a YouTuber, and so on. You can't just study YouTubing, pass a YouTube exam, and expect to start collecting the minimum wage by producing content for 40 hours a week. ([View Tweet](https://twitter.com/dvassallo/status/1369000647685775370))
+	- This Pareto world is extremely competitive, random, and highly unpredictable. ([View Tweet](https://twitter.com/dvassallo/status/1369000648633618433))
+	- So, if you want to make a living doing activities that fall into the Pareto world, you can't treat it like a normal career. You can't just rely on focus and hard work to make ends meet. You can't rely on perseverance and consistency. ([View Tweet](https://twitter.com/dvassallo/status/1369000649522896903))
+	- If you do it that way, chances are you'll find yourself on the extremely long tail that's commonly occupied by starving artists. ([View Tweet](https://twitter.com/dvassallo/status/1369000650357551107))
+	- To make a living in the Pareto world, you must behave like a venture capitalist, a book publisher, or a major film studio. You must have a portfolio of enough things going on that you can expect a few payoffs to be happening regularly. ([View Tweet](https://twitter.com/dvassallo/status/1369000651330641923))
+	- A book publisher will publish thousands of books every year, with the expectation that a small number of them will produce all the profit. To make things work in this world, you have to adopt a similar attitude. But that still won’t be enough! ([View Tweet](https://twitter.com/dvassallo/status/1369000652400164867))
+	- The problem is that as an individual, you can't realistically publish 1000s of books a year. You can't start 100 businesses at the same time. You can't possibly scale yourself like the corporate entities that operate in the Pareto world. ([View Tweet](https://twitter.com/dvassallo/status/1369000653398433800))
+	- Successful operators of Pareto ventures make many asymmetric bets. These are situations where the downside is small and capped, but the upside is often large or unlimited. ([View Tweet](https://twitter.com/dvassallo/status/1369000654350483459))
+	- For a book publisher, putting a book on the market usually has a small, fixed cost, but if the book becomes a best seller, the payoff is practically unlimited. With enough attempts, the outcomes will start to look almost predictable. ([View Tweet](https://twitter.com/dvassallo/status/1369000655285854216))
+	- But, for you as an individual, asymmetric bets are not enough. Because if you can't fit enough repetitions in your life to have a reasonable chance of materializing a payoff in your lifetime, then the upside doesn't really matter. ([View Tweet](https://twitter.com/dvassallo/status/1369000656091111438))
+	- If you're placing bets with odds of 1 in 1000, but you can only do so 5 times, the chances are you'll join the group of starving artists.
+	  
+	  So how do you solve this problem? ([View Tweet](https://twitter.com/dvassallo/status/1369000656938409987))
+	- Well, primarily, by giving up most of the upside and going for the low-hanging fruit. You want to do things that, while still very randomness-laden, will very likely yield a small win. ([View Tweet](https://twitter.com/dvassallo/status/1369000657882071040))
+	- You can never squeeze out all the uncertainty from Pareto activities, so you must leave enough space to try a few things at the same time. And to be able to build a portfolio of such things, you must ruthlessly minimize the input required by you. ([View Tweet](https://twitter.com/dvassallo/status/1369000658918080518))
+	- For example, you almost certainly won’t be able to write 1000 books this year. But you can almost certainly write 1000 tweets. If we assume it takes 15 minutes per tweet, posting 1000 tweets would take you just 41 minutes per day on average. ([View Tweet](https://twitter.com/dvassallo/status/1369000659849187339))
+	- Now, you're not going to become the next J. K. Rowling by writing 1000 tweets, but you will have a very reasonable chance of building a small audience with just that small effort. ([View Tweet](https://twitter.com/dvassallo/status/1369000660784545801))
+	- It's not guaranteed (nothing is in the Pareto world), but the odds are in your favor. And once you have an audience, you have an asset to build on. You gain optionality. You get more information. You build a distribution channel. You increase your luck surface area tremendously. ([View Tweet](https://twitter.com/dvassallo/status/1369000661732495361))
+	- Trying to build an audience with minimal effort is just one example of a small bet. But let me give you a few other examples from my own recent business activities. ([View Tweet](https://twitter.com/dvassallo/status/1369000662562902025))
+	- When I came up with the idea of writing a self-published book about AWS, I asked an ex-colleague of mine to become my co-author. I could have written the book myself, and in hindsight, I lost $52,958 (so far), just to save a couple of weeks of work. ([View Tweet](https://twitter.com/dvassallo/status/1369000663364087839))
+	- But it was still the right decision. Back then, I had no clue whether I was going to sell $10,000 or $1,000, or any copies at all. Cutting the effort in half was a great choice, even though it was already going to be aggressively time-boxed. ([View Tweet](https://twitter.com/dvassallo/status/1369000664345509889))
+	- Aggressively capping your inputs is important for many reasons. The most obvious is that it gives you space for more bets. But it also helps tremendously with motivation. It's a lot easier to do small things, and the failures hurt a lot less when you haven’t put in a big effort. ([View Tweet](https://twitter.com/dvassallo/status/1369000665297588225))
+	- Most importantly, a fraction of a win is almost as valuable as a full win. I don't care much that I left half of the profit for my AWS book on the table. After the first $1,000 came in, I knew this profession could became a viable income stream for me. ([View Tweet](https://twitter.com/dvassallo/status/1369000666111311877))
+	- And that's all I needed to learn. 4 months later, I released my second info product (the Twitter audience course), which crossed $200,000 in sales last month. And this one, I did all by myself. ([View Tweet](https://twitter.com/dvassallo/status/1369000667017314316))
+	- But even with my second product, I tried ruthlessly to limit my input. Initially, I was going to publish that as another short book, but then I realized that I could say what I wanted to say much faster if I made a video instead. ([View Tweet](https://twitter.com/dvassallo/status/1369000667906457602))
+	- And that's what I did. That product turned from an idea in my head to a product on the market in just 3 days. Over the last 10mo, it has made an average monthly profit of $17,643. That payoff was unpredictable (and totally unexpected), but the small input was very intentional. ([View Tweet](https://twitter.com/dvassallo/status/1369000668795637767))
+	- And even my most recent product (Profit and Loss) has been shaped by ruthless input minimization. I was very tempted to do something more elaborate, with a full-blown community, weekly interviews, real-time dashboard access, and so and so forth. ([View Tweet](https://twitter.com/dvassallo/status/1369000669789777921))
+	- The upside would have been considerably higher than what this product could ever achieve, but I quickly realized that doing all of that would have required a commitment from me that wasn't very compatible with my portfolio strategy. ([View Tweet](https://twitter.com/dvassallo/status/1369000670758645770))
+	- And this is how I intend to keep making the unpredictable, predictable:

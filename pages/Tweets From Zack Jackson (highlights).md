@@ -1,0 +1,8 @@
+title:: Tweets From Zack Jackson (highlights)
+author:: [[@ScriptedAlchemy on Twitter]]
+full-title:: "Tweets From Zack Jackson"
+category:: #tweets
+url:: https://twitter.com/ScriptedAlchemy
+
+- Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
+	- Kind of got next.js servers to hot reload federated modules that are streamed. If we can get it working, next apps could be “always on”, no need to restart or redeploy to get new code. ([View Tweet](https://twitter.com/ScriptedAlchemy/status/1441623293228843012))

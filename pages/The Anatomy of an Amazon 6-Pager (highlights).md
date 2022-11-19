@@ -1,0 +1,8 @@
+title:: The Anatomy of an Amazon 6-Pager (highlights)
+author:: [[writingcooperative.com]]
+full-title:: "The Anatomy of an Amazon 6-Pager"
+category:: #articles
+url:: https://writingcooperative.com/the-anatomy-of-an-amazon-6-pager-fc79f31a41c9
+
+- Highlights first synced by [[Readwise]] [[Nov 18th, 2022]]
+	- Introduction — This needs to set up precisely what the material is going to cover and to inherently state the general direction of where the document plans on going.Goals — List right up front what the metrics for success are so we can use them as a lens to see the remaining document through.Tenets — This is a very Amazon thing where every action has some clearly define north star. There are a lot of ways to word these. Generally, they are inspirational pillars that the rest of the plan sits on top of (go with me on this one).State of the business — This section is another important one. You need to inform the reader of the current state of the business. There needs to be a lot of detail here, which sets up the points to compare against in the next section.Lessons learned — Amazon is big on data. This section will outline the current state of the business and its influence over creating the goals you need to achieve. It should be a detailed enough snapshot to give the reader all of the data they need to understand the positive and negatives activities in the prior period.Strategic priorities — This is the meat of the document and lays out the plan, how to execute it, and should match up to achieving the goals stated at the top of the document.

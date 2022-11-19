@@ -1,0 +1,31 @@
+title:: What Caused All the Supp... (highlights)
+author:: [[@typesfast on Twitter]]
+full-title:: "What Caused All the Supp..."
+category:: #tweets
+url:: https://twitter.com/typesfast/status/1453753924960219145
+
+- Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
+	- What caused all the supply chain bottlenecks? Modern finance with its obsession with "Return on Equity." ([View Tweet](https://twitter.com/typesfast/status/1453753924960219145))
+		- **Note**: Thread
+	- To show great ROE almost every CEO stripped their company of all but the bare minimum of assets. Just in time everything. No excess capacity. No strategic reserves. No cash on the balance sheet. Minimal R&D. ([View Tweet](https://twitter.com/typesfast/status/1453753926805688320))
+	- We stripped the shock absorbers out of the economy in pursuit of better short term metrics. ([View Tweet](https://twitter.com/typesfast/status/1453753927703228420))
+	- Big businesses are supposed to be more stable and resilient than small ones. And economy built around giant corporations like America's should be more resilient to shock. However the obsession with ROE means that no company was prepared for the inevitable hundred year storms. ([View Tweet](https://twitter.com/typesfast/status/1453753928407937031))
+	- Now as we're facing a hundred year storm of demand, our infrastructure simply can't keep up. ([View Tweet](https://twitter.com/typesfast/status/1453753929406189573))
+	- The global logistics companies have no excess capacity, there are no reserves of chassis (trailers for hauling containers), no extra shipping containers, no extra yard space, no extra warehouse capacity. ([View Tweet](https://twitter.com/typesfast/status/1453753930266005513))
+	- The brands have no extra inventory. Manufacturers have no extra components or raw materials on hand. ([View Tweet](https://twitter.com/typesfast/status/1453753931541061645))
+	- Almost nobody has any employee loyalty because they haven't been willing to take care of their people through thick and thin of business, and thus they can't staff up quickly to meet surging demand. All businesses now complain about employee loyalty, but have we earned it? ([View Tweet](https://twitter.com/typesfast/status/1453753932761628675))
+	- To show larger profits and return on equity to juice their stock price, companies now use FIFO or LIFO accounting that doesn't account for the full costs of replacing the units in a rising price environment. ([View Tweet](https://twitter.com/typesfast/status/1453753933705273359))
+	- The proper way to do accounting is *Next * in First Out (NIFO). This means you price your goods against the cost of replenishment. ([View Tweet](https://twitter.com/typesfast/status/1453753934468706310))
+	- If you buy 100 widgets for $100, and then their price of replenishing them goes to $150, under LIFO or FIFO you can sell at $120 and recognize $20 in accounting profit. But under NIFO you would never sell them below $150. ([View Tweet](https://twitter.com/typesfast/status/1453753935341125633))
+	- How much of the amazing quarterly earnings we're seeing out of public companies right now is actually just accounting shenanigans? ([View Tweet](https://twitter.com/typesfast/status/1453753936154796032))
+	- A well run business seeks to minimize accounting profit to reduce its tax bill, freeing up cash to reinvest in compounding the value creation. Most public companies now do the opposite, overstating profits to trigger bonuses and applause from Wall Street. ([View Tweet](https://twitter.com/typesfast/status/1453753936930742273))
+	- Modern finance has removed the shock absorbers from the economy. Over the long run, in our complex, dynamic, power law world, the reference assets will be those companies winners willing to challenge the dogma of modern finance. ([View Tweet](https://twitter.com/typesfast/status/1453753937689939972))
+	- When the hundred year floods inevitably hit, the survivors will be  those who invest in excess capacity, in strategic reserves of key capital assets, in employee trust that let them attract and retain talent. ([View Tweet](https://twitter.com/typesfast/status/1453753938860122117))
+	- Few will have the courage. CEOs hired by committees can never have the security required to challenge dogma of an entire generation of finance professionals, including all the people who hired them. ([View Tweet](https://twitter.com/typesfast/status/1453753939715756033))
+	- The feedback mechanisms of modern finance work too well for the bureaucrats to resist--you go asset light, strip the companies of operating capital, cut R&D, make employees peripheral and bam, your ROE surges, your stock price follows, and your performance bonuses pay out big. ([View Tweet](https://twitter.com/typesfast/status/1453753940487458824))
+	- So your a hired CEO who doesn't run that playbook, who starts to plan for the hundred year flood? Sorry, your ROE metric sucks, we're replacing you with someone who will run the playbook and cash in on the rewards we're holding out. ([View Tweet](https://twitter.com/typesfast/status/1453753941372510211))
+	- Only founder led companies and family owned businesses can stand up to the immense pressure from the dogmas of modern finance. ([View Tweet](https://twitter.com/typesfast/status/1453753942228160515))
+	- The proposed tax on unrealized capital gains will force founders to sell larger and larger pieces of their companies to pay the tax, until eventually they lose control of their businesses and turn them over to the Wall Street sharks to run their disastrous playbook. ([View Tweet](https://twitter.com/typesfast/status/1453753943092125697))
+	- Founder-led businesses are the last shock absorbers left in the economy. And the best hope we have to avoid the kinds of supply chain shocks we're seeing right now. ([View Tweet](https://twitter.com/typesfast/status/1453753943889092610))
+	- Washington must protect and nurture these engines of competitive dynamism, but instead they're conspiring to kill the golden goose. ([View Tweet](https://twitter.com/typesfast/status/1453753945092808705))
+	- ROE is a logical idea taken too far ([View Tweet](https://twitter.com/typesfast/status/1453763581925736450))

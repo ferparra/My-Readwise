@@ -1,0 +1,17 @@
+title:: 1/ Let's Try to Dispel T... (highlights)
+author:: [[@bkiepuszewski on Twitter]]
+full-title:: "1/ Let's Try to Dispel T..."
+category:: #tweets
+url:: https://twitter.com/bkiepuszewski/status/1448361632510382080
+
+- Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
+	- 1/ Let's try to dispel the biggest confusion about Optimistic Rollups and their 7-day fraud proof window. Imagine you have 1000$ DAI and send it to Alice. Then you send it again to Bob. Obviously you expect that first tx confirms, the second reverts with "out-of-balance" error 👇 ([View Tweet](https://twitter.com/bkiepuszewski/status/1448361632510382080))
+		- **Note**: Thread
+	- 2/ Clearly Alice should now have 1000$ DAI and not Bob, provided that the *sequence* of txs are as above. Now, Sequencer posts both transactions to L1 in a batch and also posts a state root (a magic number). L1 does not do anything fancy, except recording these. ([View Tweet](https://twitter.com/bkiepuszewski/status/1448361634573979649))
+	- 3/ If Sequencer is honest, the state root "confirms" to L1 that it's Alice that has $DAI on L2 and not Bob. So Alice can withdraw that $DAI to L1, i.e. release them from L1 deposit contract. Not Bob. But how L1 can be sure that L2 Sequencer is honest ? ([View Tweet](https://twitter.com/bkiepuszewski/status/1448361636662849542))
+	- 4/ What if the posted state root attests that it's actually  Bob that has the funds ? With Optimistic Rollups L1 simply waits 7 days (the fraud proof window) and after that - if nobody claims otherwise - it assumes that it is correct. And releases funds to Alice. ([View Tweet](https://twitter.com/bkiepuszewski/status/1448361638462111744))
+	- 5/ Let's go back to your two transactions. When they are final ? When you should get "hard" confirmation from Metamask ? As soon as they are posted to L1 by Sequencer. You don't care about the state root. Your txs. cannot be "reverted", "removed" or otherwise during the 7 days ([View Tweet](https://twitter.com/bkiepuszewski/status/1448361640232112134))
+	- 6/ The 7-day fraud proof window does not affect you. It affects only Alice, Bob, or in general, anyone that does any L2 --> L1 transaction (such as e.g. funds withdrawal). During this 7-days the *effect* of the tx is uncertain from the PoV of L1, but txs themselves are final ([View Tweet](https://twitter.com/bkiepuszewski/status/1448361641968549888))
+	- 7/ So, what is then the "soft" confirmation ? It's simply a promise from the Sequencer that txs will be posted (eventually) to L1 in a sequence that you observe in your UI. But you have to trust the Sequencer to do that. Until it's actually posted to L1, it's not guaranteed ([View Tweet](https://twitter.com/bkiepuszewski/status/1448361643969323011))
+	- 8/ ORs post tx batches to L1 roughly every 5 min. They can theoretically do it in each L1 block, so every 15 seconds (unrealistic of course if the block is full of txs minting digital porcupines) ([View Tweet](https://twitter.com/bkiepuszewski/status/1448361645798039552))
+	- 9/ But once they are posted to L1, they are confirmed, they cannot be changed, in a way they receive L1 "attestation", stamp of approval. 7-day fraud proof window has nothing to do with it ([View Tweet](https://twitter.com/bkiepuszewski/status/1448361647882579977))

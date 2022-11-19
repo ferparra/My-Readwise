@@ -1,0 +1,24 @@
+title:: A While Ago I Said I'd D... (highlights)
+author:: [[@macrocephalopod on Twitter]]
+full-title:: "A While Ago I Said I'd D..."
+category:: #tweets
+url:: https://twitter.com/macrocephalopod/status/1404908537835360257
+
+- Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
+	- A while ago I said I'd do a thread of recommended books for people looking to get into quant finance, or just starting their careers. This is that thread.
+	  
+	  It's v biased to buy side because that's where my experience is -- derivatives/risk quants look elsewhere pls! ([View Tweet](https://twitter.com/macrocephalopod/status/1404908537835360257))
+		- **Note**: Thread
+	- "Efficiently Inefficient" by Lasse Pedersen is a great non-technical overview of hedge fund strategies. Not all quant, but mostly. It also has some great interviews with hedge fund managers who are famous for running these strategies https://t.co/29SDEWClWW ([View Tweet](https://twitter.com/macrocephalopod/status/1404908539215241217))
+	- "Expected Returns" by Antti Ilmanen is a great overview of an important area that is neglected by most other quant books -- how to model and forecast expected returns. It has in depth overviews of at least a dozen quant strategies, with data analysis https://t.co/IqlRa3uWES ([View Tweet](https://twitter.com/macrocephalopod/status/1404908540993675273))
+	- "Active Portfolio Management" by Grinold and Kahn is dated now but still a classic. Contains the basic framework for quantitative management of risk and return in a portfolio, including factor models and portfolio optimization https://t.co/c5yXVHe7bh ([View Tweet](https://twitter.com/macrocephalopod/status/1404908542537211904))
+	- "Quantitative Equity Portfolio Management" by Chincarini and Kim is the next book to go to for quant equity strategies. It contains all the info from G&K but goes into a lot more detail https://t.co/yMaGj1zzTa ([View Tweet](https://twitter.com/macrocephalopod/status/1404908544156176384))
+	- (Many people instead recommend the similarly named book by Qian, Hua and Sorensen, which I haven't read but I am told is very good) https://t.co/mnVkmfAzLz ([View Tweet](https://twitter.com/macrocephalopod/status/1404908545670369281))
+	- If you are going to be doing anything related to fixed income then "Interest Rate Markets" by Siddhartha Jha is a great place to start, it covers bonds, futures and swaps and the basics of carry trades, hedging and relative value https://t.co/yksO0zy2za ([View Tweet](https://twitter.com/macrocephalopod/status/1404908547226411014))
+	- These days you will inevitably need to know some ML and "Elements of Statistical Learning" by Hastie & Tibshirani is still as good an introduction as any other book I can recommend on the subject https://t.co/auS34hpWmm ([View Tweet](https://twitter.com/macrocephalopod/status/1404908548862140418))
+	- Finally, not a book, but if you read and understand the ~100 page overview of the Barra risk model, you will have a better understanding of equity factor models than most professional quants (thanks to @mediocrequant for the tip) https://t.co/B0RfRAtiin ([View Tweet](https://twitter.com/macrocephalopod/status/1404908550334320644))
+	- Obviously this is biased to my experiences and preferences. It also assumes a decent knowledge of linear algebra, calculus, statistics and probability so if you don't have that, you probably won't get much out of this. ([View Tweet](https://twitter.com/macrocephalopod/status/1404908872268193800))
+	- Finally it is geared towards quants who are going to work on strategies with a multi-day time horizon. I simply don't think that there are any good books covering HFT or mid-frequency, although very happy to be corrected. ([View Tweet](https://twitter.com/macrocephalopod/status/1404909164078510085))
+	- I really have to add the two books that convinced me to go into quant finance when I read them back in ~2006. First "My Life as a Quant" by @EmanuelDerman which blends descriptions of options pricing models with great autobiographical color https://t.co/0CLzo8VdqT ([View Tweet](https://twitter.com/macrocephalopod/status/1404916761967857670))
+	- Second "Traders, Guns and Money" by ex-derivatives trader Satyajit Das, which is just a perfect description of the wild west of derivatives markets pre-financial crisis https://t.co/DZpAiQ39co ([View Tweet](https://twitter.com/macrocephalopod/status/1404917203334578191))
+	- Now I’ve read it I’d add Trading at the Speed of Light (MacKenzie) which is amazing background reading for anyone thinking of going into HFT  https://t.co/e4dvzcAshg ([View Tweet](https://twitter.com/macrocephalopod/status/1431149459287724032))

@@ -1,0 +1,22 @@
+title:: I Find the Evergreen Deb... (highlights)
+author:: [[@isidoremiller on Twitter]]
+full-title:: "I Find the Evergreen Deb..."
+category:: #tweets
+url:: https://twitter.com/isidoremiller/status/1486764910943956993
+
+- Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
+	- i find the evergreen debate on what SQL is good for and what Python is good for surprisingly... boring? I increasingly feel like these are just arguments for the sake of argument and we all know the answers already! (like trailing commas 😉) So I wrote them down: 🧵 ([View Tweet](https://twitter.com/isidoremiller/status/1486764910943956993))
+		- **Note**: Thread
+	- There's lots of great replies to @bennstancil here but they all boil down to a few key differences (which again, I think we all already know! It feels silly writing them!). Also to be fair, Benn's is a more interesting take on the standard question. https://t.co/Nk6pBZQb36 ([View Tweet](https://twitter.com/isidoremiller/status/1486764917734588418))
+	- 1. SQL is default because all the data that data people are interested in already lives in a db or dwh that speaks SQL. You *need* to know SQL to get at data— it is table stakes. @danielmintz: https://t.co/BUWGSKOCCZ ([View Tweet](https://twitter.com/isidoremiller/status/1486764922692255746))
+	- 2. SQL is also usually good enough to answer a question! It's undoubtedly powerful and perfectly suited to asking questions. Upstream work/tooling compounds this: @sethrosen jokes, but dbt adoption & metrics layer promises make this less ironic by the day https://t.co/laHR9SIFLv ([View Tweet](https://twitter.com/isidoremiller/status/1486764925947056129))
+	- 3. Python (or R) *is just better* than SQL at many tasks. I didn't learn SQL in my college stats class— I learned R, because it absolutely rules at stats. I still couldn't tell you how to do an ANOVA test in SQL, because of course not, that's mental— it's just one line of python. ([View Tweet](https://twitter.com/isidoremiller/status/1486764932909596676))
+	- 4. Data workflows tend to start in SQL and end in Python/R. You start in SQL because that's where the data is. Often, you finish in SQL— remember, it's usually good enough! But sometimes, you need to carve sculptures: https://t.co/6Ed1xd27iX ([View Tweet](https://twitter.com/isidoremiller/status/1486764938165035016))
+	- 5. But even when SQL just isn't good enough, tool friction is real. If I'm in a SQL IDE, why would I download a .csv and load it into some local Python environment or upload to a notebook? People write insane SQL rather than good Python simply because they're already writing SQL. ([View Tweet](https://twitter.com/isidoremiller/status/1486764944821395465))
+	- 6. That's compounded because Python tooling mainly sucks and has a chilling effect. Some SQL IDEs (looking @ you @SnowflakeDB) are really great. Can't say it better than Benn's original post, or @bernhardsson: https://t.co/XCRvTbnjp5 ([View Tweet](https://twitter.com/isidoremiller/status/1486764949649063936))
+	- 7. But Python tooling also offers tremendous flexibility compared to SQL IDEs. Even if you could cobble together the SQL necessary to run this model, good luck building this simple map in a SQL editor 
+	  
+	  ![](https://pbs.twimg.com/media/FKIM2PsVEAQ7Xn7.png) ([View Tweet](https://twitter.com/isidoremiller/status/1486764973191618560))
+	- 7. Personal preference & experience is worth more than we give it credit for. I prefer to rename things in SQL rather than screw around with pandas dataframes, just because I like it more. I do geo work in Python, simply because I've done it before and feel more comfortable. ([View Tweet](https://twitter.com/isidoremiller/status/1486764976446394372))
+	- summary: You have to use SQL to get data. It's usually good enough for most things, but some folks are more comfortable using Python/R for those and that's fine! Python is unarguably better at certain tasks and polish later in workflows, but tools suck and friction is real... ([View Tweet](https://twitter.com/isidoremiller/status/1486764979227217922))
+	- I was going to keep "work" out of this but just... get you a tool that can do both! We are tired of debating Python vs. SQL at @_hex_tech. Working in Hex renders these points moot— just do what feels right y'all. just vibe out w/ us in Python or SQL. https://t.co/xCq0xU1oI8 ([View Tweet](https://twitter.com/isidoremiller/status/1486764985808162818))

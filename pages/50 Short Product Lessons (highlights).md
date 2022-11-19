@@ -1,0 +1,180 @@
+title:: 50 Short Product Lessons (highlights)
+author:: [[cutle.fish]]
+full-title:: "50 Short Product Lessons"
+category:: #articles
+url:: https://cutle.fish/blog/50-product-lessons
+
+- Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
+	- At any given time, a company will have a portfolio of bets developing in parallel that are all interlinked and related in some way.
+	- the relatedness of bets are very pertinent to product development
+	- Although you want to update your beliefs as you start to accumulate data, some things just take a while to mature.
+	- If we have an opportunity to create a game where we can bet more incrementally instead of a big batch bet, of course we’re going to try to create an environment where that is possible.
+	- almost every problem is a nested solution to a higher-level problem
+	- The challenge is that organizations often struggle to define who owns problems and who owns solutions.
+	- just because a problem exists (or just because customers are complaining about something), this doesn’t necessarily mean that there’s value in solving that problem
+	- framing things as opportunities
+	- Premature convergence is trying to zero in on a solution (or decision) earlier rather than later, potentially too early.
+	- People are rewarded for having a very specific plan and being able to say specifically what they’re going to do.
+	- when you converge later, you realize you’re solving the wrong problem
+	- the people who have the idea are often subject to a lot of confirmation bias and sunk cost bias
+	- When you’re converging at the right time, there is a period of messiness, there is a period that includes a little bit of discomfort.
+	- when you are iterating on or offering a product, there tend to be initiatives or missions baked into doing that
+	- In mission-oriented thinking, yes, you want to learn quickly, and you want to quickly figure out how to offer more and more value. But you’re not constrained by this idea and to the factory metaphor of delivery
+	- You often find that the amount of work that’s theoretically in progress is actually dwarfed by all of this planning and decomposing and pitching and discussing.
+		- **Tags**: #[[product management]] #[[favorite]]
+	- The whole idea of starting together is trying to limit that planning inventory, trying to really kick off an effort with all of the people involved, and striving to minimize premature convergence.
+	- create an environment in which the team can experience the problem for the first time together and connect with the customer
+	- One thing that you find when you talk to teams is that it is often very difficult for the people working on the front lines to connect their low-level work all the way up to the larger bets of the company
+	- we spend a lot of time talking about short-term work and the large, long-term things
+	- one of the things that’s misunderstood is that people believe that you need certainty to have coherence
+	- Coherence is the ability to be able to navigate and link together the work that you’re doing in all of it’s messiness and all of its uncertainty and just tell a coherent or persuasive or connected story about how this relates to the larger things that you’re doing as a company.
+	- People often chase certainty, and the problem is is that when you manufacture a certainty, you actually limit coherence.
+	- An antipattern you observe is that some form of process is expected to apply to all the types of bets in your portfolio, and that somehow you’ll find some one-size-fits-all approach that will work for that.
+	- one temptation is to completely factor out those teams so they don’t interact at all
+	- the company’s constantly starting these very interesting innovation efforts and they’re not letting anyone participate or giving people an option
+	- Running concurrent operating models or things in parallel is actually very nuanced and difficult
+	- when you see teams making effective use of data in their environments, there’s often a lot more uncertainty
+	- You have to renounce the idea that the data will pass/fail your teams or will once and for all tell you if you’re moving in the right direction
+	- You’re peeling away the layers, and measurement doesn’t instantly give you some hard kernel of truth
+	- The idea that you’re going to structure these perfect experiments and collect this perfect data and shut everyone up and make your bulletproof case to management must be tempered by the reality that it often doesn’t look like that
+	- So to create an environment that is conducive to being more evidence-driven or data informed, you need to create a safe environment for uncertainty, an environment where people are open to the idea that you’re iterating on how you use data
+	- it doesn’t get easier. Maybe you learn faster or you go faster or have more impact. But a lot of the acute challenges that arise happen in those particular teams.
+	- hat distinguishes them is this element of self repair
+	- The mistake is to assume that all of these companies are healthy for the same reasons. Although you can find commonalities, digging a little deeper reveals a lot of variety.
+	- It’s a level of stubbornness related to how they want their company to be—leaps of faith that defy the short-term—that they feel will build a more resilient company in the long run. This is very difficult to do.
+	- If you try to build quickly, and in the process introduce a lot of technical debt into your product while chasing some short-term outcome, you will only feel the impact of those decisions after a certain amount of time has passed
+	- the most successful companies simply allow fewer chronic issues to develop
+	- If all you’ve done is had people stop you from making mistakes, you haven’t really learned the hard way
+	- The takeaway when talking with teams is that they often believe it’s just about mastering a particular framework
+	- The important side effect of playing Tetris is that it leaves less time for experimentation and less time for exploration, etc.
+	- When we believe it’s our job to keep people busy, we tend to pre-converge on things, and we tend to rush things so we can drop them on teams
+	- if everything is predetermined in the game of Tetris—the puzzle pieces have all been placed—you won’t have the leeway to iterate on things or to explore options
+	- You’re going to be locked into a particular plan because you will have over-constrained yourself so much with all these commitments and individual backlogs and other things that you’ve put together
+	- It’s very nuanced and very hard to break the habit of playing Tetris because there is a lot of pressure from all parts of the organization to keep playing
+	- Designers and architects are often associated with the idea of questioning this pressure to move because it involves cutting so many corners. “We’re putting crap out there—why aren’t we taking our time? Do we actually need to deliver this quickly?”
+	- Teams that appear to be doing well are actually able to incorporate these impulses in a way that results in a bias for frequent integration. By that, I mean a bias for learning, for integrating assumptions and then testing them, and for making sure that they don’t go too far off course chasing some silver bullet.
+		- **Tags**: #[[favorite]]
+	- a team that is shipping pretty quickly, but which is also learning as fast as they are shipping, as one coworker put it: they’ve harmonized learning and shipping
+	- sometimes better to have that bias for action than not, to be granted the power and the ability to do that
+	- When you talk to someone who is really on top of their game, they will paint the whole picture and how what they’re working on fits into the broader story
+	- This is important, as it is when they talk about their recent product efforts, because there’s a depth to their explanations. They are discussing their assumptions. They are talking about what they thought happened. They are talking about what they learned and what surprised them. They’re talking about specifics: details and data—both qualitative and quantitative. And they’re telling good, meaningful stories, not vague stories about what happened in the last six months.
+	- It’s the depth of their dialogue about the game that they’re playing, the bets that they’re making, and what they have learned—that is the muscle that you need to build, and it doesn’t come naturally
+	- their future is largely dictated by a number of decisions about which markets to enter, which personas to target, where they think the market is going, what competitors are doing, and what’s going on in general.
+	- What I like to ask teams is, “Which wave are you riding?” You see certain problems that over the years, multiple waves of people have been trying to solve.
+	- There are these fundamental questions or moves that they’re making (or in some cases not making) that have a much greater influence on the approach to measurement that needs to take place.
+	- it is important to lay out and map the core beliefs of where you think things in your industry or space will move
+	- Is this high-value, high-effort is a very simplistic way to think about it. It’s very simplistic because often the most valuable things you’re working on are huge multiples more valuable than the low-value things you’re working on.
+	- In terms of effort, there can be a wide range as well. It doesn’t really take into account things that are more friendly to experimentation, where you can iterate your way through. There is an area of confidence, and there’s risk.
+	- when you’re prioritizing, product should really consider prioritizing by the size of the opportunity and try to resist taking on too many opportunities at once
+		- **Tags**: #[[prioritization]] #[[favorite]]
+	- When you prioritize by opportunity size first, you resist making all of these assumptions about how the work will happen, how it might be split between teams, how shared teams will be involved, and what you’re going to do. You keep it crystal clear from a product angle that you believe that this opportunity is the largest thing.
+		- **Tags**: #[[prioritization]] #[[favorite]]
+	- This learning velocity is a really powerful way to understand what’s happening and how your team is working now.
+	- You see teams that have shipped something, and they started amassing this list of requests and bits of feedback, and honestly, then they’ve been redirected to something else. So yes, they’re learning, and yes, that’s entering their system, but they’re not turning around and acting on that learning immediately, converting that knowledge into a change of direction.
+	- The important thing is not just learning, it’s responding to what you are learning.
+	- Either they aren’t enabled or empowered to go upstream and get involved, or perhaps they got involved in the past and got swatted down for doing that.
+	- I think the mistake is to assume, as in the example I started with, that when the product manager asks why their team isn’t interested, that it actually is because they’re not interested.
+	- what you notice with teams that are making better use of data (and measurement and insight), is that data is integrated into many different facets of product development
+	- The important thing is the presence of a consistent language around the bets that they’re making and the inputs and outputs, something that transcends one particular effort or feature. And that’s powerful because if you think about things like annual strategy reviews or quarterly reviews (or kickoffs or retrospectives), it’s really important to have a common thread between them. That is a hallmark of teams that appear to have a healthy perspective on using data.
+	- It’s not just for show, it’s not just the PowerPoint presentation to pitch other people on the particular effort. They’re actually closing the loop on their assumptions and closing the loop on what they’re doing.
+	- When you take the approach of using it for learning, you want to make a special effort to build up a larger framework beyond just answering one particular question or getting the magic insight.
+	- Then you have what I call “functional feature factories.” They release reasonably usable features.
+	- The main thing that defines these companies is not that they’re doing terribly, but rather the lack of serious focus and step changes in their product, things that really help their customers do their job a lot better.
+	- The third type of company is one that really nails high decision quality and high decision velocity by limiting the complexity they’re adding to their product in relation to the outcomes that they’re creating for customers.
+		- **Tags**: #[[favorite]]
+	- The third category also has some duds—in fact, they often start out with duds—but they’re really pivoting and learning and leveraging that learning to practice a disciplined, repeated, systematic approach to introducing step changes in their product.
+	- for some of the highest-performing companies that we know of, at least considered from the angle of their product team, maybe 40% of their initiative-level or mission-level decisions turn out to be great
+	- We’re generating feedback from these individual items and moving them into the system for the purpose of getting work done. It obviously helps to have some kind of visualization of your work in progress—and it’s a good exercise to limit work in progress. But again, these tools are not adept at really communicating the essentially iterative nature of the work being done.
+	- Experiments are not great at communicating the idea that we might have three overall big bets in our company for the next couple of years, and that all this work is lined up. Visualizations are largely good for creating a delivery focus. In our context, we need to think a lot more about how to augment these production-line views with things that help us wrap our head around how we’re doing overall.
+	- it’s really important for us to understand our various releases as they contribute to improving a particular metric
+	- This includes all of the various feedback loops that we’ve generated and how that work is linked into the other things that we’re doing
+	- There is a risk with any tool that accidentally encourages or incentivizes “more-is-better” without offsetting that against the idea of rapid learning, removing complexity, or the overall health of the system.
+	- What they’re not doing is digging into their product and thinking about the value exchange between the user or customer and their product, and trying to understand how those key value moments link back.
+		- **Tags**: #[[favorite]]
+	- What’s your bet for how your particular strategy is going to contribute to that, to extend that lifetime value for customers? What’s the bet, what are you really banking on?
+	- Teams are often weaker at presenting their unique mental model for how value is going to be created. What is their model for how that’s going to work?
+	- can you present a model for how you believe this sort of value creation system is going to work while representing your current beliefs?
+	- One of the most promising uses of data is by teams instrumentalizing it to target individuals who match the characteristics of the people they should be connecting with for their research.
+	- problems have all kinds of interpretations, and even the best analysts and the best people at understanding problem can bias particular problems as they drop them on the team
+	- And at a minimum, do teams have really rich behavioral data about how people are using the product, to augment these kind of human conversations that they’re having?
+		- **Tags**: #[[favorite]]
+	- Are you creating an environment where you can connect with these human beings?
+	- things work wonderfully in tandem when you’re using the behavioral data at scale to narrow down to the specific moments, the specific people to specific things that are interesting to you—and then reaching out to those people to understand the why and the backstory behind those things
+	- are you bringing the customer and the user close to the team? Not just the problem, but are you bringing the person with the problem close to the team so that they can interact and connect ?
+	- the burden really is on you: you’re the heretic. It’s often not that people lack a growth mindset. It’s really just that you’ve gone a lot deeper into this, studied it more, and you’re simply more interested in all of the nuances that set us apart
+	- you have to show, not tell. People will not instantly—or in one month or in three months or in six months—alter all of their prior beliefs that are based on prior evidence
+	- Overall, with these small, safe-to-fail experiments, sometimes you just do it and you don’t ask for permission. You just do it, and your team does it. If you can show with outcomes and if you can show with improvements, those are the things that really change people’s perspectives on this thing.
+	- The idea of a one pager is that you communicate the bet, the thing that you have in mind, in one page.
+	- I do activities with teams where we try to tease things out with what I call the “tech sauna,” for me, these are the kinds of information that people would need to learn about an effort to make appropriate decisions.
+	- You don’t want to oversimplify, and you don’t want to force consistency to the extent that it drains all the life out of the particular efforts that you’re working on.
+	- You don’t want to try to pre-converge and figure out that particular solution. You’re proposing that the opportunity is there, and you might even propose a series of stopping functions, a series of pivot-or-proceed points as you try to exploit that opportunity.
+	- they need to deal with the reality in the room, and they need to think about first principles
+	- if you think of these as living documents, set up checklists and reminders—not requirements
+	- If you have a company that experiences that much debt and has slowed down that much, I doubt that any particular feature that any team has in progress in any way approaches what trying to resolve that issue might look like for customers.
+	- That’s what allows a level of calm in the organization, the ability to think critically about what you’re doing. When none of that exists, it just becomes a nightmare for everyone involved. It’s when you have big blockers in the organization, and everyone is firing on all cylinders and trying to work around the problem and inventing, trying to roll their own solutions to every problem because some other team has a particular problem.
+	- means helping the individuals involved who often don’t have product managers
+	- They’re less likely to try to get something out there more quickly. And often, there’s low-hanging fruit: you’re getting feedback about that particular thing and everyone’s in context, you’ve got the data, and you really understand the problem.
+	- “We’re going to iterate on this until we can get that metric, which we believe to be a leading indicator of success for this until we can get it to this point,”
+		- **Tags**: #[[favorite]]
+	- hold yourself to some level of rigor in terms of iteration that can really open things up
+	- “Are you contributing to an environment where the best decisions can happen reasonably quickly?”
+	- What you find when you’re the sole decider or the sole idea person is that your ideas often aren’t the best ideas and become the single point of failure.
+	- You need to make models and frameworks that help de-bias what you’re doing and bring in more perspectives. You need to create flow on the team. You need to work on feedback loops. You can’t make great decisions without these feedback loops.
+	- As a product manager, think to yourself, “Am I contributing to an environment where the best decisions can happen reasonably quickly as it relates to data and insights?”
+	- They require experimentation. They require learning. There’s no easy answer. If there was an easy answer, and it was incredibly valuable, we’d be doing those things all the time. But they involve chipping away at the problem. And what this means is that when people ask, “How are you going to solve that problem?” they often don’t have an answer.
+	- They all fit in the category of things like, “Oh yeah, that’s pretty easy.” And they’re reasonably valuable, especially when you take into account how large they are, because they’re really small and of medium-to-high value. That’s a really good thing to do that doesn’t suffer from this problem of the “stuff in the middle”
+	- “Are you shying away, or are you persuading yourself that you can’t chip away at the single biggest opportunity that’s out there? Are you hesitant because you’re not really sure of the solution to that problem—is that why you’re not touching it? Or is there a stream of really small, guaranteed, very small things which, when added together, could have a really high leverage with your product?
+	- When you’ve seen it as a problem, you’re not really providing a solution. But when you frame it as an opportunity, it’s easier to get people excited about the prospect of intervening and exploiting that particular opportunity.
+	- if you don’t have a lot of wins, people get more and more nervous, which prevents you from having that level of flexibility
+	- the goal is to get the best solution—not to get your particular solution implemented
+	- when you’re trying to really encourage better decision quality and better decision velocity, it can be incredibly valuable to workshop your bets with teammates, other product managers and anyone who’s involved in crafting these bets.
+	- The key is to create an environment where the product team understands that it takes crafting and tweaking and a level of healthy skepticism to be able to really form the bets that will make a big difference in how the team works.
+	- Another helpful activity among product managers is to work on these pitches and to repeatedly practice presenting these ideas, to invite people to figure out what’s resonating and to see what’s falling flat.
+	- try to create safe spaces where people can workshop their one pagers, they’re bets, their ideas, and their pitches in a way that encourages positive feedback, and even constructive criticism and constructive skepticism, and try to build that into the culture without it being competitive.
+	- you need to create environments with usability testing by measuring things to offset our overconfidence about exactly what’s going to happen when the user first encounters something
+	- a lot of things that are on that particular user’s mind about the job that they’re trying to get done
+	- there is an effort to manufacture certainty about what you’re doing in order to talk the team into doing what you need them to do
+	- it goes a long way to readily admit what you don’t know
+	- You can tally up the odds. You can try, for example, to imagine you’re betting your own money on this: would you bet $10, or even $10,000 of your own money that this is going to produce this particular outcome or that this is a particular framing of the problem that can be helpful?
+		- **Tags**: #[[favorite]]
+	- that’s when you can engage the team and prioritize a learning backlog. What things are really important for us to figure out before moving forward?
+		- **Tags**: #[[prioritization]] #[[favorite]]
+	- make it very clear about your hypothesis, about how the value will decay—what some people call the cost of delay for an item
+	- If you track the cost of delay of each of those items, the team would be able to make much better decisions about whether it’s really wise to be trying to parallelize all those efforts.
+	- fatigue wants to set this ambitious deadline for itself for whatever reason, maybe as a potential forcing function
+	- A time box is an example of a healthy forcing function, as is the idea is that you’re going to circle back and integrate what you’re doing and reflect on what you’re doing as a team.
+	- A team might commit to sharing what it’s learned in a broader setting every two weeks. That’s a bit of a forcing function. It forces them to reflect on what they’ve learned. It forces them to de-bias what they’re working on and try to figure out how to present it.
+	- doing something like limiting maximum story sizes to a couple of days would be a forcing function
+	- what you get with growth is the emergence of lingering dependencies
+	- What you find that’s interesting is that organizations instinctively understand that these independent teams are going to somehow be faster or better able to make decisions. But they gloss over the number of dependencies that exist between those teams.
+	- I recommend that teams very clearly visualize the dependencies
+	- you’re often going to have your hand forced. You’re not going to have the flexibility to pursue outcomes.
+	- companies are constantly disrupting how they deliver the value
+	- Something that was really rough and involved a lot of steps is going to be disrupted. They’re going to find a faster way to do it
+	- it’s our knowledge of the value exchange, our knowledge of what the customer values and how we can help them
+	- Teams increasingly have direct access to users and stakeholders, which really means that there’s less of a need for a customer or user proxy
+	- teams have direct access to insights or data. As a result, they’re expected to make faster decisions
+	- the product is likely to span many teams with many different areas of specialization
+	- With certain functions, you’re seeing a shift to at least offering some of their expertise internally as a service.
+	- create all these dependencies and run that team as essentially taking work tickets from the rest of the product team
+	- The idea of devops is not to necessarily to leave operations as a shared service that everyone is dependent on. It’s often to allow independence, autonomy and to centralize things when it’s helpful to centralize them
+	- When you think about structuring the product organization, you’ll have some areas of specialization. But the minute you silo them off and don’t allow them to connect directly with other teams, to embed when it makes sense, or really to think about what they’re doing as products, or think holistically about what they’re offering, you run a lot of risks and create a large number of dependencies.
+	- That’s interesting because a user story map is very powerful in terms of really understanding the bigger picture of a product, when you’re delivering in horizontal slices across some experience in the product or some kind of value stream.
+		- **Tags**: #[[favorite]]
+	- You might see something like a list of problem statements or a list of opportunity statements in priority order according to the size of the opportunity. The team is going to think about pulling those off of the list, one after another.
+	- The same applies to putting roadmaps on Kanban boards (you also have hybrid boards) that not only show the larger bets as they move across the board but might also show the more fine-grain work that’s happening, with the debt nested underneath these particular missions.
+	- as you shift to these more opportunity-focused teams, the needs around road mapping change, and you might have to bring in other artifacts to help
+	- They’re scared that they will measure the wrong thing—but not scared that they’ll measure the wrong thing and maybe make the wrong decision.
+	- what you measure should be related to the decisions that you need to make—where you see uncertainty and where you’re willing to pay to reduce that uncertainty
+	- You describe their bets in a way that then can relate to what they need to measure.
+	- What do you need to explore with this thing to in order to understand?
+	- what assumptions have you made that you want to ensure don’t have an adverse impact?
+	- make sure that when you’re kicking off a particular effort, you’re at least attempting to create some projections or forecasts about what you think will happen if you’re successful or what the result will be
+	- you don’t see a lot of talk about following up on what you thought would happen
+	- if teams are transparent and talk about things they thought would happen that didn’t end up happening, is its ability to inspire other parts of the company to think a little bit more about what they expect to happen, especially when they’ve made requests of product development
+	- Product teams, teams of teams, and functional groups of product managers also need to consider their continuous improvement activities.
+		- **Tags**: #[[favorite]]
+	- even understanding what the data means or understanding what the business metrics are that we’re moving, all of these things are nuanced and often take a fair amount of explanation or understanding to fully grasp
+	- As new beliefs emerge, older beliefs are challenged and sometimes intangibles are added.
+	- What you really want to do is to have some open model to be iterated on that people can plug their efforts into to generate forecasts.
+	- are you surfacing all those assumptions to your team, and are you then continuing to further refine that particular model?

@@ -1,0 +1,9 @@
+title:: I Am Lonely Will Anyone Speak to Me | Hacker News (highlights)
+author:: [[news.ycombinator.com]]
+full-title:: "I Am Lonely Will Anyone Speak to Me | Hacker News"
+category:: #articles
+url:: https://news.ycombinator.com/item?id=25532050
+
+- Highlights first synced by [[Readwise]] [[Nov 18th, 2022]]
+	- 1. It's usually not actually helpful to signal that you are desperate and lonely and your life is in the toilet. Once in a great while, someone will be truly wonderful to you because you did that but it's usually counterproductive.2. It's usually better to look for one of two things: A chat-friendly space where it's okay to just talk to people or a discussion space on a topic that genuinely interests you.3. Signaling desperation attracts predators far more often than it attracts real friends.4. Support groups have a tendency to be all kinds of drama and not terribly helpful because it tends to be the case that you can't suggest to people "You could try doing things differently" because that will be taken as blaming the victim and it's just really hard to find good ways to help people solve their personal problems.5. The best way to make friends is to connect with people you have something in common with. So joining discussions about things that interest you is more likely to help you connect socially.6. Yes, you can have real friends via internet. I've had lots of real friends online over the years.
+	- But, the best advice I have ever gotten (paraphrasing) was "face YOUR problems". It didn't matter what or how they said it. If you don't want things to be better, they never will get better.

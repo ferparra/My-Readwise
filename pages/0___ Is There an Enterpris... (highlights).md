@@ -1,0 +1,20 @@
+title:: 0/ Is There an Enterpris... (highlights)
+author:: [[@martin_casado on Twitter]]
+full-title:: "0/ Is There an Enterpris..."
+category:: #tweets
+url:: https://twitter.com/martin_casado/status/1205159220384919552
+
+- Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
+	- 0/ Is there an Enterprise Margin Crisis?  It's not uncommon to see software startups with surprisingly low margins (30-40%). We believe there is a broader trend going on here, which I explore in this thread. ([View Tweet](https://twitter.com/martin_casado/status/1205159211325280256))
+		- **Note**: Thread
+	- 1/ While not all of these are new, there are a number of macro trends that have downward pressure on margins; the move to cloud, AI/ML, bottoms up GTM etc.  Below I outline the most common contributors we see across the industry. ([View Tweet](https://twitter.com/martin_casado/status/1205159212143104005))
+	- 2/ AI can be expensive : Many ML/AI companies will have unique data sets and unique models per customers. This can add a nontrivial compute and data management component per customer dollar spent. ([View Tweet](https://twitter.com/martin_casado/status/1205159213497892864))
+	- 3/ Lack of central buyer : Software continues to penetrate non-traditional verticals (forestry, mining, construction, agriculture etc.). However, in some verticals there is no central software buyer and LTV/CAC is well off traditional IT ([View Tweet](https://twitter.com/martin_casado/status/1205159214257033216))
+	- 4/ Data costs suck : The economics of data do not necessarily get better over time. Data is expensive to collect, store, maintain, move, process, label and keep fresh. In some many domains, data unit contribution costs grow over time. ([View Tweet](https://twitter.com/martin_casado/status/1205159215074963456))
+	- 5/ Automation isn't magic : Many companies start with humans doing a process and then hope to improve margins through automations. This can be technically very challenging and the drive for growth makes the prioritization difficult. ([View Tweet](https://twitter.com/martin_casado/status/1205159215850909696))
+	- 6/ Unoptimized cloud : Private markets push for growth, and so cloud implementations can be horribly inefficient (by orders of magnitude).  Correcting that once growth slows and margins are more important is rarely trivial. ([View Tweet](https://twitter.com/martin_casado/status/1205159216614273025))
+	- 7/ Reselling cloud : A number of *aaS companies have non-trivial back end cloud costs per $ of their product they sell. If they don't structure sales comp right, they incent their reps to resell cloud while not having direct discounting authority over it. ([View Tweet](https://twitter.com/martin_casado/status/1205159217318920192))
+	- 8/ Dropping ACVs : Lower price points on bottom-up products create a cost anchor again similar enterprise-grade products with top dow sales. And not all product or buyers can drive net dollar retention needed for attractive LTV/CAC. ([View Tweet](https://twitter.com/martin_casado/status/1205159218065502209))
+	- 9/ Two GTM motions : The move to bottom-up adoption favors products that are pushed initially via product / marketing. However, over time larger dollar pools are reached via enterprise sales. Doing both can be expensive if not done right. ([View Tweet](https://twitter.com/martin_casado/status/1205159218828869632))
+	- 10/ Services : Customer dollars on the high end continue to shift from product to services. Startups smartly chase these to get initial traction and maintain strong account control. But relying on them does mean a lower margin business on the book. ([View Tweet](https://twitter.com/martin_casado/status/1205159219567087617))
+	- 11/ This isn’t to say that enterprise startups should sacrifice the right GTM motion or product trade-offs to protect margins. Rather, the first generation of SaaS may no longer the right point of comparison for an attractive margin profile. And that’s perfectly fine. \fin ([View Tweet](https://twitter.com/martin_casado/status/1205159220384919552))

@@ -1,0 +1,46 @@
+title:: Study of Microsoft Emplo... (highlights)
+author:: [[@stevesi on Twitter]]
+full-title:: "Study of Microsoft Emplo..."
+category:: #tweets
+url:: https://twitter.com/stevesi/status/1437647708093759488
+
+- Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
+	- Study of Microsoft employees shows how remote work puts productivity and innovation at risk https://t.co/QYDyiWsEcz via @GeekWire // This is a paper out from a large group of researchers at Microsoft (and others).  I have many thoughts on this. 1/ ([View Tweet](https://twitter.com/stevesi/status/1437647708093759488))
+		- **Note**: Thread
+	- 2/ My intention is not to comment on research per se but on how it might be misapplied. Studies of electronic communication in orgs--have been put forth ever since MSFT introduced email. At best this is telemetry and at worst it can be used to imply causality. 
+	  
+	  ![](https://pbs.twimg.com/media/E_OLC6pUUAk6gU9.png) ([View Tweet](https://twitter.com/stevesi/status/1437647711310733312))
+	- 3/ I have no doubt that this research accurately captures the flow of information using digital tools around the company for over 60K people. That's a huge amount of work and analysis. Kudos. The challenge from the outset is that it conflates that flow with "collaboration". ([View Tweet](https://twitter.com/stevesi/status/1437647713126862850))
+	- 4/ All of these measures are activities…not progress or innovation. Just as BillG famously debated/fought IBM over a notion of counting lines of code, the number of emails, IMs, or meetings can potentially be the wrong thing to measure. Of course during a pandemic these change. ([View Tweet](https://twitter.com/stevesi/status/1437647714318045192))
+	- 5/ IMO as a manager, there are two mistakes one could make. One is to measure digital communication and associate it with execution, productivity, or even progress. Second, is to associate any of these measures with collaboration. ([View Tweet](https://twitter.com/stevesi/status/1437647715555442690))
+	- 6/ This second point is a bigger challenge. "Collaboration" is never negative. And no one wants less communication. But before the pandemic no one ever said every meeting was effective collaboration or even communication. That's why these digital artifacts are vanity metrics. 
+	  
+	  ![](https://pbs.twimg.com/media/E_OLZeyVIAAoJfb.png) ([View Tweet](https://twitter.com/stevesi/status/1437647718592094211))
+	- 7/ All that aside (and I really don't want to debate the 10 authors), the real issue is as described previously, the pandemic is not about "work from home" or "remote". The real question that is now raised is "why did we work the way we did?" Old thread: https://t.co/Z0XHJvhfgL ([View Tweet](https://twitter.com/stevesi/status/1437647720303394820))
+	- 8/ I mention this b/c it should not be a surprise that the big companies were most anxious to "get back to normal"--everything about today's large companies by and large is modeled after post-war, centralized, hierarchical efforts. No reason at all that is the only way to scale. ([View Tweet](https://twitter.com/stevesi/status/1437647721888813056))
+	- 9/ In "Creating the Future of Work" I try to outline a bold future to reinvent how we work instigated by the pandemic. Key is the "post-War" mindset is no longer valid. Given the success we have seen, why not rethink and consider why what worked did work. https://t.co/G7UaBtwX1K ([View Tweet](https://twitter.com/stevesi/status/1437647723105189889))
+	- 10/ This paper does a great job on the analysis if one presumes that three key variables are *fixed*. The problem is the pandemic has shown that fixing those is the wrong thing to do in the face of WFH. These three variables:
+	  • Strategy 
+	  • Org structure/shape 
+	  • rewards/growth ([View Tweet](https://twitter.com/stevesi/status/1437647724317319169))
+	- 11/ Strategy. A strategy that presumes a huge amount of cross-company, cross-team, cross-function comm/collab (whatever) is one not suited to remote work. If you pick this strategy then of course you need to be in meetings all the time and you need people to be connecting dots. ([View Tweet](https://twitter.com/stevesi/status/1437647725487558665))
+	- 12/ Historically MSFT was heavily tilted this way (Apple is extremely tilted--it is the key reason the products are what they are, IMO). In https://t.co/P4DbT059Fy I talked about how we used to joke about making a table like this below and filling in the squares. 
+	  
+	  ![](https://pbs.twimg.com/media/E_OL-K3VgAoEtA5.jpg) ([View Tweet](https://twitter.com/stevesi/status/1437647728469680130))
+	- 13/ If you build tightly coupled products as a strategy then you need all those disparate team "talking". The question is how much do customers really value that *today*? The big successes during pandemic work were people simply doing what seems to work/right. Why stop now? ([View Tweet](https://twitter.com/stevesi/status/1437647730193489923))
+		- **Tags**: #[[favorite]]
+	- 14/ Org structure today is optimized around communication going up/down/across mgmt chains. Everything from mgmt hierarchy to titles is conflated with a centralized strategy. It is all designed around how manufacturing companies scaled after the war, based on how the war was won! ([View Tweet](https://twitter.com/stevesi/status/1437647731418288130))
+	- 15/ It goes without saying that all the layers of management in BigCo have been ridiculed for decades. I have written tons on the value of ineffective middle management suck-ups even. BUT, these roles only make sense when executing a highly coordinated-central strategy. ([View Tweet](https://twitter.com/stevesi/status/1437647732676517895))
+	- 16/ It is literally the case that if you require a given part of one product to be co-designed or deeply connected to "n" other products, then at some point you are going to have any number of coordinating roles. Each one of those creates meetings, comms, or "collaboration". ([View Tweet](https://twitter.com/stevesi/status/1437647733859373057))
+	- 17/ This leads to an org shape that is optimized around a presumption that everything needs to have "collaboration" overhead built in. Pretty soon there are 10 levels of hierarchy and that itself creates more "collaboration" ([View Tweet](https://twitter.com/stevesi/status/1437647735004405765))
+	- 18/ My view is a loosely coupled strategy is executed by a loosely coupled organization. And a loosely coupled-org strategy means that there are fewer layers. Fewer layers by definition will mean fewer meetings, fewer people to talk to, less "cross-collaboration" in a good way. ([View Tweet](https://twitter.com/stevesi/status/1437647736208171010))
+	- 19/ Finally, rewards/growth need to be looked at differently. In the old model everyone aspired to be "promoted" so they could go to the next level of meeting--leads meeting, group meeting, GM meeting, exec staff and so on. But what if those meetings/layers do not exist? ([View Tweet](https://twitter.com/stevesi/status/1437647737399361540))
+	- 20/ Today everything about growth after say 5yrs is focused on "management" on becoming a manager. In a well-run bigco that is 20% of the employees but in many orgs it can easily be 35% (when I managed Office it was that number, then Windows was >30% until we made changes). ([View Tweet](https://twitter.com/stevesi/status/1437647738695348226))
+	- 21/ While many bigco say that oppty are the same for IC v. manager, that simply isn't statistically true. But that is based essentially on the post-war  (military) model. There's no reason at all to be that way now. Companies need code more than ever. Promote, grow, pay for code. ([View Tweet](https://twitter.com/stevesi/status/1437647739903373322))
+	- 22/ 20th century bigco came to define a career path where success was how quickly you stop doing the work you were hired to do. At my 5 year college reunion, I was the only CS major still writing code. Everyone else was promoted to management. CRAZY! ([View Tweet](https://twitter.com/stevesi/status/1437647741119700994))
+	- 23/ Finally, the paper made this crazy point. (yes that's judgemental and again not picking a fight). But in no model of innovation does the number of meetings or emails correlate with or is a causal factor of innovation. Really. I mean it. ([View Tweet](https://twitter.com/stevesi/status/1437647742268952578))
+	- 24/ The pandemic has been a trauma for everyone in planet earth. Those entering the workforce now, the future CEOs, executives, and founders will necessarily have entirely different views on how to work because they are "native" remote/WFH. LISTEN TO THEM NOW. THEY KNOW. ([View Tweet](https://twitter.com/stevesi/status/1437647743648878592))
+	- 25/ Everyone wants to get back to normal. The thing is this is normal now and forever. It will take years, but the people who have only known remote/WFH are in fact the leaders of tomorrow. They don't know the old ways. Why teach them bad habits? // END ([View Tweet](https://twitter.com/stevesi/status/1437647744877797377))
+	- PS/ Meant to include this excerpt. 
+	  
+	  ![](https://pbs.twimg.com/media/E_ONhoAUcAQ5Lam.png) ([View Tweet](https://twitter.com/stevesi/status/1437648325570805765))

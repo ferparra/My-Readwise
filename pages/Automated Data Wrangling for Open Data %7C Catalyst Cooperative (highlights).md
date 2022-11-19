@@ -1,0 +1,14 @@
+title:: Automated Data Wrangling for Open Data | Catalyst Cooperative (highlights)
+author:: [[catalyst.coop]]
+full-title:: "Automated Data Wrangling for Open Data | Catalyst Cooperative"
+category:: #articles
+url:: https://catalyst.coop/2021/05/23/automated-data-wrangling/
+
+- Highlights first synced by [[Readwise]] [[Nov 18th, 2022]]
+	- Inferring normalized data structures including the entities, relations, and integrity constraints that are implied by a larger poorly structured dataset (e.g. figuring out that the EIA 923 contains information about utilities, plants, generators, boilers, coal mines, and fuel suppliers).
+	- Record linkage within time series and between tables, where there are no explicit identifiers, or no shared identifiers (e.g. assigning plant IDs in the FERC Form 1)
+	- Deduplicating information that’s reported inconsistently across multiple poorly normalized tables and selecting a single canonical value for each field associated with each entity (e.g. coming up with a single record describing each utility, plant, and generator that reports in the EIA Forms 860, 861, and 923)
+	- Reconciling multiple datasets that refer to the same entities in different ways with different identifiers at different granularities (e.g. linking the utility and plant data reported in the FERC Form 1 and EIA 860/861/923).
+	- The automation of these three domains (cleaning, structural curation, and data labeling) using machine learning and statistical inference seems like it has the potential to radically transform the usefulness of messy data, which is basically all data in the real world.
+	- deepmatcher: a Python package for performing entity and text matching using deep learningpy_entitymatching: software package to match entities between two tables using supervised learning.py_stringmatching: a set of string tokenizers and similarity measures.py_stringsimjoin: Scalable string similarity joins.
+	- Most large businesses are decomposed into independent business units to facilitate agility. Such units are typically free to “do their own thing”, without being hindered by corporate-wide issues. For example, adopting a specific global schema for a specific entity type (e.g., customers) across all units is often impossible as the needs of these units are different. Waiting for consensus across all the business units means it would take forever to get anything done. This leads todata silos (one for each unit), where similar data are stored with different granularity, schema, and even contradicting and inconsistent details. A typical enterprise has many such silos, and a major goal of many enterprises is after-the-fact integration of silos for business gain.

@@ -1,0 +1,31 @@
+title:: Nothing Great Is Made Al... (highlights)
+author:: [[@zoink on Twitter]]
+full-title:: "Nothing Great Is Made Al..."
+category:: #tweets
+url:: https://twitter.com/zoink/status/1384963678278201344
+
+- Highlights first synced by [[Readwise]] [[Nov 18th, 2022]]
+	- Nothing great is made alone! @figmadesign’s vision is to make design accessible to everyone. This morning at #Config2021 we announced six new ways to collaborate in Figma — starting with our 2nd product FigJam, a new way to brainstorm with your team. (1/26) https://t.co/A0c03Go7gL ([View Tweet](https://twitter.com/zoink/status/1384962295059603463))
+	- At Figma, our next chapter is embracing these use cases as we work towards providing an end to end platform for the design lifecycle: brainstorm → design → production. (2/26) ([View Tweet](https://twitter.com/zoink/status/1384962342690115590))
+	- Since Figma was first launched in December, 2015, we’ve seen people use it not just for interface design but also for a multitude of other use cases, including whiteboarding and diagramming (3/26) ([View Tweet](https://twitter.com/zoink/status/1384962412755963907))
+	- And over the course of the pandemic, time spent in Figma went up significantly, with many using it as a space to physically gather / an infinite canvas for free form expression. (4/26) ([View Tweet](https://twitter.com/zoink/status/1384962462412382210))
+	- We asked ourselves: how can we help teams connect, have fun and enter a flow state during the earliest stages of the design process? (5/26) ([View Tweet](https://twitter.com/zoink/status/1384962508235104270))
+	- FigJam is our answer to this question. It’s a dedicated space for you to bring collaborators into the design process + make your team feel at home: https://t.co/nMNXKenzyB (6/26) ([View Tweet](https://twitter.com/zoink/status/1384962657342705664))
+	- Many have asked: why make FigJam a separate tool? Figma is a general design tool — while we try our best to make it as simple as possible, the most accessible tools are created for specific use cases. (7/26) ([View Tweet](https://twitter.com/zoink/status/1384962709620469760))
+	- In multiplayer mode, FigJam is great for the messy ideation early in the design process. Along with contributing your own ideas, building on the ideas of others is also super important. (8/26) ([View Tweet](https://twitter.com/zoink/status/1384962758496735234))
+	- With stamps, stickers, emotes, cursor chat and HIGH FIVES, FigJam allows your team’s humanity to shine through — even in a virtual space. (9/26) ([View Tweet](https://twitter.com/zoink/status/1384962813756596224))
+	- In single player mode, we want FigJam to be the best tool for systems thinkers. We’ve made it super easy to diagram and bring your work from Figma into FigJam. (10/26) ([View Tweet](https://twitter.com/zoink/status/1384962854491676673))
+	- FigJam is live TODAY — just go to https://t.co/6VWlccLDbq and you can start using it! We can’t wait to hear your feedback. (11/26) ([View Tweet](https://twitter.com/zoink/status/1384962912532500486))
+		- **Tags**: #[[favorite]]
+	- Internally, we’ve used voice chat for everything from short catch-ups to brainstorms to long discussions. I’ve even been running my staff meetings via voice chat! (13/26) ([View Tweet](https://twitter.com/zoink/status/1384963023706759174))
+	- Why not video? We’ve heard from many of you that one of the best parts of Figma is getting into a state of merged consciousness with your collaborators. My hypothesis is that video brings ego and makes it harder to do this. (14/26) ([View Tweet](https://twitter.com/zoink/status/1384963124399312898))
+	- Along with features like multiplayer, emotes and cursor chat, voice chat creates a gradient of ways to interact with others. (15/26) ([View Tweet](https://twitter.com/zoink/status/1384963168879972354))
+	- The app was released in closed beta to people tuned into the Config keynote. We will be opening it up to everyone in the coming months! You’ll be seeing much more native work from Figma in the future… stay tuned… ! ( 17/26) ([View Tweet](https://twitter.com/zoink/status/1384963252841496576))
+	- FOURTH, this morning we introduced branching and merging to our Organization plan. As large teams scale their design systems with Figma, it can be scary to make changes. (18/26) ([View Tweet](https://twitter.com/zoink/status/1384963298274254851))
+	- Branches are a safe place to iterate on files and safely explore changes to your design system before updating the source of truth. (19/26) ([View Tweet](https://twitter.com/zoink/status/1384963335565754368))
+	- One of my favorite parts of B&M is how multiplayer and branching works together. You can work in a branch with other teammates, which makes the merge process SO MUCH EASIER. Goodbye, git rebase! (20/26) ([View Tweet](https://twitter.com/zoink/status/1384963415379165188))
+	- FIFTH, we’re taking multiplayer to the next level. Starting today, you can collaborate with 10x more people in Figma — we are raising multiplayer limits from 50 to 500. (21/26) ([View Tweet](https://twitter.com/zoink/status/1384963457754312704))
+	- This will help with large design presentations, workshops and classroom settings. We’re hoping to raise the limits even higher in the future. (22/26) ([View Tweet](https://twitter.com/zoink/status/1384963491723890690))
+	- SIXTH — last but not least! — we are moving the Figma community out of beta. When we announced the Figma community at our first Config one year ago, I never could have imagined what you all would create. (23/26) ([View Tweet](https://twitter.com/zoink/status/1384963544186228737))
+	- It has been absolutely inspiring to see everything y’all have added to the Figma community. We’re so excited to see how it grows now that everyone can publish! (24/26) ([View Tweet](https://twitter.com/zoink/status/1384963585579884548))
+	- Again: nothing great is made alone. A huge thank you to everyone on the Figma team who was part of today’s announcements! I feel so lucky to collab every day with such an incredible team. (25/26) ([View Tweet](https://twitter.com/zoink/status/1384963624234541061))

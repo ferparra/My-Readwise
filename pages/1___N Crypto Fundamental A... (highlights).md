@@ -1,0 +1,18 @@
+title:: 1/N Crypto Fundamental A... (highlights)
+author:: [[@AustinBarack on Twitter]]
+full-title:: "1/N Crypto Fundamental A..."
+category:: #tweets
+url:: https://twitter.com/AustinBarack/status/1396626234411560967
+
+- Highlights first synced by [[Readwise]] [[Nov 18th, 2022]]
+	- 1/n Crypto fundamental analysis is still nascent. Many investors who are new to #crypto this bull cycle don't know where to go to track the real and meaningful traction across #DeFi, #NFTs, new base layers, and elsewhere. So instead, price becomes a proxy for fundamental value. ([View Tweet](https://twitter.com/AustinBarack/status/1396626226320658435))
+		- **Note**: Thread
+	- 2/n New retail investors line up to buy as prices go up, because it must mean core fundamentals have improved. When prices decline, new investors either sell or don't seize the opportunity to buy the dip because they believe something negative must have happened to fundamentals. ([View Tweet](https://twitter.com/AustinBarack/status/1396626227226718211))
+	- 3/n This disconnect ends up further magnifying price moves to the upside and the downside and is a driver of increased volatility. ([View Tweet](https://twitter.com/AustinBarack/status/1396626228107522050))
+	- 4/n However, crypto has matured significantly. Protocols are producing cashflows, have significant user bases, and strong communities building and pushing them forward. Total value locked, DEX trading volumes, network fees, daily transactions, active wallets are all quantifiable. ([View Tweet](https://twitter.com/AustinBarack/status/1396626228891824131))
+	- 5/n Over the last 30 days, #Ethereum has generated $1.09B of fees, averaging over $35MM daily. Right now these go to miners, however once EIP-1559 is implemented this summer, a large % of that value will be directed to $ETH holders. At current prices, $ETH has a PE ratio of 18.9 ([View Tweet](https://twitter.com/AustinBarack/status/1396626229810405376))
+	- 6/n $SUSHI had $3B of #DEX volumes in Dec, and is on pace for $27B in May, 9x that in Dec. Trading fees over the past 30 days are $68.1MM, with $11.4MM directed to $XSUSHI stakers. With $587MM staked, that's a PE ratio of 4.3 at current prices. The S&P500 avg is 44.2 ([View Tweet](https://twitter.com/AustinBarack/status/1396626230695415808))
+	- 7/n $YFI TVL (total value locked) is $3.2B currently, up from $0.5B at the start of the year. @iearnfinance has become a key #DeFi building block allowing new primitives to be built upon it. $YFI is generating fees for its token holders of $85.5MM, a PE ratio of 13.7 ([View Tweet](https://twitter.com/AustinBarack/status/1396626231647428610))
+	- 8/n There is real fundamental value and usage in #crypto today. Valuation metrics are cheap in many key protocols AND growth is parabolic. So where can you find all of this data? ([View Tweet](https://twitter.com/AustinBarack/status/1396626232549257217))
+	- 9/n While still relatively early, there are dozens of analytics tools to track major performance and valuation metrics. These include @tokenterminal, @DuneAnalytics, @DefiLlama, https://t.co/rPxby5DqFx, https://t.co/T2tUzLPdnz, and many others. ([View Tweet](https://twitter.com/AustinBarack/status/1396626233459367940))
+	- 10/n On days like we've seen recently when there has been fear in the markets and #crypto prices are seeing major declines, remember to look through price movements and leverage analytics tools to track the meaningful traction, growing cash flows, and attractive valuations. ([View Tweet](https://twitter.com/AustinBarack/status/1396626234411560967))

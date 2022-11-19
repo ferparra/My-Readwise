@@ -1,0 +1,9 @@
+title:: Charlie Watts Has Died | Hacker News (highlights)
+author:: [[news.ycombinator.com]]
+full-title:: "Charlie Watts Has Died | Hacker News"
+category:: #articles
+url:: https://news.ycombinator.com/item?id=28291211
+
+- Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
+	- A demonstration of the Charlie Watts method for handling interpersonal conflict on a high-performing team of specialists:"One anecdote relates that in the mid-1980s, an intoxicated Jagger phoned Watts's hotel room in the middle of the night, asking, "Where's my drummer?" Watts reportedly got up, shaved, dressed in a suit, put on a tie and freshly shined shoes, descended the stairs, and punched Jagger in the face, saying: "Don't ever call me your drummer again. You're my fucking singer!"
+	- This comes from [Keith Richards' autobiography](https://www.keithrichards.com/life), apparently. Here's the full passage:"Mick and I weren’t on great terms at the time, but I said, c’mon, let’s go out. And I lent him the jacket I got married in. We got back to the hotel about five in the morning and Mick called up Charlie. I said, don’t call him, not at this hour. But he did, and said, ‘Where’s my drummer?’ No answer. He puts the phone down. Mick and I were still sitting there, pretty pissed – give Mick a couple of glasses, he’s gone – when, about twenty minutes later, there was a knock at the door. There was Charlie Watts, Savile Row suit, perfectly dressed, tie, shaved, the whole fucking bit. I could smell the cologne! I opened the door and he didn’t even look at me, he walked straight past me, got hold of Mick and said, ‘Never call me your drummer again.’ Then he hauled him up by the lapels of my jacket and gave him a right hook."

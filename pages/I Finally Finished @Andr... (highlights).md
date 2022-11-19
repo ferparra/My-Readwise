@@ -1,0 +1,39 @@
+title:: I Finally Finished @Andr... (highlights)
+author:: [[@gabor on Twitter]]
+full-title:: "I Finally Finished @Andr..."
+category:: #tweets
+url:: https://twitter.com/gabor/status/1476299179861295107
+
+- Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
+	- I finally finished @andrewchen's Cold Start Problem book that he graciously mailed to me a few weeks ago. What an amazing book - I nearly ran out of Hi-Liter and stickies. My top takeaways: 
+	  
+	  ![](https://pbs.twimg.com/media/FHzcdeOVcAAFudS.jpg) ([View Tweet](https://twitter.com/gabor/status/1476299179861295107))
+		- **Note**: Thread
+	- The Math of Meerkats: In the mathematics of animal populations, there is a concept called the Allee Threshold. Under the threshold, the population of animals will collapse because they can’t warn each other of dangers. 
+	  
+	  ![](https://pbs.twimg.com/media/FHzcoF9VQAIXkNP.jpg) ([View Tweet](https://twitter.com/gabor/status/1476299188526743552))
+	- Above the Allee threshold, they are likely to thrive, until they hit the Carrying Capacity of the ecosystem, at which point the population will again decline. Most new networks fail because they can’t reach the Allee threshold or tipping point. ([View Tweet](https://twitter.com/gabor/status/1476299192360337412))
+	- How many is enough? Slack takes 3 people to deliver value. Zoom needs 2. AirBnb needs 100 reviewed listings in a market. Uber needs to get ETA under ~5 minutes to reach that point. Networks that are harder to get starter are more defensible the product is in the long run. ([View Tweet](https://twitter.com/gabor/status/1476299193908031489))
+	- The notion of credit cards started with BankAmericard in Fresno. Bank America just mailed out 60000 residents a new card, without an application process, with $300-$500 in instant credit. They signed up midtier retailers and hit an immediate inflection. ([View Tweet](https://twitter.com/gabor/status/1476299195355066368))
+	- The next big thing will start out looking like a niche network. The language of launching new networks should be focused on groupings of a handful of people, with the right intent, in the right situation, at the right time. ([View Tweet](https://twitter.com/gabor/status/1476299196848226304))
+	- For each network, there's a hard side. For social networks, it's the creators. For Uber, it's the drivers. For app stores, the developers. For productivity apps, the managers that author docs. ([View Tweet](https://twitter.com/gabor/status/1476299198215573505))
+	- For social networks, Area 120's very own @elatable’s defined the 1/10/100 rule - 1% start a group, 10% participate actively, 100% lurkers. The first two are the hardest. ([View Tweet](https://twitter.com/gabor/status/1476299199826173954))
+	- Networked products grow and succeed by adding more users, which create network effects, whereas traditional product grow by building better features and supporting more use cases. ([View Tweet](https://twitter.com/gabor/status/1476299201327742977))
+	- In research from @a16z on the hottest bottom-up enterprise startups, most were started by founders from consumer companies like Airbnb, Uber, Yahoo, and so on. ([View Tweet](https://twitter.com/gabor/status/1476299202728579072))
+	- The ideal product to drive network effects combines two factors: (1) The product idea itself should be as simple as possible - easily understandable by anyone as soon as they encounter it. (2) It should bring together a rich network of users that is impossible to copy. ([View Tweet](https://twitter.com/gabor/status/1476299204234395649))
+	- Tinder bootstrapped its network by throwing lavish parties for USC students at LA mansions. You had to show the Tinder app set up on your phone to get in. 95% logged back into the app the next day to connect with attendees of the party they didn't have a chance to talk to. ([View Tweet](https://twitter.com/gabor/status/1476299205698199553))
+	- LinkedIn seeded their network with the mid-tier of successful professionals that wanted to take time to connect. They did not start with top tier folks like Bill Gates - he gets more requests for intros than he knows how to deal with. ([View Tweet](https://twitter.com/gabor/status/1476299207149375494))
+	- For LinkedIn, virtually all of the people who signed up in the first week were part of the startup ecosystem: Predisposed to try out new products, and had a connection to the LinkedIn team - thus more willing to check out a friend’s new project. ([View Tweet](https://twitter.com/gabor/status/1476299208550326276))
+	- Gmail was an invite-only product because it ran on three hundred old Pentium III processors that no-one else at Google wanted. The shrinking of the namespace (people who signed up earlier were more likely to get their name at https://t.co/kCAZO0VbSA) caused a rally of interest. ([View Tweet](https://twitter.com/gabor/status/1476299209900838913))
+	- Coca Cola invented the coupons game, handing out 8.5 million free drink vouchers. Consumers tried the product, and formed a habit, turning the initial investment into recurring revenue. ([View Tweet](https://twitter.com/gabor/status/1476299211339550725))
+	- Uber entered new markets by guaranteeing an hourly rate, then flipping to a fee-based model. The rallying cry was “If you have a chicken or egg problem - buy the chicken." The hourly rate model was a loss leader. ([View Tweet](https://twitter.com/gabor/status/1476299212732071937))
+	- “Flintstoning” is when missing product functionality gets replaced with manual effort: ([View Tweet](https://twitter.com/gabor/status/1476299214162333698))
+	- To get Reddit off the ground, the founders posted news articles with fake usernames to make it seem like there was real activity on the site. ([View Tweet](https://twitter.com/gabor/status/1476299215475134465))
+	- Flexport initially started with human labor and then replaced it with today's software based freight forwarder. ([View Tweet](https://twitter.com/gabor/status/1476299217048010752))
+	- Nintendo flintstoned the Switch - building the console but also building its first top tier games, and Microsoft bought a bunch of game studios so they can seed content for the Xbox. ([View Tweet](https://twitter.com/gabor/status/1476299218595635202))
+	- Only 3 sourcing strategies account for every B2B company’s very early growth. Personal network, seek out customers where they are, get press. @lennysan wrote about this here: https://t.co/NOVi7fsqRp ([View Tweet](https://twitter.com/gabor/status/1476299220059447297))
+	- Dropbox was so successful with consumers at the outset that when its sales force became overwhelmed, they would remove the sales email address from the website. They eventually realized this wasn’t the best way to grow revenue. ([View Tweet](https://twitter.com/gabor/status/1476299221959471107))
+	- Networks benefit from a trio of forces: Engagement, Acquisition, and Economics. Acquisition effect is viral growth. Engagement effect is how a denser network is more interesting and useful. Economic effect is ability to monetize and reduce cost. ([View Tweet](https://twitter.com/gabor/status/1476299223364628486))
+	- .@a16z looks for a minimum baseline of 60% retention after day 1, 30% after day 7, and 15% after day 30%. ([View Tweet](https://twitter.com/gabor/status/1476299224748740609))
+	- @a16z People mistake “viral growth” for “content that has gone viral,” which it isn’t. ([View Tweet](https://twitter.com/gabor/status/1476299365413052418))
+	- Improving your viral coefficient from 0.5 to 0.6 will 2.5x the users you will bring. Improve it to 0.7 and it will 33x. ([View Tweet](https://twitter.com/gabor/status/1476299502407458822))

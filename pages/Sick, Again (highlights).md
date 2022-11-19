@@ -1,0 +1,8 @@
+title:: Sick, Again (highlights)
+author:: [[Tessa Miller]]
+full-title:: "Sick, Again"
+category:: #articles
+url:: https://medium.com/p/a9cf07b1ffe3
+
+- Highlights first synced by [[Readwise]] [[Nov 18th, 2022]]
+	- This is also my reality: Waking up next to my best friend and four dogs. Sending rocket ships and books about feminist heroes to my niece and nephews. Telling my mom, sister, and closest friends “I love you” every single day. Living as honestly and as thankfully as I can. Scribbling in a daily journal, even if it’s one line that says “today is just okay.” Giving back to people who have it much worse than I do. Lifting my face to the sun and closing my eyes. Enjoying every bite of food I’m able to eat. Whispering to my dead dad and grandparents, updating them on all the things they’re missing. Trying not to worry so much about my appearance or desirability to society. Listening to Michael Jackson’s “Dangerous” album while I fold laundry. Watching people on the sidewalk and imagining happy lives for them. Yelling “hi friend!” out the car window to passing dogs. Trying to understand lives different than my own. Spending $200 on underwear and candles at the Target in Queens. Texting my doctors weekly updates and poop emojis. Mentoring teenage girls. Sifting through smelly old clothes to find vintage gems. Connecting with chronic illness, animal rescue, and LGBTQ communities online. Taking a long, hot shower with all the fancy steps: exfoliating, conditioning, shaving, multiple face washes.

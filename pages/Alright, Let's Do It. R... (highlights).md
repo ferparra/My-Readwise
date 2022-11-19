@@ -1,0 +1,33 @@
+title:: Alright, Let's Do It. R... (highlights)
+author:: [[@betanalpha on Twitter]]
+full-title:: "Alright, Let's Do It. R..."
+category:: #tweets
+url:: https://twitter.com/betanalpha/status/1382781970866929666
+
+- Highlights first synced by [[Readwise]] [[Nov 18th, 2022]]
+	- Alright, let's do it.
+	  
+	  Random variables: what they actually are and the many incompatible ways that they're often interpreted. ([View Tweet](https://twitter.com/betanalpha/status/1382772067632869378))
+	- Consider a space, X, and a probability distribution, pi, that self-consistently allocates probability to nice subsets of X [nice refers to elements of a sigma-algebra over X].  In this thread I'll try to wrap largely ignorable technical comments in square brackets like this. ([View Tweet](https://twitter.com/betanalpha/status/1382772893105405953))
+	- Now consider another space, Y, and a function that maps between these two spaces, f : X -> Y.  If the inverse of this function maps nice subsets in Y to nice subsets in  X [[f^{1} maps a sigma algebra on Y to one on X]] then the function is said to be _measurable_. ([View Tweet](https://twitter.com/betanalpha/status/1382773534854877186))
+	- Measurable functions are very special in probability theory because they allow us to _pushforward_ probability distributions from X to Y.  In other words the distribution pi on X uniquely defines a corresponding distribution on Y which we'll donate f_* pi. ([View Tweet](https://twitter.com/betanalpha/status/1382774154492063754))
+	- Measurable functions and pushforward distributions formalize concepts like change of variables or reparameterization and marginalization. ([View Tweet](https://twitter.com/betanalpha/status/1382774735159885833))
+	- Reparameterizations is when we maps between two spaces of the same dimension that look similar, like multiple copies of the real numbers, and push a distribution of interest from one copy to another. ([View Tweet](https://twitter.com/betanalpha/status/1382774913237446658))
+	- Marginalization is when we map from one space to a subspace of lower dimension using a projection function.  Pushing forward a distribution along a projection function yields the marginal distribution over that subspace. ([View Tweet](https://twitter.com/betanalpha/status/1382775144314245131))
+	- Cool, cool.  To summarize measurable functions are compatible with the scaffolding on which we define probability distributions [sigma-algebras everywhere!] and allow us to map distributions between spaces. ([View Tweet](https://twitter.com/betanalpha/status/1382775763120832519))
+	- Now what is a variable?  Abstractly a variable is just an unknown point in a space.  If we say that the variable x is in X then we know that x takes values in X but we don't know which value is might take [in comp sci a distinction is made between bound and unbound variables]. ([View Tweet](https://twitter.com/betanalpha/status/1382776488399933442))
+	- From that definition you might think that a random variable, perhaps better a "probabilistic variable", would be a point in a space equipped with a particular probability distribution of interest; indeed some people interpret the term that way.  Unfortunately this is not correct. ([View Tweet](https://twitter.com/betanalpha/status/1382776908878856194))
+	- Formally a random variable is just one of those measurable functions.  They're not points but rather maps between points.
+	  
+	  Sometimes random variables are assumed to be maps to particular spaces, often to a real line.  In this case random variables take the form f : X -> R. ([View Tweet](https://twitter.com/betanalpha/status/1382777358080471046))
+	- But this formal definition is definitely not how most people interpret the concept of a random variable.  This is where things start to get a little hairy. ([View Tweet](https://twitter.com/betanalpha/status/1382777543640629253))
+	- By definition a random variable is a measurable function, so random variables allow us to map a distribution on the input space to a pushforward distribution on the output space.  Random variables are often confounded with those pushforward distributions. ([View Tweet](https://twitter.com/betanalpha/status/1382778207519322125))
+		- **Tags**: #[[statistics]] #[[favorite]]
+	- This sort of makes sense with the previous definition of a "probabilistic variable"; the function defines an output space equipped with a particular probability distribution. But remember that "random variable" technically refers to the function, not the pushforward distribution! ([View Tweet](https://twitter.com/betanalpha/status/1382779195269517316))
+	- Now let's say that we're okay being sloppy here and confusing a measurable function with a pushforward distribution along that function.  When someone says "random variable" to what pushforward distribution are they referring? ([View Tweet](https://twitter.com/betanalpha/status/1382779524753018887))
+	- Sometimes people use "random variable" to refer to any probability system.  To do this they assume that there is some magical font of latent probability which pushes forward to any distribution of interest given the right function (the random variable!). ([View Tweet](https://twitter.com/betanalpha/status/1382780258596839426))
+		- **Tags**: #[[favorite]]
+	- More formally we have to assume some universal space, U, and probability distribution, pi_{U}.  Then a random variable f: U -> X defines a pushforward distribution on X, f_* pi_{U}.  U, pi_{U}, and f are never explicitly defined, just that pushforward distribution f_* pi_{U}. ([View Tweet](https://twitter.com/betanalpha/status/1382780888820416515))
+	- In order words this interpretation of "random variable" is a roundabout way of defining "a space X and some distribution pi" with a lot more fun philosophical baggage.  This is heavily motivated by frequentist thinking, we have a big random world but just observe projections. ([View Tweet](https://twitter.com/betanalpha/status/1382781584315715584))
+	- Philosophical baggage aside, this interpretation becomes (in my opinion) dangerous when there are a collection of random variables, f_n : U -> X_n.  Technically this defines some distribution on the product space X_1 * ... * X_n * ... * X_N. ([View Tweet](https://twitter.com/betanalpha/status/1382781970866929666))
+	- Sometimes this joint distribution will be assumed to be an independent product distribution of the corresponding pushforward distributions, but sometimes it will just be assumed that the joint will have those pushforward distributions as marginal distributions. ([View Tweet](https://twitter.com/betanalpha/status/1382782437864960007))
