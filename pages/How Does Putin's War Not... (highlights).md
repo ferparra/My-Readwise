@@ -1,0 +1,20 @@
+title:: How Does Putin's War Not... (highlights)
+author:: [[@davidfrum on Twitter]]
+full-title:: "How Does Putin's War Not..."
+category:: #tweets
+url:: https://twitter.com/davidfrum/status/1496967376486686730
+
+- Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
+	- How does Putin's war not turn into a protracted insurgency, with infinite supplies of weapons flowing into Ukraine across the border from Poland, Slovakia, Hungary, and Romania - all countries protected by NATO? 1/x ([View Tweet](https://twitter.com/davidfrum/status/1496967376486686730))
+		- **Note**: Thread
+	- How can Putin cope with the insurgency without terror and reprisal tactics, whose horror will be shared with the whole world instantly via social media? 2/x ([View Tweet](https://twitter.com/davidfrum/status/1496967646117511168))
+	- How can the Russian economy survive sanctions from the world's richest nations, sanctions that will bite harder and deeper the longer they last - and that will not soon be lifted, if ever? 3/x ([View Tweet](https://twitter.com/davidfrum/status/1496968241964634122))
+	- If the plan is to stand up a quisling government in Kyiv, what's the next plan to get recognition of that government from anybody this side of Belarus? To claim Ukraine's seat at the UN or the World Bank or IMF over the US/EU/UK/Canadian etc veto? 4/x ([View Tweet](https://twitter.com/davidfrum/status/1496968561511829504))
+	- How does Putin stop a flow of volunteers from Poland, the Baltic republics, etc entering Ukraine to fight - and maybe suffer as casualties, stiffening opinion against him in their home countries? 5/x ([View Tweet](https://twitter.com/davidfrum/status/1496968884485824522))
+	- Putin suppressed resistance in Syria by unrestricted air bombing - and by winking at the use of chemical weapons by his local ally against its own people. What does he think happens when he tries such methods a few hundred kilometers from the countries of western Europe? 6/x ([View Tweet](https://twitter.com/davidfrum/status/1496969390209830914))
+	- Right now, Russia has Europe at a huge disadvantage because of tight oil and gas markets. Those markets cannot be loosened fast, but they can be loosened in time. What's the Putin plan for when US and Qatari LNG begins to flow into EU - and Russian gas is locked out, forever? 7/x ([View Tweet](https://twitter.com/davidfrum/status/1496970133276872705))
+	- Does Putin really imagine that he can detain and murder Ukrainian politicians and civil society leaders without the most massive political and legal consequences for himself and his regime? 8/x ([View Tweet](https://twitter.com/davidfrum/status/1496970391927074817))
+	- US and its allies have absorbed cyber attacks from Russia for years, mostly focusing on defense, not retaliation. What happens to backward Russia when adversaries with massively superior technology and financial resources go on cyberwar offense? 9/x ([View Tweet](https://twitter.com/davidfrum/status/1496979337895157763))
+	- Putin struck some kind of deal with China to buy their acquiescence to his aggression versus Ukraine. If his war starts to go ill for him - and he needs more Chinese acquiescence - what will China ask next in return from him? 10/x ([View Tweet](https://twitter.com/davidfrum/status/1496979561040560128))
+	- Ukraine is a poor country, but it does have schools, clinics, pensions. Who pays for them under Russian occupation? Does Putin void them? Who rebuilds airports and apartments? Does Putin try to tax Ukraine? How? Does he pay out of Russian funds? What will Russians say? 11/x ([View Tweet](https://twitter.com/davidfrum/status/1496979798865944583))
+	- Ukraine's a country of 45 million spread across an area nearly the size of Texas. How many troops does it take for how many years to hold a now united and enraged population against their will? END ([View Tweet](https://twitter.com/davidfrum/status/1496979941707112448))

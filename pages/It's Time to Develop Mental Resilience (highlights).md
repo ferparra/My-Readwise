@@ -1,0 +1,15 @@
+title:: It's Time to Develop Mental Resilience (highlights)
+author:: [[Motivation with Brendon Burchard]]
+full-title:: "It's Time to Develop Mental Resilience"
+category:: #podcasts
+url:: https://share.snipd.com/episode/f93adbc9-ddc3-4eae-82ce-02b6dd609af5
+
+- Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
+	- The Difference Between Emotion and Feeling
+	  
+	  Summary:
+	  In psychology, we imagine emotions to be more like automatic emotions. That's the way of most people talk about emotions. And you can see emotions happening in people's brains in like milliseconds from stimuli. So what's the difference between an emotion and feeling? Well, if you've studied with me before, feeling tends to be the longer term interpretation of the emotion. I always use the same metaphor because it's only when I ever found people understand.
+	  
+	  Transcript:
+	  Speaker 1
+	  Moods? Like what are they? Like every day being aware of those things and then having the guts to say, where are those coming from? Why do I feel them? What are the consequences of feeling that? Is that what I really want? Could I improve and what could I do? That to me is the process of not self awareness as a concept, but self awareness as work. Like the nitty, you're already getting that psychology and do the work. This is what I do with a lot of my coaching clients, right? We just dive deep. We just go way deep into these topics. So they understand like, what's going on for them and what do they want? So the differences, emotions, feelings and moods. Okay. Emotions, mostly in the psychological world, in psychology, we imagine emotions to be more like automatic emotions, like they're automatic, reactive, physical things, right? They're sensations, perceptions that you just, you feel, they kind of hit you, right? They kind of come like a wave. And they just like, it's like you have the emotion of fear and just, you don't have to summon the fear. It just happens, right? Or you see something that's beautiful or the kid says something, you just feel this emotion of joy. You don't have to work for the emotion. The emotion is automatic. It is immediate. It is physical and biological, right? That's the way of most people talk about emotions. And you can see emotions happening in people's brains in like milliseconds from stimuli, right? From stimulus. So what's the difference between an emotion and feeling? Well, if you've studied with me before, feeling tends to be the longer term interpretation of the emotion, right? I always use the same metaphor because it's only when I ever found people understand. If you and I went to a haunted house together and we were walking through the haunted house and somebody jumped out and scared us and we jumped and we screamed that immediate, immediate, automatic, biological sensation of fear is there, right? ([Time 0:45:16](https://share.snipd.com/snip/c9c72441-489c-4814-a8f0-88c33813cc73))

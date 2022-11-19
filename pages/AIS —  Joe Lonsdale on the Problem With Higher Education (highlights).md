@@ -1,0 +1,23 @@
+title:: AIS —  Joe Lonsdale on the Problem With Higher Education (highlights)
+author:: [[All-In with Chamath, Jason, Sacks & Friedberg]]
+full-title:: "\#AIS —  Joe Lonsdale on the Problem With Higher Education"
+category:: #podcasts
+url:: https://share.snipd.com/episode/c212b8b2-a462-4eec-a1c1-b768df8de318
+
+- Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
+	- Education in Equity in This Country Is Far Greater Than Wealth in Equity
+	  
+	  Summary:
+	  The education in equality in this country is far greater than wealth in equality, far greater. Most of the country there's vacational schools. People go very low graduationae they fail. The way we run our prisons, our probation and parole,. There's all sorts of ways to run om much better. We're not doing it though.
+	  
+	  Transcript:
+	  Speaker 1
+	  And you're a bad person if you're against it. There's there's there's these vacational schools around the country, texas vacational schools a were really under performing seven years ago. And ah, you know what we did? As we ended up actually changing em so that the schools were only going to be funded based on the salaries of the students coming out. If you tie to graduation, race doesn't work, becaue they can graduate everyone. We tied to the salaries coming out. We got the vote. We got the salaries coming outo go up a hundred, 17 %, just by putting in that account ability. But, but most of the country doesn't do that. Most of the country there's vacational schools. People go very low graduationae they fail. We're not going to go into the cay to 12 issues you guys know about. But one fact, unless people don't know, is the education in equality in this country is far greater than wealth in equality, far greater. So so there's aean, you know, an you guys probably see, there's an infant formula production in thing. Ic e crisis. Rigt, no, thre's really basic policy mistakes around that. The way we run our prisons, our probation and parole. There's all sorts of ways to run om much better. We're not doing it though. Ah, you know, i'll give you oneoh, example, because elon was speaking today asten infr structure. I'm very excited about his boring company. And you know, the in austen, we passd a six billion, seven billion dollar plan to build really small amount of infra structure. It's an already balloon and cost of 12 billion oo for for less than half the original money, for three billion dollars, you could do over a hundred times as many, a as many tunnels, in terms of what they 're building right now. And in, youan yu c do you know, with withtha, a hundred more stations. And so basic, for a tiny fraction of the cost. ([Time 0:04:55](https://share.snipd.com/snip/108d8518-6206-4dff-832d-4fcf7d4788f5))
+	- What the Fuck Happened in 19 71?
+	  
+	  Summary:
+	  "What i was realing against, as i gave ten examples of ways in which our society's broken and hurting poor people," Ounow says. "All that is pening because we're like going to this illiberal society where we're not able to actually debate things logically", he adds. 'And it's all about demonizing people we disagree with'
+	  
+	  Transcript:
+	  Speaker 1
+	  What i was realing against, as i gave ten examples of ways in which our society's broken and hurting poor people, hurting working class people, like s wasting money on things in is functional ways. And all that is pening because we're like going to this illiberal society where we're not able to actually, like, debate things logically, sure an respect, a respect other people on theother side of the argument. And it's all about demonizing people we disagree with. And i think that's just really, really scary. Right now. Do you m there's a web site people have tweated this, eh, i think it's the webside is called, what the fuck happened in 19 71? Dot com? Ounow talking about waria. If you go to this web i don't, i' tell me. So, in 19 if you look back socio economically. There's a whole bunch of charts and grafts of everything from g d p to, you know, labor participation rates, et cetera. And thereis a moment in 19 71 were just tren lines break and a, you know, dorsey tweeded this out a little while ago. A bunch of people about it, andand everybody has tried to figure out what actually happened en icop dis coele, really good explanations, i think, right? We o thin thin it two bgest ones. I think the two biggest ones by far is, one is text reiven globilization, and the other one is going off the goald currency, which over financialized the cureno, i think the gold currency won was important. I think the one that people don't talk about. ([Time 0:12:44](https://share.snipd.com/snip/647b6f2b-891e-445d-aa77-b238c604d399))

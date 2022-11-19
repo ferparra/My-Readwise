@@ -18,3 +18,15 @@ url:: https://twitter.com/VitalikButerin
 	  ![](https://pbs.twimg.com/media/FIg-TacXMAYz29R.png) 
 	  
 	  ![](https://pbs.twimg.com/media/FIg-UXeWUAYnocp.png) ([View Tweet](https://twitter.com/VitalikButerin/status/1479501366192132099))
+- New highlights added [[Nov 20th, 2022]] at 9:49 AM
+	- My new socials page:
+	  
+	  https://t.co/gtgCSP52rA
+	  
+	  I'm eagerly trying out Mastodon, Farcaster, Lens and others, and I'll bow to Lord Elon and pay his $8/month too... but only when it's available on a non-iOS platform.
+	  
+	  Let the best socials win! *
+	  
+	  * there will be multiple winners 
+	  
+	  ![](https://pbs.twimg.com/media/Fh4Ldp9XEAM8uAQ.png) ([View Tweet](https://twitter.com/VitalikButerin/status/1593726411335925763))

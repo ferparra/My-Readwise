@@ -1,0 +1,30 @@
+title:: Exploring Encheiridion 15 – Episode 54 (highlights)
+author:: [[Stoicism On Fire]]
+full-title:: "Exploring Encheiridion 15 – Episode 54"
+category:: #podcasts
+
+- Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
+	- Inchiridian 15: The Banquet Metaphor
+	  
+	  Summary:
+	  Stoic practice does not entail rejecting indifference. However, it does require us to abandon our desire for those indifferents. In inchiridian 15, epictetus offers a banquet metaphor to teach us how to handle these indifferents. Implicit in this metaphor is the idea that we should not take a portion of any indifferent inconsistent with developing an excellent character.
+	  
+	  Transcript:
+	  Speaker 1
+	  Stoic practice does not entail rejecting indifference. However, it does require us to abandon our desire for those indifferents. The second lesson is a little more complicated. In inchiridian 15, epictetus offers a banquet metaphor to teach us how to handle these indifferents. However, there's another critically important part of this lesson. Remember, the host decides almost everything that occurs at the banquet. There repictetus reminds us, the only thing within our power, the only things up to us, is the choice to reach out and take a portion of each item as it is offered. Again, epictetus said, something comes around to you, stretch out your hand and politely take a portion. It passes on. Don't try to stop it. It has not yet come. Don't let your appetite run ahead, but wait until the portion reaches you. Here is the critically important part of this lesson, don't reach out and attempt to take what is not offered to you by the host. Don't let your desire for what is being offered to others, distract you from the primary goal of the banquet, which is not simply to eat and drink. Implicit in this metaphor is the idea that we should not take a portion of any indifferent inconsistent with developing an excellent character. But let's see if a modern example will help. ([Time 0:05:46](https://share.snipd.com/snip/e219860a-d007-4cfb-9490-05e6d325227a))
+	- Inchiridian 15: The Banquet Metaphor
+	  
+	  Summary:
+	  In inchiridian 15, epictetus offers a banquet metaphor to teach us how to handle these indifferents. The only thing within our power is the choice to reach out and take a portion of each item as it is offered. Don't let your desire for what is being offered to others distract you from the primary goal of the banquet.
+	  
+	  Transcript:
+	  Speaker 1
+	  The second lesson is a little more complicated. In inchiridian 15, epictetus offers a banquet metaphor to teach us how to handle these indifferents. However, there's another critically important part of this lesson. Remember, the host decides almost everything that occurs at the banquet. There repictetus reminds us, the only thing within our power, the only things up to us, is the choice to reach out and take a portion of each item as it is offered. Again, epictetus said, something comes around to you, stretch out your hand and politely take a portion. It passes on. Don't try to stop it. It has not yet come. Don't let your appetite run ahead, but wait until the portion reaches you. Here is the critically important part of this lesson, don't reach out and attempt to take what is not offered to you by the host. Don't let your desire for what is being offered to others, distract you from the primary goal of the banquet, which is not simply to eat and drink. Implicit in this metaphor is the idea that we should not take a portion of any indifferent inconsistent with developing an excellent character. But let's see if a modern example will help. Imagine you've been invited to a wedding of a good friend. And the reception afterward when you arrive at the reception, you see name tags at each table, and you look for the one with your name on it. ([Time 0:05:56](https://share.snipd.com/snip/f1759d07-de83-4889-ab3c-7236ab284ba1))
+	- The Hidonic Treadmill
+	  
+	  Summary:
+	  Many people are psychologically disturbed and angry because they don't have what they think they want. Anger is often intensified when others do have what they want and desire. When you're feeling discontented about your external circumstances, focus your attention on your inner character. Keep the words of marcus aurelius close at hand for those times when you're feeling a little bit disturbed about your circumstances. Everything suits me. That suits your designs. O my universe, nothing is too early or too late for me. That is, in your own good time. All is fruit for me that your seasons bring o nature.
+	  
+	  Transcript:
+	  Speaker 1
+	  In modern times, many people are psychologically disturbed and angry because they don't have what they think they want and what they think they deserve. That anger is often intensified when others do have what they want and desire. The hidonic treadmill is not new. However, modern advertising, combined with ever present social media have taken keeping up with the joneses to a whole new level. We are destroying our lives, families, societies and environments with our all consuming quest for an ever increasing standard of living and quantity of possessions. We are allowing our appetites to run ahead beyond our reach. Now here's the stoic answer for dissatisfaction. When you're feeling discontented about your external circumstances, focus your attention on your inner character. When your thoughts and attitude about life events change, your experience of them will change. Keep the words of marcus aurelius close at hand for those times when you're feeling a little bit disturbed about your circumstances. Everything suits me. That suits your designs. O my universe, nothing is too early or too late for me. That is, in your own good time. All is fruit for me that your seasons bring o nature. ([Time 0:14:00](https://share.snipd.com/snip/0c36f4ef-2c5a-4dbb-94c3-eff3102919e6))

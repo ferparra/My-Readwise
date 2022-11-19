@@ -1,0 +1,18 @@
+title:: Leore Avidar - Creating and Selling Superpowers - [Founder’s Field Guide, EP.3] (highlights)
+author:: [[Invest Like the Best with Patrick O'Shaughnessy]]
+full-title:: "Leore Avidar - Creating and Selling Superpowers - [Founder’s Field Guide, EP.3]"
+category:: #podcasts
+url:: https://share.snipd.com/episode/0e0f6e54-e45e-4b18-85a2-285aa31bef7f
+
+- Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
+	- What Makes a Good Investor?
+	  
+	  Summary:
+	  A good investor requires tone of discipline. You have to remove your emotion when you're buying or losing. Good investors lose a lot, they just know how to exit the position when their thesis is disproven. So if you have very disciplined decision making in a long term, you're gong to have better results.
+	  
+	  Transcript:
+	  Speaker 2
+	  I'm curious how you would define a good investor so you've got nice experience now where you've raised money for laba amd, assuming you're doing the same for all, working with the investing community to build these large businessis what, in your mind, makes for just a fantastic investor that you want to work with?
+	  
+	  Speaker 1
+	  Oh, ok, so there's different from who i want to work with versus what's a good investor? Lat's do both. I actually hve a very s pecific thing, and i can tell a story around it too. One of the things that i realize, and i try to help people understand, is to understand the concept of returns versus risk. A lot of people quote, i made forty per cent this year. And forty per cent on the market beats seven per cent. But was that fund manager better than the s and p five hundred? You don't know yet, because you're missing out some other information, the sharp ratio, which is a financial measurement that a lot of people utilize, but what it really does is tells you the amount of return you did for a unit of risk. If a fund manager took the same amount of risk that th s an p five hundred did and out performed it, that is a good investor. Because for the same unit of risk, they got a higher return. In an objective manner, i always want to look at how much return per unit of risk that they took. That is like my single metric that i ask people that helps me evaluate if someone actually did better. Because theoretically, if someone just takes a ton of risk, they should be out performing the market. But that doesn't mean that they did better. I think a good investor qualities with a specific person. I think it requires tone of discipline. That's probably of number one kind of key quality. You have to remove your emotion. So when you're buying, you have to be very disciplined about your intrport. And when you're losing, you have to know when to exit. I find that really good investors are really comfortable exiting positions, even if they're losing money. I know that a lot of early investors, or kind of young investors, they're gong to hold on to something until it's either breaking en or make money, because there 's internal feeling that they can't lose on something. Good investors lose a lot, they just know how to exit the position when their thesis is disproven. So i'm reading this book right now, thinking and bets. It's less about the end result. It's about the decision making. So if you have very disciplined decision making in a long term, you're gong to have better results. But you can't always wait for the result to happen. ([Time 0:41:30](https://share.snipd.com/snip/9ef2b5e5-6e50-4054-bbda-f0fd02651abd))

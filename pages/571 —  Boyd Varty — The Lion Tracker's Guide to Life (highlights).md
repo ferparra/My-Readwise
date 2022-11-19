@@ -1,0 +1,41 @@
+title:: 571 —  Boyd Varty — The Lion Tracker's Guide to Life (highlights)
+author:: [[The Tim Ferriss Show]]
+full-title:: "\#571 —  Boyd Varty — The Lion Tracker's Guide to Life"
+category:: #podcasts
+
+- Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
+	- What Is The Ubuntu Consciousness?
+	  
+	  Summary:
+	  When you spend time with people, the buntu consciousness is activated in them. It's a kind of structuring in their very psyche. They experience things in relation. And they know that knowing yourself and being yourself is about being connected to people but also to broader field of sentient life.
+	  
+	  Transcript:
+	  Speaker 1
+	  Could you explain that for folks, ya, ubuntu is an african philosophy that says, i am because of you, or people are not people without other people. And what ubuntu is talking to is the relational nature of life. And the point i want to make about it is that it is when you spend time with people, the buntu consciousness is activated in them. Where ubuntu is alive in them, it is actually a kind of structuring in their very psyche. They experience things in relation. They experience each other in a relational way. And they know that knowing yourself and being yourself is about being connected to people, but also to the broader field of sentient life. And so soli was activating. There was the obuntu consciousness, and he was showing that buntu consciousness comes alive in action, through courageous action, in that case. But very much what he was showing me that day was how deeply ingrained it was in him the collective nature of life. Another way of saying it, tim is like, and this gets really interesting as you start to learn your own psyche, but different cultures, psyches are structured differently. And in a more western setting, we might say that in a society where the individual self is disconnected from the greater interconnectivity of life, the search for meaning is reduced to a constant state of comparison. So people will always, on some level, be saying, how am i doing in comparison? ([Time 1:03:18](https://share.snipd.com/snip/5fc27eb8-564d-4bd6-9a23-9d2478ce1c6f))
+	- The Mystic Experience
+	  
+	  Summary:
+	  In all the mystical traditions, there seems to be a time when the mystics are drawn to be alone in nature. And so i wanted to go and have that experience myself. So i was forty days and forty nights in the tree. After three days, i thought i felt myself go into a different state of consciousness. I just realized it doesn't matter. Where your attention goes, your life goes. If you're constantly putting your attention on living things, there's more aliveness in your own life. That was there was one. The second was that if you spend time in nature, in the same spot, over a period of time, it starts to become incredibly personal.
+	  
+	  Transcript:
+	  Speaker 1
+	  So i was forty days and forty nights in the tree. I went into the tree. You know, if you read the mystical traditions, including, i think your your man hafiz on your bookshelf, but in all the mystical traditions, there seems to be a time when the mystics are drawn to be alone in nature. And you know, jesus went for forty days and forty nights, but the buddha went to the grove. There's accounts of it all along the way. And so i wanted to go and have that experience myself. And i'm not saying i'm a mystic, but i wanted that my question was, why did o the mystics go to be in total solitude in nature. And so with a lock down in the world, suddenly i had six weeks where i could go and do that, you know, go and set in that question and see what answers came to me during that time. The first was that initially there was a tremendous anxiety. You know, the first couple of days, i had a lot of thoughts around, i'm going to be away, i'm going to miss something, i'm not attending to. And then after three days, that all dropped. And i know the aboriginal people have this amazing saying that modern culture is three days deep. And after three days, i thought i felt myself go into a different state of consciousness. I just realized it doesn't matter. And then i started to attune myself to the natural world. And a few things happened. The one is that a big insight was that where your attention goes, your life goes. And if you're constantly putting your attention on living things, there's more aliveness in your own life. That was there was one. The second was that if you spend time in nature, in the same spot, over a period of time, it starts to become incredibly personal. ([Time 1:05:44](https://share.snipd.com/snip/c6d1f2ac-5ab6-406b-b1b5-3ae003ea5a7c))
+	- Do You Think You Will Do An Extended Period So Lo Like That Again?
+	  
+	  Summary:
+	  Do you think you will ever do an extended period so lo like that again? I mean, without a shadow of a doubt, it is one of the most beautiful things i've ever done. And i don't know if i will do six weeks again, but i will certainly try and get ten days so lo in nature, a year with no other people. In this one i didn't see other people. I was totally by myself. There's amazing things that happen when you buy self. One is, you know, getting really into your own energy, just being in your own energetic field. Then being attuned to nature, and feeling your body start to attune to those rhythms
+	  
+	  Transcript:
+	  Speaker 2
+	  Do you think you will ever do an extended period so lo like that again? I don't know if you were totally solo, i have no idea if you were solo, solo, solo, or like solo most of the time, but a few people would come out and say high every once in a while, but maybe you could clarify that. But do you think you would repeat an experiment that? Why or why not? Not? Notsarily in a tree, but at that degree of solitude.
+	  
+	  Speaker 1
+	  I mean, without a shadow of a doubt, it is one of the most beautiful things i've ever done. And i don't know if i will do six weeks again, but i will certainly try and get ten days so lo in nature, a year with no other people. And in this one i didn't see other people. I was totally by myself. And, you know, there's amazing things that happen when you buy self. One is, you know, getting really into your own energy, just being in your own energetic field. Then being attuned to nature, and feeling your body start to attune to those rhythms. ([Time 1:11:21](https://share.snipd.com/snip/5fcb7b54-a489-4c63-9ea2-f85de7a99819))
+	- Transformational Healing
+	  
+	  Summary:
+	  In the way that i had grown up, i thought like, i'm just going to get on with it and move forward. What i needed was a path that i felt was taking me somewhere. And in fact, if i became someone who learnt how to be in a transformational process and learnt how to heal, it was actually taking me towards what i was meant to do. In some very important way. You know, someone tromer healed becomes a kind of medicine. It's only when i stated to understand that there was value to this, just beyond myself.
+	  
+	  Transcript:
+	  Speaker 1
+	  Well, i think, for one thing, there was a masculine, feminine component to that. They did a lot more post dramatic counselling at the time. And i wasn't open to that. I thoght you know, in the way that i had grown up, i thought like, i'm just going to get on with it and move forward, which is a, you know, naive approach, to say the least. And then there was also a challenge that i had wih in the masculin it was harder just to process, just process feelings. What i needed was a path that i felt was taking me somewhere. And so with whith that really took root for me, as when i sorted to understand that if i was willing to look at how i had become frozen, if i was willing to lookat how i was anxious and depressed as a result of that, and how that kind of shut me out from living, if i was able to start living towards that, it actually gave me a kind of map out of tromer. You know, someone tromer healed becomes a kind of medicine. And so it was only really when i stated to understand that there was value to this, just beyond myself. And in fact, if i became someone who learnt how to be in a transformational process and learnt how to heal, it was actually taking me towards what i was meant to do. In some very important way. ([Time 1:40:40](https://share.snipd.com/snip/bc644d95-2412-469a-a652-fbaaf9a463c8))

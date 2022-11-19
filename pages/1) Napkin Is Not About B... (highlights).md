@@ -1,0 +1,47 @@
+title:: 1) Napkin Is Not About B... (highlights)
+author:: [[@napkin_ideas on Twitter]]
+full-title:: "1) Napkin Is Not About B..."
+category:: #tweets
+url:: https://twitter.com/napkin_ideas/status/1550062195916120065
+
+- Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
+	- 1) Napkin is not about better note-taking. It is about better thinking. And note-taking is only one part of it. Our point of view... ([View Tweet](https://twitter.com/napkin_ideas/status/1550062195916120065))
+		- **Note**: Thread
+	- 2) Looking at the vibrant scene around personal knowledge management (PKM), we see many discussions missing the point. It is easy to find life hacks for better note-taking, while the more meaningful discussion about better thinking is either vague or ignored altogether. ([View Tweet](https://twitter.com/napkin_ideas/status/1550062197572780032))
+	- 3) “Creativity is just connecting things. Creative people sometimes feel a little guilty because they didn’t really do it, they just saw something. That’s because they were able to connect experiences they’ve had and synthesize new things.” — Steve Jobs ([View Tweet](https://twitter.com/napkin_ideas/status/1550062199418281985))
+	- 4) There are bookmarking functions, read-later apps, and note-taking apps. But a system that reliably brings information from different sources together and presents it in an inspiring way barely exists. ([View Tweet](https://twitter.com/napkin_ideas/status/1550062201058254848))
+	- 5) Yes, complex workflows like Building a Second Brain or Zettelkasten are getting increasingly famous within a growing group of avant-garde PKM enthusiasts, but these solutions are hard to implement for busy, non-technical people. ([View Tweet](https://twitter.com/napkin_ideas/status/1550062202710892544))
+	- 6) Coming up with creative ideas and making important decisions wisely is getting increasingly important for everybody who is paid to think. ([View Tweet](https://twitter.com/napkin_ideas/status/1550062204568961025))
+	- 7) But even if you are not a knowledge worker, feeling inspired, closing mental loops, and reducing noise in your information diet significantly affect the quality of your life. ([View Tweet](https://twitter.com/napkin_ideas/status/1550062206280155137))
+	- 8) We started Napkin to explore novel solutions for better thinking and to make it available for people beyond the existing niche. ([View Tweet](https://twitter.com/napkin_ideas/status/1550062207987335168))
+	- 9) The note-taking focus is explainable. It is easier to focus on the visible part of the equation — the artifacts. The invisible, psychological process of generating insights is harder to get by. ([View Tweet](https://twitter.com/napkin_ideas/status/1550062209505665024))
+	- 10) Better note-taking often focuses on easy problems like “how to quickly capture notes while reading” or “how to categorize, link, and store notes.” This is highly relevant, but in addition, we explore harder problems as well. ([View Tweet](https://twitter.com/napkin_ideas/status/1550062211305017344))
+	- 11) An incomplete list of hard problems around better thinking: How to be more inspired in day-to-day life? Can note-taking be conversational? How to close mental loops and get into a feeling of coherence? How to affirm your desired mindset? Could your ideas act like a coach? ([View Tweet](https://twitter.com/napkin_ideas/status/1550062214056255491))
+	- 12) The answers won’t come from one single domain. Potential solutions comprise psychological insights, technological solutions, diligent craftsmanship, and audacious artistry. ([View Tweet](https://twitter.com/napkin_ideas/status/1550062216145256450))
+	- 13) Better note-taking is one puzzle piece of better thinking, but there is more. We are emotional beings. Nobody lives in a vacuum. We must explore how to make better thinking available for a broad spectrum of people, not only for passionate avant-garde PKM hobbyists. ([View Tweet](https://twitter.com/napkin_ideas/status/1550062217864904704))
+	- 14) “Getting lost in your knowledge management system is a fantastic way to avoid creating things.” — Sasha Chapin ([View Tweet](https://twitter.com/napkin_ideas/status/1550062219567808513))
+	- 15) To have an impact, we have to leave the lab. We must explore better thinking with people outside the bubble whose interests go far beyond note-taking and PKM. We must explore this with poets, teachers, students, managers, and researchers. ([View Tweet](https://twitter.com/napkin_ideas/status/1550062221249617923))
+	- 16) These people don’t get brownie points for accurately following a suggested workflow. These people benefit from generating, embodying, and applying new insights and ideas. ([View Tweet](https://twitter.com/napkin_ideas/status/1550062222898077699))
+	- 17) We started Napkin as a self-funded, execution-oriented exploration company. While there is still more to learn than known, we are not a research company. We are focused on providing practical value along the way and started with a working prototype right from the beginning. ([View Tweet](https://twitter.com/napkin_ideas/status/1550062224609366016))
+	- 18) Our hypothesis:
+	  
+	  The system has to be beautiful. You have to want to use it.
+	  
+	  The system has to be simple. The cognitive load required by using the system must be minimized so more cognitive bandwidth is available for the content. ([View Tweet](https://twitter.com/napkin_ideas/status/1550062226224078849))
+	- 19) The system has to be effective. Relevant connections must be shown, and building upon them has to come with a low threshold.
+	  
+	  The system has to allow for the emergence of structures. Nobody knows ahead of time which questions have to be answered. ([View Tweet](https://twitter.com/napkin_ideas/status/1550062228031815682))
+	- 20) The system has to be timeless. Starting a thinking process with a blank page means wasting all ideas we encountered previously. ([View Tweet](https://twitter.com/napkin_ideas/status/1550062229915066368))
+	- 21) In May, we opened the beta. Everybody who feels like supporting our exploration can do so by using the prototype and providing critical feedback.
+	  
+	  Our supporters get access to an experimental web app that is far from “done” but stands out in several points already. ([View Tweet](https://twitter.com/napkin_ideas/status/1550062231475347463))
+	- 22) Dynamic interface: Most note-takers don’t revisit their notes. It sounds ridiculous, but it's true. Taking a step back, this makes perfect sense. How often would you open Spotify if you had to know the song you want to hear in advance and then had to search for it explicitly? ([View Tweet](https://twitter.com/napkin_ideas/status/1550062233333497856))
+	- 23) Napkin resurfaces relevant notes automatically. Related notes attract each other, while unrelated notes push each other away. The navigation is playful and reaches from serendipitous browsing to a focused stream of thoughts. ([View Tweet](https://twitter.com/napkin_ideas/status/1550062234960908289))
+	- 24) Connecting notes automatically: Collecting ideas shouldn’t feel like work. We have enough todos already. Our read-later app, our email inbox, and our bookmarks. These things need time, and they let us know about it. Often instilling a feeling of work overload. ([View Tweet](https://twitter.com/napkin_ideas/status/1550062236785319938))
+	- 25) This is poison for creative thinking. So we implemented AI doing the work for you. Every note you take or send in automatically gets tagged and connected to your previous notes. Of course, you can edit the tags easily, but it feels good not to have to do it. ([View Tweet](https://twitter.com/napkin_ideas/status/1550062238471446529))
+	- 26) Outlining opinion pieces: Napkin is none-hierarchical and none-linear. Every note, independently of source and time created, can be connected with every other note. This is great for inspiration but not sufficient for forming an argument. ([View Tweet](https://twitter.com/napkin_ideas/status/1550062724729667585))
+	- 27) We implemented Stacks. Stacks are micro-collections in which you can outline ideas in a linear order, drag and drop them until you have the perfect scaffolding for your next op-ed or a Twitter thread, and then export it to your favorite text editor via the clipboard. ([View Tweet](https://twitter.com/napkin_ideas/status/1550062726432669699))
+	- 28) Compared with our vision, this is the first step, but the combination of functions already leads to a remarkable experience. It is the most effortless way we know to connect the dots. ([View Tweet](https://twitter.com/napkin_ideas/status/1550062728290631683))
+	- 29) We are deeply grateful for the support we have from beautiful minds across the globe. Our supporters come from over 75 countries. The youngest is 18, from Japan, the oldest is 82, and from the U.S. ([View Tweet](https://twitter.com/napkin_ideas/status/1550062729905553409))
+	- 30) We are allowed to witness Napkin’s application across a wide array of cultures, milieus, and use cases. Nothing is more motivating than helping people to live a more inspired life. ❤️🧠🚀 ([View Tweet](https://twitter.com/napkin_ideas/status/1550062731465744384))
+	- 31) We are grateful for everybody spreading the word. 🙏 Sharing this thread works best with the first tweet: https://t.co/WsX1TOnkE0 ([View Tweet](https://twitter.com/napkin_ideas/status/1550063477213077505))

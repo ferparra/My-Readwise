@@ -1,0 +1,28 @@
+title:: Good Strategy Bad Strategy by Richard Rumelt (highlights)
+author:: [[Shortform]]
+full-title:: "Good Strategy Bad Strategy by Richard Rumelt"
+category:: #books
+
+- Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
+	- Good strategy is essentially the effective application of strength against weakness; strength applied either to your own organization’s weakness, to fix it, or to your rival’s weakness, to give you a competitive edge. ([View Highlight](https://www.shortform.com/app/highlights/3e3d17d2-42f7-4a77-a0c1-f0767fe0be70))
+		- **Tags**: #[[favorite]]
+	- Most organizations operate reactively to challenges on a day-to-day basis, having only a fuzzy outline of long-term goals that they mistakenly call “strategy.” ([View Highlight](https://www.shortform.com/app/highlights/8cf4fcab-2f4e-4d2d-999e-eec6418b4b97))
+	- good strategy leverages strength against weakness, especially, if possible, an unexpected strength against an unknown weakness, taking your competition by surprise. ([View Highlight](https://www.shortform.com/app/highlights/db9fb4b0-a113-46be-9373-f01cb96bb744))
+	- Fluff: Bad strategy relies on unnecessarily grandiose phrasing and vocabulary to create an illusion of expertise. ([View Highlight](https://www.shortform.com/app/highlights/2587ed25-afbf-40de-a910-7d8bd34f76a5))
+	- Failure to identify the challenge: Bad strategy does not properly define the specific challenge the organization faces. When you don’t explicitly name the problem, you can’t properly address it. ([View Highlight](https://www.shortform.com/app/highlights/6b55d80c-fc07-41d9-9d31-3461fbbebaed))
+	- Conflation of goals with strategy: Bad strategy focuses on profit or performance goals instead of methods to overcome challenges. ([View Highlight](https://www.shortform.com/app/highlights/ec42e0b4-5c39-430e-abe0-d87d139954e0))
+	- Misguided strategic objectives: Bad strategy fails to narrow down its scope, instead trying to focus on too many objectives. ([View Highlight](https://www.shortform.com/app/highlights/7ca4b972-144d-462f-b63f-0865385af079))
+	- Diagnosis: a definition of the challenge and the most critical aspect of it. ([View Highlight](https://www.shortform.com/app/highlights/c46a494b-90c2-41bb-a9d1-cb82070fba50))
+	- Guiding policy: a clearly outlined approach to cope with the challenge identified by the diagnosis. A guiding policy draws upon an organization’s sources of advantage and focuses a company’s efforts toward targeted objectives that meet the challenge. ([View Highlight](https://www.shortform.com/app/highlights/0c59e56f-b6b8-4358-a336-1d4e00810e55))
+	- Action plan: a set of actions that work with each other to accomplish the guiding policy. An action plan coordinates a variety of operations to carry out the guiding policy. It defines resources, policies, and movements that support one another. ([View Highlight](https://www.shortform.com/app/highlights/e56518f8-3174-4776-b92c-ecc6f68a4d74))
+	- Use predictions to point you in the right direction: Figure out what’s most likely to happen to your company or industry in the future and direct your efforts accordingly. ([View Highlight](https://www.shortform.com/app/highlights/8333e4b5-7ca7-49d5-bcd9-429d6c28037e))
+	- Choose pivot points to center your leverage: Pivot points are opportunities where focused energy will have the most effect. They are usually imbalances in a situation—in other words, an area where one rival has an outsized advantage over another in capability, resources, or insight. ([View Highlight](https://www.shortform.com/app/highlights/c8addfd9-d201-47a6-9f1d-72057dfe46a3))
+	- a company will narrow its target market down to a smaller segment or will pass up opportunities to provide additional services if those services dilute its focus ([View Highlight](https://www.shortform.com/app/highlights/168b6b31-b1db-4b05-a93e-2ada2c8b5515))
+	- A good strategy is a well-integrated, tight design made up of parts working together to form a coherent whole—like a car, which is more than the sum of its parts ([View Highlight](https://www.shortform.com/app/highlights/967ac64d-e20a-47ae-a1c1-f54381e1d13c))
+	- A strategy is a type of hypothesis, and as strategists, we must measure its value by examining its success in practice. ([View Highlight](https://www.shortform.com/app/highlights/b3a1f9bf-0bbd-41ee-b142-ff8305d30ee3))
+	- Recognizing an anomaly can lead you to unexpected opportunities that have been heretofore overlooked by competitors. ([View Highlight](https://www.shortform.com/app/highlights/de7138d9-9793-473b-939e-8b88d03875a7))
+	- Making a list of your challenges and opportunities: This focuses your mind and reminds you of long-term priorities that you might lose sight of in the day-to-day running of your organization. ([View Highlight](https://www.shortform.com/app/highlights/e979289c-1909-4731-b253-743a4379da2b))
+	- Sometimes choosing among endless options is more difficult than deciding between two, and if you commit to one option, it’s easier to evaluate other options by asking are they better or worse than this particular one. ([View Highlight](https://www.shortform.com/app/highlights/a625a5a1-a476-4c55-9459-184edff5a25f))
+		- **Tags**: #[[favorite]]
+	- The “engineering overreach” bias: where strategy designers fail to analyze or comprehend the ways in which their design can fail, as well as the consequences of such failure. ([View Highlight](https://www.shortform.com/app/highlights/9a68eb6d-994a-44af-81e9-4228cc9edaa1))
+	- The “smooth sailing” bias: where people believe that when things are going well, they will continue to go well. ([View Highlight](https://www.shortform.com/app/highlights/ecbe29b4-65cc-4d8b-a8d9-62c7f0ed1bb5))

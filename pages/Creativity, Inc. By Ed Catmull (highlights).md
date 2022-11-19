@@ -1,0 +1,17 @@
+title:: Creativity, Inc. By Ed Catmull (highlights)
+author:: [[Shortform]]
+full-title:: "Creativity, Inc. By Ed Catmull"
+category:: #books
+
+- Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
+	- Catmull discovered the keys that made his company stand out from the rest: promoting candor in the workplace, embracing failure, and protecting new ideas. ([View Highlight](https://www.shortform.com/app/highlights/78b62609-41df-4166-a96f-b888b2a7f0e8))
+	- To make employees feel comfortable sharing their opinions, develop a judgment-free environment that allows employees to speak up. ([View Highlight](https://www.shortform.com/app/highlights/51ada6c5-1f58-4e6e-8e53-d2eab6849429))
+	- Failure is essential to a creative workplace. Without it, you can’t discover or foster new ideas because innovation requires risk. ([View Highlight](https://www.shortform.com/app/highlights/6bfe268f-a830-4de6-b6fb-245e5dc8c802))
+	- As a leader, you can take the stigma out of failure by admitting your own failures. Explain what you learned from them, and how you moved forward. ([View Highlight](https://www.shortform.com/app/highlights/cd6bf4ca-7b41-466c-8566-cd747fe332f9))
+	- Taking the time to analyze why you failed allows you to avoid similar mistakes in the future. ([View Highlight](https://www.shortform.com/app/highlights/fa862abd-47c2-42ff-8556-2a4c09a00d41))
+	- it's your job to protect and nurture these concepts until they grow into fully-fledged creations. ([View Highlight](https://www.shortform.com/app/highlights/a18d2873-fccb-43d5-b9ba-f74167e7f36e))
+	- Each department in your organization wants different things. These “wants” sometimes conflict with one another but also help keep teams in check. If one team gets everything that they want, it throws the company out of balance. ([View Highlight](https://www.shortform.com/app/highlights/d7fad9a2-5327-4645-a21a-923bb8d51879))
+	- Often, success and failure are due to random events. They can’t be predicted and can come out of nowhere. This is not an easy concept to grapple with because our brains aren’t wired to accept randomness. ([View Highlight](https://www.shortform.com/app/highlights/ffb49599-9d75-4082-a194-2a723964ce85))
+	- creating boundaries for your teams can actually promote creativity in addition to efficiency. ([View Highlight](https://www.shortform.com/app/highlights/a606981b-4dd7-487a-ad79-5c24bab7809e))
+	- Experimental projects give you a space to take risks without the pressure of making a profit. They allow your organization to explore new ideas, find better ways of working, and give employees with potential more experience. ([View Highlight](https://www.shortform.com/app/highlights/2021de72-74cc-4df9-bb9a-5429b70a04b9))
+	- Use Postmortems. Postmortems are meetings that occur after a project is completed in which you discuss the process as a whole. This allows you and your team to speak out about what’s working and what’s not. These postmortems should occur relatively quickly following the end of a project while the process is still fresh in everyone’s mind. They allow you to reflect on what you’ve learned and let you prepare for future projects. ([View Highlight](https://www.shortform.com/app/highlights/81bbd985-af9c-41eb-b6ac-a11dfa9a0d0f))

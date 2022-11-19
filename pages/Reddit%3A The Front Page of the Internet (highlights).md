@@ -1,0 +1,27 @@
+title:: Reddit: The Front Page of the Internet (highlights)
+author:: [[reddit.com]]
+full-title:: "Reddit: The Front Page of the Internet"
+category:: #articles
+url:: https://www.reddit.com/
+
+- Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
+	- Plankton: Tell that guy to go take a hike!SpongeBob: Would you like to take a hike with me?
+	- One without the prior understanding that Marcus talks about riches, could be led to believe that he is talking about relationships. I mention this because a lot of newcomers to modern Stoic philosophy seem to think that by getting attached to the most valuable and meaningful in our lives, we become slaves of our desires. Martin Hägglund has a great anti-thesis to this argument regarding this "virtue" as religious and a way to seek eternity by detachment.
+	- In modern psychology, it has been found that limiting ourselves and our opportunities leads to greater life satisfaction.
+	- There is no perfect freedom of judgment that I am aware of. Maybe a better way to put it is that I accept the duality of oneness. The dark only exists because I make it so. The great delusion that cripples us all is that we let this self made darkness convince us we are separate from what we need to be happy, when in reality we are what we need to be happy.
+	- A sense of humor at the absurdity of life and yourself is the strongest source of willpower in existence.
+	- embrace the absurdity of reality and it’s cold nature and you will be more free than any other time in your life
+	- Everyone around you has the same evolutionary framework, and seeing emotions in others provides individuals with feedback on their own actions that can be far more effective and far more immediate than a calm debate on the subject.
+	- "This system of convincing yourself that something will be useful in the future also happens with things outside of your todo list, your mind will search for any possible task that is somehow explainable as useful, to avoid starting with the highest priority task. Guess what, a LOT of things are useful. But you need a 1000 lives to do them all. So pick and choose, or be satisfied to waste most of the single one you have."
+	- And then honoring your feeling of falling to pieces from grief when you do. Soak up that “bad” feeling and savor it, like you would a fancy cheese with a “bad” smell or taste.
+	- Don't limit your work to what's immediately measurableWorking the org chart is what matters most (in large orgs)Especially for point (2), I've found that no amount of customer "evidence", diligent work to define an experience, and cross-org buy-off can overcome a top-down decision maker in a large org. Working the org chart can be the most effective way to actually get stuff done in that environment.
+		- **Tags**: #[[favorite]]
+	- This is the most critical piece. It doesn't matter if you slept poorly, went to bed late, or got no Sleep whatsoever. Wake up and get up. If the rest of the day sucks or if you do  nothing but watch Netflix that day it'll be ok because you made progress towards forming this cornerstone habit. Protect this habit even at the expense of homework, work, other plans or goals. This is a long-term play. Think in decades.
+	- When describing a person/group/idea that you dislike, if you feel the need to attack them, it is akin to pushing a "button" that makes you temporarily dumber. You don't want to be pushing the button yourself or in fact, spend time around/reading others who do.
+	- Non-Zero Action is the source of all success and growth.
+	- Taking even a single, faulty, shitty, terrible attempt at something that creates no discernable positive effect at all is ten times more valuable than reading another self-help book, or watching another motivational YouTuber.
+	- What I recommend to people is to read books on the history of the visual arts and try to make sense of styles in the visual arts. Pretty much every style from the past that had some notoriety had something to it. Its beautiful or interesting. It may not be your favourite. Go back, try to make sense of that style. And it will be hard. And if you can do that for a style you don’t immediately love, I don’t mean read a book on Monet and look at water lily paintings.
+	- The biggest game changer: Sunlight in your eyes within 30 minutes of waking up.
+	- Project-based vaults. An idea I got while reading Ryan Holiday’s, How I Wrote a Book, was a concept of a project-based vault. He stores his notes in either a general-purpose card box or project-specific boxes for the books he writes.
+	- The GBM formula looks like this: exp( drift + volatility*Wt), where drift is essentially the trend, volatility is the magnitude of the gaussian noise and Wt is a gaussian random variable. So, GBM = trend + noise.We will assume an equity or index in a random walk and set drift = 0.Volatility isn't constant nor is it entirely random. So, we need to model it in a way that represents the transitions from lower to higher volatility and back again. For this example, we will use a Markov chain.A markov chain is a process that depends on the last value in a series to predict the next value out. It forms a matrix of number of unique states by number of transitions from one state to another.
+		- **Tags**: #[[statistical learning]] #[[favorite]]

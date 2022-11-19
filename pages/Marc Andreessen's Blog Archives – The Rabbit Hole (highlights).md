@@ -1,0 +1,15 @@
+title:: Marc Andreessen's Blog Archives – The Rabbit Hole (highlights)
+author:: [[blas.com]]
+full-title:: "Marc Andreessen's Blog Archives – The Rabbit Hole"
+category:: #articles
+url:: https://blas.com/pmarca-blog-archives/
+
+- Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
+	- onion theory of risk. If you’re an investor, you look at the risk around an investment as if it’s an onion. Just like you peel an onion and remove each layer in turn, risk in a startup investment comes in layers that get peeled away — reduced — one by one. Your challenge as an entrepreneur trying to raise venture capital is to keep peeling layers of risk off of your particular onion until the VCs say “yes” — until the risk in your startup is reduced to the point where investing in your startup doesn’t look terrifying and merely looks risky.
+	- Don’t bother with a long detailed written business plan. Most VCs will either fund a startup based on a fleshed out Powerpoint presentation of about 20 slides, or they won’t fund it at all. Corollary: any VC who requires a long detailed written business plan is probably not the right VC to be working with.
+	- I’ll assert that market is the most important factor in a startup’s success or failure. Why? In a great market — a market with lots of real potential customers — the market pulls product out of the startup. The market needs to be fulfilled and the market will be fulfilled, by the first viable product that comes along. The product doesn’t need to be great; it just has to basically work. And, the market doesn’t care how good the team is, as long as the team can produce that viable product.
+	- be aware that big companies care a lot more about what other big companies are doing than what any startup is doing.
+	- A startup’s initial business plan doesn’t matter that much, because it is very hard to determine up front exactly what combination of product and market will result in success. By definition you will be doing something new, in a world that is a very uncertain place. You are simply probably not going to know whether your initial idea will work as a product and a business, or not. And you will probably have to rapidly evolve your plan — possibly every aspect of it — as you go
+	- Each night before you go to bed, prepare a 3×5 index card with a short list of 3 to 5 things that you will do the next day Use the back of the 3×5 card as your anti-todo list. Each time you do something, you get to write it down and you get that little rush of endorphins that the mouse gets every time
+	- How curious are we? How determined are we to learn about our chosen field, other fields, and the world around us?
+	- How fIexible and aggressive are we at synthesizing– at linking together multiple, disparate, apparently unrelated experiences on the fly?

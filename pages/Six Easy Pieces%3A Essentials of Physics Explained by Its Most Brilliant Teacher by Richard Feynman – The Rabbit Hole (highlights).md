@@ -1,0 +1,16 @@
+title:: Six Easy Pieces: Essentials of Physics Explained by Its Most Brilliant Teacher by Richard Feynman – The Rabbit Hole (highlights)
+author:: [[blas.com]]
+full-title:: "Six Easy Pieces: Essentials of Physics Explained by Its Most Brilliant Teacher by Richard Feynman – The Rabbit Hole"
+category:: #articles
+url:: https://blas.com/six-easy-pieces/
+
+- Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
+	- First figure out why you want the students to learn the subject and what you want them to know, and the method will result more or less by common sense.
+	- “The power of instruction is seldom of much efficacy except in those happy dispositions where it is almost superfluous.” (Gibbon)
+	- ach piece, or part, of the whole of nature is always merely an approximation to the complete truth, or the complete truth so far as we know it. In fact, everything we know is only some kind of approximation, because we know that we do not know all the laws as yet. Therefore, things must be learned only to be unlearned again or, more likely, to be corrected. The principle of science, the definition, almost, is the following: The test of all knowledge is experiment.
+	- If, in some cataclysm, all of scientific knowledge were to be destroyed, and only one sentence passed on to the next generations of creatures, what statement would contain the most information in the fewest words? I believe it is the atomic hypothesis (or the atomic fact, or whatever you wish to call it) that all things are made of atoms—little particles that move around in perpetual motion, attracting each other when they are a little distance apart, but repelling upon being squeezed into one another. In that one sentence, you will see, there is an enormous amount of information about the world, if just a little imagination and thinking are applied.
+	- Carbon attracts oxygen much more than oxygen attracts oxygen or carbon attracts carbon. Therefore in this process the oxygen may arrive with only a little energy, but the oxygen and carbon will snap together with a tremendous vengeance and commotion, and everything near them will pick up the energy.
+	- Proteins have a very interesting and simple structure. They are a series, or chain, of different amino acids. There are twenty different amino acids, and they all can combine with each other to form chains in which the backbone is CO-NH, etc. Proteins are nothing but chains of various ones of these twenty amino acids. Each of the amino acids probably serves some special purpose.
+	- In order to verify the conservation of energy, we must be careful that we have not put any in or taken any out.
+	- Galileo discovered a very remarkable fact about motion, which was essential for understanding these laws. That is the principle of inertia—if something is moving, with nothing touching it and completely undisturbed, it will go on forever, coasting at a uniform speed in a straight line.
+	- The electrons arrive in lumps, like particles, and the probability of arrival of these lumps is distributed like the distribution of intensity of a wave. It is in this sense that an electron behaves “sometimes like a particle and sometimes like a wave.”

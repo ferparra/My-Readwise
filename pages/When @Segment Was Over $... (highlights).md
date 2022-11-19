@@ -1,0 +1,20 @@
+title:: When @Segment Was Over $... (highlights)
+author:: [[@reinpk on Twitter]]
+full-title:: "When @Segment Was Over $..."
+category:: #tweets
+url:: https://twitter.com/reinpk/status/1496489290519437314
+
+- Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
+	- When @Segment was over $50m ARR we realized we were spending a fortune on servers, and it was growing like topsy, faster than revenue. Gross margin was free-falling into the low 50%'s (software benchmark was 80%). It didn't feel like we were in control, which I loathed. A 🧵 1/11 ([View Tweet](https://twitter.com/reinpk/status/1496489290519437314))
+		- **Note**: Thread
+	- Around this time, Sandy Smith joined as our first CFO. She had spent years working on improving gross margins at web infrastructure companies like @Akamai and @Twilio. In those hardcore infrastructure co's, gross margins were a game of a 1-2%-point improvements each year. 2/11 ([View Tweet](https://twitter.com/reinpk/status/1496489291765391360))
+	- So Sandy laughed in her usual uproarious way—but with some real nervousness and skepticism—when @tidocarriero and I told her in a dead-serious-naive-way that our goal was to increase gross margins by 20 pts by the end of the year. 3/11 ([View Tweet](https://twitter.com/reinpk/status/1496489292830769158))
+	- Why were we dead serious? Our quarterly financials made it obvious gross margins and hosting costs were a problem. And I'd just read the Elon biography by @ashleevance so I was all up-in-arms about first principles engineering. 4/11 ([View Tweet](https://twitter.com/reinpk/status/1496489293879119875))
+	- I'd run the first principles math a few different ways based on data volume and CPU time, bandwidth, etc. and brought it to @tidocarriero to make the point that our server costs were orders of magnitude higher than any kind of theoretical minimum. Easier said than done. 5/11 ([View Tweet](https://twitter.com/reinpk/status/1496489295087304705))
+	- Ever practical, @tidocarriero pointed out that we didn't have proper instrumentation to measure our server costs, and hadn't ever optimized on that dimension before. (We'd been moving fast on shipping new product for the previous two years). 6/11 ([View Tweet](https://twitter.com/reinpk/status/1496489296324440071))
+	- The first quarter, we just focused on getting our costs fully measured. It was a massive effort across infra eng and finance, including Sandy's incredible knack for boring into the data. 7/11 ([View Tweet](https://twitter.com/reinpk/status/1496489297696149509))
+	- The next quarter, @fullung led the infra eng team tackling all kinds of stuff. Autoscaling not just up, but down. Rearchitecting data flow to avoid inter-AZ bandwidth charges from AWS. Renegotiating the AWS contract. The list was long. 8/11 ([View Tweet](https://twitter.com/reinpk/status/1496489298933264384))
+	- And bit by bit, week over week, gross margin improved. It felt like an eternity to me at the time, but looking back at the data, it was insanely fast: -3 pts the first quarter of measurement, +10 pts the next quarter; +6 pts the next quarter; +5 pts the next quarter. 9/11 ([View Tweet](https://twitter.com/reinpk/status/1496489300187402248))
+	- Sandy was probably right to be skeptical in the beginning, but she threw her heart, soul and deep experience into it, alongside an epic engineering and finance team including folks like @fullung, Achille Rousseau and Alex Berkenkamp. 10/11 ([View Tweet](https://twitter.com/reinpk/status/1496489301315813387))
+	- It was a triumph of focus on a clear problem and metric that mattered, first principles engineering to motivate how much better we could do, and epic execution by the team to drive the metric to a great outcome. 11/11 ([View Tweet](https://twitter.com/reinpk/status/1496489302444109827))
+	- Bonus: @tidocarriero shared his version of events :) https://t.co/ydroknRZS0 ([View Tweet](https://twitter.com/reinpk/status/1496524307878526983))
