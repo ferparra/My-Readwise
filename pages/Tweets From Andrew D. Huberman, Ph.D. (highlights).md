@@ -299,3 +299,5 @@ url:: https://twitter.com/hubermanlab
 	  2) Raise Stress Threshold
 	  Uncomfortable (but safe) cold exposure.
 	  ~12 min per week; 1-5min per session. ([View Tweet](https://twitter.com/hubermanlab/status/1592968635643219968))
+- New highlights added [[Nov 21st, 2022]] at 11:51 AM
+	- All Huberman Lab Podcast episodes are searchable by keywords, time stamped, & linked to all formats (zero cost). Also, our Neural Network newsletter of summaries & protocol toolkits for sleep, focus, fitness, etc. are available (zero cost) PDFs all at: https://t.co/TphgkozQyg ([View Tweet](https://twitter.com/hubermanlab/status/1594361026236948481))

@@ -80,3 +80,15 @@ url:: https://twitter.com/robkhenderson
 	  ![](https://pbs.twimg.com/media/Fh4kMvLXkAIQoGr.jpg) ([View Tweet](https://twitter.com/robkhenderson/status/1593751154244128768))
 - New highlights added [[Nov 20th, 2022]] at 7:50 AM
 	- “If someone asks for reassurance and accepts it, that is an honest interaction. But if someone asks for reassurance, and—after it is given—finds a way to undermine the giver, that is a game.” https://t.co/XX4bg2SnQR ([View Tweet](https://twitter.com/robkhenderson/status/1593997828413485057))
+- New highlights added [[Nov 20th, 2022]] at 11:13 AM
+	- "The largest drop-off in friends in the life course occurs when people get married...ironic, because at the wedding, people invite both sets of friends, so it’s this last wonderful and dramatic gathering of both people’s friends, but then it drops off" https://t.co/HOlgRO83kP ([View Tweet](https://twitter.com/robkhenderson/status/1594113990111764482))
+- New highlights added [[Nov 20th, 2022]] at 12:15 PM
+	- "People look for explanations for why things go wrong. When they feel threatened, they suspect distrusted group mates...Actors bent on eliminating rivals devise demonizing myths to justify their rivals' mistreatment." https://t.co/4V4StLqrh3 
+	  
+	  ![](https://pbs.twimg.com/media/Fh9l1obWYAYKtkQ.jpg) ([View Tweet](https://twitter.com/robkhenderson/status/1594104860613435393))
+- New highlights added [[Nov 21st, 2022]] at 11:51 AM
+	- The Last Psychiatrist on Nietzsche and morality. 
+	  
+	  ![](https://pbs.twimg.com/media/FiCg_RlXkAABTL9.png) 
+	  
+	  ![](https://pbs.twimg.com/media/FiCg_RlWAAA-rZi.png) ([View Tweet](https://twitter.com/robkhenderson/status/1594451341404909568))

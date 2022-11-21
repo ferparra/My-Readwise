@@ -49,3 +49,9 @@ url:: https://twitter.com/morganhousel
 	- “The grass is always greener on the side that’s fertilized with bullshit.” ([View Tweet](https://twitter.com/morganhousel/status/1511776167581282305))
 	- “Everyone driving slower than you is an idiot and everyone driving faster than you is a maniac.” -George Carlin ([View Tweet](https://twitter.com/morganhousel/status/1532900642934558720))
 	- Lots of pain as people realize what they thought was their own investment genius was actually just low interest rates. ([View Tweet](https://twitter.com/morganhousel/status/1573317561907052544))
+- New highlights added [[Nov 20th, 2022]] at 12:15 PM
+	- The best way to teach that life is about probability not certainty:
+	  
+	  https://t.co/wxpp9pQPCD 
+	  
+	  ![](https://pbs.twimg.com/media/Fh9figAagAAEefK.png) ([View Tweet](https://twitter.com/morganhousel/status/1594097856474148864))

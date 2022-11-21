@@ -40,6 +40,11 @@
 		- The Jordan Harbinger Show
 		- The [[Tim Ferriss]] Show
 		- The Daily Stoic Podcast
+	- Summarize what advice would Ryan Holiday give to any person to lead a #stoic way of life #status/to-verify
+	  collapsed:: true
+		- First, it’s important to find what things are within your control and what things are out of your control. You can’t control everything, but you can control how you react to things.
+		- Second, don’t let your #emotions control you. Be mindful of your #thoughts and #reactions, and try to detach yourself from them as much as possible.
+		- And third, always be learning and growing. Life is a never-ending journey, and the #stoic way of life is about constantly striving to better yourself.
 - [[Balaji Srinivasan]]
   related-to:: [[@balajis on Twitter]], [[Tweets from Balaji (highlights)]], [[Tweets From balajis.com (highlights)]]
   collapsed:: true
@@ -91,4 +96,46 @@
 - [[Will MacAskill]]
 - [[Kieran Setiya]]
 - [[John Cormack]]
+- [[Christopher Capozzola]]
+- [[Michael Levin]]
+- [[Jo Boaler]]
+- [[Sean Kelly]]
+- [[Daniel Negreanu]]
+- [[Tim Urban]]
+- [[Seth Godin]]
+- [[Andrew Huberman]]
+- [[Donald Robertson]]
+- [[Tiago Forte]]
+- [[Robin Dunkar]]
+- [[William Costello]]
+- [[Russ Roberts]]
+- [[Stanley Druckenmiller]]
+- [[Peter Attia]]
+- [[Paul Conti]]
+- [[Morgan Housel]]
+- [[Jackie Bavaro]]
+- [[Massimo Pigliucci]]
+- [[Laurie Santos]]
+- [[Shane Parrish]]
+- [[Marc Andreessen]]
+- [[Paul Graham]]
+- [[George Dreyfus]]
+- [[Noah Healy]]
+- [[Andrew Chen]]
+- [[Duncan French]]
+- [[James Clear]]
+- [[David Sinclair]]
+- [[Ray Dalio]]
+- [[David Foster Wallace]]
+- [[Melissa Perri]]
+- [[Chris Dixon]]
+- [[Noah Feldman]]
+- [[Ricky Gervais]]
+- [[Ranjini George]]
+- [[Jamie Lombardi]]
+- [[David Goggins]]
+- [[Joe Rogan]]
+- [[Jordan Peterson]]
+- [[Jamie Wheal]]
+- [[Max Strossel]]
 -

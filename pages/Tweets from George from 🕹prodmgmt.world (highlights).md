@@ -17,3 +17,12 @@ url:: https://twitter.com/nurijanian
 	  Stands for: DOES IT MOVE THE NEEDLE?
 	  
 	  Carves off 80% of things, so you can focus on refining the remaining 20% ([View Tweet](https://twitter.com/nurijanian/status/1588788249945833472))
+- New highlights added [[Nov 21st, 2022]] at 7:51 AM
+	- Best Product Management Tools (That Nobody Knows) in 2022:
+	  
+	  • OpinionX: Stack rank problems like a pro
+	  • Coda: If Confluence was 10X better
+	  • DoubleLoop: Make your strategy actionable
+	  • Vistaly: Visually map strategy, research, and ideas
+	  
+	  What did I miss? ([View Tweet](https://twitter.com/nurijanian/status/1594103262914834434))
