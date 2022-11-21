@@ -92,3 +92,8 @@ url:: https://twitter.com/robkhenderson
 	  ![](https://pbs.twimg.com/media/FiCg_RlXkAABTL9.png) 
 	  
 	  ![](https://pbs.twimg.com/media/FiCg_RlWAAA-rZi.png) ([View Tweet](https://twitter.com/robkhenderson/status/1594451341404909568))
+- New highlights added [[Nov 21st, 2022]] at 12:52 PM
+	- "When you do the work, everything else optimizes itself....I read a lot of biographies. People who have biographies written about them have two things in common. First, they are obsessed. Second, they never stray from doing the work." https://t.co/uDS5w3jIt4 ([View Tweet](https://twitter.com/robkhenderson/status/1594465653875888128))
+	- "Intergroup conflict is undeniably pervasive across human societies...A cross-cultural study of the ethnographies for 31 hunter–gatherer societies found that 64 percent engaged in warfare once in every 2 years" https://t.co/sd1RbZ6Aor 
+	  
+	  ![](https://pbs.twimg.com/media/FiBAmhkXEAIRaU4.jpg) ([View Tweet](https://twitter.com/robkhenderson/status/1594345339867250691))
