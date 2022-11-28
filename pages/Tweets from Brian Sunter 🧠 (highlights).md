@@ -65,3 +65,7 @@ url:: https://twitter.com/Bsunter
 	  Highly recommend this video as an intro to AI note-taking and the plugin!
 	  
 	  https://t.co/jza1WoOFGf ([View Tweet](https://twitter.com/Bsunter/status/1593728424895356928))
+- New highlights added [[Nov 24th, 2022]] at 12:08 PM
+	- National Entrepreneur Day
+	  
+	  “Most of you will fail, be disrespected, impoverished, but we are grateful for the risks and the sacrifices you are making for the sake of the economic growth of the planet and pulling others out of poverty. Our nation thanks you”

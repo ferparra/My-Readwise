@@ -97,3 +97,5 @@ url:: https://twitter.com/robkhenderson
 	- "Intergroup conflict is undeniably pervasive across human societies...A cross-cultural study of the ethnographies for 31 hunter–gatherer societies found that 64 percent engaged in warfare once in every 2 years" https://t.co/sd1RbZ6Aor 
 	  
 	  ![](https://pbs.twimg.com/media/FiBAmhkXEAIRaU4.jpg) ([View Tweet](https://twitter.com/robkhenderson/status/1594345339867250691))
+- New highlights added [[Nov 22nd, 2022]] at 8:07 PM
+	- ![](https://pbs.twimg.com/media/FiGh87wX0AIcikZ.jpg) ([View Tweet](https://twitter.com/robkhenderson/status/1594733815829647374))

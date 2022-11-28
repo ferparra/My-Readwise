@@ -13,3 +13,7 @@ url:: https://twitter.com/IFM_Economist
 	  Real wages are forecast to get back to as low as they were in 2009, an extraordinary setback for households. 
 	  
 	  ![](https://pbs.twimg.com/media/FZXZj5GUcAECEit.png) ([View Tweet](https://twitter.com/IFM_Economist/status/1555389331665063937))
+- New highlights added [[Nov 28th, 2022]] at 1:21 PM
+	- And there it is, the first genuine pullback in retail sales since the pandemic. Much weaker than market expectation and materially erodes the ongoing spending narrative and Australia households are some how different. Should this continue the #RBA's job is largely done 
+	  
+	  ![](https://pbs.twimg.com/media/FinGNWdakAEvzTE.png) ([View Tweet](https://twitter.com/IFM_Economist/status/1597026050110001152))

@@ -360,3 +360,11 @@ url:: https://twitter.com/shreyas
 	  Critical & Strategic Thinking ([View Tweet](https://twitter.com/shreyas/status/1284499367383035904))
 - New highlights added [[Nov 20th, 2022]] at 9:49 AM
 	- A surprisingly large part of a person’s leadership style is determined simply by the story they have told themselves about what sort of activities are productive vs. unproductive. Being adaptive is therefore nearly impossible for many, because they never change that story. ([View Tweet](https://twitter.com/shreyas/status/1593795541720133635))
+- New highlights added [[Nov 25th, 2022]] at 10:39 AM
+	- If it isn’t a HELL YEAH!  it is a No.
+	  
+	  – @sivers
+	  
+	  This advice applies to product prioritization too: if you’re working on a fast-growing product with a tiny team, this is likely the only prioritization “framework” you need.
+	  
+	  And the real skill is in how you reach the HELL YEAH! ([View Tweet](https://twitter.com/shreyas/status/1434940492685266948))

@@ -35,3 +35,9 @@ url:: https://twitter.com/mpocock1
 	  1. Task estimation is broken
 	  2. User stories are brittle and hard to change
 	  3. Discovery/refinement of implicit states must be a first-class part of any project ([View Tweet](https://twitter.com/mpocock1/status/1449040697932255238))
+- New highlights added [[Nov 26th, 2022]] at 9:02 AM
+	- 🔥 TypeScript Tip 🔥
+	  
+	  Object.keys is DELIBERATELY not very type-safe. This can feel extremely annoying to beginners.
+	  
+	  But it's for a good reason... https://t.co/CGYUGiHZSK ([View Tweet](https://twitter.com/mattpocockuk/status/1596167864553459715))

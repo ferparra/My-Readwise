@@ -30,3 +30,5 @@ url:: https://twitter.com/VitalikButerin
 	  * there will be multiple winners 
 	  
 	  ![](https://pbs.twimg.com/media/Fh4Ldp9XEAM8uAQ.png) ([View Tweet](https://twitter.com/VitalikButerin/status/1593726411335925763))
+- New highlights added [[Nov 24th, 2022]] at 7:10 AM
+	- @tylercowen My theory is different: the AI-driven commoditization of articulateness in elite registers of the English language is going to degrade its value, and by extension further degrade the social status of those who depend on it as a status marker. ([View Tweet](https://twitter.com/VitalikButerin/status/1595429084116520962))

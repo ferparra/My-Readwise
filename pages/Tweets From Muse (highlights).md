@@ -26,3 +26,13 @@ url:: https://twitter.com/MuseAppHQ
 	  • Tools as a reflection of your values
 	  • Packaging software with Docker, CodePen, Replit, and Deno
 	  • Can a piece of software be “done”? https://t.co/F9xhhO3eF6 ([View Tweet](https://twitter.com/MuseAppHQ/status/1453754861925830658))
+- New highlights added [[Nov 27th, 2022]] at 10:16 AM
+	- Metamuse 69 // Narrative
+	  https://t.co/oiBsQg6yUZ
+	  
+	  With @mariogabriele of @thegeneralistco
+	  
+	  • Conveying truth through well-crafted narratives
+	  • Mario's research and writing process
+	  • Michelin, Stripe, and WeWork
+	  • The narrative of Silicon Valley hubris https://t.co/fXZHN49MLo ([View Tweet](https://twitter.com/MuseAppHQ/status/1595824578751766529))

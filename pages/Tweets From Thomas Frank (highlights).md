@@ -12,3 +12,7 @@ url:: https://twitter.com/TomFrankly
 	  This means I can see it from any recipe.
 	  
 	  When I'm planning meals, it's super-easy to hold Alt/Opt and drag ingredients into the grocery list. https://t.co/eJXSwdMFTc ([View Tweet](https://twitter.com/TomFrankly/status/1574200054167982080))
+- New highlights added [[Nov 23rd, 2022]] at 11:35 AM
+	- Woah... @NotionHQ AI can actually EXECUTE Javascript code 
+	  
+	  ![](https://pbs.twimg.com/media/FiLqE5pXoAET_zt.jpg) ([View Tweet](https://twitter.com/TomFrankly/status/1595096192614006788))

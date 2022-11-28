@@ -12,3 +12,11 @@ url:: https://twitter.com/ttorres
 	- Worthy Read: The Relentless Jeff Bezos by Ben Thompson (@benthompson) https://t.co/Q0Vo0KPgIa #prodmgmt #ux 
 	  
 	  ![](https://pbs.twimg.com/media/E_CIln3WQAEHJNo.png) ([View Tweet](https://twitter.com/ttorres/status/1436798465221308416))
+- New highlights added [[Nov 28th, 2022]] at 1:21 PM
+	- "Asking people what they would do is easy to do, but doesn’t lead to reliable feedback."
+	  
+	  https://t.co/Kskn8AaBCp
+	  
+	  #prodmgmt #ux #engineering 
+	  
+	  ![](https://pbs.twimg.com/media/FinFwSrWIAAv-DP.jpg) ([View Tweet](https://twitter.com/ttorres/status/1597024978532278277))

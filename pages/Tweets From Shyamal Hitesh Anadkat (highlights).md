@@ -17,3 +17,9 @@ url:: https://twitter.com/shyamalanadkat
 	- The next generation of AI native products would integrate some elements of combining reasoning and acting in language models to help with decision making.
 	  
 	  Check out ReAct: Synergizing Reasoning and Acting in Language Models – Google AI Blog https://t.co/jTaE6K1Hzr ([View Tweet](https://twitter.com/shyamalanadkat/status/1593130579301584896))
+- New highlights added [[Nov 25th, 2022]] at 10:39 AM
+	- The three stages of LLM developments:
+	  
+	  1.0: Capable of generating original text and reasoning about it.
+	  2.0: Able to evolve, refine its output, and acquire new abilities to act rationally.
+	  3.0+: Can design its own actions/capabilities to interact with the external world ([View Tweet](https://twitter.com/shyamalanadkat/status/1595817675367645184))

@@ -15,3 +15,12 @@ url:: https://twitter.com/patriciamou_
 	- questions you should ask yourself frequently: 
 	  
 	  ![](https://pbs.twimg.com/media/Fhy_uBIVsAA9Pxf.jpg) ([View Tweet](https://twitter.com/patriciamou_/status/1593449667655659520))
+- New highlights added [[Nov 23rd, 2022]] at 4:54 PM
+	- ✍️ updated weekly review: 
+	  
+	  · in what ways am I lying to myself?
+	  · in what ways do I feel free/not free? 
+	  · am I getting closer to freedom? 
+	  · what are the things I say I value but don't act as if I value? 
+	  
+	  ![](https://pbs.twimg.com/media/FiNJBXkVsAAYbfw.jpg) ([View Tweet](https://twitter.com/patriciamou_/status/1595259845204115456))

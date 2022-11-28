@@ -6,10 +6,12 @@ url:: https://twitter.com/prla/status/1257924685590867974
 
 - Highlights first synced by [[Readwise]] [[Nov 18th, 2022]]
 	- When you don't understand your customers' problems, "quantity of features delivered" is a bad proxy of value.
+	  id:: c9898e48-6908-4533-9a3a-a85cca1986da
 	  
 	  Only by doing the work to understand your customers can true value be defined.
 		- **Tags**: #[[favorite]]
 	- Know the outcomes you seek.
+	  id:: 6c68e093-87a5-4e3f-8505-735a2f1315ec
 	  
 	  Every feature you build should result in some outcome that is tied back to business value: money, data, knowledge capital, or promotion.
 	- Commit not to solutions but to the outcomes these solutions produce.

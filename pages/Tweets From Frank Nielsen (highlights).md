@@ -41,3 +41,9 @@ url:: https://twitter.com/FrnkNlsn
 	   → selected books presenting symmetry under various angles, from popular viewpoints to advanced mathematical theories with applications in mechanics, physics, machine learning and AI, etc. 
 	  
 	  ![](https://pbs.twimg.com/media/FfQ3KkVUYAEe2Fj.jpg) ([View Tweet](https://twitter.com/FrnkNlsn/status/1581950035033350144))
+- New highlights added [[Nov 27th, 2022]] at 2:37 AM
+	- A selection of books on Algorithmic Differentiation (AD) also called Automatic Differentiation: 
+	  The backbone toolbox for differentiable programming and deep learning
+	  https://t.co/uUGA0U9aNr 
+	  
+	  ![](https://pbs.twimg.com/media/FibUhcIXoAk72p8.jpg) ([View Tweet](https://twitter.com/FrnkNlsn/status/1596196845763846145))

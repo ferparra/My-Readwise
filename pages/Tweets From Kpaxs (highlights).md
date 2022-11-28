@@ -48,3 +48,11 @@ url:: https://twitter.com/Kpaxs
 	- — David Foster Wallace (May 21, 2005) 
 	  
 	  ![](https://pbs.twimg.com/media/FOMLd8SWQAEhOFI.jpg) ([View Tweet](https://twitter.com/Kpaxs/status/1505059656300908546))
+- New highlights added [[Nov 22nd, 2022]] at 5:47 PM
+	- The only thing you’ve got to sell is your own personal credibility.
+	  
+	  People will believe you if you have been honest with them when things aren’t what they want to hear.
+	  
+	  Good or bad, tell them exactly the way it is.
+	  
+	  Tell everyone the truth. Play it straight. ([View Tweet](https://twitter.com/Kpaxs/status/1594925449540517889))

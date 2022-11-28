@@ -28,3 +28,9 @@ url:: https://twitter.com/gabrielpeyre
 	  
 	  ![](https://pbs.twimg.com/media/FdxOG2cXgAAup-R.jpg) ([View Tweet](https://twitter.com/gabrielpeyre/status/1577161592671637506))
 	- Oldies but goldies: K Fukunaga, L Hostetler, The Estimation of the Gradient of a Density Function, 1975. The mean-shift algorithm is a clustering method that progressively evolves points toward local maximum of a kernel density estimator. https://t.co/HqXVDuKBjE https://t.co/FSAxvOldxr ([View Tweet](https://twitter.com/gabrielpeyre/status/1592034593120698368))
+- New highlights added [[Nov 21st, 2022]] at 9:08 PM
+	- Oldies but goldies: R Cook, Stochastic sampling in computer graphics, 1986. Introduces Poisson disk distribution as an optimal stochastic sampling strategy for graphics, with applications to Monte-Carlo, raytracing, desaliasing, halftoning, etc. https://t.co/aTxVIlbqQu https://t.co/W6i9zbSIKA ([View Tweet](https://twitter.com/gabrielpeyre/status/1594571313665830913))
+- New highlights added [[Nov 25th, 2022]] at 5:39 PM
+	- Oldies but goldies: W. Heisenberg, Ueber den anschaulichen Inhalt der quantentheoretischen Kinematik und Mechanik, 1923. Heisenberg uncertainty principle states that a function cannot be well concentrated both in space and in frequency.  https://t.co/xhylNu40CN https://t.co/vBXr3KVZX8 ([View Tweet](https://twitter.com/gabrielpeyre/status/1596020866105475072))
+- New highlights added [[Nov 26th, 2022]] at 7:21 PM
+	- Generalized linear heat diffusion are obtained by replacing the Laplacian by a fractional Laplacian. Steepest descent minimization of the Sobolev norm of the function. https://t.co/sRqRALCYTE https://t.co/9ImJ8asQhh ([View Tweet](https://twitter.com/gabrielpeyre/status/1596383252897570819))

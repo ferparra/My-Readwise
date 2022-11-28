@@ -19,3 +19,18 @@ url:: https://twitter.com/ant_murphy
 	  vs
 	  
 	  Little/no domain knowledge acting as a forcing function to do proper discovery, to learn and uncover user needs. ([View Tweet](https://twitter.com/ant_murphy/status/1471017434022879232))
+- New highlights added [[Nov 25th, 2022]] at 11:39 AM
+	- Are you planning or building a plan and hoping for the best?
+	  
+	  Break out of the perfect plan trap. 
+	  
+	  Instead:
+	  * Come up with ur perfect plan
+	  * Wargame it: pre-mortem’s are a great!
+	  * Prioritise & mitigate risks
+	  * Develop alternatives (“mini-plans”)
+	  
+	  https://t.co/Xp3iSd9hc3 ([View Tweet](https://twitter.com/ant_murphy/status/1595616193188093952))
+	- Asking teams to set quarterly OKRs is meaningless if those teams are still stuck in 9 month release cycles...
+	  
+	  Clean your house first. Focus on delivering frequently and then progress to determining whether what you've delivered is valuable or not. Ideally do both. ([View Tweet](https://twitter.com/ant_murphy/status/1595650670329151488))

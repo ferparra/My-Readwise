@@ -128,6 +128,7 @@
 - [[Ray Dalio]]
 - [[David Foster Wallace]]
 - [[Melissa Perri]]
+  related-to:: [[@melissa perri]], [[Tweets From Melissa Perri (highlights)]]
 - [[Chris Dixon]]
 - [[Noah Feldman]]
 - [[Ricky Gervais]]
@@ -154,6 +155,16 @@
 - [[Manolis Kellis]]
 - [[Lisa Feldman Barrett]]
 - [[Dan Carlin]]
+	- Bullet point of Dan Carlin's hardcore history episode summaries. #GPT
+		- The Persians vs. The Greeks
+		- The Punic Wars
+		- The #mongol Conquests
+		- The Crusades
+		- The American #revolution
+		- The American [[Civil War]]
+		- [[World War I]]
+		- [[World War II]]
+		- The [[Cold War]]
 - [[Chris Latnner]]
 - [[David Eagleman]]
 - [[Ian Hutchinson]]
@@ -180,3 +191,22 @@
 - [[Richard Reeves]]
 - [[Simon Wardley]]
 - [[Teresa Torres]]
+- [[Marty Cagan]]
+  related-to:: [[@cagan]]
+  collapsed:: true
+	- GPT prompts
+		- Explain how Marty Cagan describe the role of a Product Manager to a high-level executive.
+			- A product manager is someone who is responsible for the success of a #product. They are responsible for managing all aspects of the product, from conception to launch to post-launch. They work closely with other teams, such as engineering, marketing, and sales, to ensure that the product is successful.
+		- According to Marty Cagan, the biggest challenges product managers face in their day-to-day work are:
+			- Lack of clarity on what product success looks like
+			- Difficulty managing stakeholders
+			- Inability to prioritize effectively
+			- Lack of technical expertise
+			- Poor understanding of user needs
+		- Main arguments Marty Cagan make in his book Inspired:
+			- How To Create Products Customers Love
+				- Customers don't always know what they want - it's the job of the product team to figure out what they need.
+				- The best products are born out of a deep understanding of the customer.
+				- The product team must be intimately involved in the entire process, from start to finish.
+				- The best products are the result of a collaboration between the product team and the customer.
+				- The product team must be relentless in their pursuit of customer feedback.

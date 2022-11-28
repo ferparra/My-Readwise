@@ -39,3 +39,11 @@ url:: https://twitter.com/Jeande_d
 	  https://t.co/cGPy6IhHu4 
 	  
 	  ![](https://pbs.twimg.com/media/FgBQS6iVIAARuN0.jpg) ([View Tweet](https://twitter.com/Jeande_d/status/1585355358754643968))
+- New highlights added [[Nov 27th, 2022]] at 6:16 PM
+	- Deep Learning for Computer Vision - Justin Johnson at Michigan
+	  
+	  THIS is inarguably one of the best(if not the best) deep learning & computer vision courses. The course covers essential deep learning techniques and modern visual recognition architectures.
+	  
+	  https://t.co/dFRFA94fM6 
+	  
+	  ![](https://pbs.twimg.com/media/FihCDZ_VEAAEHAs.jpg) ([View Tweet](https://twitter.com/Jeande_d/status/1596598699638943744))

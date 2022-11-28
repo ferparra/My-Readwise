@@ -140,6 +140,7 @@ url:: https://cutle.fish/blog/50-product-lessons
 	- that’s when you can engage the team and prioritize a learning backlog. What things are really important for us to figure out before moving forward?
 		- **Tags**: #[[prioritization]] #[[favorite]]
 	- make it very clear about your hypothesis, about how the value will decay—what some people call the cost of delay for an item
+	  id:: ce8f8d77-d80c-4b84-a476-27f00c496137
 	- If you track the cost of delay of each of those items, the team would be able to make much better decisions about whether it’s really wise to be trying to parallelize all those efforts.
 	- fatigue wants to set this ambitious deadline for itself for whatever reason, maybe as a potential forcing function
 	- A time box is an example of a healthy forcing function, as is the idea is that you’re going to circle back and integrate what you’re doing and reflect on what you’re doing as a team.

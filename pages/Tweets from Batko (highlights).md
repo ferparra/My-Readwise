@@ -22,3 +22,10 @@ url:: https://twitter.com/batkomichael
 	  3. Hire the team to execute.
 	  4. Hold the team accountable.
 	  5. Evangelise the vision. ([View Tweet](https://twitter.com/batkomichael/status/1592723494462115840))
+- New highlights added [[Nov 22nd, 2022]] at 1:22 PM
+	- "I spend a lot of time writing my thoughts down too. If nothing else, my writing skills have improved 1000x since I became a founder.
+	  
+	  The need to communicate is so frequent and important, especially since our team is global and fully remote."
+	  @LaurenHumphreyF, @TheMintable 
+	  
+	  ![](https://pbs.twimg.com/media/FiIW86nVUAAz2nN.jpg) ([View Tweet](https://twitter.com/batkomichael/status/1594862467259457536))

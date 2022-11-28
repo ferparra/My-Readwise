@@ -234,3 +234,7 @@ url:: https://twitter.com/emollick
 	  Do this worksheet: https://t.co/6OsID8M0yq 
 	  
 	  ![](https://pbs.twimg.com/media/Fhs71B9XoAIiUXF.jpg) ([View Tweet](https://twitter.com/emollick/status/1592932681410818048))
+- New highlights added [[Nov 22nd, 2022]] at 11:23 AM
+	- I wrote about four easy things that you can do to make people around you happy. 
+	  
+	  All of them are backed by research. And all of them seem like small things, but they aren’t. Which is why the same research shows that we don’t do them as much as we should. https://t.co/bYbBXNxk3d ([View Tweet](https://twitter.com/emollick/status/1594832326667927553))

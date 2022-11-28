@@ -11,3 +11,7 @@ url:: https://twitter.com/kunalb11
 	  Only know you love her when you let her go
 	  Only know you've been high when you're feeling low
 	  Only hate the road when you're missing home
+- New highlights added [[Nov 25th, 2022]] at 10:39 AM
+	- I met Ken (founder of @creditkarma ) 2 years ago and asked how does he drives product prioritization. His reply : “we prioritize and empower whatever creates financial progress of our customers” 
+	  
+	  A lesson I never forgot and shamelessly made as one of the values for CRED. ([View Tweet](https://twitter.com/kunalb11/status/1232273928770310151))

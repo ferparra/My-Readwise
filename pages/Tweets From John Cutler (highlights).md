@@ -219,3 +219,15 @@ url:: https://twitter.com/johncutlefish
 	  redesign_2_song_played_legacy
 	  foo
 	  test_song_played ([View Tweet](https://twitter.com/johncutlefish/status/1593018237155172352))
+- New highlights added [[Nov 24th, 2022]] at 4:29 PM
+	- All of us have an opportunity to
+	  
+	  -Become aware of our defaults & where they come from
+	  
+	  -Be curious about other people's defaults
+	  
+	  -Challenge our defaults
+	  
+	  -Challenge our defaults as the only way to achieve specific results
+	  
+	  https://t.co/375v3XQ1xY ([View Tweet](https://twitter.com/johncutlefish/status/1595639544505896961))

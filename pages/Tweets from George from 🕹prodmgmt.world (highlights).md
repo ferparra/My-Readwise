@@ -26,3 +26,13 @@ url:: https://twitter.com/nurijanian
 	  • Vistaly: Visually map strategy, research, and ideas
 	  
 	  What did I miss? ([View Tweet](https://twitter.com/nurijanian/status/1594103262914834434))
+- New highlights added [[Nov 25th, 2022]] at 11:39 AM
+	- Another great framework for solving cross-company alignment on metrics quickly: Data Hierarchy Map
+	  
+	  1. Pull up the org chart
+	  2. Connect the CEO's reports to the company's key metrics (acquisition, retention, monetisation)
+	  3. Break every level down further
+	  
+	  (source: @ElenaVerna) 
+	  
+	  ![](https://pbs.twimg.com/media/FiT4voMXEAAmD1m.jpg) ([View Tweet](https://twitter.com/nurijanian/status/1595673669161951238))

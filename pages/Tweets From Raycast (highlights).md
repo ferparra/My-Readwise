@@ -24,3 +24,11 @@ url:: https://twitter.com/raycastapp
 	  Search your Shortcuts, and launch them from Raycast in macOS Monterey. 
 	  
 	  ![](https://pbs.twimg.com/media/E_vMIUmXMAIgNoO.jpg) ([View Tweet](https://twitter.com/raycastapp/status/1439968958321500168))
+- New highlights added [[Nov 24th, 2022]] at 7:10 AM
+	- Shortcuts 🤝 Raycast
+	  
+	  macOS Shortcuts are now more deeply integrated. Their custom icons as well as their folder will be shown in root search – and if a shortcut accepts an argument, you will be able to input it right there.
+	  
+	  Read full changelog 👉 https://t.co/SKq0ctN1IO 
+	  
+	  ![](https://pbs.twimg.com/media/FiQrhcMUAAAgg17.jpg) ([View Tweet](https://twitter.com/raycastapp/status/1595448027170209797))

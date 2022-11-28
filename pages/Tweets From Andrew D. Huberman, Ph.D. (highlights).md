@@ -301,3 +301,18 @@ url:: https://twitter.com/hubermanlab
 	  ~12 min per week; 1-5min per session. ([View Tweet](https://twitter.com/hubermanlab/status/1592968635643219968))
 - New highlights added [[Nov 21st, 2022]] at 11:51 AM
 	- All Huberman Lab Podcast episodes are searchable by keywords, time stamped, & linked to all formats (zero cost). Also, our Neural Network newsletter of summaries & protocol toolkits for sleep, focus, fitness, etc. are available (zero cost) PDFs all at: https://t.co/TphgkozQyg ([View Tweet](https://twitter.com/hubermanlab/status/1594361026236948481))
+- New highlights added [[Nov 22nd, 2022]] at 11:23 AM
+	- Ketogenic diet was developed to treat epilepsy, not for weight loss. It’s effective for treating psychiatric conditions too. There’s a history of treating psychiatric disorders w/epilepsy drugs. @ChrisPalmerMD explains on the latest Huberman Lab Podcast. https://t.co/TphgkoRZMo https://t.co/pFnBEWQr0G ([View Tweet](https://twitter.com/hubermanlab/status/1594824845405343744))
+- New highlights added [[Nov 27th, 2022]] at 7:17 AM
+	- HLP Complete Fitness Protocol
+	  Day 1: Long 60min -3hr Zone 2 cardio
+	  Day 2: Legs & calves
+	  Day 3: Heat (20min)/Cold (2-5min) x 3
+	  Day 4: Cardio 30min (~Zone 3)
+	  Day 5: Torso* & Abs
+	  Day 6: Cardio 20min HIIT** (~Zone 4/5)
+	  Day 7: Arms, calves
+	  *arms indirect
+	  **legs indirect ([View Tweet](https://twitter.com/hubermanlab/status/1596575869597687808))
+- New highlights added [[Nov 27th, 2022]] at 11:17 AM
+	- We’ve put the HLP Fitness protocol out as a zero cost, no sign up required PDF, with details on sets, reps, rationale, variations according to expert input, how to cycle intensity etc. Here: https://t.co/G7kXDhKxGf ([View Tweet](https://twitter.com/hubermanlab/status/1596625505297436673))

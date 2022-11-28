@@ -21,3 +21,7 @@ url:: https://twitter.com/bandanjot
 	  4. Inform and align stakeholders
 	  5. Grow people around you
 	  6. Publish biweekly team achievements to the org ([View Tweet](https://twitter.com/bandanjot/status/1548412122131886080))
+- New highlights added [[Nov 25th, 2022]] at 10:39 AM
+	- If you liked this thread, you would love the product case studies, growth and innovation articles on Productify:
+	  
+	  https://t.co/deai70QpKD ([View Tweet](https://twitter.com/bandanjot/status/1563209786069757955))
