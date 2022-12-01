@@ -15,3 +15,6 @@ url:: https://twitter.com/kunalb11
 	- I met Ken (founder of @creditkarma ) 2 years ago and asked how does he drives product prioritization. His reply : “we prioritize and empower whatever creates financial progress of our customers” 
 	  
 	  A lesson I never forgot and shamelessly made as one of the values for CRED. ([View Tweet](https://twitter.com/kunalb11/status/1232273928770310151))
+- New highlights added [[Dec 1st, 2022]] at 8:25 PM
+	- Vanity thrives on validation. 
+	  Substance keeps score. ([View Tweet](https://twitter.com/kunalb11/status/1597965055462887424))

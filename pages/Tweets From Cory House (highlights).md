@@ -41,3 +41,13 @@ url:: https://twitter.com/housecor
 	  Reality: The new React docs contain more nuance. They reflect important lessons from years of use. They encourage combining React with powerful patterns, libraries, and frameworks. 
 	  
 	  I admire all @dan_abramov hard work on the new docs! https://t.co/eEAWqCZ2HI ([View Tweet](https://twitter.com/housecor/status/1532849344935866370))
+- New highlights added [[Dec 1st, 2022]] at 3:25 PM
+	- React in 2014: 
+	  ✅Make SPAs. 
+	  ✅Use create-react-app.
+	  
+	  React in 2022: 
+	  ✅Make SPAs, native mobile, static, MPAs, and hybrid apps. 
+	  ✅Use Vite, Next, Remix, Astro, etc. 
+	  ✅HTTP via react-query, swr, Apollo, etc. 
+	  ✅Routes via React Router, Remix, Next, Tanstack Router, etc... ([View Tweet](https://twitter.com/housecor/status/1586704800988684288))

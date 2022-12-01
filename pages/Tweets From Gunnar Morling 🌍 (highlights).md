@@ -12,3 +12,11 @@ url:: https://twitter.com/gunnarmorling
 	  https://t.co/rwBcLwpgL6 
 	  
 	  ![](https://pbs.twimg.com/media/FifEDWgWYAAc4Zt.png) ([View Tweet](https://twitter.com/gunnarmorling/status/1596463170805149696))
+- New highlights added [[Dec 1st, 2022]] at 8:22 AM
+	- 🗣️ "There’s no magic behind CQRS and Event Sourcing. Before starting your journey it is crucial to understand the many impacts of the two patterns"
+	  
+	  Nice read about employing ES and CQRS in the domain of air traffic management, by @teivah.
+	  
+	  https://t.co/WbbOWyCO5s 
+	  
+	  ![](https://pbs.twimg.com/media/FizFbSzWYAEWGtl.png) ([View Tweet](https://twitter.com/gunnarmorling/status/1597990085584048128))

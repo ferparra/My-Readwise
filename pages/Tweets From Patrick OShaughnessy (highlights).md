@@ -33,3 +33,15 @@ url:: https://twitter.com/patrick_oshag
 	  5. Creativity, Inc. by Catmull
 	  
 	  Bonus: Nobody Wants to Read Your Sh*T by Pressfield ([View Tweet](https://twitter.com/patrick_oshag/status/1592319066899124226))
+- New highlights added [[Dec 1st, 2022]] at 1:23 PM
+	- 5 books to build big, worldwide perspective
+	  
+	  1. Lessons of History (Durant)
+	  2. Factfulness (Rosling)
+	  3. Ten Global Trends (Bailey & Tupy)
+	  4. How the World Really Works (Smil)
+	  5. Against the Gods (Bernstein)
+	  
+	  Bonus. The Prize (Yergin)
+	  
+	  What else? ([View Tweet](https://twitter.com/patrick_oshag/status/1598044215539568642))

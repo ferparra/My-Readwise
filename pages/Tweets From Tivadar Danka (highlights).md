@@ -12,3 +12,11 @@ url:: https://twitter.com/TivadarDanka
 	  Here is what's really behind the most important function of all time: 
 	  
 	  ![](https://pbs.twimg.com/media/FYBz4-cVQAYEmhf.jpg) ([View Tweet](https://twitter.com/TivadarDanka/status/1549365697678942209))
+- New highlights added [[Dec 2nd, 2022]] at 7:19 AM
+	- If it is raining, the sidewalk is wet.
+	  
+	  If the sidewalk is wet, is it raining? Not necessarily. Yet, we are inclined to think so. This is a preposterously common logical fallacy called "affirming the consequent".
+	  
+	  However, it is not totally wrong. Why? Enter the Bayes theorem. 
+	  
+	  ![](https://pbs.twimg.com/media/Fi5L6DiVsAAahKf.jpg) ([View Tweet](https://twitter.com/TivadarDanka/status/1598298382115536897))

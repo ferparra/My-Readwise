@@ -23,3 +23,9 @@ url:: https://twitter.com/ShaneAParrish
 	  Knowing how to say no to yourself is more important. ([View Tweet](https://twitter.com/ShaneAParrish/status/1461474974594707457))
 	- Intensity adds. Consistency multiplies. ([View Tweet](https://twitter.com/ShaneAParrish/status/1492153148470964227))
 	- The most practical skill in life is learning to do things when you don’t feel like doing them. Anyone can do it when it’s easy, but most people drop out the minute it gets hard. ([View Tweet](https://twitter.com/ShaneAParrish/status/1572552722158534656))
+- New highlights added [[Nov 29th, 2022]] at 10:10 PM
+	- "Patience is not passive, on the contrary, it is concentrated strength." ― Bruce Lee
+	  
+	  The most active form of patience is positioning for the future. 
+	  
+	  Patient but not passive. ([View Tweet](https://twitter.com/ShaneAParrish/status/1597250363828342784))

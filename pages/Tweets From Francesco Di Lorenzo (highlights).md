@@ -14,3 +14,7 @@ url:: https://twitter.com/frankdilo
 	  Benefits: async, can play at 1.5-2x speed, more people might watch than join a meeting, creates documentation that can be searched/referred later.
 	  
 	  We use them extensively at @typefully. ([View Tweet](https://twitter.com/frankdilo/status/1596081279392354306))
+- New highlights added [[Nov 29th, 2022]] at 12:48 AM
+	- If you try to use the same (unoptimized) database for both types of workflows, you will be in a world of pain.
+	  
+	  That's why we use @PostgreSQL for OLTP and @TimescaleDB for OLAP in @typefully. https://t.co/1yYYlx4oKv ([View Tweet](https://twitter.com/frankdilo/status/1597168433719697408))

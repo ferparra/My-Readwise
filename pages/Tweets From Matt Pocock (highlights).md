@@ -41,3 +41,7 @@ url:: https://twitter.com/mpocock1
 	  Object.keys is DELIBERATELY not very type-safe. This can feel extremely annoying to beginners.
 	  
 	  But it's for a good reason... https://t.co/CGYUGiHZSK ([View Tweet](https://twitter.com/mattpocockuk/status/1596167864553459715))
+- New highlights added [[Dec 2nd, 2022]] at 8:21 AM
+	- Best open-source TypeScript apps... GO
+	  
+	  For instance, https://t.co/9lORJTxIeM and https://t.co/C778Tt9sM3 both have open source repos. SO much to learn from those codebases. ([View Tweet](https://twitter.com/mattpocockuk/status/1598372605781635072))

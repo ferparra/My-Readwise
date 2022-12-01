@@ -99,3 +99,16 @@ url:: https://twitter.com/robkhenderson
 	  ![](https://pbs.twimg.com/media/FiBAmhkXEAIRaU4.jpg) ([View Tweet](https://twitter.com/robkhenderson/status/1594345339867250691))
 - New highlights added [[Nov 22nd, 2022]] at 8:07 PM
 	- ![](https://pbs.twimg.com/media/FiGh87wX0AIcikZ.jpg) ([View Tweet](https://twitter.com/robkhenderson/status/1594733815829647374))
+- New highlights added [[Nov 30th, 2022]] at 7:12 AM
+	- "Mimetic desire is why a class of students can enter a university with very different ideas of what they want to do...yet converge on a much smaller set of opportunities – which they mimetically reinforce in one another – by the time they graduate." https://t.co/vxdo5YWDuG ([View Tweet](https://twitter.com/robkhenderson/status/1597607986071052294))
+	- Marxian doctrine on morality and false consciousness. 
+	  
+	  ![](https://pbs.twimg.com/media/FiwF74oXkAYXUBN.jpg) 
+	  
+	  ![](https://pbs.twimg.com/media/FiwF73-XgAYa8f-.jpg) ([View Tweet](https://twitter.com/robkhenderson/status/1597658502276984832))
+- New highlights added [[Nov 30th, 2022]] at 4:02 PM
+	- Freud on the pleasures and perils of irrationality. 
+	  
+	  ![](https://pbs.twimg.com/media/FiwLyExWYA00RCT.jpg) 
+	  
+	  ![](https://pbs.twimg.com/media/FiwLyEwX0AYONbQ.jpg) ([View Tweet](https://twitter.com/robkhenderson/status/1597664932866445313))

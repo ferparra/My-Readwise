@@ -24,3 +24,7 @@ url:: https://twitter.com/patriciamou_
 	  · what are the things I say I value but don't act as if I value? 
 	  
 	  ![](https://pbs.twimg.com/media/FiNJBXkVsAAYbfw.jpg) ([View Tweet](https://twitter.com/patriciamou_/status/1595259845204115456))
+- New highlights added [[Nov 30th, 2022]] at 8:18 PM
+	- whether at the club or the cathedral, we’re all just trying to unfold 
+	  
+	  ![](https://pbs.twimg.com/media/FixveSWUcAAWNu5.jpg) ([View Tweet](https://twitter.com/patriciamou_/status/1597774924977868800))

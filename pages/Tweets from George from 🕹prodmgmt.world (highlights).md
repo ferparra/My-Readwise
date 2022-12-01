@@ -36,3 +36,15 @@ url:: https://twitter.com/nurijanian
 	  (source: @ElenaVerna) 
 	  
 	  ![](https://pbs.twimg.com/media/FiT4voMXEAAmD1m.jpg) ([View Tweet](https://twitter.com/nurijanian/status/1595673669161951238))
+- New highlights added [[Nov 30th, 2022]] at 7:12 AM
+	- How To Deal with Biases
+	  
+	  (source: Bulletproof Problem Solving) 
+	  
+	  ![](https://pbs.twimg.com/media/FivIzPmWYAAeSDA.png) ([View Tweet](https://twitter.com/nurijanian/status/1597591280552480768))
+- New highlights added [[Dec 1st, 2022]] at 8:22 AM
+	- 5 Tests of an Effective Customer Segmentation
+	  
+	  (source: @shreyas) 
+	  
+	  ![](https://pbs.twimg.com/media/Fi0t2RpXgAAxFFR.jpg) ([View Tweet](https://twitter.com/nurijanian/status/1597983856623292420))

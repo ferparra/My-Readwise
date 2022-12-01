@@ -316,3 +316,13 @@ url:: https://twitter.com/hubermanlab
 	  **legs indirect ([View Tweet](https://twitter.com/hubermanlab/status/1596575869597687808))
 - New highlights added [[Nov 27th, 2022]] at 11:17 AM
 	- We’ve put the HLP Fitness protocol out as a zero cost, no sign up required PDF, with details on sets, reps, rationale, variations according to expert input, how to cycle intensity etc. Here: https://t.co/G7kXDhKxGf ([View Tweet](https://twitter.com/hubermanlab/status/1596625505297436673))
+- New highlights added [[Nov 29th, 2022]] at 2:11 PM
+	- New Huberman Lab Podcast: 
+	  NAVIGATING CONFLICT, FINDING PURPOSE & MAINTAINING DRIVE
+	  w/@lexfridman 
+	  •Adventure & Diligence in Career
+	  •Idealogical Extremes, Wars
+	  •Habits of Productivity & Creativity
+	  •Proper Use of Social Media 
+	  •Science: Fools & Heros
+	  https://t.co/HwEpY21cNO ([View Tweet](https://twitter.com/hubermanlab/status/1597263160083243009))

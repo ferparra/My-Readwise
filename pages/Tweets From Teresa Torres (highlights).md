@@ -20,3 +20,13 @@ url:: https://twitter.com/ttorres
 	  #prodmgmt #ux #engineering 
 	  
 	  ![](https://pbs.twimg.com/media/FinFwSrWIAAv-DP.jpg) ([View Tweet](https://twitter.com/ttorres/status/1597024978532278277))
+- New highlights added [[Nov 29th, 2022]] at 11:09 AM
+	- Most teams have a bias. 
+	  They are good at testing usability, but forget about desirability. 
+	  Or they are good at feasibility, but forget about viability. 
+	  
+	  Come learn a balanced approach to identifying assumptions: https://t.co/s3RGEfnbtX
+	  
+	  #prodmgmt #ux #engineering 
+	  
+	  ![](https://pbs.twimg.com/media/FirunfLXkAUVYVj.jpg) ([View Tweet](https://twitter.com/ttorres/status/1597351383799300098))
