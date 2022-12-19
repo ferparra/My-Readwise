@@ -51,3 +51,5 @@ url:: https://twitter.com/housecor
 	  ✅Use Vite, Next, Remix, Astro, etc. 
 	  ✅HTTP via react-query, swr, Apollo, etc. 
 	  ✅Routes via React Router, Remix, Next, Tanstack Router, etc... ([View Tweet](https://twitter.com/housecor/status/1586704800988684288))
+- New highlights added [[Dec 2nd, 2022]] at 5:18 PM
+	- @edorsey I use @ApiMocking for both local dev and for tests on CI. This way UI tests are fast and predictable. And my mocks aren’t tied to Playwright or Cypress, so I can use them in Storybook, Jest, local dev, etc. ([View Tweet](https://twitter.com/housecor/status/1597966392741236738))

@@ -103,18 +103,18 @@ url:: https://twitter.com/johncutlefish
 	  Question asking takes practice, and you have to make space to diverge and converge. 
 	  
 	  ![](https://pbs.twimg.com/media/E_x_USlVIAAqzcJ.jpg) ([View Tweet](https://twitter.com/johncutlefish/status/1440167348623667202))
-	- a PRD - product requirements document
+	- a [[PRD]] - product #requirements document
 	  
 	  comes after:
 	  * a vision
 	  * a strategy
 	  * A North Star Metric and Inputs
-	  * detailed core beliefs/ ssumptions
-	  * open-ended research
-	  * bet 1-pager(s)
+	  * detailed core beliefs/#assumptions
+	  * open-ended #research
+	  * bet [[1-pager]](s)
 	  * persona-ish things
 	  * detailed history of prior bets
-	  * learning backlog
+	  * #learning backlog
 	  * (10 other things) ([View Tweet](https://twitter.com/johncutlefish/status/1449516223595626499))
 	- a big problem in our industry
 	  
@@ -231,3 +231,21 @@ url:: https://twitter.com/johncutlefish
 	  -Challenge our defaults as the only way to achieve specific results
 	  
 	  https://t.co/375v3XQ1xY ([View Tweet](https://twitter.com/johncutlefish/status/1595639544505896961))
+- New highlights added [[Dec 10th, 2022]] at 3:04 PM
+	- if you're curious... this was the prompt 
+	  
+	  ![](https://pbs.twimg.com/media/FjggKLKUcAAIhyK.jpg) ([View Tweet](https://twitter.com/johncutlefish/status/1601065053599326209))
+	- I asked ChatGPT to write causal chains for 8 "wicked loops" in product
+	  
+	  1. Premature convergence
+	  2. Knowledge loss/turnover
+	  3. Decision quality/burnout
+	  4. Lack of customer knowledge
+	  5. Reactive leadership
+	  6. Low middle management support
+	  7. UX debt
+	  8. Low code quality
+	  
+	  🤯🤯🤯🤯🤯 
+	  
+	  ![](https://pbs.twimg.com/media/FjgfQDTVIAEraYf.jpg) ([View Tweet](https://twitter.com/johncutlefish/status/1601064674585255936))

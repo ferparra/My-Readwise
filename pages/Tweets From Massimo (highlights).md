@@ -9,3 +9,9 @@ url:: https://twitter.com/Rainmaker1973
 	- Why are plants green? To reduce the noise in photosynthesis. Plants ignore the most energy-rich part of sunlight because stability matters more than efficiency, according to a recent model of photosynthesis [read more: https://t.co/GsVu4TKzSm] 
 	  
 	  ![](https://pbs.twimg.com/media/FHoQx15XEAYHCsh.jpg) ([View Tweet](https://twitter.com/Rainmaker1973/status/1475745838513094657))
+- New highlights added [[Dec 13th, 2022]] at 10:52 AM
+	- Lawrence Livermore National Laboratory scientists report they have managed to create an artificial fusion reaction that produced more energy than it took to create. Formal announcement will follow tomorrow.
+	  
+	  [read more: https://t.co/IOwrL7cYVd] 
+	  
+	  ![](https://pbs.twimg.com/media/Fjx7QjVX0AA5FkG.png) ([View Tweet](https://twitter.com/Rainmaker1973/status/1602291113938898947))

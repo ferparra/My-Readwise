@@ -28,3 +28,11 @@ url:: https://twitter.com/patriciamou_
 	- whether at the club or the cathedral, we’re all just trying to unfold 
 	  
 	  ![](https://pbs.twimg.com/media/FixveSWUcAAWNu5.jpg) ([View Tweet](https://twitter.com/patriciamou_/status/1597774924977868800))
+- New highlights added [[Dec 18th, 2022]] at 4:33 PM
+	- I think I found the best reading spot in all of the Bay Area 
+	  
+	  📍mill valley public library 
+	  
+	  ![](https://pbs.twimg.com/media/FkO7zghVsAEa_Rv.jpg) 
+	  
+	  ![](https://pbs.twimg.com/media/FkO7zgjVsAALQFV.jpg) ([View Tweet](https://twitter.com/patriciamou_/status/1604332397075476480))

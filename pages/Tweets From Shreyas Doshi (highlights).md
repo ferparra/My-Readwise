@@ -368,3 +368,12 @@ url:: https://twitter.com/shreyas
 	  This advice applies to product prioritization too: if you’re working on a fast-growing product with a tiny team, this is likely the only prioritization “framework” you need.
 	  
 	  And the real skill is in how you reach the HELL YEAH! ([View Tweet](https://twitter.com/shreyas/status/1434940492685266948))
+- New highlights added [[Dec 7th, 2022]] at 8:35 AM
+	- We waste years by not wanting to waste hours.
+	  
+	  — Amos Tversky
+	  
+	  This in my opinion is the most important quote that PMs at all levels should internalize. ([View Tweet](https://twitter.com/shreyas/status/1600208899143241729))
+- New highlights added [[Dec 9th, 2022]] at 6:48 PM
+	- How to “manage up”, with integrity:
+	- Seek your manager’s input on your next career milestone (and ask for advocacy)

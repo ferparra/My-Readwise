@@ -20,3 +20,9 @@ url:: https://twitter.com/TivadarDanka
 	  However, it is not totally wrong. Why? Enter the Bayes theorem. 
 	  
 	  ![](https://pbs.twimg.com/media/Fi5L6DiVsAAahKf.jpg) ([View Tweet](https://twitter.com/TivadarDanka/status/1598298382115536897))
+- New highlights added [[Dec 8th, 2022]] at 10:58 PM
+	- My new post is out in The Palindrome!
+	  
+	  It's seemingly about measuring the angles between arbitrary objects such as functions. What it is really about: the stunning power of abstraction.
+	  
+	  https://t.co/VjphrO9nwC ([View Tweet](https://twitter.com/TivadarDanka/status/1600812490312495105))

@@ -326,3 +326,11 @@ url:: https://twitter.com/hubermanlab
 	  •Proper Use of Social Media 
 	  •Science: Fools & Heros
 	  https://t.co/HwEpY21cNO ([View Tweet](https://twitter.com/hubermanlab/status/1597263160083243009))
+- New highlights added [[Dec 13th, 2022]] at 7:49 PM
+	- This review in @ScienceMagazine on “anti-aging” diets is quite good and is available in its entirety free of charge: https://t.co/B6m0yPigSQ ([View Tweet](https://twitter.com/hubermanlab/status/1602307821214650369))
+- New highlights added [[Dec 14th, 2022]] at 7:12 AM
+	- To be clear, calm and focused: 
+	  
+	  1) Sleep well and enough (for you).
+	  
+	  2) If you didn’t sleep well, don’t externalize your thoughts any more than absolutely necessary until after you do. ([View Tweet](https://twitter.com/hubermanlab/status/1602714861888323584))

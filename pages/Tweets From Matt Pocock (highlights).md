@@ -45,3 +45,7 @@ url:: https://twitter.com/mpocock1
 	- Best open-source TypeScript apps... GO
 	  
 	  For instance, https://t.co/9lORJTxIeM and https://t.co/C778Tt9sM3 both have open source repos. SO much to learn from those codebases. ([View Tweet](https://twitter.com/mattpocockuk/status/1598372605781635072))
+- New highlights added [[Dec 3rd, 2022]] at 7:14 AM
+	- 🔥 TypeScript Tip 🔥
+	  
+	  Checking out TS codebases like @excalidraw's has been so enlightening - especially how many of them are using 'as const' over enums. https://t.co/zIuvuNPWyJ ([View Tweet](https://twitter.com/mattpocockuk/status/1598708710523772929))

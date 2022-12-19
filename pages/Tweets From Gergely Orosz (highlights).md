@@ -37,7 +37,7 @@ url:: https://twitter.com/GergelyOrosz
 	  Incredible how this seems to have remained constant over decades: 
 	  
 	  ![](https://pbs.twimg.com/media/FRmU6IcXEAEAZfi.jpg) ([View Tweet](https://twitter.com/GergelyOrosz/status/1520410081103335424))
-	- Every time I post a diagram about how big tech works - with a PRD/ERD process -, someone outside big tech shows up and assumes This Looks Like Waterfall Thus This Is Bad.
+	- Every time I post a #diagram about how big tech works - with a [[PRD]]/ERD process -, someone outside big tech shows up and assumes This Looks Like Waterfall Thus This Is Bad.
 	  
 	  Buddy.
 	  
@@ -45,3 +45,11 @@ url:: https://twitter.com/GergelyOrosz
 	  
 	  ![](https://pbs.twimg.com/media/FGTtk96XoAMvsns.jpg) ([View Tweet](https://twitter.com/GergelyOrosz/status/1469560602347675648))
 	- Today I learned how Spotify
+- New highlights added [[Dec 13th, 2022]] at 7:49 PM
+	- Performance reviews are coming up. 
+	  
+	  An objective way to summarize your own achievements is to use numbers. Those numbers are facts, hard to argue with, and can be compared, should anyone want to do so.
+	  
+	  Some ideas for numbers. What else have you seen used in perf reviews? 
+	  
+	  ![](https://pbs.twimg.com/media/FjyO51vXwAIlHTf.jpg) ([View Tweet](https://twitter.com/GergelyOrosz/status/1602312952526344192))

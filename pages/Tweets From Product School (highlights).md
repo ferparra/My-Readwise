@@ -5,7 +5,7 @@ category:: #tweets
 url:: https://twitter.com/productschool
 
 - Highlights first synced by [[Readwise]] [[Nov 25th, 2022]]
-	- Product prioritization is a key element of #prodmgmt. Learn how to prioritize features and what frameworks can be used to measure their value.
+	- [[Product Prioritization]] is a key element of #prodmgmt. Learn how to prioritize features and what #frameworks can be used to measure their #value.
 	  
 	  If you’d like to dive deeper into this topic, check out our blog post by @LisaDziuba 
 	  

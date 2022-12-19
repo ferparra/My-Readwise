@@ -48,3 +48,11 @@ url:: https://twitter.com/nurijanian
 	  (source: @shreyas) 
 	  
 	  ![](https://pbs.twimg.com/media/Fi0t2RpXgAAxFFR.jpg) ([View Tweet](https://twitter.com/nurijanian/status/1597983856623292420))
+- New highlights added [[Dec 3rd, 2022]] at 8:15 AM
+	- Eng Manager vs. PM responsibilities
+	  
+	  PM: Product roadmap and prioritization
+	  Eng: Estimating scope/timing/complexity of each feature
+	  
+	  PM: Creating content to help teams agree on strategy, customer problems, and use cases
+	  Eng: Assigning tickets/tasks to engineers ([View Tweet](https://twitter.com/nurijanian/status/1598723743660101633))

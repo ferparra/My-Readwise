@@ -13,7 +13,7 @@ url:: https://twitter.com/SalomonCrypto/status/1576284739392090112
 	  
 	  ![](https://pbs.twimg.com/media/FeAWnZrUYAA_EGv.jpg) ([View Tweet](https://twitter.com/SalomonCrypto/status/1576284739392090112))
 		- **Note**: Thread
-	- (2/21) The Byzantine Generals Problem was introduced by an academic paper in 1982. It describes a game theory problem that shows how difficult it can be for dispersed parties to reach an agreement (consensus) without help of a trusted central party.
+	- (2/21) The Byzantine Generals Problem was introduced by an academic paper in 1982. It describes a [[Game Theory]] problem that shows how difficult it can be for dispersed parties to reach an agreement (consensus) without help of a trusted central party.
 	  
 	  https://t.co/bqqu9IUFve ([View Tweet](https://twitter.com/SalomonCrypto/status/1576284742785191937))
 	- (3/21) The Byzantine Generals Problem is a thought experiment: imagine an ancient city at war with Byzantium.

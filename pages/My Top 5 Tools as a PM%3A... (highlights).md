@@ -37,9 +37,9 @@ url:: https://twitter.com/Jenyangwong/status/1597311879713390598
 	  Ability to add and record comments is huge. This replaces the back-and-forth in mtgs, and way more valuable than 1-way videos. 
 	  
 	  ![](https://pbs.twimg.com/media/FirKtsjUUAIbf3c.jpg) ([View Tweet](https://twitter.com/Jenyangwong/status/1597311910449274880))
-	- 5/ Use Cases - PRD Handoff
+	- 5/ Use Cases - [[PRD]] #handoff
 	  
-	  What I do most often: I record a loom to walkthrough the context, goals & requirements in the PRD, & the designs in Figma. This allows anyone to easily pick up a PRD, watch a 1.25x speed loom and get a refresher as they context switch to a new feature. 
+	  What I do most often: I record a loom to walkthrough the context, goals & requirements in the [[PRD]], & the designs in [[Figma]]. This allows anyone to easily pick up a [[PRD]], watch a 1.25x speed loom and get a refresher as they context switch to a new feature. 
 	  
 	  ![](https://pbs.twimg.com/media/FirKuLrVEAAH0-q.jpg) ([View Tweet](https://twitter.com/Jenyangwong/status/1597311917441175552))
 	- 6/ Use Cases - Design Iterations

@@ -32,3 +32,12 @@ url:: https://twitter.com/TfTHacker
 	  Install info in following tweet. #TfT 
 	  
 	  ![](https://pbs.twimg.com/media/FK5wnIxXEAEZti_.jpg) ([View Tweet](https://twitter.com/TfTHacker/status/1490252348857503748))
+- New highlights added [[Dec 7th, 2022]] at 6:53 PM
+	- High praise for @aryansawhney17. He developed SmartBlocks for @logseq. 
+	  
+	  I am blown away by his "Ultime Guide to Task Management in Logseq" video. 
+	  
+	  If you don't need collab, Logseq blow's away Roam. Just saying 😜.
+	  
+	  #TfT
+	  https://t.co/tcRHitOpgr ([View Tweet](https://twitter.com/TfTHacker/status/1600092150351290370))

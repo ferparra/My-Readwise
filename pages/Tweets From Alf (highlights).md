@@ -46,3 +46,11 @@ url:: https://twitter.com/MacroAlf
 	  Don't mix them up.
 	  
 	  16/ ([View Tweet](https://twitter.com/MacroAlf/status/1570402524477243394))
+- New highlights added [[Dec 10th, 2022]] at 3:04 PM
+	- 100 years of history teach us a recession ALWAYS led to a marked slowdown in inflation.
+	  
+	  The average recession took 16 months to bring inflation down from its peak to 2%, but it always did.
+	  
+	  If your money is on a recession with sticky inflation, this would be the first time ever. 
+	  
+	  ![](https://pbs.twimg.com/media/FjjZBKRWIAITa5Y.png) ([View Tweet](https://twitter.com/MacroAlf/status/1601366332527693824))

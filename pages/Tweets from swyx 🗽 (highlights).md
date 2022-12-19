@@ -85,3 +85,11 @@ url:: https://twitter.com/swyx
 	  https://t.co/cRtuZa0dMu
 	  
 	  Check it out if you want to learn JavaScript from two of the best technical explainers in the world! ([View Tweet](https://twitter.com/swyx/status/1415860791610286080))
+- New highlights added [[Dec 4th, 2022]] at 12:01 PM
+	- 🆕 Everything We Know About ChatGPT So Far
+	  
+	  https://t.co/vymiqW5TQk
+	  
+	  ChatGPT is as big a jump from GPT3, as GPT3 itself was a jump from GPT2. I read all the things and tried them all out. Here's a one-pager to take with you. 
+	  
+	  ![](https://pbs.twimg.com/media/FjF17hTagAEAYt2.jpg) ([View Tweet](https://twitter.com/swyx/status/1599189032529178624))

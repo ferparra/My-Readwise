@@ -1,0 +1,15 @@
+title:: The Ultimate Guide to SEO | Ethan Smith (highlights)
+author:: [[Lenny's Podcast: Product | Growth | Career]]
+full-title:: "The Ultimate Guide to SEO | Ethan Smith"
+category:: #podcasts
+url:: https://share.snipd.com/episode/c6646990-5e95-4336-9e76-1198e67d9ffc
+
+- Highlights first synced by [[Readwise]] [[Dec 12th, 2022]]
+	- How to Cluster Keywords into Topics and how to find topics? 
+	  
+	  Summary:
+	  Masterclass's butter lettuce ranks for about 400 different keywords. There are themes like health benefits and other kinds of lettuce and recipes. And part of why masterclass early on was able to outrank food network, who has way more authority in food is because other companies have these gaps. They were not looking at all 400 keywords and they didn't talk about health benefits. So a Google's content score said, you're not comprehensive.
+	  
+	  Transcript:
+	  Speaker 1
+	  So an example with masterclass's butter lettuce. And the key, I think it ranks for about 400 different keywords. And there are themes like health benefits and other kinds of lettuce and recipes. So if we only define what it was, what butter lettuce is, and we did not talk about health benefits, then we had this gap and we're not going to perform as well. And part of why masterclass early on was able to outrank food network, who has way more who've had way more authority in food is because other companies have these gaps. They were not looking at all 400 keywords and they didn't talk about health benefits. And therefore they didn't rank as well because a Google's content score said, you're not comprehensive and being users who were searching for butter lettuce health benefits didn't get the answer and then left one somewhere else. One other example that I'll give is with better up, we have this article five year plan. And if you look at that article, I think it ranks for about a thousand different keywords. And there are themes like examples and templates, personal versus business five year plan and five year versus 10 year versus one year plan. And again, because we have all these sub topic themes, our content is comprehensive, content scores higher, and users who are searching for five year plan template get a template. And now we have a better engagement score. So those are two examples. And one thing that I'll say is the way that we can know how we should cluster keywords, like should we have one page for template versus examples? Should we have two separate pages? You can basically put in five year plan template, five year plan examples. And you can look to see how much overlap of the results are there. So if the results are completely different for those two keywords, you should probably have two different pages. But if they're all the same, Google saying these keywords are essentially a single concept or topic. So that's how you can think about, you know, which keywords should be clustered under one topic or another. ([Time 0:34:35](https://share.snipd.com/snip/24fecc4b-1c7a-4ab7-8967-0e40589263fc))

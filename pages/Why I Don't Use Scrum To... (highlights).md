@@ -5,13 +5,13 @@ category:: #tweets
 url:: https://twitter.com/SergioRocks/status/1577644315924467712
 
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
-	- Why I don't use Scrum to manage my Remote Teams?
+	- Why I don't use [[Scrum]] to manage my Remote Teams?
 	  
 	  TL;DR: It adds at least 8 hours of meetings per Sprint. That's 2 full days of lost productivity, per team member, per month!
 	  
 	  This is what I do instead 👇 ([View Tweet](https://twitter.com/SergioRocks/status/1577644315924467712))
 		- **Note**: Thread
-	- Earlier in my career, I did use Scrum. A lot, actually.
+	- Earlier in my career, I did use [[Scrum]]. A lot, actually.
 	  
 	  At times because I was pushed to do it. Other times because I didn't know better.
 	  
@@ -20,11 +20,11 @@ url:: https://twitter.com/SergioRocks/status/1577644315924467712
 	- And those 8 hours of meetings got extended every Sprint.
 	  
 	  Because either:
-	- I started seeing red flags in Scrum when I started implementing asynchronous processes in my teams.
+	- I started seeing red flags in [[Scrum]] when I started implementing #asynchronous processes in my teams.
 	  
 	  I hired people in different time zones, and forcing them all to sit in so many meetings started feeling like a big bottleneck.
 	  
-	  Scrum isn't compatible with Async, imo! ([View Tweet](https://twitter.com/SergioRocks/status/1577644333297188869))
+	  [[Scrum]] isn't compatible with Async, imo! ([View Tweet](https://twitter.com/SergioRocks/status/1577644333297188869))
 	- Since then, I've stopped using Scrum. It was my first step to reduce meetings in my teams.
 	  
 	  Beyond the time actually spent in meetings, they are also a big distraction for people who need to do deep work.
@@ -87,7 +87,7 @@ url:: https://twitter.com/SergioRocks/status/1577644315924467712
 	  For tasks with denser trade off considerations, we jump on a meeting to discuss those live and commit to an approach.
 	  
 	  Long iterations over async comms can create very long lead times, so I opt for meeting on those. ([View Tweet](https://twitter.com/SergioRocks/status/1577644375965835266))
-	- This is how I shifted from a heavy meeting culture (led by Scrum), to an Async-first workflow.
+	- This is how I shifted from a heavy meeting culture (led by [[Scrum]]), to an Async-first workflow.
 	  
 	  I can tell it was one of the key contributions to this acute before & after effect in my career.
 	  

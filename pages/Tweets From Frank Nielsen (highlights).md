@@ -53,3 +53,8 @@ url:: https://twitter.com/FrnkNlsn
 	  https://t.co/5JIvGb77Mr 
 	  
 	  ![](https://pbs.twimg.com/media/FiqkuccXoAA5Hza.jpg) ([View Tweet](https://twitter.com/FrnkNlsn/status/1597270155448315905))
+- New highlights added [[Dec 4th, 2022]] at 12:01 PM
+	- Engrossed in reading of "Journey to the edge of reason: The life of Kurt Godel". Godel (PhD at 23 yo) is famous for his incompleteness theorem (published at 25 yo):  "no formal math system captures every math truth within its own bounds". Tormented life
+	  https://t.co/I6ayC0LCq2 
+	  
+	  ![](https://pbs.twimg.com/media/FjCgJQoVEAAx_79.jpg) ([View Tweet](https://twitter.com/FrnkNlsn/status/1598955543137488904))

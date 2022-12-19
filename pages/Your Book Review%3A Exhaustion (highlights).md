@@ -1,0 +1,9 @@
+title:: Your Book Review: Exhaustion (highlights)
+author:: [[Scott Alexander]]
+full-title:: "Your Book Review: Exhaustion"
+category:: #articles
+url:: https://astralcodexten.substack.com/p/your-book-review-exhaustion
+
+- Highlights first synced by [[Readwise]] [[Dec 11th, 2022]]
+	- The sense of intense anger and distress at the mere whiff of a non-biological component of the explanation, or a non-biological treatment, is due in part to the long process people go through to get to a diagnosis. CFS is a condition that assumes the trappings of biomedical Western medicine, but suffers from the inconvenient lack of concrete blood and X-ray results that would convince biomedically-minded doctors to take it seriously. Sufferers describe going from doctor to doctor, receiving greater or lesser doses of Shorter-style hostility or incomprehension, sometimes only coming across the diagnosis online. Having been told, explicitly or implicitly, that “it’s all in your head”, the natural response is to kick as hard as possible in the other direction. ([View Highlight](https://read.readwise.io/read/01gkzbcgspmz4hnmwamzr6vcew))
+	- Classical melancholic depression, for instance, also features lack of energy, appetite and sensory changes alongside the low mood and feelings of guilt and suicidality. Are we simply seeing an artificial divide between people with prominent fatigue who receive or cling to a biological explanation (CFS sufferers) vs people who receive or cling to a psychological explanation (depression sufferers)? ([View Highlight](https://read.readwise.io/read/01gkzbb1frkahx1mrn9vjn0gvz))

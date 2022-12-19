@@ -33,3 +33,19 @@ url:: https://twitter.com/SahilBloom
 	  Lesson: When you sprint, sprint hard. When you rest, rest hard. 
 	  
 	  ![](https://pbs.twimg.com/media/FHooGAxXwAQyCNq.jpg) ([View Tweet](https://twitter.com/SahilBloom/status/1475535916575903751))
+- New highlights added [[Dec 13th, 2022]] at 10:52 AM
+	- In summary:
+	  
+	  (1) Family time is limited—cherish it.
+	  
+	  (2) Friend time is limited—prioritize real ones.
+	  
+	  (3) Partner time is significant—never settle.
+	  
+	  (4) Children time is precious—be present.
+	  
+	  (5) Coworker time is significant—find energy.
+	  
+	  (6) Alone time is highest—love yourself. 
+	  
+	  ![](https://pbs.twimg.com/media/FhXf91ZXgAAvc3G.jpg) ([View Tweet](https://twitter.com/SahilBloom/status/1591424561111003138))

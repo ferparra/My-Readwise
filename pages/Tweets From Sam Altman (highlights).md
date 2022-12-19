@@ -25,3 +25,7 @@ url:: https://twitter.com/sama
 	- Toughness is extremely important to success.
 	  
 	  Fortunately it can be cultivated, and to a surprising extent. Of all the traits that matter, the return on effort might be highest here. ([View Tweet](https://twitter.com/sama/status/1494778593498439681))
+- New highlights added [[Dec 6th, 2022]] at 7:05 PM
+	- challenge for companies based on LLMs--they can do a lot of technical work to get a current-generation model to perform ok, and then have it get beat by a next-gen model out of the box.
+	  
+	  proprietary data and product are two good places to focus for building value--what else? ([View Tweet](https://twitter.com/sama/status/1584718051005837312))

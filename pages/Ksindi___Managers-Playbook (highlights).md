@@ -5,7 +5,7 @@ category:: #articles
 url:: https://github.com/ksindi/managers-playbook
 
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
-	- Have a bias for action and decision-making over planning and consensus.
+	- Have a bias for action and #decision-making over planning and consensus.
 	  Favor writing over meeting.
 	  Understand how your products are used in the wild. For example, join sales and support calls.
 	  Work backward by focusing on the outcomes you want to achieve.

@@ -9,3 +9,9 @@ url:: https://twitter.com/algekalipso
 	- Everyone knows that OpenAI developed GPT-4 simply by taking GPT-3 and adding the prompt:
 	  
 	  "The following is a text written by GPT-4 using this prompt:" ([View Tweet](https://twitter.com/algekalipso/status/1589152134226153472))
+- New highlights added [[Dec 4th, 2022]] at 9:01 AM
+	- Remember: in higher dimensions you rarely get stuck in local maxima - usually it's a saddle point masquerading as a cul-de-sac.
+	  
+	  This is why experiencing higher (phenomenal) dimensions on meditation/DMT can be so liberating. You notice you were never stuck. The knot isn't a knot. 
+	  
+	  ![](https://pbs.twimg.com/media/Fi6xco5UUAAYbqJ.jpg) ([View Tweet](https://twitter.com/algekalipso/status/1598410749264920576))

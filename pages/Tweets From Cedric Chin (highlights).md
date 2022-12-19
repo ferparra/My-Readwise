@@ -19,3 +19,13 @@ url:: https://twitter.com/ejames_c
 	- This is an absolutely fascinating thread on decision making.
 	  
 	  I particularly liked the idea that in complex, wicked, fast moving environments, policymakers fall back to “the logic of appropriateness” over “the logic of consequences”. https://t.co/63htTkzNsE ([View Tweet](https://twitter.com/ejames_c/status/1498496421468975104))
+- New highlights added [[Dec 6th, 2022]] at 7:05 PM
+	- There’s an interesting series of comments by John Danaher on nerves / confidence in the context of sport on his most recent Lex Fridman podcast appearance. 
+	  
+	  “You have to realise that almost every element of what people describe as mental preparation has physical underpinnings.” https://t.co/S5uNnPEbbw ([View Tweet](https://twitter.com/ejames_c/status/1599946602000822272))
+- New highlights added [[Dec 18th, 2022]] at 4:33 PM
+	- The Power Law is an excellent history of venture capital. Hidden in the book, tucked away in the chapter about China, is this totally random aside. 
+	  
+	  Well played, @scmallaby, well played. 
+	  
+	  ![](https://pbs.twimg.com/media/FkOx2WMakAEjFa6.jpg) ([View Tweet](https://twitter.com/ejames_c/status/1604321451037057024))

@@ -47,3 +47,12 @@ url:: https://twitter.com/Jeande_d
 	  https://t.co/dFRFA94fM6 
 	  
 	  ![](https://pbs.twimg.com/media/FihCDZ_VEAAEHAs.jpg) ([View Tweet](https://twitter.com/Jeande_d/status/1596598699638943744))
+- New highlights added [[Dec 18th, 2022]] at 3:32 PM
+	- Applied Machine Learning - Cornell CS5785
+	  
+	  "Starting from the very basics, covering all of the most important ML algorithms and how to apply them in practice. Executable Jupyter notebooks (and as slides)".  80 videos.
+	  
+	  Videos: https://t.co/QwT5hqYSQc
+	  Code: https://t.co/RvTTsRAlhU 
+	  
+	  ![](https://pbs.twimg.com/media/FkM4lpRVQAAkuXC.jpg) ([View Tweet](https://twitter.com/Jeande_d/status/1604188117979656192))

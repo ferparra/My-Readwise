@@ -8,6 +8,7 @@ url:: https://blas.com/monetizing-innovation/
 	- New products fail for many reasons. But the root of all innovation evil—what billionaire entrepreneur Elon Musk would call the set of “first principles”—is the failure to put the customer’s willingness to pay for a new product at the very core of product design.
 	- “What value does this component bring to our customer and its customers, and what portion of that value can we capture?” Instead, it asked, “What does this component cost to make, and what minimum margin do I need to add on top of that?”
 	- Whether you like it or not, your customers are different, so customer segmentation is crucial. But segmentation based on demographics—the primary way companies group their customers—is misleading. You should build segments based on differences in your customers’ willingness to pay for your new product.
+	  id:: 9e1cb50f-b5ec-4b15-973c-c088cdbdb29b
 	- Doing product configuration right means you design a product with the right features for a segment—that is, just the features customers are willing to pay for.
 	- Ideally, no more than a quarter of your customers should opt for the good option, while 70 percent should opt for the better or the best
 	- The Subscription ModelDynamic PricingMarket-Based Pricing: AuctionsAlternative Metric Pricing/Pay As You GoFreemium Pricing

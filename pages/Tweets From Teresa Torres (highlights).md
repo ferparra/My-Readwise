@@ -30,3 +30,11 @@ url:: https://twitter.com/ttorres
 	  #prodmgmt #ux #engineering 
 	  
 	  ![](https://pbs.twimg.com/media/FirunfLXkAUVYVj.jpg) ([View Tweet](https://twitter.com/ttorres/status/1597351383799300098))
+- New highlights added [[Dec 8th, 2022]] at 4:32 PM
+	- "Reflect back what you heard. It shows that you are listening and allows the participant to clarify."
+	  
+	  https://t.co/EmFkTdtHsE
+	  
+	  #prodmgmt #ux #engineering 
+	  
+	  ![](https://pbs.twimg.com/media/FjbduzQXkAAVUFo.jpg) ([View Tweet](https://twitter.com/ttorres/status/1600710515663175681))

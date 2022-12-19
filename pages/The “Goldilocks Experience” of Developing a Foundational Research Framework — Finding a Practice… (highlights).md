@@ -5,4 +5,4 @@ category:: #articles
 url:: https://medium.com/p/a8c647b906e3
 
 - Highlights first synced by [[Readwise]] [[Nov 18th, 2022]]
-	- How I combined Personas, JTBD, and Journeys to make a more complete user story
+	- How I combined Personas, [[JTBD]], and Journeys to make a more complete user story

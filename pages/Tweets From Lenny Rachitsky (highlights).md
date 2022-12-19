@@ -81,3 +81,12 @@ url:: https://twitter.com/lennysan
 	  ✔️ Keeping everyone on track
 	  ✔️ Making sure the track is heading in the right direction
 	  ✔️ Staying one step ahead https://t.co/ePMC4JpQqa ([View Tweet](https://twitter.com/lennysan/status/1449850248138919940))
+- New highlights added [[Dec 9th, 2022]] at 7:46 AM
+	- New podcast episode: The art and science of pricing with @MadhavanSF, author of Monetizing Innovation
+	  
+	  Will blow your mind 💯
+	  
+	  ➔ How to have willingness to pay conversations
+	  ➔ Segmentation strategies
+	  ➔ Pricing models
+	  ➔ Tips for adjusting pricing during a downturn + much more https://t.co/I5VEYCslVs ([View Tweet](https://twitter.com/lennysan/status/1600897792414621697))

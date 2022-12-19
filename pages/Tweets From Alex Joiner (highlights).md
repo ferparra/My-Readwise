@@ -17,3 +17,8 @@ url:: https://twitter.com/IFM_Economist
 	- And there it is, the first genuine pullback in retail sales since the pandemic. Much weaker than market expectation and materially erodes the ongoing spending narrative and Australia households are some how different. Should this continue the #RBA's job is largely done 
 	  
 	  ![](https://pbs.twimg.com/media/FinGNWdakAEvzTE.png) ([View Tweet](https://twitter.com/IFM_Economist/status/1597026050110001152))
+- New highlights added [[Dec 8th, 2022]] at 5:29 PM
+	- The latest IFM Economics Quarterly - Weaker growth in 2023 represents the “cost” of central banks trying to drag inflation meaningfully lower. The question is just how high will this cost be? See link for more.
+	  https://t.co/ilQU82OvqW 
+	  
+	  ![](https://pbs.twimg.com/media/FjboZvqacAEpA_z.png) ([View Tweet](https://twitter.com/IFM_Economist/status/1600722444683448325))

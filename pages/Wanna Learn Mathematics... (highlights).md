@@ -59,7 +59,7 @@ url:: https://twitter.com/thePiggsBoson/status/1443606526552203271
 	- Graph Theory and Coloring by Tom Leighton | Mathematics for Computer Science by MCW:
 	  
 	  https://t.co/E15VhsO7ny ([View Tweet](https://twitter.com/thePiggsBoson/status/1443606580633620481))
-	- Game Theory and Strategic thinking Lecture Series by Professor Ben Polak. Lectures include dominance, backward induction, Nash equilibrium, evolutionary stability, commitment, credibility, asymmetric information, adverse selection, and signaling:
+	- [[Game Theory]] and [[Strategic Thinking]] Lecture Series by Professor [[Ben Polak]]. Lectures include dominance, backward induction, Nash equilibrium, evolutionary stability, commitment, credibility, asymmetric information, adverse selection, and signaling:
 	  
 	  https://t.co/kFQVmIi2JM ([View Tweet](https://twitter.com/thePiggsBoson/status/1443606584685260810))
 	- Real Analysis Lecture Series by Prof. S.H. Kulkarni, Department of Mathematics, IIT Madras:

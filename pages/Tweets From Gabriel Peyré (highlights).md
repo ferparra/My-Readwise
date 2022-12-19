@@ -34,3 +34,7 @@ url:: https://twitter.com/gabrielpeyre
 	- Oldies but goldies: W. Heisenberg, Ueber den anschaulichen Inhalt der quantentheoretischen Kinematik und Mechanik, 1923. Heisenberg uncertainty principle states that a function cannot be well concentrated both in space and in frequency.  https://t.co/xhylNu40CN https://t.co/vBXr3KVZX8 ([View Tweet](https://twitter.com/gabrielpeyre/status/1596020866105475072))
 - New highlights added [[Nov 26th, 2022]] at 7:21 PM
 	- Generalized linear heat diffusion are obtained by replacing the Laplacian by a fractional Laplacian. Steepest descent minimization of the Sobolev norm of the function. https://t.co/sRqRALCYTE https://t.co/9ImJ8asQhh ([View Tweet](https://twitter.com/gabrielpeyre/status/1596383252897570819))
+- New highlights added [[Dec 12th, 2022]] at 6:08 PM
+	- The Laplacian of a graph is a semi-definite positive operator which mimics second order differences along the graph’s edges. https://t.co/sI0gmNXEAS 
+	  
+	  ![](https://pbs.twimg.com/media/Fjs2xCmXkAUldl4.jpg) ([View Tweet](https://twitter.com/gabrielpeyre/status/1602181457400631296))

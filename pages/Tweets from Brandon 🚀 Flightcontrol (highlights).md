@@ -19,3 +19,13 @@ url:: https://twitter.com/flybayer
 	  https://t.co/d76l52JNgO 
 	  
 	  ![](https://pbs.twimg.com/media/Fbg_c1SXEAk8N9z.jpg) ([View Tweet](https://twitter.com/flybayer/status/1565071698109599746))
+- New highlights added [[Dec 6th, 2022]] at 5:05 PM
+	- 🤯🤯🤯 I've always shied away from writing SQL because I don't know it well. 
+	  
+	  But suddenly it's EASY.
+	  
+	  Just give it your prisma schema and off you go! 
+	  
+	  ![](https://pbs.twimg.com/media/FjO6bfAXwA0ou9e.jpg) 
+	  
+	  ![](https://pbs.twimg.com/media/FjO7YBbXwAUr4we.jpg) ([View Tweet](https://twitter.com/flybayer/status/1599828768704450560))

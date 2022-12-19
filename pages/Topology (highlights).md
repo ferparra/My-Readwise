@@ -1,0 +1,14 @@
+title:: Topology (highlights)
+author:: [[topology.mitpress.mit.edu]]
+full-title:: "Topology"
+category:: #articles
+url:: https://topology.mitpress.mit.edu/
+
+- Highlights first synced by [[Readwise]] [[Dec 19th, 2022]]
+	- 0 Preliminaries 0.1 Basic Topology 0.2 Basic Category Theory 0.2.1 Categories 0.2.2 Functors 0.2.3 Natural Transformations and the Yoneda Lemma0.3 Basic Set Theory0.3.1 Functions 0.3.2 The Empty Set and OnePoint Set0.3.3 Products and Coproducts in Set0.3.4 Products and Coproducts in Any Category0.3.5 Exponentiation in Set0.3.6 Partially Ordered SetsExercises
+	- 1 Examples and Constructions1.1 Examples and Terminology 1.1.1 Examples of Spaces1.1.2 Examples of Continuous Functions1.2 The Subspace Topology1.2.1 The First Characterization1.2.2 The Second Characterization1.3 The Quotient Topology1.3.1 The First Characterization1.3.2 The Second Characterization1.4 The Product Topology 1.4.1 The First Characterization 1.4.2 The Second Characterization1.5 The Coproduct Topology1.5.1 The First Characterization1.5.2 The Second Characterization1.6 Homotopy and the Homotopy CategoryExercises
+	- 2 Connectedness and Compactness2.1 Connectedness2.1.1 Definitions, Theorems, and Examples2.1.2 The Functorπ02.1.3 Constructions and Connectedness2.1.4 Local (Path) Connectedness2.2 Hausdorff Spaces2.3 Compactness2.3.1 Definitions, Theorems, and Examples2.3.2 Constructions and Compactness2.3.3 Local CompactnessExercises
+	- 3 Limits of Sequences and Filters3.1 Closure and Interior3.2 Sequences3.3 Filters and Convergence3.4 Tychonoff’s Theorem3.4.1 Ultrafilters and Compactness3.4.2 A Proof of Tychonoff’s Theorem3.4.3 A Little Set TheoryExercises
+	- 4 Categorical Limits and Colimits4.1 Diagrams Are Functors4.2 Limits and Colimits4.3 Examples4.3.1 Terminal and Initial Objects4.3.2 Products and Coproducts4.3.3 Pullbacks and Pushouts4.3.4 Inverse and Direct Limits4.3.5 Equalizers and Coequalizers4.4 Completeness and CocompletenessExercises
+	- 5 Adjunctions and the Compact-Open Topology5.1 Adjunctions5.1.1 The Unit and Counit of an Adjunction5.2 Free-Forgetful Adjunction in Algebra 5.3 The Forgetful Functor U: Top —> Set and Its Adjoints5.4 Adjoint Functor Theorems5.5 Compactifications5.5.1 The One-Point Compactification5.5.2 The Stone-Cech Compactification5.6 The Exponential Topology5.6.1 The Compact-Open Topology5.6.2 The Theorems of Ascoli and Arzela5.6.3 Enrich the Product-Hom Adjunction in Top5.7 Compactly Generated Weakly Hausdorff SpacesExercises
+	- 6 Paths, Loops, Cylinders, Suspensions, . . .6.1 Cylinder-Free Path Adjunction 6.2 The Fundamental Groupoid and Fundamental Group 6.3 The Categories of Pairs and Pointed Spaces6.4 The Smash-Hom Adjunction6.5 The Suspension-Loop Adjunction 6.6 Fibrations and Based Path Spaces6.6.1 Mapping Path Space and Mapping Cylinder6.6.2 Examples and Results6.6.3 Applications of π1S1 6.7 The Seifert van Kampen Theorem6.7.1 ExamplesExercises

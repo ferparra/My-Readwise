@@ -1,0 +1,18 @@
+title:: Ben Horowitz and Brian Armstrong on Building and Overcoming the Hard Things (highlights)
+author:: [[a16z Podcast]]
+full-title:: "Ben Horowitz and Brian Armstrong on Building and Overcoming the Hard Things"
+category:: #podcasts
+url:: https://share.snipd.com/episode/06826257-7724-45d4-b518-3e2236d07495
+
+- Highlights first synced by [[Readwise]] [[Dec 12th, 2022]]
+	- The Heisenberg Uncertainty Principle of Management
+	  
+	  Summary:
+	  There's kind of two schools of thought. One school of thought is get data and instrument it, right? And you know, obviously we have this performance review process,. Most employees will tend to rate each other really highly for peer review. They don't really want to do the tough thing. Even a lot of managers, you know, you have to really push them over and over again.
+	  
+	  Transcript:
+	  Speaker 2
+	  And when you think about the process for that, because it's a really, you kind of face this Heisenberg uncertainty principle of management, right, where as soon as you go and look for, okay, who's not adding value? Everything changes. People are aware that you're doing that. So how do you think about kind of overcoming the kind of the politics, the gamesmanship, the kind of things that go on in a company, if you actually try and zoom in and go, okay, like, what do we really need to be doing? Who's really contributing?
+	  
+	  Speaker 1
+	  Yeah, well, I mean, I think I should ask you this question too. You're the expert on this, but hard. You know, I actually, I don't think we were just talking about this backstage a little bit. I don't think I've ever found a perfect solution to this. There's kind of two schools of thought. So one school of thought is get data and instrument it, right? And you know, obviously we have this performance review process, but people, most employees will tend to rate each other really highly and for peer review. They don't really want to do the tough thing. Even a lot of managers, you know, you have to really push them over and over again. It's like, I don't have anybody who's not great at my team, right? And it's like, well, there, no matter how great your team is, there's always somebody who's better than someone else, but you don't want to get into the stack ranking thing. So I think there's an opportunity to actually build some HR software in this space that does pull in data and does things like the keeper test, you know, from Netflix, which tends to pull out better signals. So one school of thought is get more data. The other school of thought is there's no substitute. You have to do it with humans. And it's literally hand to hand combat, like go in with each of your managers, do a talent assessment, force them to do it. And almost in most companies until you get to be, you know, five, 10,000 people, you can take a small team of people like three or four folks that you really trust and go in and almost just like meet with every single person for 10, 15 minutes and really get understanding like, what are you doing that's adding value to this company and show me the work? Like, are you doing the actual work or are you somebody who's in the middle, you know, relaying messages or managing or whatever. So you can do it with people, you can do it with humans, whatever is your preference, but you've got to find a way to go there and do it. ([Time 0:16:43](https://share.snipd.com/snip/5f3f73d7-8487-4748-8dea-5b215aa4368b))
