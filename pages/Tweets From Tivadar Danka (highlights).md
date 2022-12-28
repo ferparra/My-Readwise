@@ -26,3 +26,11 @@ url:: https://twitter.com/TivadarDanka
 	  It's seemingly about measuring the angles between arbitrary objects such as functions. What it is really about: the stunning power of abstraction.
 	  
 	  https://t.co/VjphrO9nwC ([View Tweet](https://twitter.com/TivadarDanka/status/1600812490312495105))
+- New highlights added [[Dec 20th, 2022]] at 11:38 PM
+	- This is not a trick: the cosine of the imaginary number 𝑖 is (e⁻¹ + e)/2.
+	  
+	  How on Earth does this follow from the definition of the cosine? No matter how hard you try, you cannot construct a right triangle with an angle 𝑖. What kind of sorcery is this?
+	  
+	  Read on to find out. 
+	  
+	  ![](https://pbs.twimg.com/media/FkatDdWVUAE9-gb.jpg) ([View Tweet](https://twitter.com/TivadarDanka/status/1605160595833032704))

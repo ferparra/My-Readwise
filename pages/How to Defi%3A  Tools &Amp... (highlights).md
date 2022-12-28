@@ -70,7 +70,7 @@ url:: https://twitter.com/AtlasRestless/status/1385414446181355520
 	- 15/ Stuck TX and #14 didn't work? Try this
 	  
 	  https://t.co/nEjpHB2DAN ([View Tweet](https://twitter.com/AtlasRestless/status/1365521761001820162))
-	- 16/ Notifications & automation for health ratios, interest rates, TXs triggers, contract interactions, etc. 
+	- 16/ Notifications & automation for health ratios, [[interest rates]], TXs triggers, contract interactions, etc. 
 	  
 	  All delivered to your discord, telegram, twitter or email.
 	  

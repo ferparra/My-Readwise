@@ -20,3 +20,11 @@ url:: https://twitter.com/gunnarmorling
 	  https://t.co/WbbOWyCO5s 
 	  
 	  ![](https://pbs.twimg.com/media/FizFbSzWYAEWGtl.png) ([View Tweet](https://twitter.com/gunnarmorling/status/1597990085584048128))
+- New highlights added [[Dec 21st, 2022]] at 3:58 PM
+	- From the archives: "Saga Orchestration for Microservices Using the Outbox Pattern"
+	  
+	  Discussing how to reliably implement long-running business transactions using log-based CDC with @debezium and @apachekafka. (on @InfoQ, 2021).
+	  
+	  https://t.co/9KehWtcxhB 
+	  
+	  ![](https://pbs.twimg.com/media/Fcw2OOpXwAE3VmU.jpg) ([View Tweet](https://twitter.com/gunnarmorling/status/1570693587184275457))

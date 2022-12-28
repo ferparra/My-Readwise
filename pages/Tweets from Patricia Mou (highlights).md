@@ -36,3 +36,19 @@ url:: https://twitter.com/patriciamou_
 	  ![](https://pbs.twimg.com/media/FkO7zghVsAEa_Rv.jpg) 
 	  
 	  ![](https://pbs.twimg.com/media/FkO7zgjVsAALQFV.jpg) ([View Tweet](https://twitter.com/patriciamou_/status/1604332397075476480))
+- New highlights added [[Dec 24th, 2022]] at 3:02 PM
+	- after leaving the 9-5, a serious goal of mine is to complete my "Great Books syllabus" 📚 
+	  
+	  i'm starting with Chinese and Indian classics & then going from Rome/Greece up to the 20th century 
+	  
+	  what should i add? do you have a syllabus? pls share below!
+	  
+	  https://t.co/1Ee1tgwrRO ([View Tweet](https://twitter.com/patriciamou_/status/1606490407722180611))
+- New highlights added [[Dec 27th, 2022]] at 10:13 AM
+	- I came across a good summary of Taosim from taoist-cognitive therapy I did last year 
+	  
+	  my parents said they never needed therapy* bc these principles are baked into the chinese culture they grew up within
+	  
+	  *  tho I def question this 😆 
+	  
+	  ![](https://pbs.twimg.com/media/Fk73aU8acAAPif-.jpg) ([View Tweet](https://twitter.com/patriciamou_/status/1607495138087170049))

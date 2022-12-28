@@ -238,3 +238,11 @@ url:: https://twitter.com/emollick
 	- I wrote about four easy things that you can do to make people around you happy. 
 	  
 	  All of them are backed by research. And all of them seem like small things, but they aren’t. Which is why the same research shows that we don’t do them as much as we should. https://t.co/bYbBXNxk3d ([View Tweet](https://twitter.com/emollick/status/1594832326667927553))
+- New highlights added [[Dec 25th, 2022]] at 8:06 PM
+	- We may have narrowly escaped the Malthusian trap through mid-20th century innovations in agriculture & family planning.
+	  
+	  This paper shows the increase in life spans due to modern medicine in the 1940s led to more civil wars & violent protests especially when resources were scarce https://t.co/xAtoPbfFsk 
+	  
+	  ![](https://pbs.twimg.com/media/FkzqA6PaMAAN2_y.jpg) 
+	  
+	  ![](https://pbs.twimg.com/media/FkzqA6QaUAE-ZDj.jpg) ([View Tweet](https://twitter.com/emollick/status/1606916649843838983))

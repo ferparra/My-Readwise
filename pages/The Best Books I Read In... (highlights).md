@@ -49,7 +49,7 @@ url:: https://twitter.com/robkhenderson/status/1208901345907900416
 	  https://t.co/iEJ02HsLPu
 	  
 	  “I think protesting is almost a status symbol for elites. That’s why they always post pictures on Facebook, so all their friends know they’re protesting.” https://t.co/MR6ZcLzAAP
-	- @RobertGreene @sapinker @CeliaHeyes @AnnieDuke @amychua Demons (The Devils) by Fyodor Dostoevsky
+	- @RobertGreene @sapinker @CeliaHeyes @AnnieDuke @amychua Demons (The Devils) by Fyodor [[Dostoevsky]]
 	  
 	  https://t.co/6U1MA6kicx
 	  

@@ -34,3 +34,7 @@ url:: https://twitter.com/fermatslibrary
 	- Although Georg Ohm discovered one of the most fundamental laws in the field of electricity, his work was ignored by his colleagues, and he lived in poverty for much of his life. 
 	  
 	  ![](https://pbs.twimg.com/media/FQ3yxXHUcAIwBpv.jpg) ([View Tweet](https://twitter.com/fermatslibrary/status/1517135583310749696))
+- New highlights added [[Dec 27th, 2022]] at 11:12 AM
+	- John Conway was born today in 1937. In 1988, John discovered this curious near-identity and to this day no satisfying explanation as to "why" it's true has been discovered. 
+	  
+	  ![](https://pbs.twimg.com/media/Fk6PXL5X0AI0HDp.jpg) ([View Tweet](https://twitter.com/fermatslibrary/status/1607379748124037120))

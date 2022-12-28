@@ -54,3 +54,7 @@ url:: https://twitter.com/MacroAlf
 	  If your money is on a recession with sticky inflation, this would be the first time ever. 
 	  
 	  ![](https://pbs.twimg.com/media/FjjZBKRWIAITa5Y.png) ([View Tweet](https://twitter.com/MacroAlf/status/1601366332527693824))
+- New highlights added [[Dec 23rd, 2022]] at 11:02 AM
+	- Soft landing my a** 
+	  
+	  ![](https://pbs.twimg.com/media/FkneNuzX0A0TyoY.jpg) ([View Tweet](https://twitter.com/MacroAlf/status/1606059074235387905))

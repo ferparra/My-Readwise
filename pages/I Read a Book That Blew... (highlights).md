@@ -13,9 +13,9 @@ url:: https://twitter.com/awilkinson/status/1451256182329548802
 		- **Note**: Thread
 	- No, I didn't read Dianetics ;-)
 	  
-	  The book is called ‘Wanting’, by an guy named Luke Burgis. 
+	  The book is called ‘Wanting’, by an guy named [[Luke Burgis]]. 
 	  
-	  It’s about mimetic desire. An academic theory popularized by Peter Thiel.
+	  It’s about [[mimetic desire]]. An academic #theory popularized by [[Peter Thiel]].
 	  
 	  At face value, it barely sounds worth mentioning: 
 	  

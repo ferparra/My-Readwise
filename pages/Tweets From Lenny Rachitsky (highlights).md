@@ -90,3 +90,22 @@ url:: https://twitter.com/lennysan
 	  ➔ Segmentation strategies
 	  ➔ Pricing models
 	  ➔ Tips for adjusting pricing during a downturn + much more https://t.co/I5VEYCslVs ([View Tweet](https://twitter.com/lennysan/status/1600897792414621697))
+- New highlights added [[Dec 28th, 2022]] at 11:48 AM
+	- If you read just one of my posts this year, read this one.
+	  
+	  My all-time most popular posts and podcasts, categorized and organized:
+	  
+	  1. Building product
+	  2. GTM
+	  3. Growth strategy
+	  4. Benchmarks
+	  5. PMF
+	  6. Career
+	  7. Hiring
+	  8. Startups and leadership
+	  9. Pricing
+	  10. Sales
+	  
+	  Link below. 
+	  
+	  ![](https://pbs.twimg.com/media/FlABexiagAAxi_-.png) ([View Tweet](https://twitter.com/lennysan/status/1607786752437288961))

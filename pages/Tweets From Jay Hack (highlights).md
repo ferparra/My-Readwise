@@ -12,3 +12,13 @@ url:: https://twitter.com/mathemagic1an
 	  webassembly FTW 
 	  
 	  ![](https://pbs.twimg.com/media/FiRSaSbXEA8GBwj.jpg) ([View Tweet](https://twitter.com/mathemagic1an/status/1595490931507138583))
+- New highlights added [[Dec 28th, 2022]] at 5:43 PM
+	- How do LLMs gain the ability to perform complex reasoning using chain-of-thought?
+	  
+	  @Francis_YAO_ argues it's a consequence of training on *code* - the structure of procedural coding and OOP teaches it step-by-step thinking and abstraction.
+	  
+	  Great article!
+	  
+	  https://t.co/xJKktUrm1Y 
+	  
+	  ![](https://pbs.twimg.com/media/Fk_ibz1XwAAFgRp.jpg) ([View Tweet](https://twitter.com/mathemagic1an/status/1607752920514138112))

@@ -26,7 +26,7 @@ url:: https://www.goodreads.com/quotes/tag/grief
 	- “The darker the night, the brighter the stars,  The deeper the grief, the closer is God!”
 	    ―
 	  
-	    Fyodor Dostoevsky,
+	    Fyodor [[Dostoevsky]],
 	  
 	    
 	      Crime and Punishment

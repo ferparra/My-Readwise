@@ -29,3 +29,9 @@ url:: https://twitter.com/goodside
 	- OpenAI's new ChatGPT explains the worst-case time complexity of the bubble sort algorithm, with Python code examples, in the style of a fast-talkin' wise guy from a 1940's gangster movie: 
 	  
 	  ![](https://pbs.twimg.com/media/Fi2yZq1XEAEs9cp.jpg) ([View Tweet](https://twitter.com/goodside/status/1598129631609380864))
+- New highlights added [[Dec 28th, 2022]] at 2:35 AM
+	- One of the key features of GPT-4 is its ability to receive "unsupervised hyping" — one can claim it has as many as 100 trillion parameters without any supervision by adults. This makes it a highly attractive subject for a wide range of people unfamiliar with scaling laws. 
+	  
+	  ![](https://pbs.twimg.com/media/Fk9yu5OWQAILDWw.jpg) 
+	  
+	  ![](https://pbs.twimg.com/media/Fk90zW3X0AIXaeF.jpg) ([View Tweet](https://twitter.com/goodside/status/1607633071704006657))

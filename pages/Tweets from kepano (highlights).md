@@ -21,3 +21,14 @@ url:: https://twitter.com/kepano
 	  ![](https://pbs.twimg.com/media/Fj4xyVuVsAA99x5.jpg) 
 	  
 	  ![](https://pbs.twimg.com/media/Fj4xyVyVsAAOgD0.jpg) ([View Tweet](https://twitter.com/kepano/status/1602773345627348993))
+- New highlights added [[Dec 21st, 2022]] at 8:20 AM
+	- Obsidian Canvas is now available for free ✨🎅
+	  
+	  You can now lay out your notes in an infinite canvas alongside images, PDFs, videos, audio, and even fully interactive web pages
+	  
+	  I have been using it to perfect my chocolate chip cookie recipe 
+	  
+	  ![](https://pbs.twimg.com/media/FkbhezwUUAELJfS.jpg) ([View Tweet](https://twitter.com/kepano/status/1605222781045526528))
+	- I'm excited to share that we have open-sourced the Obsidian Canvas file format under MIT license!
+	  
+	  Just like Markdown files it means that your .canvas files can be stored locally and interoperate with other tools that may use the format. ([View Tweet](https://twitter.com/kepano/status/1605225897493422080))

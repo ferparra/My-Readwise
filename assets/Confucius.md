@@ -1,0 +1,18 @@
+- **Confucius** (479 BCE) was a Chinese philosopher and politician of the [Spring and Autumn period](https://en.wikipedia.org/wiki/Spring_and_Autumn_period)
+   who is traditionally considered the paragon of Chinese sages. Confucius's teachings and philosophy underpin [East Asian culture and society](https://en.wikipedia.org/wiki/East_Asian_cultural_sphere) , remaining influential across [Chin](https://en.wikipedia.org/wiki/China)a and [East Asia](https://en.wikipedia.org/wiki/East_Asia) to this day.
+- Confucian ethics emphasise the importance of cultivating knowledge and sincerity for the sake of righteousness. The concept of li is closely related to yi, which is based on the idea of reciprocity and doing what is ethically best for the greater good. The core value of ren consists of five basic virtues and is based on empathy and understanding others.
+- Confucius argued for a government that rules through morality and propriety, rather than laws and punishments. He believed in reviving the Mandate of Heaven to unify the world and bring peace and prosperity to the people. He advocated for truth and honesty, and believed in leading by example rather than orders and punishments.
+### Common criticism
+	- Ethical System
+		- Lack of Emphasis on Individual Rights
+		- Inability to Adapt to Changing Circumstances
+		- Lack of Emphasis on Democracy
+	- Political System
+		- Restriction of Personal Freedoms
+		- Lack of Transparency and Accountability
+		- Reliance on Hierarchy and Authority
+- Confucianism continues to have a lasting impact on modern-day Chinese society and culture, particularly in the way it shapes the Chinese Communist Party. The CCP's emphasis on hierarchy and authority, as well as its focus on morality and propriety, are rooted in Confucian ideals. Confucianism's emphasis on the importance of education and knowledge has also been embraced by the CCP. This is seen in the CCP's investment in education, and its promotion of Confucian-style scholarship and study, particularly in the areas of philosophy and literature. Additionally, the CCP's emphasis on social order and stability, as well as its focus on maintaining harmony in society, can be traced back to Confucian values. Thus, while Confucianism and the CCP are vastly different in their interpretation of the role of government and its relationship to the people, the underlying values, ideals, and principles remain largely the same.
+- As [Confucius](https://www.notion.so/Confucius-2adcc52a120e4dce9fd2ebc2a14622ed) said:
+  “Whenever I walk with others, they may serve as my teachers. I will select their good qualities and follow them, their bad qualities and avoid them.” ([View Highlight](https://read.readwise.io/read/01gkzyrj4wx1d69pdregnsfj3r))
+- Confucianism and Taoism, two of the most influential schools of thought in East Asian culture, contrast with each other in many ways. Confucianism is a philosophy based on ethical and social values, emphasising the importance of personal and governmental morality, justice, and sincerity. Taoism, on the other hand, is a more philosophical and spiritual system, focusing on the harmony between man and nature, and the idea of living in accordance with the Tao.
+- When viewed from a Western perspective, the influence of Confucianism and Taoism resonates with the concepts of virtue and nature found in classical philosophical thought. The emphasis on morality and justice found in Confucianism is reminiscent of the ideas of justice and the good life in Plato's Republic, while the idea of living in harmony with nature found in Taoism is similar to the Stoic philosophy of living in accord with nature. Both streams of thought, then, provide an Eastern counterpart to these Western philosophical traditions.

@@ -38,3 +38,7 @@ url:: https://twitter.com/gabrielpeyre
 	- The Laplacian of a graph is a semi-definite positive operator which mimics second order differences along the graph’s edges. https://t.co/sI0gmNXEAS 
 	  
 	  ![](https://pbs.twimg.com/media/Fjs2xCmXkAUldl4.jpg) ([View Tweet](https://twitter.com/gabrielpeyre/status/1602181457400631296))
+- New highlights added [[Dec 23rd, 2022]] at 2:03 PM
+	- Stein’s lemma is a surprisingly simple yet useful characterization of the Gaussian distribution. Enables to derive sharp bounds for convergence rates in the central limit theorem in various metrics. https://t.co/9NVXzWc1wo 
+	  
+	  ![](https://pbs.twimg.com/media/Fjs4p2tXoAIbrcn.jpg) ([View Tweet](https://twitter.com/gabrielpeyre/status/1605805334978781184))

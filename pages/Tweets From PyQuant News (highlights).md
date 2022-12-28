@@ -20,15 +20,15 @@ url:: https://twitter.com/pyquantnews
 	  
 	  Stats:
 	  
-	  • Probability
-	  • Regression
-	  • Time series analysis
+	  • [[Probability]]
+	  • [[Regression]]
+	  • [[Time series analysis]]
 	  
 	  Math:
 	  
-	  • Calculus
+	  • [[Calculus]]
 	  • Matrix math
-	  • Linear algebra
+	  • [[Linear algebra]]
 	  
 	  Programming:
 	  

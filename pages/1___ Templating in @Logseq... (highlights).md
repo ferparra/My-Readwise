@@ -1,7 +1,7 @@
 title:: 1/ Templating in @Logseq... (highlights)
 author:: [[@TfTHacker on Twitter]]
 full-title:: "1/ Templating in @Logseq..."
-category:: #tweets
+category:: #tweets. [[Logseq]]
 url:: https://twitter.com/TfTHacker/status/1601246664341082112
 
 - Highlights first synced by [[Readwise]] [[Dec 10th, 2022]]

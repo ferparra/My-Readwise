@@ -49,3 +49,7 @@ url:: https://twitter.com/mpocock1
 	- 🔥 TypeScript Tip 🔥
 	  
 	  Checking out TS codebases like @excalidraw's has been so enlightening - especially how many of them are using 'as const' over enums. https://t.co/zIuvuNPWyJ ([View Tweet](https://twitter.com/mattpocockuk/status/1598708710523772929))
+- New highlights added [[Dec 23rd, 2022]] at 10:03 AM
+	- Conditional types in TypeScript are just like if/else statements.
+	  
+	  There's a check, a true case, and a false case. https://t.co/QQJZJtowj3 ([View Tweet](https://twitter.com/mattpocockuk/status/1606055010319470595))

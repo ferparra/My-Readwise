@@ -210,3 +210,7 @@
 				- The product team must be intimately involved in the entire process, from start to finish.
 				- The best products are the result of a collaboration between the product team and the customer.
 				- The product team must be relentless in their pursuit of customer feedback.
+-
+-
+- Classic Philosophers
+	- [[Spinoza]]

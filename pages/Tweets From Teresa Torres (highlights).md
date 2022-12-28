@@ -38,3 +38,11 @@ url:: https://twitter.com/ttorres
 	  #prodmgmt #ux #engineering 
 	  
 	  ![](https://pbs.twimg.com/media/FjbduzQXkAAVUFo.jpg) ([View Tweet](https://twitter.com/ttorres/status/1600710515663175681))
+- New highlights added [[Dec 25th, 2022]] at 7:06 PM
+	- "An outcome is typically defined by a quantitative metric—a number that is both meaningful to the business and measurable by the team. It creates autonomy and accountability."
+	  
+	  https://t.co/Ov67w43sHj
+	  
+	  #prodmgmt #ux #engineering 
+	  
+	  ![](https://pbs.twimg.com/media/FkzAwmQXwAcXI7N.jpg) ([View Tweet](https://twitter.com/ttorres/status/1606871110749929472))

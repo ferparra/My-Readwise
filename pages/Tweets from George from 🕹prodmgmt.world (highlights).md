@@ -56,3 +56,9 @@ url:: https://twitter.com/nurijanian
 	  
 	  PM: Creating content to help teams agree on strategy, customer problems, and use cases
 	  Eng: Assigning tickets/tasks to engineers ([View Tweet](https://twitter.com/nurijanian/status/1598723743660101633))
+- New highlights added [[Dec 23rd, 2022]] at 11:02 AM
+	- Streamline Your Product Conversations with This Comprehensive 'Plan on a Page' Checklist
+	  
+	  (Source: John Cutler) 
+	  
+	  ![](https://pbs.twimg.com/media/FkmcT9ZWAAA9X8-.png) ([View Tweet](https://twitter.com/nurijanian/status/1605986613347090432))

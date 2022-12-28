@@ -1,7 +1,7 @@
 title:: I'm Setting Up @Logseq I... (highlights)
 author:: [[@rroudt on Twitter]]
 full-title:: "I'm Setting Up @Logseq I..."
-category:: #tweets
+category:: #tweets, [[Logseq]]
 url:: https://twitter.com/rroudt/status/1443546446360313859
 
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
@@ -20,7 +20,7 @@ url:: https://twitter.com/rroudt/status/1443546446360313859
 	  
 	  The first step is obviously to install both Logseq and Obsidian.
 	  
-	  Grab Obsidian from their website: https://t.co/3WjoHfOjBJ
+	  Grab [[Obsidian]] from their website: https://t.co/3WjoHfOjBJ
 	  
 	  For Logseq you'll want to get the desktop app to make this system work: https://t.co/h01DgtO9yg ([View Tweet](https://twitter.com/rroudt/status/1443546448675573760))
 	- First install @logseq in a folder that's easy to find and sync.

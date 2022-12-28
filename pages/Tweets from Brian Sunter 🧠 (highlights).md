@@ -69,3 +69,13 @@ url:: https://twitter.com/Bsunter
 	- National Entrepreneur Day
 	  
 	  “Most of you will fail, be disrespected, impoverished, but we are grateful for the risks and the sacrifices you are making for the sake of the economic growth of the planet and pulling others out of poverty. Our nation thanks you”
+- New highlights added [[Dec 21st, 2022]] at 10:20 AM
+	- Collecting the best resources for learning AI in the order I play to study them, along with the topics they cover.
+	  
+	  Some popular courses, books, and famous AI/math textbooks.
+	  
+	  Let me know what you think of these or if I'm missing anything good!
+	  
+	  https://t.co/jUuqI3J4IZ 
+	  
+	  ![](https://pbs.twimg.com/media/Fkc6BW1UUAAb3BA.jpg) ([View Tweet](https://twitter.com/Bsunter/status/1605316646897270784))

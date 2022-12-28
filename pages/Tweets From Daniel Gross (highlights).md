@@ -15,3 +15,7 @@ url:: https://twitter.com/danielgross
 	  5. Hope for good luck
 	  
 	  https://t.co/e2pJryTNrW ([View Tweet](https://twitter.com/danielgross/status/1451986455639715843))
+- New highlights added [[Dec 20th, 2022]] at 11:22 AM
+	- Greetings AI-native hackers. @natfriedman and I present a small hack from last weekend: Tele-Prompt.
+	  
+	  An on-device AI for your meetings that listens to you and makes charismatic quote suggestions -- https://t.co/KTQobkH0rO ([View Tweet](https://twitter.com/danielgross/status/1604991443747352576))

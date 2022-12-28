@@ -1,0 +1,24 @@
+title:: Some Really Cool (Progra... (highlights)
+author:: [[@tobi on Twitter]]
+full-title:: "Some Really Cool (Progra..."
+category:: #tweets
+url:: https://twitter.com/tobi/status/1604846804574560256
+
+- Highlights first synced by [[Readwise]] [[Dec 20th, 2022]]
+	- Some really cool (programming) tech that I think are underrated right now and that have proven very useful to me this year: ([View Tweet](https://twitter.com/tobi/status/1604846804574560256))
+		- **Note**: Thread
+	- Apache Arrow system, Parquet, Datafusion are incredibly strong foundation for the next chapter in data.  DuckDB is a delight as well. We are going towards much simpler stacks based on extremely well designed infrastructure and that's really becoming for the data world. ([View Tweet](https://twitter.com/tobi/status/1604846806311075840))
+	- Configuration files, json/yml/toml can get messy and the schema stories are complicated. https://t.co/jP55IDE60j, while taking a moment to fully appreciate, is a fantastic tool to unify all those with automation build in and effortless value type based schema. Highly recommended. ([View Tweet](https://twitter.com/tobi/status/1604846807929929728))
+	- Distributed ids are a pain. You either end up with autoinc which has the delightfully named "german tank problem" or you end up with ugly uuids in urls. https://t.co/zZdHLUEVQc solves all that and should be available by default in mysql/pg/sqlite ([View Tweet](https://twitter.com/tobi/status/1604846809733795840))
+	- (biased, but:) https://t.co/S5UnOGCkA4 is the ideal way to make js based web development get the best from the server, the best from the client, and the most from the browser. It's as much fun to write remix as it is to write rails apps and that's a 10x improvement for JS imo. ([View Tweet](https://twitter.com/tobi/status/1604846811381907456))
+	- Uber's H3 is a fantastic approach to geo indexing. https://t.co/XOSLRO75rs It's hard to use coordinates on a sphere and H3 feels like it hits the perfect sets of tradeoffs. You probably saw that our BFCM globe this year was hexagon based, that's because of H3. 
+	  
+	  ![](https://pbs.twimg.com/media/FkWN2AhWQAA2A0n.jpg) ([View Tweet](https://twitter.com/tobi/status/1604846812988260352))
+	- Passkeys, you can play around with them on https://t.co/2jPzKcdpaK but hopefully you will see them everywhere soon. The web is bugged in that we didn't have a sane auth layer. This is the solution. The web will be 10x better with effortless secure  authentication. ([View Tweet](https://twitter.com/tobi/status/1604846815060250626))
+	- This is a bit long-tail but boy is zstd well designed. It's definitely the definitive compression approach. If you are building big data systems don't sleep on its ability to have shared generated dictionaries. Can lead to huge savings. ([View Tweet](https://twitter.com/tobi/status/1604846816574541825))
+	- The matter / thread standards are extremely well designed. Forget everything you learned about home automation. It was all a mess before. Now the adults got together, set a really good technical foundation, and everyone is building on top of it. It will get very good now. ([View Tweet](https://twitter.com/tobi/status/1604846817853800449))
+	- Rust and Zig are amazing programming languages. io_uring will change the way we design backend systems. Http3/Quic is superb ([View Tweet](https://twitter.com/tobi/status/1604846819179200512))
+	- I guess the emergent theme here is that we (=tech industry) are dialing in the infrastructure. Arrow/Matter/Zstd/io_uring/passkeys/cue are all extremely well designed foundations to make building the fun stuff (in remix!) as simple and fast as possible. This is how it should be. ([View Tweet](https://twitter.com/tobi/status/1604846820542550017))
+	- (and i put this list together right now by just searching for #GreatTech hashtag in my @logseq journal for the year, so logseq itself should get a shoutout as well) ([View Tweet](https://twitter.com/tobi/status/1604847604076101635))
+	- And I forgot to mention nix. Yes it's still a mess, but its 100% worth learning and clearly the blueprint for how operating systems work in the future, and available now if you are willing to pay the learning curve tax. ([View Tweet](https://twitter.com/tobi/status/1604851103643963393))
+	- And the best: Ruby itself. You may know that Shopify is investing heavily into yjit, which is now fully integrated into the release version of ruby. We are now starting to hit another gear of speedups that yjit can deliver. Stay tuned! ([View Tweet](https://twitter.com/tobi/status/1604876802291249159))

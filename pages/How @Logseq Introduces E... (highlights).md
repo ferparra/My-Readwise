@@ -1,7 +1,7 @@
 title:: How @Logseq Introduces E... (highlights)
 author:: [[@preslavrachev on Twitter]]
 full-title:: "How @Logseq Introduces E..."
-category:: #tweets
+category:: #tweets, [[Logseq]]
 url:: https://twitter.com/preslavrachev/status/1592557971954728960
 
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]

@@ -1,7 +1,7 @@
 title:: You Want Search in the P... (highlights)
 author:: [[@logseq on Twitter]]
 full-title:: "You Want Search in the P..."
-category:: #tweets
+category:: #tweets, [[Logseq]]
 url:: https://twitter.com/logseq/status/1582484080733859841
 
 - Highlights first synced by [[Readwise]] [[Dec 7th, 2022]]

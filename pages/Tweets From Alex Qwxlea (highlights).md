@@ -7,9 +7,9 @@ url:: https://twitter.com/QwxleaA
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
 	- Re-reading "Taking smart notes" — Day 3
 	  
-	  I love the @beauhaan method to go deep into the fleeting notes, and then resurfacing with sometimes very surprising conclusions
+	  I love the @beauhaan method to go deep into the [[fleeting notes]], and then resurfacing with sometimes very surprising conclusions
 	  
-	  #zettelkasten @logseq 
+	  #zettelkasten [[@logseq]] 
 	  
 	  ![](https://pbs.twimg.com/media/FSD5paqXsAESfQ2.jpg) ([View Tweet](https://twitter.com/QwxleaA/status/1522491427892207616))
 	- Re-reading "Taking smart notes" — Day 4

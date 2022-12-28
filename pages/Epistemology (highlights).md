@@ -1,0 +1,13 @@
+title:: Epistemology (highlights)
+author:: [[wikipedia.org]]
+full-title:: "Epistemology"
+category:: #articles
+url:: https://en.wikipedia.org/wiki/Epistemology
+tags:: #[[epistemology]]
+
+- Highlights first synced by [[Readwise]] [[Dec 23rd, 2022]]
+	- **Epistemology** ([/ɪˌpɪstəˈmɒlədʒi/](https://en.wikipedia.org/wiki/Help:IPA/English) ([![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png)](https://en.wikipedia.org/wiki/File:En-uk-epistemology.ogg)[listen](https://upload.wikimedia.org/wikipedia/commons/6/63/En-uk-epistemology.ogg)); from [Ancient Greek](https://en.wikipedia.org/wiki/Ancient_Greek_language) [ἐπιστήμη](https://en.wiktionary.org/wiki/%E1%BC%90%CF%80%CE%B9%CF%83%CF%84%CE%AE%CE%BC%CE%B7#Ancient_Greek) *(*epistḗmē*)* 'knowledge', and *[-logy](https://en.wikipedia.org/wiki/-logy)*), or the **theory of knowledge**, is the [branch of philosophy](https://en.wikipedia.org/wiki/Outline_of_philosophy) concerned with [knowledge](https://en.wikipedia.org/wiki/Knowledge). Epistemology is considered a major subfield of philosophy, along with other major subfields such as [ethics](https://en.wikipedia.org/wiki/Ethics), [logic](https://en.wikipedia.org/wiki/Logic), and [metaphysics](https://en.wikipedia.org/wiki/Metaphysics).[[1]](https://en.wikipedia.org/wiki/Epistemology#cite_note-Britannica-1) ([View Highlight](https://read.readwise.io/read/01gmywhwje40p2k92d20r83p3p))
+	- •   The [philosophical analysis](https://en.wikipedia.org/wiki/Philosophical_analysis) of the nature of knowledge and the conditions required for a belief to constitute knowledge, such as [truth](https://en.wikipedia.org/wiki/Truth) and [justification](https://en.wikipedia.org/wiki/Justification_(epistemology))
+	  •   Potential sources of knowledge and justified belief, such as [perception](https://en.wikipedia.org/wiki/Perception), [reason](https://en.wikipedia.org/wiki/Reason), [memory](https://en.wikipedia.org/wiki/Memory), and [testimony](https://en.wikipedia.org/wiki/Testimony#Philosophy)
+	  •   The structure of a body of knowledge or justified belief, including whether all justified beliefs must be derived from justified [foundational beliefs](https://en.wikipedia.org/wiki/Foundationalism) or whether justification requires only a [coherent set of beliefs](https://en.wikipedia.org/wiki/Coherentism)
+	  •   [Philosophical skepticism](https://en.wikipedia.org/wiki/Philosophical_skepticism), which questions the possibility of knowledge, and related problems, such as whether skepticism poses a threat to our ordinary knowledge claims and whether it is possible to refute skeptical arguments ([View Highlight](https://read.readwise.io/read/01gmywj5amshkgc2bvp494n7nt))

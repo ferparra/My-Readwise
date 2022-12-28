@@ -13,3 +13,13 @@ url:: https://twitter.com/logseq
 	  
 	  Our community manager @rroudt recently hosted an hour-long office hours on how to create and use queries:
 	  https://t.co/q5gDrwjZQ4 ([View Tweet](https://twitter.com/logseq/status/1517519150846984192))
+- New highlights added [[Dec 21st, 2022]] at 8:20 AM
+	- Logseq Whiteboards are here! 🖼️
+	  
+	  We love to write in outlines, but an infinite canvas helps us to think more creatively.
+	  
+	  That's why we've deeply integrated the Logseq outliner with @tldraw!
+	  
+	  While still in beta, our Backers and Sponsors can start testing today👇 
+	  
+	  ![](https://pbs.twimg.com/media/FkbnQWGVEAARC_q.jpg) ([View Tweet](https://twitter.com/logseq/status/1605224589046386689))

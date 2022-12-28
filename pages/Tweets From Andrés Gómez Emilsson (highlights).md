@@ -15,3 +15,9 @@ url:: https://twitter.com/algekalipso
 	  This is why experiencing higher (phenomenal) dimensions on meditation/DMT can be so liberating. You notice you were never stuck. The knot isn't a knot. 
 	  
 	  ![](https://pbs.twimg.com/media/Fi6xco5UUAAYbqJ.jpg) ([View Tweet](https://twitter.com/algekalipso/status/1598410749264920576))
+- New highlights added [[Dec 28th, 2022]] at 9:46 PM
+	- Intuition for "energy parameter".
+	  
+	  Different "cuts" of the Hamiltonian of Consciousness (cf. Hyperbolic Geometry of DMT Experiences). 
+	  
+	  ![](https://pbs.twimg.com/media/FlDnA15akAEZWAD.jpg) ([View Tweet](https://twitter.com/algekalipso/status/1608039207389507584))

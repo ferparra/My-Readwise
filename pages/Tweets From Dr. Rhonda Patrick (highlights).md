@@ -14,3 +14,7 @@ url:: https://twitter.com/foundmyfitness
 	- Exercise is the new probiotic. Aerobic exercise may be one of the most effective ways to promote gut health and help heal intestinal issues.
 	  
 	  Aerobic exercise increases butyrate-producing gut bacteria independent of diet. This reduces inflammation & promotes intestinal healing. ([View Tweet](https://twitter.com/foundmyfitness/status/1588599972827578369))
+- New highlights added [[Dec 20th, 2022]] at 11:22 AM
+	- Eccentric exercises, which emphasize lowering a weight rather than lifting it, increase muscle size and strength with fewer repetitions.
+	  
+	  Untrained participants who lowered weights had similar gains to those who lifted & lowered weights - but they performed half the repetitions. ([View Tweet](https://twitter.com/foundmyfitness/status/1604947646925266944))

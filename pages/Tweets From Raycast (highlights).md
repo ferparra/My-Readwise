@@ -32,3 +32,50 @@ url:: https://twitter.com/raycastapp
 	  Read full changelog 👉 https://t.co/SKq0ctN1IO 
 	  
 	  ![](https://pbs.twimg.com/media/FiQrhcMUAAAgg17.jpg) ([View Tweet](https://twitter.com/raycastapp/status/1595448027170209797))
+- New highlights added [[Dec 22nd, 2022]] at 9:47 AM
+	- 📝 Tip #21 – Snippets
+	  
+	  Supercharge your workflow by using snippets to store and insert frequently used text. Expand them automatically with a keyword.
+	  
+	  Get started with the "Create Snippet" Command. https://t.co/M7GYOUgFhM ([View Tweet](https://twitter.com/raycastapp/status/1605594119761367040))
+- New highlights added [[Dec 23rd, 2022]] at 10:03 AM
+	- 🤯 Tip #22: Open Apps with Quicklinks
+	  
+	  Use the "Create Quicklink" Command and leverage the "Open with" option to open Finder, Figma designs & App Store searches in one go. https://t.co/8Yng7xdqHu ([View Tweet](https://twitter.com/raycastapp/status/1605955796160118785))
+	- @thomaspaulmann went on a road-show and shared the journey of crafting an app that revolutionizes the Mac user experience and building a beloved API.
+	  
+	  1️⃣ https://t.co/CS7CiEHDXQ
+	  2️⃣ https://t.co/eb69sdnXfb
+	  3️⃣ https://t.co/t4ebk75cO1
+	  4️⃣ https://t.co/UsTuS4bcL8
+	  
+	  15/17 
+	  
+	  ![](https://pbs.twimg.com/media/FkmXhUiVsAERdLw.jpg) ([View Tweet](https://twitter.com/raycastapp/status/1605981350074253312))
+	- We've got a fresh update for you…
+	  
+	  📸 Search screenshots and recordings on your Mac
+	  ✂️ Rich snippets with text styles and links
+	  ⚠️ Improved form validation experience
+	  
+	  Read the full changelog for 1.33.0 👉 https://t.co/5OC5JGYwSu 
+	  
+	  ![](https://pbs.twimg.com/media/FQzFm15XIAMh_qc.jpg) ([View Tweet](https://twitter.com/raycastapp/status/1516805269988253696))
+	- Some of our top extensions:
+	  📚 https://t.co/t5WNaQi5Yr
+	  💬 https://t.co/FqyZSqdez5
+	  🚫 https://t.co/Z2Jh482hSg
+	  📼 https://t.co/cpkgExNTsT
+	  🗒️ https://t.co/hhF72jQhfe
+	  🛠️ https://t.co/1pEwCqqpPC
+	  ✅ https://t.co/4eLeY32N7t
+	  🔒 https://t.co/airgzK8hgz
+	  🤣 https://t.co/ld3HXGvCsy
+	  
+	  4/17 
+	  
+	  ![](https://pbs.twimg.com/media/FkmXeq4VsAEjGoY.jpg) ([View Tweet](https://twitter.com/raycastapp/status/1605981304389935105))
+- New highlights added [[Dec 24th, 2022]] at 3:02 PM
+	- 🗓️ Tip #23 – My Schedule
+	  
+	  Use the "My Schedule" Command to see your upcoming events and summary of your day. Join your next meeting by pressing ⏎ or use the Action Panel for more options! https://t.co/ycwBrP7Lpa ([View Tweet](https://twitter.com/raycastapp/status/1606288679827230721))

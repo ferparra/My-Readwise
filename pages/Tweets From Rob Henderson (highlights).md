@@ -112,3 +112,7 @@ url:: https://twitter.com/robkhenderson
 	  ![](https://pbs.twimg.com/media/FiwLyExWYA00RCT.jpg) 
 	  
 	  ![](https://pbs.twimg.com/media/FiwLyEwX0AYONbQ.jpg) ([View Tweet](https://twitter.com/robkhenderson/status/1597664932866445313))
+- New highlights added [[Dec 28th, 2022]] at 11:48 AM
+	- "When inequality is the general law of society, the most blatant inequalities escape notice. When everything is virtually on a level, the slightest variations cause distress. That is why the desire for equality becomes more insatiable as equality extends to all."
+	  
+	  —Tocqueville ([View Tweet](https://twitter.com/robkhenderson/status/1607607802897534983))

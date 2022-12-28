@@ -5,7 +5,7 @@ category:: #tweets
 url:: https://twitter.com/robkhenderson/status/1598117688169345026
 
 - Highlights first synced by [[Readwise]] [[Dec 1st, 2022]]
-	- René Girard on physical versus metaphysical desire:
+	- [[René Girard]] on physical versus metaphysical desire:
 	  
 	  https://t.co/3zqI06r3EC 
 	  

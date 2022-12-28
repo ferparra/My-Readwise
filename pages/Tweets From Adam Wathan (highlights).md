@@ -21,3 +21,7 @@ url:: https://twitter.com/adamwathan
 	  ⚡️ 10x faster
 	  
 	  Aggressively defend against complexity, double down on robustness and stability 🤝 ([View Tweet](https://twitter.com/adamwathan/status/1594874850178367488))
+- New highlights added [[Dec 22nd, 2022]] at 6:02 PM
+	- New website for @almonk and @dizzyup's Sleeve app is absolutely beautiful, and built with Tailwind CSS 💅
+	  
+	  https://t.co/A2ql3xAJeG https://t.co/edC6lwBBu5 ([View Tweet](https://twitter.com/adamwathan/status/1605606881396809730))
