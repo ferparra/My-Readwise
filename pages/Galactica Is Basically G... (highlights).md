@@ -5,10 +5,10 @@ category:: #tweets
 url:: https://twitter.com/patrickmineault/status/1592738675456344065
 
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
-	- Galactica is basically GPT-3 for science. It can write whitepapers, reviews, wikipedia pages and code. It knows how to cite and how to write equations. It's kind of big deal 1/ 🧵 https://t.co/8k1XTbf5Ou ([View Tweet](https://twitter.com/patrickmineault/status/1592738675456344065))
+	- Galactica is basically [[GPT-3]] for science. It can write whitepapers, reviews, wikipedia pages and code. It knows how to cite and how to write equations. It's kind of big deal 1/ 🧵 https://t.co/8k1XTbf5Ou ([View Tweet](https://twitter.com/patrickmineault/status/1592738675456344065))
 		- **Note**: Thread
 	- I wrote earlier that in the future, papers will be consumed not just by grad students and search engines: AIs like @CohereAI will be able to understand and synthesize information to assist humans 2/ https://t.co/AIQYcirEYR ([View Tweet](https://twitter.com/patrickmineault/status/1592738677293056000))
-	- GPT-3 and other LLMs can already do this by predicting the next token in documents. An issue they have is that the scientific part of their corpus is tiny compared to the regular internet text, e.g. reddit threads. Why not just train on science? 3/ ([View Tweet](https://twitter.com/patrickmineault/status/1592738679130202113))
+	- [[GPT-3]] and other LLMs can already do this by predicting the next token in documents. An issue they have is that the scientific part of their corpus is tiny compared to the regular internet text, e.g. reddit threads. Why not just train on science? 3/ ([View Tweet](https://twitter.com/patrickmineault/status/1592738679130202113))
 	- That's what Galactica does. Its size and the number of tokens it's trained on goes against the conventional wisdom of scaling laws: it's a small-ish model trained on a small-ish model number of tokens. By Chinchilla scaling laws it's overparametrized. It should work poorly. 4/ 
 	  
 	  ![](https://pbs.twimg.com/media/FhqGr6ZWAAEHjDq.png) ([View Tweet](https://twitter.com/patrickmineault/status/1592738683652014081))

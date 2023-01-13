@@ -80,7 +80,7 @@ url:: https://twitter.com/DescriptApp/status/1592546790511112195
 	  Watch below for the details, or keep reading.
 	  
 	  14/21 https://t.co/r5TFvpcBQu ([View Tweet](https://twitter.com/DescriptApp/status/1592546993997774848))
-	- They have GPT-3 for text generation, which companies are using to generate marketing copy, write code, etc. There's DALL-E, where you just type words and it'll make a picture of those words. 
+	- They have [[GPT-3]] for text generation, which companies are using to generate marketing copy, write code, etc. There's DALL-E, where you just type words and it'll make a picture of those words. 
 	  
 	  These things are good and useful, and they're getting better at breakneck speed.
 	  

@@ -24,7 +24,7 @@ url:: https://twitter.com/Saboo_Shubham_/status/1594727431058989058
 	  T5 is designed to be used for a variety of tasks, including text classification, question answering, and text generation. T5 is also trained on a larger amount of data than BERT, which makes it more accurate for some tasks.
 	  
 	  👉 https://t.co/wpE6aofDRt ([View Tweet](https://twitter.com/Saboo_Shubham_/status/1594727439678087172))
-	- 4. GPT-3
+	- 4. [[GPT-3]]
 	  
 	  Generative Pre-Trained Transformer 3 is a 175 billion parameter model that can write text similar to humans in response to an input prompt. The model is based on the transformer architecture and got released in 2020.
 	  

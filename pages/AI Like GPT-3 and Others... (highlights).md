@@ -5,9 +5,9 @@ category:: #tweets
 url:: https://twitter.com/abacaj/status/1608163940726358024
 
 - Highlights first synced by [[Readwise]] [[Dec 30th, 2022]]
-	- AI like GPT-3 and others have come a long way, we can now build complex use cases with state of the art AI models
+	- AI like [[GPT-3]] and others have come a long way, we can now build complex use cases with state of the art AI models
 	  
-	  Here's a quick thread on how I built a prototype for book whisperer, which let's you talk to an AI (GPT-3) and ask questions on a particular book 👇
+	  Here's a quick thread on how I built a prototype for book whisperer, which let's you talk to an AI ([[GPT-3]]) and ask questions on a particular book 👇
 	  
 	  1/10 
 	  
@@ -55,22 +55,22 @@ url:: https://twitter.com/abacaj/status/1608163940726358024
 	  This reduces the search space to the top matching pages, we can further limit the results down by taking the top 10 pages~
 	  
 	  7/10 ([View Tweet](https://twitter.com/abacaj/status/1608163954173554688))
-	- Now that we have (1-10) pages in hand, it's time to see how we can use GPT-3 to further help refine the large problem space
+	- Now that we have (1-10) pages in hand, it's time to see how we can use [[GPT-3]] to further help refine the large problem space
 	  
 	  Given the original question:
 	  "What is the running time of an algorithm?"
 	  
-	  We need GPT-3 to summarize each page to solve for too many tokens
+	  We need [[GPT-3]] to summarize each page to solve for too many tokens
 	  
 	  8/10 ([View Tweet](https://twitter.com/abacaj/status/1608163955599351808))
-	- You can see below the GPT-3 prompt used for each of the 10~ pages
+	- You can see below the [[GPT-3]] prompt used for each of the 10~ pages
 	  
 	  This reduces the output tokens for each page to something that will fit into a single prompt later
 	  
 	  9/10 
 	  
 	  ![](https://pbs.twimg.com/media/FlFWq0aX0AUsJCD.jpg) ([View Tweet](https://twitter.com/abacaj/status/1608163957302231041))
-	- The final GPT-3 prompt with all summaries can be seen in the screenshot along with the output
+	- The final [[GPT-3]] prompt with all summaries can be seen in the screenshot along with the output
 	  
 	  Now, we have a sufficiently advanced "book whisperer" that can answer many, many questions related to the book "Intro to Algorithms" 📕
 	  

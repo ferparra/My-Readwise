@@ -1,4 +1,4 @@
-title:: The GPT-3 Architecture, on a Napkin (highlights)
+title:: The [[GPT-3]] Architecture, on a Napkin (highlights)
 author:: [[dugas.ch]]
 full-title:: "The GPT-3 Architecture, on a Napkin"
 category:: #articles

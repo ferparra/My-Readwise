@@ -17,7 +17,7 @@ url:: https://twitter.com/mathemagic1an/status/1607767768400543745
 		- **Note**: Thread
 	- "Foundation models," a term coined (and aggressively pushed) by Stanford, are models that are trained once and can be adapted to solve a broad set of downstream tasks.
 	  
-	  GPT-3, for instance, a language foundation model, can:
+	  [[GPT-3]], for instance, a language foundation model, can:
 	- This is a significant departure from old-school (pre-2020s) ML:
 	  
 	  You used to have to train a single model per task. This is time-intensive and means you need ML expertise if you have an ML-related application in mind.

@@ -7,7 +7,7 @@ url:: https://twitter.com/danshipper/status/1602126357953142784
 - Highlights first synced by [[Readwise]] [[Dec 18th, 2022]]
 	- I made a chatbot based on @hubermanlab! 
 	  
-	  Ask it any question and it will scan through Huberman Lab podcast transcripts and return the answer using GPT-3.
+	  Ask it any question and it will scan through Huberman Lab podcast transcripts and return the answer using [[GPT-3]].
 	  
 	  (You can even ask it if Cell Press journal is high quality or not....😉) https://t.co/jWOqv20Nlg ([View Tweet](https://twitter.com/danshipper/status/1602126357953142784))
 		- **Note**: Thread

@@ -9,7 +9,7 @@ url:: https://twitter.com/DrJimFan/status/1592683269866549249
 	  
 	  ![](https://pbs.twimg.com/media/FhpY_jHVsAAlMXP.jpg) ([View Tweet](https://twitter.com/DrJimFan/status/1592683269866549249))
 		- **Note**: Thread
-	- Large language models have personalities. They are not shaped by the architecture, but by the training data. Models like GPT-3 and OPT are trained on texts scraped from the internet at large, which unfortunately contains lots of irrelevant, misinformed, or toxic contents. 2/🧵 
+	- Large language models have personalities. They are not shaped by the architecture, but by the training data. Models like [[GPT-3]] and OPT are trained on texts scraped from the internet at large, which unfortunately contains lots of irrelevant, misinformed, or toxic contents. 2/🧵 
 	  
 	  ![](https://pbs.twimg.com/media/FhpY_11VQAEZ4Fc.jpg) ([View Tweet](https://twitter.com/DrJimFan/status/1592683274719354880))
 	- In contrast, scientific texts like academic papers are mostly immune from these data plagues. They contain analytical text with a neutral tone, knowledge backed by evidence, and are written by people who wish to inform rather than inflame. A dataset born in the ivory tower. 3/🧵 ([View Tweet](https://twitter.com/DrJimFan/status/1592683277420482560))

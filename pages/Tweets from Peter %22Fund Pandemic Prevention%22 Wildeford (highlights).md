@@ -8,7 +8,7 @@ url:: https://twitter.com/peterwildeford
 	- Me attempting to teach math to GPT3 
 	  
 	  ![](https://pbs.twimg.com/media/FSF7h4GWQAASKNt.jpg) ([View Tweet](https://twitter.com/peterwildeford/status/1522633978305560576))
-	- GPT-3 does math better if you tell it that does math. I think it just needs the encouragement. 
+	- [[GPT-3]] does math better if you tell it that does math. I think it just needs the encouragement. 
 	  
 	  ![](https://pbs.twimg.com/media/FSFxHXiXsAMZm7e.png) 
 	  

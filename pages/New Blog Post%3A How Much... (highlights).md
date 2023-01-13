@@ -5,7 +5,7 @@ category:: #tweets
 url:: https://twitter.com/russelljkaplan/status/1598036726018035712
 
 - Highlights first synced by [[Readwise]] [[Dec 1st, 2022]]
-	- New blog post: How Much Better is OpenAI's Newest GPT-3 Model?
+	- New blog post: How Much Better is OpenAI's Newest [[GPT-3]] Model?
 	  
 	  https://t.co/VJOdUekuLJ
 	  

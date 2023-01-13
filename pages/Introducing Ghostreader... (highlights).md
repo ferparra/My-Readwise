@@ -66,7 +66,7 @@ url:: https://twitter.com/deadly_onion/status/1592990487257829376
 	  For internally defined terms, see COMING TO TERMS below. https://t.co/joMuph9oPR ([View Tweet](https://twitter.com/deadly_onion/status/1592990526885617664))
 	- TRANSLATE 🌎
 	  
-	  GPT-3 is pretty good at translating from one language to another, but your mileage will vary based on the particular language.
+	  [[GPT-3]] is pretty good at translating from one language to another, but your mileage will vary based on the particular language.
 	  
 	  GPT can even translate to dialects. For laughs, try translating a passage to Jar Jar Binks. https://t.co/yiAKozffZj ([View Tweet](https://twitter.com/deadly_onion/status/1592990542001905664))
 	- COME TO TERMS 🤝
@@ -107,7 +107,7 @@ url:: https://twitter.com/deadly_onion/status/1592990487257829376
 	  
 	  For some odd reason, this prompt often achieves levels of compression exceeding more explicit prompts such as "summarize" or "tl;dr".
 	  
-	  I suppose it has something to do with the strict constraints learned by GPT-3. 
+	  I suppose it has something to do with the strict constraints learned by [[GPT-3]]. 
 	  
 	  ![](https://pbs.twimg.com/media/FhtwhOaVEAAdxPp.jpg) ([View Tweet](https://twitter.com/deadly_onion/status/1592990615398060032))
 	- EMOJIFY 🚴🧠

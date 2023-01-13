@@ -5,7 +5,7 @@ category:: #tweets
 url:: https://twitter.com/goodside
 
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
-	- "Chain of chain-of-thought" — A zero-shot GPT-3 prompt that sequentially solves 15 problems with references to prior answers, using chain-of-thought deduction for each, in a single text generation.
+	- "Chain of chain-of-thought" — A zero-shot [[GPT-3]] prompt that sequentially solves 15 problems with references to prior answers, using chain-of-thought deduction for each, in a single text generation.
 	  
 	  Generated at temperature=0. Playground link: https://t.co/cMpb80fCuV 
 	  
@@ -17,7 +17,7 @@ url:: https://twitter.com/goodside
 	  
 	  ![](https://pbs.twimg.com/media/FfnJGNYVsAA-wr4.jpg) ([View Tweet](https://twitter.com/goodside/status/1583518688971411457))
 - New highlights added [[Dec 1st, 2022]] at 3:25 PM
-	- OpenAI’s new ChatGPT appears to defeat Hofstadter/Bender’s list of hallucination-inducing questions, published in The Economist this June to demonstrate the “hollowness” of GPT-3’s understanding of the world: https://t.co/Td7KxQe6Va 
+	- OpenAI’s new ChatGPT appears to defeat Hofstadter/Bender’s list of hallucination-inducing questions, published in The Economist this June to demonstrate the “hollowness” of [[GPT-3]]’s understanding of the world: https://t.co/Td7KxQe6Va 
 	  
 	  ![](https://pbs.twimg.com/media/Fi1tQCIXoAIBe8F.jpg) 
 	  
@@ -36,10 +36,10 @@ url:: https://twitter.com/goodside
 	  
 	  ![](https://pbs.twimg.com/media/Fk90zW3X0AIXaeF.jpg) ([View Tweet](https://twitter.com/goodside/status/1607633071704006657))
 - New highlights added [[Jan 1st, 2023]] at 7:44 PM
-	- Using GPT-3 to implement a `guess()` function in Python that returns whatever string seems reasonable for the context in which the function was called. 
+	- Using [[GPT-3]] to implement a `guess()` function in Python that returns whatever string seems reasonable for the context in which the function was called. 
 	  
 	  ![](https://pbs.twimg.com/media/FlXd73zXoAAPw1E.jpg) ([View Tweet](https://twitter.com/goodside/status/1609436504702717952))
-	- A simple demo of my "instruction template" method of prompting GPT-3, generating a Python 3 module using placeholders and notes within a template that contains only a single line of actual Python: 
+	- A simple demo of my "instruction template" method of prompting [[GPT-3]], generating a Python 3 module using placeholders and notes within a template that contains only a single line of actual Python: 
 	  
 	  ![](https://pbs.twimg.com/media/FlX2e7KXEAQ7x6a.png) 
 	  

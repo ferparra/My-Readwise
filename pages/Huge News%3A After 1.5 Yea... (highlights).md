@@ -70,7 +70,7 @@ url:: https://twitter.com/homsiT/status/1603143634047705089
 	  https://t.co/qD2DlLiUA5 ([View Tweet](https://twitter.com/homsiT/status/1603147859209207808))
 	- @ReadwiseReader @notion @airtable @obsdmd @YouTube Ok one more big one... we've built the latest AI tech into Reader to help you read better. 
 	  
-	  There are lots of GPT-3 based copilots for writing, but Reader incorporates the first copilot of reading. 
+	  There are lots of [[GPT-3]] based copilots for writing, but Reader incorporates the first copilot of reading. 
 	  
 	  We call it Ghostreader: https://t.co/U8QUr5YA2W ([View Tweet](https://twitter.com/homsiT/status/1603148003799449603))
 	- @ReadwiseReader @notion @airtable @obsdmd @YouTube Of course, every highlight you take in Reader automatically syncs with Readwise for automatic exporting to your favorite note-taking app including:

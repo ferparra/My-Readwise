@@ -9,7 +9,7 @@ url:: https://twitter.com/abacaj/status/1610384741949374466
 	  
 	  Introducing natural language web crawling, run queries for data from any website 🕸️ https://t.co/G0JLh2ComL ([View Tweet](https://twitter.com/abacaj/status/1610384741949374466))
 		- **Note**: Thread
-	- Built with GPT-3 and justbrowse, getting data quickly should be as easy as asking questions
+	- Built with [[GPT-3]] and justbrowse, getting data quickly should be as easy as asking questions
 	  
 	  Get early access here:
 	  https://t.co/d3DKDaf5W9 ([View Tweet](https://twitter.com/abacaj/status/1610384744767803399))

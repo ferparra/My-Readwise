@@ -16,7 +16,7 @@ url:: https://twitter.com/rileytomasek/status/1603854647575384067
 	  https://t.co/RartZqq0Cj 
 	  
 	  ![](https://pbs.twimg.com/media/FkIIFHjXEAIBQ33.jpg) ([View Tweet](https://twitter.com/rileytomasek/status/1603854649295085568))
-	- The "Ask" functionality does a search for your question and then answers based on the most relevant results. This way, you get Dr. Huberman's answers to your questions, not just what GPT-3 thinks.
+	- The "Ask" functionality does a search for your question and then answers based on the most relevant results. This way, you get Dr. Huberman's answers to your questions, not just what [[GPT-3]] thinks.
 	  
 	  https://t.co/YC5QosGn4N 
 	  

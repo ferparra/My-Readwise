@@ -38,7 +38,7 @@ url:: https://twitter.com/sergeykarayev/status/1518677260236034050
 	  (I don't agree with his prediction that LM vendors will have Apple/FB-like power over customers, though.)
 	  
 	  https://t.co/vj1WbhUuOM ([View Tweet](https://twitter.com/sergeykarayev/status/1518677280402276352))
-	- And notably, we haven't seen a GPT-3 like interface for non-generative vision tasks yet.
+	- And notably, we haven't seen a [[GPT-3]] like interface for non-generative vision tasks yet.
 	  
 	  As a computer vision guy at heart, this is most exciting to imagine. More on that in a future thread. ([View Tweet](https://twitter.com/sergeykarayev/status/1518677283401175040))
 	- Here is another recent paper: language-based state representations improve exploration behavior of an RL agent.

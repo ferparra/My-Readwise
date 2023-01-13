@@ -5,7 +5,7 @@ category:: #tweets
 url:: https://twitter.com/colinfortuner/status/1610638593537474561
 
 - Highlights first synced by [[Readwise]] [[Jan 5th, 2023]]
-	- Anyone else trying to use EXTERNAL knowledge (databases) in their GPT-3 prompts?
+	- Anyone else trying to use EXTERNAL knowledge (databases) in their [[GPT-3]] prompts?
 	  
 	  e.g. adding ‘context’ to a prompt or chain to generate better results?
 	  

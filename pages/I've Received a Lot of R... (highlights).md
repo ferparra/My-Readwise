@@ -7,7 +7,7 @@ url:: https://twitter.com/michellehuang42/status/1597702974889144320
 - Highlights first synced by [[Readwise]] [[Nov 30th, 2022]]
 	- i've received a lot of requests on how to replicate my AI experiment so here goes --
 	  
-	  [tutorial] how to create your own "inner child" chatbot using GPT-3
+	  [tutorial] how to create your own "inner child" chatbot using [[GPT-3]]
 	  
 	  https://t.co/lsWcUK7RYA ([View Tweet](https://twitter.com/michellehuang42/status/1597702974889144320))
 		- **Note**: Thread
@@ -24,7 +24,7 @@ url:: https://twitter.com/michellehuang42/status/1597702974889144320
 	- congrats, you have now finished the most grueling part of the process.
 	  
 	  **i would advise to just start off with a few samples instead of transcribing everything** - you'll see why later in this post ([View Tweet](https://twitter.com/michellehuang42/status/1597702980446609408))
-	- step 2: after you have some source material, go to the GPT-3 playground here https://t.co/EtQiy5Mtg8
+	- step 2: after you have some source material, go to the [[GPT-3]] playground here https://t.co/EtQiy5Mtg8
 	  
 	  this playground is basically where you can add your prompts + diary entries, and set training parameters for your model ([View Tweet](https://twitter.com/michellehuang42/status/1597702981906239488))
 	- note that you will need to have an open ai account, as well as have a payment method to run the model
@@ -54,7 +54,7 @@ url:: https://twitter.com/michellehuang42/status/1597702974889144320
 	- for those interested in the code or running it via a program, you can also do the following: 
 	  
 	  ![](https://pbs.twimg.com/media/Fiws22GXgAEA8ky.png) ([View Tweet](https://twitter.com/michellehuang42/status/1597702999065124866))
-	- note that for gpt-3 playground, is that there’s a content maximum: even for the most robust model- which processes up to 4k tokens per request
+	- note that for [[gpt-3]] playground, is that there’s a content maximum: even for the most robust model- which processes up to 4k tokens per request
 	  
 	  you can increase these limits with fine-tuning, but i ended up just using the playground for simplicity ([View Tweet](https://twitter.com/michellehuang42/status/1597703001866895360))
 	- so it might be better to just pick and choose which specific entries feel the most poignant for you, or represent your attitude and values most during that time and go with those -- which is why i mentioned starting with just a few samples at the beginning of this post ([View Tweet](https://twitter.com/michellehuang42/status/1597703003326513152))

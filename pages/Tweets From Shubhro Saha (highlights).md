@@ -5,7 +5,7 @@ category:: #tweets
 url:: https://twitter.com/shubroski
 
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
-	- This weekend I built =GPT3(), a way to run GPT-3 prompts in Google Sheets.
+	- This weekend I built =GPT3(), a way to run [[GPT-3]] prompts in Google Sheets.
 	  
 	  It's incredible how tasks that are hard or impossible to do w/ regular formulas become trivial.
 	  
