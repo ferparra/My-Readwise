@@ -1,0 +1,9 @@
+title:: Tana Tour With Maggie Appleton: Content Pipeline, Daily Template, Decision Making, and Travel (highlights)
+author:: [[Robert Haisfield]]
+full-title:: "Tana Tour With Maggie Appleton: Content Pipeline, Daily Template, Decision Making, and Travel"
+category:: #articles
+url:: https://www.youtube.com/watch?v=rdQ4dEa5fmU
+tags:: #[[tana]]
+
+- Highlights first synced by [[Readwise]] [[Jan 3rd, 2023]]
+	- [00:00](https://www.youtube.com/watch?v=rdQ4dEa5fmU&t=0s) - Intro [03:45](https://www.youtube.com/watch?v=rdQ4dEa5fmU&t=225s) - Why Tana? [05:34](https://www.youtube.com/watch?v=rdQ4dEa5fmU&t=334s) - Tour begins, day tag [07:23](https://www.youtube.com/watch?v=rdQ4dEa5fmU&t=443s) - Tracking what's on her mind [08:29](https://www.youtube.com/watch?v=rdQ4dEa5fmU&t=509s) - Hide fields when empty [10:00](https://www.youtube.com/watch?v=rdQ4dEa5fmU&t=600s) - Simple search for what's on her mind [12:08](https://www.youtube.com/watch?v=rdQ4dEa5fmU&t=728s) - Writing pipeline, grouped by stage, sorted by motivation [20:30](https://www.youtube.com/watch?v=rdQ4dEa5fmU&t=1230s) - Fields as prompts [22:30](https://www.youtube.com/watch?v=rdQ4dEa5fmU&t=1350s) - How to write introductions [24:00](https://www.youtube.com/watch?v=rdQ4dEa5fmU&t=1440s) - Thinking about how to come up with your own structure [26:28](https://www.youtube.com/watch?v=rdQ4dEa5fmU&t=1588s) - Flight tracking [27:47](https://www.youtube.com/watch?v=rdQ4dEa5fmU&t=1667s) - Decisions - ice cream maker, buying a home [30:40](https://www.youtube.com/watch?v=rdQ4dEa5fmU&t=1840s) - Tracking questions [32:35](https://www.youtube.com/watch?v=rdQ4dEa5fmU&t=1955s) - What are you excited about for the future of TfT? [35:45](https://www.youtube.com/watch?v=rdQ4dEa5fmU&t=2145s) - What advice would you give to new Tana users? ([View Highlight](https://read.readwise.io/read/01gnth35jkvrjzd1yqah5d7hqa))

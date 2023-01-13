@@ -21,3 +21,23 @@ url:: https://twitter.com/algekalipso
 	  Different "cuts" of the Hamiltonian of Consciousness (cf. Hyperbolic Geometry of DMT Experiences). 
 	  
 	  ![](https://pbs.twimg.com/media/FlDnA15akAEZWAD.jpg) ([View Tweet](https://twitter.com/algekalipso/status/1608039207389507584))
+- New highlights added [[Jan 1st, 2023]] at 9:16 AM
+	- Discover Twitter clusters and see to which ones you belong with this cool tool:
+	  
+	  https://t.co/7OAJvnggvX ([View Tweet](https://twitter.com/algekalipso/status/1609217551107608577))
+- New highlights added [[Jan 5th, 2023]] at 10:06 AM
+	- @EzraJNewman Everyone is a moral anti realist until:
+	  
+	  1. They experience the jhanas/think about valence on a good MDMA trip 
+	  
+	  2. Experience kidney stones or cluster headaches
+	  
+	  3. Notice that even thought and preferences are grounded in gradients of valence ([View Tweet](https://twitter.com/algekalipso/status/1608220378702438401))
+- New highlights added [[Jan 13th, 2023]] at 10:27 AM
+	- To a first approximation:
+	  
+	  1. Consciousness is computational (algorithms) or intrinsic/physical (what physics is made of/building blocks)?
+	  
+	  The feeling of value/pleasure is:
+	  
+	  2. Not real, illusory, dependent on your frame of reference & values, or objective, measurable/universal? ([View Tweet](https://twitter.com/algekalipso/status/1612933863696896000))

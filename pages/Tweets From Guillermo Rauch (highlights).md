@@ -14,3 +14,17 @@ url:: https://twitter.com/rauchg
 	  Next 12 has only been out for 48 hours. The beauty of betting on Web standards… 
 	  
 	  ![](https://pbs.twimg.com/media/FCznsqHUUAAmVlB.jpg) ([View Tweet](https://twitter.com/rauchg/status/1453791686597873665))
+- New highlights added [[Jan 2nd, 2023]] at 7:32 PM
+	- Underrated growth tool: playgrounds.
+	  Examples:
+	  ◆ Tailwind (https://t.co/pNPPksT6LR)
+	  ◆ GraphiQL (e.g.: https://t.co/tmGkzHh2Rv)
+	  ◆ TypeScript (https://t.co/prvY3BzFTB)
+	  ◆ Rust https://t.co/0dGmuNB354
+	  
+	  Bonus for URL sharability. Inspired by @ClickHouseDB's https://t.co/4jfdLjjzTy ([View Tweet](https://twitter.com/rauchg/status/1609633615511711747))
+- New highlights added [[Jan 4th, 2023]] at 12:00 PM
+	- <Mafs />: React components for Math 🧮 Delightful!
+	  https://t.co/y0aRMfKU9o 
+	  
+	  ![](https://pbs.twimg.com/media/FlfRybiaMAAe_E3.jpg) ([View Tweet](https://twitter.com/rauchg/status/1609986738751164416))

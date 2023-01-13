@@ -116,3 +116,16 @@ url:: https://twitter.com/robkhenderson
 	- "When inequality is the general law of society, the most blatant inequalities escape notice. When everything is virtually on a level, the slightest variations cause distress. That is why the desire for equality becomes more insatiable as equality extends to all."
 	  
 	  —Tocqueville ([View Tweet](https://twitter.com/robkhenderson/status/1607607802897534983))
+- New highlights added [[Jan 13th, 2023]] at 10:27 AM
+	- "It takes a huge investment in introspection to learn that 'studying' the news last month neither had any predictive ability during your activities of that month nor did it impact your current knowledge of the world." https://t.co/alR1dEMu63 
+	  
+	  ![](https://pbs.twimg.com/media/FmIMQ5CXkB8poBM.jpg) ([View Tweet](https://twitter.com/robkhenderson/status/1612865106697752592))
+	- Camille Paglia's essay "What I hate about Foucault": 
+	  
+	  ![](https://pbs.twimg.com/media/FmOB9ffX0AIhSOj.png) 
+	  
+	  ![](https://pbs.twimg.com/media/FmOB-SdX0AEp16h.png) 
+	  
+	  ![](https://pbs.twimg.com/media/FmOB_gLX0AANwqc.png) 
+	  
+	  ![](https://pbs.twimg.com/media/FmOCBagWYAEzgsm.png) ([View Tweet](https://twitter.com/robkhenderson/status/1613276210993283075))

@@ -56,3 +56,11 @@ url:: https://twitter.com/Jeande_d
 	  Code: https://t.co/RvTTsRAlhU 
 	  
 	  ![](https://pbs.twimg.com/media/FkM4lpRVQAAkuXC.jpg) ([View Tweet](https://twitter.com/Jeande_d/status/1604188117979656192))
+- New highlights added [[Jan 7th, 2023]] at 7:13 PM
+	- [NEW] Machine Learning Specialization - Andrew Ng
+	  
+	  ML specialization is the revamped edition of the former Stanford machine learning, one of the famous and earliest AI courses. Materials for the new course are now freely available. No Matlab, just Python!
+	  
+	  https://t.co/ST5VWkoboj 
+	  
+	  ![](https://pbs.twimg.com/media/Fl0DigcaEAA257T.jpg) ([View Tweet](https://twitter.com/Jeande_d/status/1611448145829036032))

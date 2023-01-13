@@ -35,3 +35,14 @@ url:: https://twitter.com/goodside
 	  ![](https://pbs.twimg.com/media/Fk9yu5OWQAILDWw.jpg) 
 	  
 	  ![](https://pbs.twimg.com/media/Fk90zW3X0AIXaeF.jpg) ([View Tweet](https://twitter.com/goodside/status/1607633071704006657))
+- New highlights added [[Jan 1st, 2023]] at 7:44 PM
+	- Using GPT-3 to implement a `guess()` function in Python that returns whatever string seems reasonable for the context in which the function was called. 
+	  
+	  ![](https://pbs.twimg.com/media/FlXd73zXoAAPw1E.jpg) ([View Tweet](https://twitter.com/goodside/status/1609436504702717952))
+	- A simple demo of my "instruction template" method of prompting GPT-3, generating a Python 3 module using placeholders and notes within a template that contains only a single line of actual Python: 
+	  
+	  ![](https://pbs.twimg.com/media/FlX2e7KXEAQ7x6a.png) 
+	  
+	  ![](https://pbs.twimg.com/media/FlX2npGWQAEBM_Q.jpg) 
+	  
+	  ![](https://pbs.twimg.com/media/FlX3g4oXwAM4voo.jpg) ([View Tweet](https://twitter.com/goodside/status/1609465914453377024))

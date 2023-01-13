@@ -9,3 +9,7 @@ url:: https://twitter.com/deliprao
 	- At 2100+ (not a typo) pages 🤯, this is almost all the Math you need for Machine Learning without dumbing it down! PDF link: https://t.co/gXJosvzZLS 
 	  
 	  ![](https://pbs.twimg.com/media/FfZIE2zWIAAQtN3.jpg) ([View Tweet](https://twitter.com/deliprao/status/1582531571394916352))
+- New highlights added [[Jan 9th, 2023]] at 12:45 AM
+	- History class: This 2015 paper is the mother of all LM based pre-training approaches, including the GPT, but few are aware of it. GPT (Radford et al 2018) was a direct application of Transformers (Vasvani et al 2017) to the result in this paper (w/ lot of work & insight ofc). 
+	  
+	  ![](https://pbs.twimg.com/media/Fl6Zko_XgAA9qPC.png) ([View Tweet](https://twitter.com/deliprao/status/1611896130589057025))

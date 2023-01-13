@@ -42,3 +42,10 @@ url:: https://twitter.com/gabrielpeyre
 	- Stein’s lemma is a surprisingly simple yet useful characterization of the Gaussian distribution. Enables to derive sharp bounds for convergence rates in the central limit theorem in various metrics. https://t.co/9NVXzWc1wo 
 	  
 	  ![](https://pbs.twimg.com/media/Fjs4p2tXoAIbrcn.jpg) ([View Tweet](https://twitter.com/gabrielpeyre/status/1605805334978781184))
+- New highlights added [[Jan 1st, 2023]] at 6:16 PM
+	- Oldies but goldies: C. Shannon, 1949, Communication in the presence of noise. 
+	  States the Nyquist–Shannon sampling theorem. Explains the aliasing of signals. https://t.co/Dtguyw4bDm 
+	  
+	  ![](https://pbs.twimg.com/media/FkrkIMnXkBMaFDz.jpg) ([View Tweet](https://twitter.com/gabrielpeyre/status/1609429341867311104))
+- New highlights added [[Jan 6th, 2023]] at 6:01 PM
+	- The color palette of an image is the 3D empirical distribution of the pixels. Optimal transport allows one to interpolate between palettes. https://t.co/wPIEMPwiJM https://t.co/5O7mrZEG65 https://t.co/wZtUEWRdh5 ([View Tweet](https://twitter.com/gabrielpeyre/status/1611241276128518145))

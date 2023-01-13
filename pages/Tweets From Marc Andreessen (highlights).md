@@ -11,3 +11,5 @@ url:: https://twitter.com/pmarca
 	- This is one of the craziest books I've ever read; highly recommend. https://t.co/Y0wqV4Z0Es 
 	  
 	  ![](https://pbs.twimg.com/media/FRjpKtwUYAEqWft.jpg) ([View Tweet](https://twitter.com/pmarca/status/1520221318276284416))
+- New highlights added [[Jan 6th, 2023]] at 12:54 PM
+	- Utilitarianism is bad: It encourages mortal men to play God at levels of complexity that they can't possibly comprehend. It should be banned for the greater good. ([View Tweet](https://twitter.com/pmarca/status/1591154910359613440))

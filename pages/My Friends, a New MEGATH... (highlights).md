@@ -114,7 +114,7 @@ url:: https://twitter.com/G_S_Bhogal/status/1545510413982474253
 	  If you can't state the opposing view on an issue at least as well as the people supporting it, then you're not entitled to your own view. Following this rule will prevent a great deal of stupidity. ([View Tweet](https://twitter.com/G_S_Bhogal/status/1545511234857971712))
 	- 36. Nova Effect:
 	  You may think losing your job is bad, but what if staying at your job would've led to you dying in a fire? You can't truly know if an outcome is good or bad, because fortune can lead to misfortune and vice versa. So don't be quick to judge the cards you're dealt. ([View Tweet](https://twitter.com/G_S_Bhogal/status/1545511236649066496))
-	- 37. Apatheia:
+	- 37. [[Apatheia]]:
 	  Often, fear is more crippling than that which is feared. Rage is more maddening than that which enrages. Hate is more toxic than that which is hated. Few foes crush us more than our emotions, so victory over our enemies requires victory over our feelings about them. ([View Tweet](https://twitter.com/G_S_Bhogal/status/1545511238221824001))
 	- 38. Attention Economy:
 	  The world is competing for your attention. Therefore, your attention has value like real currency, and should be treated as such. Ask yourself, what are you wasting attention on, and where would investing it yield the best return? ([View Tweet](https://twitter.com/G_S_Bhogal/status/1545511239849328642))

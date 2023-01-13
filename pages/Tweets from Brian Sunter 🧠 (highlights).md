@@ -79,3 +79,19 @@ url:: https://twitter.com/Bsunter
 	  https://t.co/jUuqI3J4IZ 
 	  
 	  ![](https://pbs.twimg.com/media/Fkc6BW1UUAAb3BA.jpg) ([View Tweet](https://twitter.com/Bsunter/status/1605316646897270784))
+- New highlights added [[Dec 31st, 2022]] at 5:35 PM
+	- For a really good directory of public @logseq graphs, 
+	  
+	  check out the list of repos using the @pengx17 's logseq-publish action. 
+	  
+	  382 public graphs using this so far. Really good source of inspiration!
+	  
+	  https://t.co/h3Kyqrb1Aq 
+	  
+	  ![](https://pbs.twimg.com/media/FlSAJ5vagAATCyv.jpg) ([View Tweet](https://twitter.com/Bsunter/status/1609052088939712524))
+- New highlights added [[Jan 5th, 2023]] at 12:34 PM
+	- The Gay Science by Friedrich Nietzsche
+	  
+	  Aphoristic musings on a wide range of topics such as morality, religion, psychology, art, and science. It is written in an energetic, poetic, rhapsodic style. Controversial and guaranteed to provoke a reaction. Not for everyone. 
+	  
+	  ![](https://pbs.twimg.com/media/FlqLNRKaYAARJWY.jpg) ([View Tweet](https://twitter.com/Bsunter/status/1610752883917754368))

@@ -14,3 +14,5 @@ url:: https://twitter.com/ChrisWillx
 	  New clip live 🔗 https://t.co/uAl6jZa5AO 
 	  
 	  ![](https://pbs.twimg.com/media/FYmIS-KWIAAVjPA.jpg) ([View Tweet](https://twitter.com/ChrisWillx/status/1551945442325323784))
+- New highlights added [[Jan 13th, 2023]] at 10:27 AM
+	- 84% of working women say staying home to raise kids is a financial luxury they aspire to. ([View Tweet](https://twitter.com/ChrisWillx/status/1612811501479383043))

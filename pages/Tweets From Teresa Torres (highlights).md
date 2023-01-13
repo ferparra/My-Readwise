@@ -46,3 +46,11 @@ url:: https://twitter.com/ttorres
 	  #prodmgmt #ux #engineering 
 	  
 	  ![](https://pbs.twimg.com/media/FkzAwmQXwAcXI7N.jpg) ([View Tweet](https://twitter.com/ttorres/status/1606871110749929472))
+- New highlights added [[Jan 13th, 2023]] at 10:27 AM
+	- "By breaking the solution down into underlying assumptions, we are setting ourselves learning objectives that will broaden our understanding of the opportunity, potential solutions, and our users." - Chris H.
+	  
+	  https://t.co/ZVPnzBgQSb
+	  
+	  #prodmgmt #ux #engineering 
+	  
+	  ![](https://pbs.twimg.com/media/FmIVpoUXEBcaHnh.jpg) ([View Tweet](https://twitter.com/ttorres/status/1612875424752668689))

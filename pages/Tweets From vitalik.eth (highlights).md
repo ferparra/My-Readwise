@@ -32,3 +32,11 @@ url:: https://twitter.com/VitalikButerin
 	  ![](https://pbs.twimg.com/media/Fh4Ldp9XEAM8uAQ.png) ([View Tweet](https://twitter.com/VitalikButerin/status/1593726411335925763))
 - New highlights added [[Nov 24th, 2022]] at 7:10 AM
 	- @tylercowen My theory is different: the AI-driven commoditization of articulateness in elite registers of the English language is going to degrade its value, and by extension further degrade the social status of those who depend on it as a status marker. ([View Tweet](https://twitter.com/VitalikButerin/status/1595429084116520962))
+- New highlights added [[Jan 6th, 2023]] at 12:54 PM
+	- People who criticize "utilitarianism" are often actually criticizing something quite different, like coldness or expediency.
+	  
+	  John Stuart Mill himself wrote quite a lot about the distinction in his original work in 1863. The whole thing is worth reading:
+	  
+	  https://t.co/RGFZkmGfT2 
+	  
+	  ![](https://pbs.twimg.com/media/FW45JAWWAAEmvTO.png) ([View Tweet](https://twitter.com/VitalikButerin/status/1544234970964713475))

@@ -249,3 +249,21 @@ url:: https://twitter.com/johncutlefish
 	  🤯🤯🤯🤯🤯 
 	  
 	  ![](https://pbs.twimg.com/media/FjgfQDTVIAEraYf.jpg) ([View Tweet](https://twitter.com/johncutlefish/status/1601064674585255936))
+- New highlights added [[Jan 5th, 2023]] at 12:34 PM
+	- How much autonomy does “the team” have over the solution? What is their mandate? 
+	  
+	  #ux #design #prodmgmt #agile 
+	  
+	  ![](https://pbs.twimg.com/media/DQ_ni-PVAAAfwGg.jpg) ([View Tweet](https://twitter.com/johncutlefish/status/941226264530100224))
+	- The shifts.... from waterfall to product team
+	  
+	  Of course there is no end-state. 
+	  
+	  #agile #devops #ux #prodmgmt @Amplitude_HQ 
+	  
+	  ![](https://pbs.twimg.com/media/EIYtV7WWkAIqrWF.jpg) ([View Tweet](https://twitter.com/johncutlefish/status/1190689018792443905))
+	- When you have no choice but to put a roadmap on a calendar...
+	  
+	  Stick to outcomes. Not features. Not output. #prodmgmt #ux 
+	  
+	  ![](https://pbs.twimg.com/media/DTdyLtcVAAAvxF3.jpg) ([View Tweet](https://twitter.com/johncutlefish/status/952355540474068993))

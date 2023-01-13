@@ -41,3 +41,9 @@ url:: https://twitter.com/david_perell
 	  He replied: "I think most people can learn a lot more than they think they can. It's important to view knowledge as a semantic tree. Make sure you understand the fundamental principles before you get into the details." 
 	  
 	  ![](https://pbs.twimg.com/media/FQkX_UrXwAQGWNy.png) ([View Tweet](https://twitter.com/david_perell/status/1515769218955886597))
+- New highlights added [[Jan 1st, 2023]] at 5:18 PM
+	- Some books that arrest my heart and lift me into the heavens every time I pick them up:
+	  
+	  • Shantaram 
+	  • Anam Cara 
+	  • When Breath Becomes Air ([View Tweet](https://twitter.com/david_perell/status/1609234014291763200))

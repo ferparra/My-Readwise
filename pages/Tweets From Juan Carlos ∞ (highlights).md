@@ -18,3 +18,9 @@ url:: https://twitter.com/jcponcemath
 	  ![](https://pbs.twimg.com/media/FkJi18VUoAAGXiO.jpg) 
 	  
 	  ![](https://pbs.twimg.com/media/FkJi18YVUAEO9X0.png) ([View Tweet](https://twitter.com/jcponcemath/status/1603953654045626368))
+- New highlights added [[Dec 30th, 2022]] at 3:52 PM
+	- I spent a lot of time making these slides not only to help students to visualise maths concepts, but also to spend more time on problem solving activities 🧮🤔📝
+	  
+	  https://t.co/ZJB331ysQQ
+	  
+	  #iteachmaths @geogebra @revealjs #mathbox https://t.co/YYrdcmjV7g ([View Tweet](https://twitter.com/jcponcemath/status/1568197238899503108))

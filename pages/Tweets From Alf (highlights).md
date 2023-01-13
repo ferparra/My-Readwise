@@ -58,3 +58,7 @@ url:: https://twitter.com/MacroAlf
 	- Soft landing my a** 
 	  
 	  ![](https://pbs.twimg.com/media/FkneNuzX0A0TyoY.jpg) ([View Tweet](https://twitter.com/MacroAlf/status/1606059074235387905))
+- New highlights added [[Jan 2nd, 2023]] at 11:03 AM
+	- The most important long-term chart in global macro. 
+	  
+	  ![](https://pbs.twimg.com/media/FlZkCKLWQAU7AH0.png) ([View Tweet](https://twitter.com/MacroAlf/status/1609674577323376651))

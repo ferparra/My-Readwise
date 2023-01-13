@@ -32,3 +32,7 @@ url:: https://twitter.com/kepano
 	- I'm excited to share that we have open-sourced the Obsidian Canvas file format under MIT license!
 	  
 	  Just like Markdown files it means that your .canvas files can be stored locally and interoperate with other tools that may use the format. ([View Tweet](https://twitter.com/kepano/status/1605225897493422080))
+- New highlights added [[Jan 13th, 2023]] at 10:27 AM
+	- Minimal 6.2 is now available for @obsdmd and adds the Ayu color scheme 
+	  
+	  ![](https://pbs.twimg.com/media/FmPU6KPacAA6CPn.jpg) ([View Tweet](https://twitter.com/kepano/status/1613367210071986177))
