@@ -66,7 +66,7 @@ url:: https://twitter.com/stevemagness/status/1480536006348750850
 	  3. Metabolism- Brown Fat ([View Tweet](https://twitter.com/stevemagness/status/1480536018461900804))
 	- 1. Hormonal Surge- It’s true. We get a surge of hormones. 
 	  
-	  One study found 1 hour in 14deg C water led to a massive surge in Dopamine and Noradrenaline.
+	  One study found 1 hour in 14deg C water led to a massive surge in [[Dopamine]] and Noradrenaline.
 	  
 	  Great! But…so what? 
 	  

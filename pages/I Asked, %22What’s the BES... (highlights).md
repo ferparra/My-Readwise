@@ -80,7 +80,7 @@ url:: https://twitter.com/AlexAndBooks_/status/1445477077268848642
 	  https://t.co/1tOzJkSMTC ([View Tweet](https://twitter.com/AlexAndBooks_/status/1445477164963360769))
 	- 14/ @hubermanlab  
 	  
-	  Andrew Huberman is a professor of neurobiology at Stanford. This episode serves as a sort of “Dopamine Masterclass”. It covers motivation, addiction, depression, and other aspects of dopamine. Listen and take notes.
+	  Andrew Huberman is a professor of neurobiology at Stanford. This episode serves as a sort of “[[Dopamine]] Masterclass”. It covers [[motivation]], [[addiction]], [[depression]], and other aspects of [[dopamine]]. Listen and take notes.
 	  
 	  https://t.co/rmmPFcZMCW ([View Tweet](https://twitter.com/AlexAndBooks_/status/1445477169187094532))
 	- 15/ @jordanbpeterson with @andrewschulz 

@@ -17,7 +17,7 @@ url:: https://twitter.com/hubermanlab/status/1486808180566810624
 	- 4) Introversion & Extroversion Reflect Social Homeostasis
 	  
 	  Studies on introverts and extroverts suggest that introverts like social interaction but are socially satisfied faster than are extroverts. ([View Tweet](https://twitter.com/hubermanlab/status/1486808189416837121))
-	- The takeaway is to offer (or take) opportunities to exit social interactions early and not feel guilty about it or take offense. The extroverts can keep at it until they get the dopamine they need. ([View Tweet](https://twitter.com/hubermanlab/status/1486808191698571266))
+	- The takeaway is to offer (or take) opportunities to exit social interactions early and not feel guilty about it or take offense. The extroverts can keep at it until they get the [[dopamine]] they need. ([View Tweet](https://twitter.com/hubermanlab/status/1486808191698571266))
 	- 5) Merge Physiologies
 	  
 	  Build social bonds by hearing, watching or sharing stories. Being on your phones is not the way to do that. Watching movies, hearing someone tell stories, playing or listening to music, etc. are all excellent paths to this. Do those things together. ([View Tweet](https://twitter.com/hubermanlab/status/1486808194319982592))

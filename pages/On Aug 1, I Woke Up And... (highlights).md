@@ -106,22 +106,22 @@ url:: https://twitter.com/awilkinson/status/1445749683003949068
 	  Not really relatable to me, just interesting. ([View Tweet](https://twitter.com/awilkinson/status/1445749769167523842))
 	- What I wasn’t expecting to learn was that I myself was a textbook addict who had unintentionally put himself into self-imposed rehab.
 	  
-	  Dr. Lembke explained that most addictions arise from substances or activities that release dopamine. ([View Tweet](https://twitter.com/awilkinson/status/1445749773080743944))
+	  Dr. Lembke explained that most addictions arise from substances or activities that release [[dopamine]]. ([View Tweet](https://twitter.com/awilkinson/status/1445749773080743944))
 	- The obvious ones include things like cocaine, alcohol, and heroin.
 	  
-	  While she treats drug addiction, much of her work actually focuses on people with more pernicious 21st century addictions to dopamine inducing activities. ([View Tweet](https://twitter.com/awilkinson/status/1445749804366123020))
+	  While she treats drug addiction, much of her work actually focuses on people with more pernicious 21st century addictions to [[dopamine]] inducing activities. ([View Tweet](https://twitter.com/awilkinson/status/1445749804366123020))
 	- Things like video games. Food. Social networks. Porn. Email. Exercise. 
 	  
 	  Even romance novels. Yes, romance novels. ([View Tweet](https://twitter.com/awilkinson/status/1445749808052854807))
 	- People can be addicted to ANYTHING that releases dopamine. And we are all doing it constantly in an unnatural way.
 	  
 	  Our phones are dopamine machines, and, like alcohol, our society has normalized constant exposure. ([View Tweet](https://twitter.com/awilkinson/status/1445749810141663233))
-	- In the podcast, she describes dopamine as a neurotransmitter that creates both pleasure and pain.
+	- In the podcast, she describes [[dopamine]] as a neurotransmitter that creates both pleasure and pain.
 	  
 	  Imagine eating a piece of chocolate cake... ([View Tweet](https://twitter.com/awilkinson/status/1445749813488717832))
 	- You will obviously experience great pleasure eating it, but what people don't realize is that in the background there is a gnawing pain which makes you want more.
 	  
-	  A craving for another dopamine hit.
+	  A craving for another [[dopamine]] hit.
 	  
 	  Just once more bite. One more slice. ([View Tweet](https://twitter.com/awilkinson/status/1445749841028476940))
 	- That’s the pain side of dopamine that pushes us to pursue more of the dopamine inducing substance.
@@ -162,16 +162,16 @@ url:: https://twitter.com/awilkinson/status/1445749683003949068
 	  
 	  And it was making me miserable. ([View Tweet](https://twitter.com/awilkinson/status/1445749875480555532))
 	- It turned out that I had been doing the digital equivalent of eating chocolate cake every minute of every day. ([View Tweet](https://twitter.com/awilkinson/status/1445749903699767305))
-	- Constant dopamine hits, every waking minute. No wonder it felt like nothing was satisfying anymore. 
+	- Constant [[dopamine]] hits, every waking minute. No wonder it felt like nothing was satisfying anymore. 
 	  
-	  My dopamine hits had switched to the pain side. The addiction side.
+	  My [[dopamine]] hits had switched to the pain side. The addiction side.
 	  
 	  My life was...too good? I had overstimulated myself with interesting, exciting things. ([View Tweet](https://twitter.com/awilkinson/status/1445749911035674627))
-	- In the interview and her book Dopamine Nation, Dr. Lembke shares stories about college patients that would walk into her office at Stanford saying they lacked motivation and felt numb.
+	- In the interview and her book [[Dopamine]] Nation, Dr. Lembke shares stories about college patients that would walk into her office at Stanford saying they lacked motivation and felt numb.
 	  
 	  https://t.co/Pt8UmlL7r2 ([View Tweet](https://twitter.com/awilkinson/status/1445749913585815552))
-	- As she learned about their lives, it turned out that they spent hours a day on social media and gaming, two of the most dopamine-heavy things you can do outside of taking drugs. ([View Tweet](https://twitter.com/awilkinson/status/1445749917364862978))
-	- Nothing could compete with the Fortnight and the Instagram feed—both programmed to trigger dopamine like a casino game. ([View Tweet](https://twitter.com/awilkinson/status/1445749920355344404))
+	- As she learned about their lives, it turned out that they spent hours a day on social media and gaming, two of the most [[dopamine]]-heavy things you can do outside of taking drugs. ([View Tweet](https://twitter.com/awilkinson/status/1445749917364862978))
+	- Nothing could compete with the Fortnight and the Instagram feed—both programmed to trigger [[dopamine]] like a casino game. ([View Tweet](https://twitter.com/awilkinson/status/1445749920355344404))
 	- Chocolate cake (video games) vs. broccoli (college lectures).
 	  
 	  In contrast, everything else in their lives seemed like it had the volume turned down. A phenomenon seen in drug addicts. ([View Tweet](https://twitter.com/awilkinson/status/1445749928181989380))
@@ -214,11 +214,11 @@ url:: https://twitter.com/awilkinson/status/1445749683003949068
 	  
 	  Dr. Huberman talks about the dangers of combing multiple dopaminergic things creating reliance and reducing motivation. ([View Tweet](https://twitter.com/awilkinson/status/1445749965767077893))
 	- For example: if you workout + you do a caffeinated pre-workout drink + you listen to a podcast + check your phone during + you look forward to a protein smoothie after. ([View Tweet](https://twitter.com/awilkinson/status/1445749968103374861))
-	- Combing those things too frequently make it too easy to stop enjoying your workout and create extreme dopamine highs. ([View Tweet](https://twitter.com/awilkinson/status/1445749970259243008))
+	- Combing those things too frequently make it too easy to stop enjoying your workout and create extreme [[dopamine]] highs. ([View Tweet](https://twitter.com/awilkinson/status/1445749970259243008))
 	- Apparently one important factor is intrinsic vs. extrinsic motivation—doing a thing because you want to do it vs. because you get brain candy.
 	  
 	  We’ll see where this experiment goes, but hopefully you’ll be hearing less from me going forward. ([View Tweet](https://twitter.com/awilkinson/status/1445749972570279953))
-	- My name is Andrew and I’m a dopamine-holic 🥴
+	- My name is Andrew and I’m a [[dopamine]]-holic 🥴
 	  
 	  Are you?
 	  

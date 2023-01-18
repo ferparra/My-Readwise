@@ -15,7 +15,7 @@ url:: https://twitter.com/LynAldenContact/status/1483216986498908165
 	  
 	  This is deflection, not reform. ([View Tweet](https://twitter.com/LynAldenContact/status/1483216987631329282))
 		- **Tags**: #[[favorite]]
-	- Software companies that build a business around addicting teens to their platform with regular dopamine hits & abuse user data sit atop the ESG investment indices, while fossil fuel producers that keep billions of people alive and comfortable are often excluded as a whole sector. ([View Tweet](https://twitter.com/LynAldenContact/status/1483216988751245312))
+	- Software companies that build a business around addicting teens to their platform with regular [[dopamine]] hits & abuse user data sit atop the ESG investment indices, while fossil fuel producers that keep billions of people alive and comfortable are often excluded as a whole sector. ([View Tweet](https://twitter.com/LynAldenContact/status/1483216988751245312))
 	- There's a trend to cut off existing energy production before having viable replacements. 
 	  
 	  Solar and wind for example, are intermittent. They require grid-scale storage, which doesn't exist in cost-effective form yet. It requires massive copper/nickel/other-metals production. ([View Tweet](https://twitter.com/LynAldenContact/status/1483216989887905793))

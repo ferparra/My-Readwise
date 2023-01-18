@@ -106,15 +106,15 @@ url:: https://twitter.com/johncutlefish
 	- a [[PRD]] - product #requirements document
 	  
 	  comes after:
-	  * a vision
-	  * a strategy
-	  * A North Star Metric and Inputs
+	  * a #vision
+	  * a #strategy
+	  * A [[North Star Metric]] and Inputs
 	  * detailed core beliefs/#assumptions
 	  * open-ended #research
 	  * bet [[1-pager]](s)
 	  * persona-ish things
 	  * detailed history of prior bets
-	  * #learning backlog
+	  * #learning #backlog
 	  * (10 other things) ([View Tweet](https://twitter.com/johncutlefish/status/1449516223595626499))
 	- a big problem in our industry
 	  

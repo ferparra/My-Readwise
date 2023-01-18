@@ -11,7 +11,7 @@ url:: https://twitter.com/rileytomasek/status/1603854647575384067
 	  
 	  https://t.co/1nctiAIuGO https://t.co/VpjnY2NcpM ([View Tweet](https://twitter.com/rileytomasek/status/1603854647575384067))
 		- **Note**: Thread
-	- The search works on semantic meaning, not just keywords. This allows you to search for a term like "neurotransmitters" and get results that include "dopamine" and "serotonin."
+	- The search works on semantic meaning, not just keywords. This allows you to search for a term like "neurotransmitters" and get results that include "[[dopamine]]" and "[[serotonin]]."
 	  
 	  https://t.co/RartZqq0Cj 
 	  

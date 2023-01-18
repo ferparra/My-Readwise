@@ -160,15 +160,15 @@ url:: https://twitter.com/shreyas
 	  -get clarity on your goals
 	  -fix 1-3 things for your team
 	  -listen > speak https://t.co/UG7uzm4dRQ ([View Tweet](https://twitter.com/shreyas/status/1443417831509397508))
-	- How to pick a North Star Metric?
+	- How to pick a [[North Star Metric]]?
 	  
 	  Start with the chemical(s) your product deals with & consider the associated metric:
 	  
-	  Oxytocin - Brand metric
-	  Cortisol - Revenue metric
-	  Dopamine - Usage Frequency metric
-	  Adrenaline - Session Duration metric
-	  Endorphins - Freemium Conversion metric ([View Tweet](https://twitter.com/shreyas/status/1441866360313634823))
+	  [[Oxytocin]] - Brand metric
+	  [[Cortisol]] - Revenue metric
+	  [[Dopamine]] - Usage Frequency metric
+	  [[Adrenaline]] - Session Duration metric
+	  [[Endorphins]] - Freemium Conversion metric ([View Tweet](https://twitter.com/shreyas/status/1441866360313634823))
 	- Don’t confuse prioritizing with focusing
 	  
 	  (h/t @cagan @chris_svpg in Empowered) ([View Tweet](https://twitter.com/shreyas/status/1445622787058458629))

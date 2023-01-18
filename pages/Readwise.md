@@ -948,3 +948,14 @@
 - On [[Jan 18th, 2023]] at 8:08 PM Readwise synced 254 highlights from 62 books.
 - On [[Jan 18th, 2023]] at 9:08 PM Readwise synced 295 highlights from 71 books.
 - On [[Jan 18th, 2023]] at 10:07 PM Readwise synced 356 highlights from 77 books.
+- On [[Jan 18th, 2023]] at 11:45 PM Readwise synced 281 highlights from 63 books.
+- On [[Jan 19th, 2023]] at 12:43 AM Readwise synced 249 highlights from 60 books.
+- On [[Jan 19th, 2023]] at 1:43 AM Readwise synced 250 highlights from 61 books.
+- On [[Jan 19th, 2023]] at 2:45 AM Readwise synced 249 highlights from 60 books.
+- On [[Jan 19th, 2023]] at 3:43 AM Readwise synced 249 highlights from 60 books.
+- On [[Jan 19th, 2023]] at 4:45 AM Readwise synced 249 highlights from 60 books.
+- On [[Jan 19th, 2023]] at 5:45 AM Readwise synced 249 highlights from 60 books.
+- On [[Jan 19th, 2023]] at 6:44 AM Readwise synced 249 highlights from 60 books.
+- On [[Jan 19th, 2023]] at 7:43 AM Readwise synced 259 highlights from 62 books.
+- On [[Jan 19th, 2023]] at 8:43 AM Readwise synced 263 highlights from 61 books.
+- On [[Jan 19th, 2023]] at 9:43 AM Readwise synced 331 highlights from 67 books.

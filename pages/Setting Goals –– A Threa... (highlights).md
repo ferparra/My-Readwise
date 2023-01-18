@@ -40,7 +40,7 @@ url:: https://twitter.com/lennysan/status/1257360074953154562
 	  Step 2. Pick the threshold (aka the goal)
 	- 7/ Step 1: Pick the metric
 	  
-	  Start with your north star metric —whether it’s revenue, subscriptions, or media consumed— and figure out what set of levers move that metric.
+	  Start with your [[north star metric]] —whether it’s revenue, subscriptions, or media consumed— and figure out what set of levers move that metric.
 	  
 	  For example, at Airbnb our north star metric was nights booked. The levers that moved this metric were...
 		- **Tags**: #[[favorite]]

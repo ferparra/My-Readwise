@@ -50,7 +50,7 @@ url:: https://twitter.com/johncutlefish/status/1408959248587886595
 	  
 	  If you're asked to Build X, hack a one-pager that shows X as a potential solution. You will not get fired (though you may still need to build X). 
 	  
-	  "Oh, let's do the velocity thing AND a North Star Metric" ([View Tweet](https://twitter.com/johncutlefish/status/1408959245811286020))
+	  "Oh, let's do the velocity thing AND a [[North Star Metric]]" ([View Tweet](https://twitter.com/johncutlefish/status/1408959245811286020))
 	- 10/12- Gather a change agent crew. Support each other.
 	  
 	  You can't do this alone. Find people who are in it for the long term. It'll take a while. Seek diverse perspectives. Seek pessimists and optimists. Build a crew. ([View Tweet](https://twitter.com/johncutlefish/status/1408959246742425600))

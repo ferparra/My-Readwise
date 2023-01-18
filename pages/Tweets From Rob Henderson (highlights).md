@@ -53,7 +53,7 @@ url:: https://twitter.com/robkhenderson
 	- "Every time you rationalize away new information to cling to a belief, that belief becomes more woven into the fabric of your identity...the next time you discover conflicting information...you're going to be even more motivated to stick to those beliefs" https://t.co/V1LzTRmqCV 
 	  
 	  ![](https://pbs.twimg.com/media/FhY-4utWYAIxrcc.jpg) ([View Tweet](https://twitter.com/robkhenderson/status/1591528670937501696))
-	- "The exploration theory of dopamine posits that, although human beings are 'motivated to reduce the experience of uncertainty to a manageable level,' they are also motivated to increase to increase the experience of uncertainty to an interesting level" https://t.co/05nfOUH6Xo 
+	- "The exploration theory of [[dopamine]] posits that, although human beings are 'motivated to reduce the experience of uncertainty to a manageable level,' they are also motivated to increase to increase the experience of uncertainty to an interesting level" https://t.co/05nfOUH6Xo 
 	  
 	  ![](https://pbs.twimg.com/media/FhV52CjXoAAUVCC.png) ([View Tweet](https://twitter.com/robkhenderson/status/1591312107026677760))
 	- "In spite of the fact that by far the larger part of mankind does not know why the body needs salt, everyone demands it none the less because of an instinctive need. It is the same in the things of the psyche." https://t.co/AHgPE4hvsC 

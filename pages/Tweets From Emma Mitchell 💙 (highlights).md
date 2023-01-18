@@ -5,7 +5,7 @@ category:: #tweets
 url:: https://twitter.com/silverpebble
 
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
-	- Research shows that images of plants alleviate anxiety, as do the colours green, yellow & pink; looking at something you find pleasing can trigger dopamine release, lifting mood. Zoom in if you’re feeling rubbish. 
+	- Research shows that images of plants alleviate anxiety, as do the colours green, yellow & pink; looking at something you find pleasing can trigger [[dopamine]] release, lifting mood. Zoom in if you’re feeling rubbish. 
 	  
 	  Liquidambar leaves
 	  Cambridgeshire 

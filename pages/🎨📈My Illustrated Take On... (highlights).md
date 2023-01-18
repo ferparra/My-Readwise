@@ -40,7 +40,7 @@ url:: https://twitter.com/andrewcyu/status/1384122650050449410
 		- **Tags**: #[[favorite]]
 	- 10/ Key metrics
 	  
-	  At the highest level, a company typically chooses a north star metric that’s responsive to product changes, and is a holistic representation of the product’s value for users. https://t.co/q0RaYruUeL ([View Tweet](https://twitter.com/andrewcyu/status/1384122626621141004))
+	  At the highest level, a company typically chooses a [[north star metric]] that’s responsive to product changes, and is a holistic representation of the product’s value for users. https://t.co/q0RaYruUeL ([View Tweet](https://twitter.com/andrewcyu/status/1384122626621141004))
 		- **Tags**: #[[favorite]]
 	- 11/ Leading metrics
 	  

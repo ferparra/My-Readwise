@@ -21,7 +21,7 @@ url:: https://twitter.com/danshipper/status/1602126357953142784
 	- When the user asks a question:
 	- I think this is especially good for creators who get lots and lots of questions about stuff they've produced, and who produce evergreen work that people use as a reference.
 	  
-	  Much easier to refer people to a chat bot than it is to answer the same question about dopamine 1000x ([View Tweet](https://twitter.com/danshipper/status/1602129345467875330))
+	  Much easier to refer people to a chat bot than it is to answer the same question about [[dopamine]] 1000x ([View Tweet](https://twitter.com/danshipper/status/1602129345467875330))
 	- This took me about a weekend to build all in. 
 	  
 	  Much inspiration comes from @shl who turned his own book into a bot like this (https://t.co/zKAveaB8HG) ([View Tweet](https://twitter.com/danshipper/status/1602129823823970305))

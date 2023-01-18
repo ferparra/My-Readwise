@@ -27,7 +27,7 @@ url:: https://twitter.com/hubermanlab
 	- Dopamine increase* above baseline 
 	  by substance/activity:
 	  Chocolate 55%
-	  Nicotine 100%
+	  [[Nicotine]] 100%
 	  Sex 100%
 	  Cocaine 225%
 	  Amphetamine 1000%
@@ -36,16 +36,16 @@ url:: https://twitter.com/hubermanlab
 	  substances/activities.  Learn more:
 	  https://t.co/B9kyGXGpz8 ([View Tweet](https://twitter.com/hubermanlab/status/1431664684537548802))
 	- NEW HUBERMAN LAB PODCAST: 
-	  • Dopamine Circuits Explained
+	  • [[Dopamine]] Circuits Explained
 	  • 14 Tools for Adjusting Your Dopamine
 	  • Optimal Work-Reward Timing
-	  • Caffeine, Huperzine, Tyrosine
-	  • Melatonin = Dopamine Reduced
-	  • Pornography & Dopamine Pitfalls
+	  • [[Caffeine]], Huperzine, Tyrosine
+	  • [[Melatonin]] = Dopamine Reduced
+	  • Pornography & [[Dopamine]] Pitfalls
 	  • Phenylethylamine (PEA)
 	  https://t.co/liKSdAoWCt ([View Tweet](https://twitter.com/hubermanlab/status/1442475544000430098))
-	- Whether dopamine triggers or reflects the appetite to mate has been unclear. Until now. Turns out that dopamine triggers desire to mate. Suppression of the same dopamine neurons triggers abstinence. Powerful stuff (dopamine). https://t.co/tvPMPwqgBk ([View Tweet](https://twitter.com/hubermanlab/status/1442584687675940868))
-	- Diminished brown fat (& not microbiome) linked to non-alcoholic fatty liver disease (nafld) in humans (Ahmed et al., Cell Reports Medicine 2021). Cold exposure 3-10min, 2-4X weekly increases: baseline dopamine 2.5X, brown fat density (& thus may offset nafld) & mental resilience. ([View Tweet](https://twitter.com/hubermanlab/status/1444346882747092994))
+	- Whether dopamine triggers or reflects the appetite to mate has been unclear. Until now. Turns out that [[dopamine]] triggers desire to mate. Suppression of the same [[dopamine]] neurons triggers abstinence. Powerful stuff (dopamine). https://t.co/tvPMPwqgBk ([View Tweet](https://twitter.com/hubermanlab/status/1442584687675940868))
+	- Diminished brown fat (& not [[microbiome]]) linked to non-alcoholic fatty liver disease (nafld) in humans (Ahmed et al., Cell Reports Medicine 2021). Cold exposure 3-10min, 2-4X weekly increases: baseline dopamine 2.5X, brown fat density (& thus may offset nafld) & mental resilience. ([View Tweet](https://twitter.com/hubermanlab/status/1444346882747092994))
 	- You can have stress without fear but you can’t have fear without stress. 
 	  
 	  You can have fear and/or stress without trauma but you can’t have trauma without fear and/or stress. 
@@ -60,7 +60,7 @@ url:: https://twitter.com/hubermanlab
 	  Their pioneering spirit comes through in every line. 
 	  And... what a wonderful challenge to face writing such a lecture! So happy for you Ardem! ([View Tweet](https://twitter.com/hubermanlab/status/1451284491608092694))
 	- @tferriss @lexfridman The interviews with @RayDalio @elonmusk (#2) @EricRWeinstein (Episode 163) & @LFeldmanBarrett ([View Tweet](https://twitter.com/hubermanlab/status/1453747236513353734))
-	- Pleasure is not a problem. Dopamine is not a problem. Too much pleasure experienced too often without a prior requirement for effort in order to achieve that pleasure/dopamine is terrible for us however. It lowers our baseline level of dopamine & the potency of all experiences. ([View Tweet](https://twitter.com/hubermanlab/status/1454906728286330882))
+	- [[Pleasure]] is not a problem. [[Dopamine]] is not a problem. Too much pleasure experienced too often without a prior requirement for effort in order to achieve that [[pleasure]]/[[dopamine]] is terrible for us however. It lowers our baseline level of dopamine & the potency of all experiences. ([View Tweet](https://twitter.com/hubermanlab/status/1454906728286330882))
 	- Cold Exposure Tools:
 	  Resilience: 1X weekly, 1-3min 
 	  Metabolism: 2X weekly/11min total 
@@ -86,10 +86,10 @@ url:: https://twitter.com/hubermanlab
 	  • Integrating Tools
 	  https://t.co/BeDDPMSRFh ([View Tweet](https://twitter.com/hubermanlab/status/1467877566266572804))
 	- 4 useful points: 
-	  1) Deliberate cold exposure has solid science to support its positive effects on metabolism & dopamine. 
-	  2) Dopamine is a powerful internal resource to regulate. 
-	  3) Testosterone makes effort feel good.
-	  4) Sleep is the foundation of all mental & physical health. ([View Tweet](https://twitter.com/hubermanlab/status/1468316704610480132))
+	  1) Deliberate [[cold exposure]] has solid science to support its positive effects on metabolism & dopamine. 
+	  2) [[Dopamine]] is a powerful internal resource to regulate. 
+	  3) [[Testosterone]] makes effort feel good.
+	  4) [[Sleep]] is the foundation of all mental & physical health. ([View Tweet](https://twitter.com/hubermanlab/status/1468316704610480132))
 	- Most are adept at cycles of focus followed by rest in the form of weekends, vacation, etc.
 	  Learning how to engage work-rest cycles on shorter time scales (daily hourly, etc) creates an outsized effect on productivity & health. 
 	  The takeaway: learn to toggle between focus & rest. ([View Tweet](https://twitter.com/hubermanlab/status/1468949909000765440))
@@ -193,9 +193,9 @@ url:: https://twitter.com/hubermanlab
 	- The best times of day to do deliberate cold or deliberate heat exposure (based on the post-exposure core body temperature changes they cause). Details & sources in full length podcast (timestamped) out now & found at https://t.co/TphgkozQyg https://t.co/6cx1X2uxTj ([View Tweet](https://twitter.com/hubermanlab/status/1512216208799514628))
 	- Deliberate cold exposure, deliberate heat exposure & cyclic hyperventilation each have been shown to cause: 
 	  
-	  1) increases in dopamine release
-	  2) cortisol reduction
-	  3) mitochondrial activation 
+	  1) increases in [[dopamine]] release
+	  2) [[cortisol]] reduction
+	  3) [[mitochondrial]] activation 
 	  
 	  These are all triggered by the same event: acute increases in adrenaline. 
 	  
@@ -265,7 +265,7 @@ url:: https://twitter.com/hubermanlab
 	  • Optimal Duration/Timing of Sleep
 	  
 	  https://t.co/Tj5Vef44D5 ([View Tweet](https://twitter.com/hubermanlab/status/1556636933719175168))
-	- Dopamine does many things but one of the more important things dopamine does is set the threshold for us to pursue specific goals. In that sense dopamine is like a currency; all actions (and procrastination too) “spend” dopamine. Choose your actions wisely & toggle action & rest. ([View Tweet](https://twitter.com/hubermanlab/status/1567181142180401153))
+	- [[Dopamine]] does many things but one of the more important things dopamine does is set the threshold for us to pursue specific goals. In that sense dopamine is like a currency; all actions (and procrastination too) “spend” dopamine. Choose your actions wisely & toggle action & rest. ([View Tweet](https://twitter.com/hubermanlab/status/1567181142180401153))
 	- Two science-supported & potent tools for increasing focus, concentration & memory:
 	  
 	  1) Daily 13 minute meditation*
@@ -282,11 +282,11 @@ url:: https://twitter.com/hubermanlab
 	  Monday: wake 30min *earlier* than typical, 1-3min cold shower or bath, workout (if no time, then 10min any cardio), 10-15min sunlight viewing. Eat/fast per usual. ([View Tweet](https://twitter.com/hubermanlab/status/1571633800232439808))
 	- Peer reviewed studies support that each of these has distinct benefits:
 	  
-	  Meditation: improves focus, insight.
+	  Meditation: improves [[focus]], insight.
 	  
-	  Yoga Nidra/NSDR (Non-Sleep Deep Rest): replenishes dopamine, reduces cortisol, reduces total sleep need.
+	  [[Yoga]] Nidra/NSDR (Non-Sleep Deep Rest): replenishes [[dopamine]], reduces [[cortisol]], reduces total sleep need.
 	  
-	  (Clinical) hypnosis: can help solve specific problems. ([View Tweet](https://twitter.com/hubermanlab/status/1579673837134049280))
+	  (Clinical) [[hypnosis]]: can help solve specific problems. ([View Tweet](https://twitter.com/hubermanlab/status/1579673837134049280))
 	- It’s OK to get the majority of your Zone 2 cardio quota (180-200min a week) with a long slow jog or hike (weight vested for the fitter folks out there) or swim or ride 1 day/week. I explain a complete schedule for endurance & strength & the rationale here: https://t.co/OZ7JLb3xbW ([View Tweet](https://twitter.com/hubermanlab/status/1582405958197575685))
 	- The @VirtusanApp has a zero cost 10min NSDR (Non-Sleep-Deep-Rest) protocol by @hubermanlab and a lot more including special resources for students. Available for iOS & Android here: https://t.co/xhw7xkbFEg or on YouTube https://t.co/2WZMMT9jEI ([View Tweet](https://twitter.com/hubermanlab/status/1583507568252493824))
 	- Neuroplasticity (neural circuit rewiring) is a 2 phase process: it is initiated by alert, focused (even agitated) states, but consolidated during deep & REM sleep & non-sleep-deep-rest (NSDR). Brain changes require toggling back and forth between these two states. #science ([View Tweet](https://twitter.com/hubermanlab/status/1524391224529985537))

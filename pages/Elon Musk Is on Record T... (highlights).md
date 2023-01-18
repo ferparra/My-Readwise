@@ -187,7 +187,7 @@ url:: https://twitter.com/Julian/status/1378439257879162880
 	  
 	  Similarly, the smartest people I’ve met have retrained their minds to enjoy being wrong. 
 	  
-	  They get a dopamine hit when proven wrong because they’re excited to be closer to the truth. ([View Tweet](https://twitter.com/Julian/status/1378439304565956613))
+	  They get a [[dopamine]] hit when proven wrong because they’re excited to be closer to the truth. ([View Tweet](https://twitter.com/Julian/status/1378439304565956613))
 	- So, how can you use models every day?
 	  
 	  Here's what I do: 

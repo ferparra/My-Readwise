@@ -13,6 +13,6 @@ tags:: #[[@huberman]] #[[sleep]]
 		- **Tags**: #[[norepinephrine]]
 	- **Serotonin:** released and modifies circuits associated with bliss and remaining still ([View Highlight](https://read.readwise.io/read/01gq260afpb09423tcetxxpeca))
 		- **Tags**: #[[serotonin]]
-	- **Dopamine:** released and associated with amplification of pursuing goals, pleasure, and reward ([View Highlight](https://read.readwise.io/read/01gq260c04gqxdcwas8bvwnkh6))
+	- **[[Dopamine]]:** released and associated with amplification of pursuing goals, pleasure, and reward ([View Highlight](https://read.readwise.io/read/01gq260c04gqxdcwas8bvwnkh6))
 		- **Tags**: #[[dopamine]]
 	- **Lucid dreaming:** **dreaming in sleep but being aware that you’re dreaming and, in some cases, directing the dream** ([View Highlight](https://read.readwise.io/read/01gq261zaxr1e6b7tc4qnzar97))

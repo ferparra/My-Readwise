@@ -63,7 +63,7 @@ url:: https://twitter.com/alexgarcia_atx/status/1390469642297225221
 	  
 	  FB didn't always have 2B+ users.
 	  
-	  One of FB's keys for early growth was determining their north star metric.
+	  One of FB's keys for early growth was determining their [[north star metric]].
 	  
 	  They learned that the clearest indicator of retention was if a user connected with 7 friends within 10 days.
 	  

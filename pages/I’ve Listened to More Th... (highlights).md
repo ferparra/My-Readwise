@@ -26,7 +26,7 @@ url:: https://twitter.com/AliAbdaal/status/1576957576679665664
 	  @StevenBartlettSC interviews business leaders, celebrities, and authors, to find out what makes them tick. Steven’s great at getting guests to open up, so there are lots of direct and honest conversations. ([View Tweet](https://twitter.com/AliAbdaal/status/1576957586863423493))
 	- 6. @hubermanlab 
 	  
-	  This is the only health podcast I listen to. Andrew Huberman's a professor at the Stanford School of Medicine. He examines the science around a topic like dopamine, sleep, or skincare for every episode, and gives actionable advice on tweaking your lifestyle. ([View Tweet](https://twitter.com/AliAbdaal/status/1576957588801220609))
+	  This is the only health podcast I listen to. Andrew Huberman's a professor at the Stanford School of Medicine. He examines the science around a topic like [[dopamine]], [[sleep]], or skincare for every episode, and gives actionable advice on tweaking your lifestyle. ([View Tweet](https://twitter.com/AliAbdaal/status/1576957588801220609))
 	- 7. My First Million
 	  
 	  Started off as @shaanVP and @thesamparr asking business founders how they made their first million dollars. 
