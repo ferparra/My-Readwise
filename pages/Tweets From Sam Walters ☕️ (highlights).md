@@ -16,3 +16,11 @@ url:: https://twitter.com/SamuelGWalters
 	- We can conceive of group representations as generalizing Fourier transforms. Indeed, for compact groups we have extensions of the classical Parseval and Plancherel formulas connecting functions and their Fourier transforms. Here are examples. #math #calculus #topology #algebra 
 	  
 	  ![](https://pbs.twimg.com/media/Fk4w1aLX0AE-VB1.jpg) ([View Tweet](https://twitter.com/SamuelGWalters/status/1607276119639691265))
+- New highlights added [[Jan 14th, 2023]] at 10:35 AM
+	- There's been some commotion about pictorial "proofs" of "π = 4". Those same arguments can be used to show that "π = L" for arbitrarily large L, as shown here for the interval [0,1]. The problem: the derivatives of the curves are ignored in the approximations. #math #calculus 
+	  
+	  ![](https://pbs.twimg.com/media/FmYXXy3XkAEtgKJ.jpg) ([View Tweet](https://twitter.com/SamuelGWalters/status/1614003760367534081))
+- New highlights added [[Jan 14th, 2023]] at 11:58 PM
+	- A commutator differential equation for your weekend. Have a super weekend!  (What if the commutator  [X,A]  is replaced by  [X, [X,A], can it be solved?)  #math  #algebra  #calculus  #differentialequations #ODE 
+	  
+	  ![](https://pbs.twimg.com/media/Fma0IrjWIAIUF7r.jpg) ([View Tweet](https://twitter.com/SamuelGWalters/status/1614176550848704512))

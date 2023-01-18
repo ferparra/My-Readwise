@@ -63,7 +63,7 @@ url:: https://twitter.com/eriktorenberg/status/1344815629426073600
 	  https://t.co/rMZqnBT71f ([View Tweet](https://twitter.com/eriktorenberg/status/1344815643002982400))
 	- This idea of authenticity was novel
 	  
-	  When Socrates said "Know thyself", he didn't mean it like we mean it today, where you should get in touch with your true self and self-actualize.
+	  When [[Socrates]] said "Know thyself", he didn't mean it like we mean it today, where you should get in touch with your true self and self-actualize.
 	  
 	  “Know thyself" really meant "know thy place"
 	  

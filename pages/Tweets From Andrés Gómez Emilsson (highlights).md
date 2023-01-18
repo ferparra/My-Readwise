@@ -41,3 +41,9 @@ url:: https://twitter.com/algekalipso
 	  The feeling of value/pleasure is:
 	  
 	  2. Not real, illusory, dependent on your frame of reference & values, or objective, measurable/universal? ([View Tweet](https://twitter.com/algekalipso/status/1612933863696896000))
+- New highlights added [[Jan 14th, 2023]] at 8:24 AM
+	- Recipe for alignment:
+	  
+	  Open Individualism + Valence Realism (+ good theories of consciousness)
+	  
+	  https://t.co/IqObyX1wFZ ([View Tweet](https://twitter.com/algekalipso/status/1613990565431111680))

@@ -49,3 +49,7 @@ url:: https://twitter.com/gabrielpeyre
 	  ![](https://pbs.twimg.com/media/FkrkIMnXkBMaFDz.jpg) ([View Tweet](https://twitter.com/gabrielpeyre/status/1609429341867311104))
 - New highlights added [[Jan 6th, 2023]] at 6:01 PM
 	- The color palette of an image is the 3D empirical distribution of the pixels. Optimal transport allows one to interpolate between palettes. https://t.co/wPIEMPwiJM https://t.co/5O7mrZEG65 https://t.co/wZtUEWRdh5 ([View Tweet](https://twitter.com/gabrielpeyre/status/1611241276128518145))
+- New highlights added [[Jan 14th, 2023]] at 11:58 PM
+	- Network flow problem is a specific class of linear programs that finds numerous applications (eg network, communication, optimal transport). On contrary to general LP, there are efficient cubic time simplex solvers. https://t.co/AShT7ZnGIt 
+	  
+	  ![](https://pbs.twimg.com/media/FkrlutZXkB0r_z3.jpg) ([View Tweet](https://twitter.com/gabrielpeyre/status/1614140381943177217))

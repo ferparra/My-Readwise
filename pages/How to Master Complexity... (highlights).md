@@ -49,7 +49,7 @@ url:: https://twitter.com/Kpaxs/status/1444161756272607235
 	  By guiding you toward what is often the most important characteristic of a problem, the scaling exponent, it helps you discard spurious complexity. ([View Tweet](https://twitter.com/Kpaxs/status/1444161764094988291))
 	- 5. Dimensional Analysis
 	  
-	  As Socrates might have put it, the uncompared quantity is not worth knowing.
+	  As [[Socrates]] might have put it, the uncompared quantity is not worth knowing.
 	  
 	  Rewrite relations in dimensionless form.
 	  

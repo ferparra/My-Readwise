@@ -16,3 +16,11 @@ url:: https://twitter.com/TomFrankly
 	- Woah... @NotionHQ AI can actually EXECUTE Javascript code 
 	  
 	  ![](https://pbs.twimg.com/media/FiLqE5pXoAET_zt.jpg) ([View Tweet](https://twitter.com/TomFrankly/status/1595096192614006788))
+- New highlights added [[Jan 14th, 2023]] at 11:58 PM
+	- The #1 productivity technique, bar none, no contest...
+	  
+	  ...is obsession.
+	  
+	  If you're obsessed, you'll work longer, harder, and better. And you'll be ENERGIZED by your work.
+	  
+	  If you're not obsessed, you'll have to fall back on productivity band-aids like Pomodoro apps. ([View Tweet](https://twitter.com/TomFrankly/status/1613609166018314264))

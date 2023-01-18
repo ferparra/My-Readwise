@@ -1,0 +1,18 @@
+title:: Seth Godin on Creativity, Embracing Failure & Spreading Big Ideas (highlights)
+author:: [[The Rich Roll Podcast]]
+full-title:: "Seth Godin on Creativity, Embracing Failure & Spreading Big Ideas"
+category:: #podcasts
+url:: https://share.snipd.com/episode/c124867c-0dc7-448a-a7ef-22273142eca4
+
+- Highlights first synced by [[Readwise]] [[Jan 17th, 2023]]
+	- The Wizard and the Prophet
+	  
+	  Key takeaways:
+	  (* There is a lot of confusion around the role of cows in the environment,., * It is important to be aware of the math behind the issue before making decisions about how to live our lives.)
+	  
+	  Transcript:
+	  Speaker 2
+	  But those are lullabies, designed by vested corporate interests to make us feel like this is all moving in the right direction when in fact it's a barrier to the solution that we need. The cows thing, people are very dismissive of that. They like to make fun of it. And there's a lot of sort of intellectual gymnastics going on right now to suggest that, that's really not part of the problem. In fact, we need the cows for the soil that has been so denigrated. And there's a lot of, I think, moral and intellectual confusion around that.
+	  
+	  Speaker 1
+	  Yes. And I really don't want to have an argument with anybody who cares about keeping beef around. I get it. That's your story. Those are your feelings. You can have them. You just ask when you look at the math, where it's coming from. There's a great book that people who want to approach this problem with an open mind should read called The Wizard and the Prophet. And what he describes in its history book, it's about two men who only met once in their life, who changed the world. The wizard won the Nobel Prize for feeding people in Mexico, India and other places by hybridizing seed and killing the soil by creating the fertilizer industry. Because if you put enough fertilizer down and until you can grow a lot more crops in the short run, he fed a billion people doing that. It's hard to be against feeding a billion people. The Prophet invented the modern environmental movement and said, we have exceeded the earth's carrying capacity. We need less people and we need less of a footprint. So their whole lives were woven back and forth. They just kept missing each other. And The Wizard was right and The Prophet was right. They're both right and they're both wrong. That the way forward is to understand how we're going to use technology to create the conditions for carbon to get back in the top soil. How are we also going to tread lightly and put in whether it's LED lights or family planning so that we don't have 20 billion people on the planet? Because we can't have 20 billion people on the planet no matter how you do the math. So it's complicated. And the people who don't want us to change will make it more complicated. And this is the thing I really want to focus on because a lot of people listen to you and some of them will be swayed by people who want the status quo to stay where it is. So the easiest way to do it is, I need to persuade you not to get near beef because blah, blah, blah, blah, blah, blah, blah, blah, and there's just like a lot of math and stuff. And it's easy to say, okay, fine. And then this person says, well, how will we live a life without plastic? And so we just need to be alert to the fact that we can argue about this all day, but the earth is getting warmer every single day and a melted ice cap never gets unmelted. Sure. ([Time 1:25:42](https://share.snipd.com/snip/fda9566a-981b-4f62-b02c-34716567bdc8))

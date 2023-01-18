@@ -1,0 +1,18 @@
+title:: What Differentiates the Highest-Performing Product Teams | John Cutler (highlights)
+author:: [[Lenny's Podcast: Product | Growth | Career]]
+full-title:: "What Differentiates the Highest-Performing Product Teams | John Cutler"
+category:: #podcasts
+url:: https://share.snipd.com/episode/ef97ce48-3d35-49b0-9a6b-8bc840e2a3f3
+
+- Highlights first synced by [[Readwise]] [[Jan 17th, 2023]]
+	- The Process Driven Approach to Product Management
+	  
+	  Key takeaways:
+	  (* High performing companies have coherence between their structure and their current strategy., * Strong opinions loosely held is a balance that allows for their ability to have the help they need.)
+	  
+	  Transcript:
+	  Speaker 2
+	  What comes to mind is a very top down CEO driven. Here's what we're doing. Here's the work now.
+	  
+	  Speaker 1
+	  Absolutely. And so this is the thing I'm sitting there and the very idealistic product managers are like, you got to have empowered teams. You got to push decision making down to the bottom. And I'm like, huh, well, that company's doing pretty well. And the CEO just tells everyone what to do. And in fact, they attracted people who just don't mind that and like their vision. They do it, right? And you find people who really like the process driven approach and you find people who do those things. So like that's like one principle done a different way. But then I'll just take like a couple of principles. So I just wanted to get that out of the way that like every one of these I mentioned could be achieved in a couple of different ways. So the first thing you notice to the companies that are very high performing have coherence between the structure of their company and their current strategy. And this is like a structural thing. I think when there's startups, things are very fluid in the strategies and flux. And so they have a fluid structure. But then as companies grow, they're sort of a physics to the problem that starts to catch up to them, to particular things. So their funding approach, their incentives, the org structure, the architecture, even their technical architecture supports their strategy back and forth. And the reason why I mentioned this one is you can have brilliant teams. You meet these brilliant teams where they've just hired in like the quote unquote best of the best. And they're just struggling with a strategy structure mismatch and no amount of let's empower people or no amount of doing whatever is going to like knock them out of that. And so what do you need? You need a strategy that you need to line the structure around it. So this is different than saying, you're asking me like, what do I observe when they're doing really well? Now the tactics to achieve this might be different depending on the company, but you could get that. I think the second thing if I admit it is like the strong opinions loosely held, which is there is this balance of believing in certain things, believing maybe in the power of products or the power of connecting with customers or maybe key strategic things that they need to do or even believing that this is a done deal and you just need to move faster than everyone else in the space or even the belief that you need to just go straight to commodity pricing like Amazon with whatever you're doing. Like there is just a stubborn, strongly held belief that is then balance where their ability to have the loosely helping. So I would just observe this in meeting after meeting with these teams that seem to be having about of being more high performing, you know, they would be stubborn about some things that they were doing even when it didn't make sense in the short term. ([Time 0:32:28](https://share.snipd.com/snip/6f2bc552-4808-4317-81c0-bc21df4af327))

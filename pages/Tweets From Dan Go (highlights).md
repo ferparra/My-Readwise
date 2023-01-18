@@ -31,3 +31,7 @@ url:: https://twitter.com/FitFounder
 	  The catalyst? Transforming my body. 
 	  
 	  ![](https://pbs.twimg.com/media/EWD4OGaWoAA1Rew.jpg) ([View Tweet](https://twitter.com/FitFounder/status/1252273623030784002))
+- New highlights added [[Jan 17th, 2023]] at 5:45 PM
+	- Do cardio for a longer life. 
+	  
+	  Lift weights for a quality life. ([View Tweet](https://twitter.com/FitFounder/status/1614955438688051207))

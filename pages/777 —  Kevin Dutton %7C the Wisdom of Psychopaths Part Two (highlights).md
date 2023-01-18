@@ -1,0 +1,18 @@
+title:: 777 —  Kevin Dutton | the Wisdom of Psychopaths Part Two (highlights)
+author:: [[The Jordan Harbinger Show]]
+full-title:: "777 —  Kevin Dutton | the Wisdom of Psychopaths Part Two"
+category:: #podcasts
+url:: https://share.snipd.com/episode/023dd988-2ad5-4b40-80d5-0756d7f4cea1
+
+- Highlights first synced by [[Readwise]] [[Jan 17th, 2023]]
+	- What's the Difference Between Love and Hate?
+	  
+	  Key takeaways:
+	  (* People fall into two camps when it comes to approaching people they fancy but have never told them how they feel., * The love camp or the hate camp., * Psychopaths are popular because they don't feel any sense of consequence in everyday life., * Deep down, we have a little bit of envy for people who are like this.)
+	  
+	  Transcript:
+	  Speaker 2
+	  Well, in my twenties, now in Mary and I got kids, there's consequences. But when I was in my twenties in single, that was one, it kind of a scary proposition sometimes. And two, you know, I would love to feel what that's like without feeling nervous or whatever and worrying about those consequences.
+	  
+	  Speaker 1
+	  Now I have real consequences. I have kids and stuff. You don't have to worry about that. Yeah, yeah, yeah. Again, there was an interesting story about how to approach people like that and make it work for you without feeling nervous. I'll tell you about that in a minute. But actually, yeah, people fall into two camps. What are you generally finding? Is that people they would like, you know, people that they never, you know, they always fancied, but they'd never got round to telling them that you had that a lot. I would go to that person and I would say, look, you know, I made a mistake all the years ago. This is how I really feel. That kind of thing. Oh, wow. So you've got the love camp and then you've got the hate camp, what I call love and hate camp. Then you've got people that said, I'd go to that bastard that did me down all those years ago. I finished him off or I'd do this and that. What have you? I'd sort him out. So people generally fall into two camps, love and other than there's chocolate, of course. There's three camps, love, hate and chocolate. So people just need as much chocolate as they want. But when it's love and hate and it's really interesting, Jordan, because that really is what life is like for a psychopath in everyday life. They don't feel any sense of consequence. They don't feel anxious about what might happen. They just go about their business. Remember we were talking about they don't have those cues to implications, repercussions, consequences down the line. Life is really like that for these people in a real sense. And you know what? I think probably deep down we have a little bit of existential envy for people like that. And that's why I've reflected on this a lot and I've often thought, I have a feeling that's why psychopaths are so popular. But let me tell you about a guy who I interviewed many years ago. He was a real villain in East End of London, which is a rough part of London. He and three other mates would go out to the pubs and bars of London town on a Friday night chatting up women. And he said they would deliberately try to get as many rejections as they could. Yeah, sure. And he said the guy that got the most rejections would have the drinks paid for him by the other three the next night on a Saturday night when they went out. So there was a real incentive to get as many rejections as you possibly could. And then what do you think started? ([Time 0:29:35](https://share.snipd.com/snip/4a0ae6b1-2ac4-4d7a-8d64-95b1452e4356))

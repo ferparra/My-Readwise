@@ -5,7 +5,7 @@ category:: #articles
 url:: https://maggieappleton.com/tools-for-thought
 
 - Highlights first synced by [[Readwise]] [[Nov 21st, 2022]]
-	- Socrates' classical inquiry method of engaging in cooperative dialogue and
+	- [[Socrates]]' classical inquiry method of engaging in cooperative dialogue and
 	  responding to everything with a question. Enabled critical thinking and
 	  scepticism of every possible assumption and presupposition in an argument.
 	- Another classic. Hypothesis, empirical observation, experiments, and

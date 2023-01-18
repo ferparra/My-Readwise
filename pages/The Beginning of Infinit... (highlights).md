@@ -5,7 +5,7 @@ category:: #tweets
 url:: https://twitter.com/blisstweeting/status/1421947182341570562
 
 - Highlights first synced by [[Readwise]] [[Dec 29th, 2022]]
-	- The Beginning of Infinity by @DavidDeutschOxf, chapter-by-chapter summary + my own quick notes & references that came to mind when reading. Four chapters in, I can say I love this book already. Recommend
+	- [[The Beginning of Infinity]] by @DavidDeutschOxf, chapter-by-chapter summary + my own quick notes & references that came to mind when reading. Four chapters in, I can say I love this book already. Recommend
 	  
 	  Chapter 1, The Reach of Explanations 
 	  
@@ -40,7 +40,7 @@ url:: https://twitter.com/blisstweeting/status/1421947182341570562
 	  ![](https://pbs.twimg.com/media/E-1TTi2XEAEGbG1.jpg) 
 	  
 	  ![](https://pbs.twimg.com/media/E-1Tbq1XsAE6cws.png) ([View Tweet](https://twitter.com/blisstweeting/status/1435895611925094401))
-	- Chapter 10, A Dream of Socrates 
+	- Chapter 10, A Dream of [[Socrates]] 
 	  
 	  ![](https://pbs.twimg.com/media/E_PbEOBWEAEctjb.png) ([View Tweet](https://twitter.com/blisstweeting/status/1437733727606657025))
 	- Chapter 11, The Multiverse

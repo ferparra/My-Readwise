@@ -40,3 +40,12 @@ url:: https://twitter.com/dvassallo
 	- Living requires some optionality. A full-time job takes away most of it — regardless of how much you like it.
 	  
 	  It's sunny outside, and you'd like to spend some time with your kids? Sorry, that job you love cannot wait. ([View Tweet](https://twitter.com/dvassallo/status/1444450768812052483))
+- New highlights added [[Jan 14th, 2023]] at 3:21 PM
+	- What makes us trust a pilot that he or she will fly us safely to our destination?
+	  
+	  Two things
+	  
+	  1) The airline's (presumably) high hiring bar
+	  2) The fact that the pilot is there in the plane with us
+	  
+	  #2 is underrated. In business, you also need some exposure to risk to be trusted. ([View Tweet](https://twitter.com/dvassallo/status/1613967874040950784))

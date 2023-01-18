@@ -5,7 +5,7 @@ category:: #articles
 url:: https://www.reddit.com/r/Stoicism/comments/c9bah6/practicing_stoicism_in_18_steps_by_donald/
 
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
-	- 1 - Contemplation of the Sage: Imagine the ideal Sage or exemplary historical figures (Socrates, Diogenes, Cato) and ask yourself: “What would he do?”, or imagine being observed by them and how they would comment on your actions.
+	- 1 - Contemplation of the Sage: Imagine the ideal Sage or exemplary historical figures ([[Socrates]], Diogenes, Cato) and ask yourself: “What would he do?”, or imagine being observed by them and how they would comment on your actions.
 	- 2 - Contemplating the Virtues of Other People: Look for examples of virtues among your friends, family, colleagues, etc.
 	- 3 - Self-Control Training: Take physical exercise to strengthen self-discipline, practice drinking just water, eat plain food, live modestly, etc.
 	- 4 - Contemplating the Whole Cosmos: Imagine the whole universe as if it were one thing and yourself as part of the whole.
