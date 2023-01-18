@@ -92,3 +92,5 @@ url:: https://twitter.com/dltnio/status/1615364729530376193
 	  If you haven't read the book, I highly recommend it.
 	  
 	  https://t.co/VB153Vvrv5 ([View Tweet](https://twitter.com/dltnio/status/1615364755820281857))
+- Create a list of keywords:
+	- #creativity, #art, #design, #inspiration, #routine, #ideas, David Hockney, Arthur Russell, [[Salvador Dalí]], [[Neil Gaiman]], [[Mark Twain]],

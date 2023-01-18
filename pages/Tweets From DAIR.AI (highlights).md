@@ -5,7 +5,7 @@ category:: #tweets
 url:: https://twitter.com/dair_ai
 
 - Highlights first synced by [[Readwise]] [[Jan 18th, 2023]]
-	- Prompt Engineering Guide (1.1K⭐️)
+	- [[Prompt Engineering]] Guide (1.1K⭐️)
 	  
 	  This new guide helps you find the latest & greatest information regarding prompt engineering.
 	  

@@ -9,7 +9,7 @@ url:: https://twitter.com/dwarkesh_sp/status/1615431698887630849
 	  
 	  Search through the contents of 1000s of books!
 	  
-	  AI semantic search finds the most relevant passages & GPT writes a summary
+	  AI [[semantic search]] finds the most relevant passages & GPT writes a summary
 	  
 	  Textbooks, classics, histories, science, economics, tech, philosophy - you name it!
 	  

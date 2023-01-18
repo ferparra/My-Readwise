@@ -5,4 +5,4 @@ category:: #tweets
 url:: https://twitter.com/KorayGubur
 
 - Highlights first synced by [[Readwise]] [[Jan 18th, 2023]]
-	- How to write content for semantic search engines:
+	- How to write content for [[semantic search]] engines:

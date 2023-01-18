@@ -5,7 +5,7 @@ category:: #tweets
 url:: https://twitter.com/calindrimbau
 
 - Highlights first synced by [[Readwise]] [[Jan 18th, 2023]]
-	- 💫We built a semantic search engine on top of @lennysan’s podcast!
+	- 💫We built a [[semantic search]] engine on top of @lennysan’s podcast!
 	  
 	  🔎Search for any topic and it will find the most relevant clips.
 	  
