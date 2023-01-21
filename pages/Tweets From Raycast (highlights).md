@@ -79,3 +79,13 @@ url:: https://twitter.com/raycastapp
 	- 🗓️ Tip #23 – My Schedule
 	  
 	  Use the "My Schedule" Command to see your upcoming events and summary of your day. Join your next meeting by pressing ⏎ or use the Action Panel for more options! https://t.co/ycwBrP7Lpa ([View Tweet](https://twitter.com/raycastapp/status/1606288679827230721))
+- New highlights added [[Jan 19th, 2023]] at 6:43 PM
+	- Our first update of the year…
+	  
+	  🛫 Track flights and get real-time information, including departure and arrival times, flight statuses + more
+	  🎭 Toggle Stage Manager with a system command
+	  📆 Join @calcom video meetings from My Schedule
+	  
+	  Full changelog 👉 https://t.co/jZp0MwagPx 
+	  
+	  ![](https://pbs.twimg.com/media/FmxDvBqaYAElu9-.jpg) ([View Tweet](https://twitter.com/raycastapp/status/1615740851388579847))

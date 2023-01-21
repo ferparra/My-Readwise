@@ -5,4 +5,4 @@ category:: #tweets
 url:: https://twitter.com/lyndie_chiou
 
 - Highlights first synced by [[Readwise]] [[Jan 13th, 2023]]
-	- @mathladyhazel That path of little squares won't be able to reach the outline of the circle like the meme shows -- as the number of squares goes to infinity, the square-path will end up being too long. ([View Tweet](https://twitter.com/lyndie_chiou/status/1613647516939218945))
+	- @mathladyhazel That path of little squares won't be able to reach the outline of the circle like the [[meme]] shows -- as the number of squares goes to [[infinity]], the square-path will end up being too long. ([View Tweet](https://twitter.com/lyndie_chiou/status/1613647516939218945))

@@ -11,7 +11,7 @@ url:: https://twitter.com/dwarkesh_sp/status/1615431698887630849
 	  
 	  AI [[semantic search]] finds the most relevant passages & GPT writes a summary
 	  
-	  Textbooks, classics, histories, science, economics, tech, philosophy - you name it!
+	  Textbooks, classics, histories, [[science]], [[economics]], [[tech]], [[philosophy]] - you name it!
 	  
 	  Much much more to come 👀
 	  

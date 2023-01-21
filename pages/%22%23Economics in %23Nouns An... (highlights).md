@@ -24,7 +24,7 @@ url:: https://twitter.com/sfiscience/status/1383156831913136136
 	- "Many economic problems aren't well defined. The players don’t quite know what situation they are dealing with or who their competitors will be or what strategies will be on hand. They're subject to fundamental uncertainty, so they can’t well-define the 'problem' they're facing." ([View Tweet](https://twitter.com/sfiscience/status/1383179714383147008))
 	- Thanks to @TenreiroDaniel at @YahooNews for the nod:
 	  
-	  'Economist W. Brian Arthur recently published a paper called 'Economics in Nouns and Verbs' arguing for more agent-based economic modeling. It’s worth reading in full, but here’s an excerpt...'
+	  'Economist W. Brian Arthur recently published a paper called '[[Economics]] in Nouns and Verbs' arguing for more agent-based economic modeling. It’s worth reading in full, but here’s an excerpt...'
 	  
 	  https://t.co/f1a11m5XyP ([View Tweet](https://twitter.com/sfiscience/status/1384211092512002055))
 	- "#Economics in #Nouns and #Verbs"

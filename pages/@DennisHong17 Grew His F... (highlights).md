@@ -54,11 +54,11 @@ url:: https://twitter.com/InvestiAnalyst/status/1408168186567090185
 	  
 	  Amongst the qualities mentioned, He is also looking for businesses
 	  
-	  + Durable unit economics
-	  + Network Effect flywheel
-	  + Defensive Competitive advantage
-	  + Founder Led w. exceptional managerial character
-	  + That possess or exhibit a wide degree of Optionality ([View Tweet](https://twitter.com/InvestiAnalyst/status/1408168153084051459))
+	  + Durable [[unit economics]]
+	  + Network Effect #flywheel
+	  + Defensive [[Competitive advantage]]
+	  + Founder Led w. exceptional #managerial character
+	  + That possess or exhibit a wide degree of [[Optionality]] ([View Tweet](https://twitter.com/InvestiAnalyst/status/1408168153084051459))
 	- 8/ Some Fundamental  Investing Principles (a)
 	  
 	  He believes in the importance of always being invested.

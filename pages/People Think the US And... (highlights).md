@@ -109,6 +109,6 @@ url:: https://twitter.com/JohnathanBi/status/1608221320969584640
 	  "A conflict between the United States and China will follow: everything is in place, though it will not necessarily occur on the military level at first … Trade can transform very quickly into war ([View Tweet](https://twitter.com/JohnathanBi/status/1608221401013702658))
 	- … From this point of view, we can reasonably fear a major clash between China and the United States in coming decades … [this] looming conflict between the United States and China has nothing to do with a 'clash of civilizations,' ([View Tweet](https://twitter.com/JohnathanBi/status/1608221403605794816))
 	- … In fact, the dispute is between two forms of capitalism that are becoming MORE AND MORE SIMILAR."
-	- If you are interested in learning more about Girard’s commentary on modernity and geopolitics — victimhood culture and hypocrisy, the birth and politicization of science, and the philosophy and history of innovation — check out this lecture:
+	- If you are interested in learning more about Girard’s commentary on [[modernity]] and geopolitics — victimhood culture and hypocrisy, the birth and politicization of science, and the philosophy and history of innovation — check out this lecture:
 	  
 	  https://t.co/pKVxDgPsGr ([View Tweet](https://twitter.com/JohnathanBi/status/1608228763015254017))

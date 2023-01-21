@@ -18,9 +18,9 @@ url:: https://twitter.com/MacroAlf/status/1579184455914123265
 	  Must read.
 	  
 	  2/ ([View Tweet](https://twitter.com/MacroAlf/status/1579184457877053441))
-	- The New Economics: A Manifesto by @ProfSteveKeen
+	- The New [[Economics]]: A Manifesto by @ProfSteveKeen
 	  
-	  Prof. Keen shutters the foundations of Neoclassical Economics and amazingly describes the differences between private & public debt and how credit creation can lead to non-linear events like financial crisis.
+	  Prof. Keen shutters the foundations of Neoclassical Economics and amazingly describes the differences between private & public debt and how credit creation can lead to non-linear events like [[financial crisis]].
 	  
 	  3/ ([View Tweet](https://twitter.com/MacroAlf/status/1579184459982974978))
 	- The Case for People's Quantitative Easing by @Frances_Coppola.

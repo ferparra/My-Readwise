@@ -7,7 +7,7 @@ url:: https://twitter.com/blisstweeting/status/1421947182341570562
 - Highlights first synced by [[Readwise]] [[Dec 29th, 2022]]
 	- [[The Beginning of Infinity]] by @DavidDeutschOxf, chapter-by-chapter summary + my own quick notes & references that came to mind when reading. Four chapters in, I can say I love this book already. Recommend
 	  
-	  Chapter 1, The Reach of Explanations 
+	  Chapter 1, The Reach of [[Explanations]] 
 	  
 	  ![](https://pbs.twimg.com/media/E7vFDOmWQAEC_jb.png) 
 	  
@@ -30,7 +30,7 @@ url:: https://twitter.com/blisstweeting/status/1421947182341570562
 	- Chapter 7, Artificial Creativity 
 	  
 	  ![](https://pbs.twimg.com/media/E9ej1mqWUAMErqh.jpg) ([View Tweet](https://twitter.com/blisstweeting/status/1429791572929961986))
-	- Chapter 8, A Window on Infinity 
+	- Chapter 8, A Window on [[Infinity]] 
 	  
 	  ![](https://pbs.twimg.com/media/E9e09HbWEAs8uMm.png) 
 	  

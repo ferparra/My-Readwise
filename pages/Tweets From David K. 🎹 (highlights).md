@@ -26,3 +26,11 @@ url:: https://twitter.com/DavidKPiano
 	  ![](https://pbs.twimg.com/media/Fcd9DdNXoAIUzL9.jpg) 
 	  
 	  ![](https://pbs.twimg.com/media/Fcd9RfDXEAEK7K-.jpg) ([View Tweet](https://twitter.com/DavidKPiano/status/1569361453928300545))
+- New highlights added [[Jan 21st, 2023]] at 1:53 PM
+	- One common thing I hear is "state machines are only useful for complex logic."
+	  
+	  Most apps deal with events. State machines are a way to organize + visualize event handling logic, and you don't even need a library for them.
+	  
+	  It's more of a way of thinking than a tool. 
+	  
+	  ![](https://pbs.twimg.com/media/Fm8apm6XgAcBdH5.jpg) ([View Tweet](https://twitter.com/DavidKPiano/status/1616540737977417758))

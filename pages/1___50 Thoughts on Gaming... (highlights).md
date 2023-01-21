@@ -97,7 +97,7 @@ url:: https://twitter.com/adamscochran/status/1419667589001850881
 	  
 	  C) Overly singularly structured:
 	  
-	  Like Axie infinity where there is really one or two player archetypes being served currently and most players are pursuing the same goals and put the same economic value on the same items and outcomes. ([View Tweet](https://twitter.com/adamscochran/status/1419667636607143936))
+	  Like Axie [[infinity]] where there is really one or two player [[archetypes]] being served currently and most players are pursuing the same goals and put the same [[economic]] [[value]] on the same items and outcomes. ([View Tweet](https://twitter.com/adamscochran/status/1419667636607143936))
 	- 16/50
 	  
 	  These variations of structure and purpose shape player behavior and tend to actually result in classic economic and geopolitical problems that countries themselves face.
@@ -123,7 +123,7 @@ url:: https://twitter.com/adamscochran/status/1419667589001850881
 	  Which meant no new players entering the mix so guilds would slowly churn over time until empires were empty. ([View Tweet](https://twitter.com/adamscochran/status/1419667647558569984))
 	- 20/50
 	  
-	  On the economics side, we suffer from both fixed asset inflation and infinite item deflation.
+	  On the economics side, we suffer from both fixed asset #inflation and infinite item #deflation.
 	  
 	  For example, Stephan Boersoenyi, one of the founders of Tibia, thought a lot about the macroeconomics of his game in his masters thesis: https://t.co/rUnX4o0xxg ([View Tweet](https://twitter.com/adamscochran/status/1419667648762241026))
 	- 21/50

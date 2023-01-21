@@ -1,0 +1,15 @@
+title:: Things You Thought You Knew - Fun With Fusion (highlights)
+author:: [[StarTalk Radio]]
+full-title:: "Things You Thought You Knew - Fun With Fusion"
+category:: #podcasts
+url:: https://share.snipd.com/episode/e50ebf1d-919d-45a3-8e1a-8ef4740a12a4
+
+- Highlights first synced by [[Readwise]] [[Jan 19th, 2023]]
+	- How Do You Make Fusion?
+	  
+	  Key takeaways:
+	  (* Scientists are hopeful that they will be able to create a controlled form of fusion that could help to reduce the amount of greenhouse gases in the atmosphere,., * The sun does this every moment of its life,., * This could be a transformational technology that could help to improve the quality of life for everyone on Earth.)
+	  
+	  Transcript:
+	  Speaker 1
+	  And for my money, I'm saying if the physics works, then it's just a matter of time before engineers, I got this. I got, I'm going to make something out of that. I got this. Exactly. And so. That's amazing. Yeah. And so I very much look forward, this civilization pivoting on this result. And by the way, what I just described to you, the sun does every moment of its life. The problem over all these years is that, of course, we've known how to make fusion. We've not made fusion since, what, 1949 or something? When the first fusion bombs are called hydrogen bombs. They're using hydrogen. That's what I just told you. We have two protons merging hydrogen atoms of nuclei together. So we've known how to make fusion forever. Right. How and just not, how do you make fusion? How do you control it? Yeah, because you don't want the electric company having to move to a new city because there's no city left. Right. Exactly. Exactly. So while in America, America, we're really good at blowing stuff up. We're less good at controlling that explosion. Right. So the holy grail was, can we undergo fusion in a controlled way where one day you might go to throttle it or contain it or transport it and we'll finally get maybe that ending scene in back to the future. Right. Here's your cue, Doc. Yeah. Marty, it's your kid's body. And do you remember how, you know, and Marty says, but Doc, we're going to get the energy. There's no lightning bolt and there's no room for, you know, how would he do? And do you remember what he does? He dumps a bunch of trash into the flux capacitor, which is now powered by fusion. It's mister home fusion, right? It was like a blender. That's right. He puts it in and that undergoes nuclear fusion. And so one day, perhaps, we have fusion reactors in every car. And then you could like, wow, there it is. So this was a transform civilization. Even regardless of the carbon footprint that it doesn't have, it would transform civilization. But it also happens to not have a carbon footprint. So we could stave off this growth of fossil fuel burning and greenhouse gases. ([Time 0:09:47](https://share.snipd.com/snip/a9f95451-720d-418e-9b23-11131663a3cf))

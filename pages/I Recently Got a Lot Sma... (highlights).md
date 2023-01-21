@@ -5,9 +5,9 @@ category:: #tweets
 url:: https://twitter.com/johnwilliamsxyz/status/1422983249031217152
 
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
-	- I recently got a lot smarter because of a podcast done by Naval Ravikant and Brett Hall. 
+	- I recently got a lot smarter because of a [[podcast]] done by [[Naval Ravikant]] and Brett Hall. 
 	  
-	  In great clarity, they explained and summarized the book, 'The Beginning of Infinity', by David Deutsch.
+	  In great clarity, they explained and summarized the book, '[[The Beginning of Infinity]]', by David Deutsch.
 	  
 	  Here are all the ways my worldview has changed as a result:🧵 ([View Tweet](https://twitter.com/johnwilliamsxyz/status/1422983249031217152))
 		- **Note**: Thread
@@ -64,10 +64,10 @@ url:: https://twitter.com/johnwilliamsxyz/status/1422983249031217152
 	- Trial-and-error is the way that complex systems improve themselves over time. ([View Tweet](https://twitter.com/johnwilliamsxyz/status/1422983267695923205))
 	- Bayesian reasoning and induction are only good for finite spaces that are known. They don’t help you discover new knowledge and new explanations. ([View Tweet](https://twitter.com/johnwilliamsxyz/status/1422983268652171264))
 	- There is an infinite number of things that you do not know that could affect the things that you do know. ([View Tweet](https://twitter.com/johnwilliamsxyz/status/1422983269621108740))
-	- We will never have the final word. We will always be at the beginning of infinity. Rational optimism is the way out. ([View Tweet](https://twitter.com/johnwilliamsxyz/status/1422983270476693504))
+	- We will never have the final word. We will always be at the beginning of [[infinity]]. [[Rational optimism]] is the way out. ([View Tweet](https://twitter.com/johnwilliamsxyz/status/1422983270476693504))
 	- This isn't even close to the wealth of knowledge held within this 60-minute podcast episode.
 	  
-	  And I'm sure it's nothing compared to the actual text, The Beginning of Infinity!
+	  And I'm sure it's nothing compared to the actual text, [[The Beginning of Infinity]]!
 	  
 	  Here is the episode:
 	  https://t.co/gBVhGgzEY5 ([View Tweet](https://twitter.com/johnwilliamsxyz/status/1422983271458250754))

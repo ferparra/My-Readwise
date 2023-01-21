@@ -79,7 +79,7 @@ url:: https://twitter.com/oldbooksguy/status/1612541283519823872
 	  Their sex ed started at 7
 	  
 	  They would later find out that their father always “slept with the light on because of his own dread of the dark” ([View Tweet](https://twitter.com/oldbooksguy/status/1612542699546247168))
-	- 9/ Watson’s blindspot is the blindspot of modernity 
+	- 9/ Watson’s blindspot is the blindspot of [[modernity]] 
 	  
 	  Above all he cared about “independence” and “non involvement”
 	  

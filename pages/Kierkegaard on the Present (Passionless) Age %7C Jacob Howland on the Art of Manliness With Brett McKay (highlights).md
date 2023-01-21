@@ -6,15 +6,15 @@ url:: https://podcastnotes.org/art-of-manliness/kierkegaard-on-the-present-passi
 tags:: #[[@kierkegaard]] #[[philosophy]] #[[podcast]]
 
 - Highlights first synced by [[Readwise]] [[Jan 19th, 2023]]
-	- **“Kierkegaard stands out, especially for his understanding of the task of individual human existence and the passion that is required to discharge it.”** – *Jacob Howland* ([View Highlight](https://read.readwise.io/read/01gq3dztceyn7pxak29075z71r))
+	- **“[[Kierkegaard]] stands out, especially for his understanding of the task of individual human existence and the passion that is required to discharge it.”** – *Jacob Howland* ([View Highlight](https://read.readwise.io/read/01gq3dztceyn7pxak29075z71r))
 	- **The human being, i.e the self is the synthesis of the temporal and eternal**
 	  
-	  •   **Kierkegaard believes that the reason we experience conditions like anxiety and despair is because of the misrelation of oneself to oneself** ([View Highlight](https://read.readwise.io/read/01gq3e03gfmwx1pvsrdekpn9d0))
+	  •   **[[Kierkegaard]] believes that the reason we experience conditions like anxiety and despair is because of the misrelation of oneself to oneself** ([View Highlight](https://read.readwise.io/read/01gq3e03gfmwx1pvsrdekpn9d0))
 		- **Tags**: #[[self]]
 	- Reflection is thought that is stripped of passion, unfocused and idle, wandering in the realm of possibility ([View Highlight](https://read.readwise.io/read/01gq3e0z7fd6pg60fyqx5wp7zp))
 	- Both Socrates and the Bibble emphasize the freedom and dignity of the individual ([View Highlight](https://read.readwise.io/read/01gq3e2f0n63yy08vve5g4nts6))
 		- **Tags**: #[[@socrates]]
-	- What matters for Kierkegaard is the inner communication of the truth ([View Highlight](https://read.readwise.io/read/01gq3e32dq8nm9vm21vjrtrzfv))
+	- What matters for [[Kierkegaard]] is the inner communication of the truth ([View Highlight](https://read.readwise.io/read/01gq3e32dq8nm9vm21vjrtrzfv))
 		- **Tags**: #[[truth]]
 	- This kind of question is a question for each individual to answer via the life they lead ([View Highlight](https://read.readwise.io/read/01gq3e3e58s4gs93ew6hkwyfhf))
 	- The human being is body + soul ([View Highlight](https://read.readwise.io/read/01gq3e3qhm86jpgw1xd56mhz3h))

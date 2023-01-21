@@ -11,7 +11,7 @@ url:: https://blog.stephsmith.io/change-is-the-only-constant/
 	- opportunity is often present, but almost always hidden. It must be seized, and in many cases created.
 	- Life continuously teaches you a lesson: change is the only constant. Each time you think you’re “on the right path”, life gives you a kick in the nuts, with a reminder that you still have much to learn.
 		- **Tags**: #[[resillience]] #[[favorite]]
-	- Risk is a surprisingly interesting subject, both in the context of economics, and life more broadly. There are so many industries built on risk -- insurance, finance, etc -- but we never talk about how to make it easier for people to take risks.
+	- [[Risk]] is a surprisingly interesting subject, both in the context of [[economics]], and life more broadly. There are so many industries built on [[risk]] -- [[insurance]], [[finance]], etc -- but we never talk about how to make it easier for people to take risks.
 		- **Tags**: #[[favorite]]
 	- Humans deviate from risk like it’ll will kill them, when in reality, the more common “killer” is staying still.
 	- The professional tackles the project that will make him stretch. - Steven Pressfield, The War of Art

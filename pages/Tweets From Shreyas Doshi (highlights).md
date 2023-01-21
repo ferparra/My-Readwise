@@ -377,3 +377,5 @@ url:: https://twitter.com/shreyas
 - New highlights added [[Dec 9th, 2022]] at 6:48 PM
 	- How to “manage up”, with integrity:
 	- Seek your manager’s input on your next career milestone (and ask for advocacy)
+- New highlights added [[Jan 21st, 2023]] at 2:53 PM
+	- The biggest problem with saying that Execution is more important than Ideas is that it demonstrates a gross misunderstanding of how you get outstanding Execution: you get it through 100s of excellent (and usually correct) Ideas about what to do & how to do it, day in and day out. ([View Tweet](https://twitter.com/shreyas/status/1616621603550527490))

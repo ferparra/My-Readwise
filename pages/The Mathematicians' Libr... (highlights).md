@@ -15,7 +15,7 @@ url:: https://twitter.com/thePiggsBoson/status/1452669741940690948
 	  Agnijo Banerjee, and his tutor David Darling, fill the pages of three books with exotic and unusual facts about math, including God’s Number and the reigning role of π in just about everything. 
 	  
 	  ![](https://pbs.twimg.com/media/FCjezOwVIAAjT0i.jpg) ([View Tweet](https://twitter.com/thePiggsBoson/status/1452669755429556224))
-	- 3) Beyond Infinity by Eugenia Cheng
+	- 3) [[Beyond Infinity]] by [[Eugenia Cheng]] #infinity
 	  
 	  The writer brings the concept of ∞ to life. Eugenia Cheng’s infectious enthusiasm makes math a delight. Discover why some infinities are bigger than others, and why there’s always room at an infinite hotel, even if it’s full. 
 	  

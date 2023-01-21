@@ -10,3 +10,7 @@ url:: https://twitter.com/PeterAttiaMD
 	  https://t.co/ounn7SILMN 
 	  
 	  ![](https://pbs.twimg.com/media/Fi6JPj2XEA0MV1g.jpg) ([View Tweet](https://twitter.com/PeterAttiaMD/status/1598365839123746831))
+- New highlights added [[Jan 20th, 2023]] at 12:17 AM
+	- Here’s a sneak peek of my upcoming “Ask Me Anything” episode of The Drive. In this clip, I discuss the three most modifiable risk factors for cardiovascular disease - smoking, blood pressure, and apoB.
+	  
+	  Full episode (ep. #238, AMA #43) coming Monday (1/16) https://t.co/VtmtoiYX4n ([View Tweet](https://twitter.com/PeterAttiaMD/status/1613949013090340892))

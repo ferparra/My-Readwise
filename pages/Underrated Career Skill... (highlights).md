@@ -31,11 +31,11 @@ url:: https://twitter.com/Coding_Career/status/1403009332367683586
 	  ![](https://pbs.twimg.com/media/E3h9f6IUYAQdSoU.png) 
 	  
 	  ![](https://pbs.twimg.com/media/E3h9gPyVUAE1B7Q.png) ([View Tweet](https://twitter.com/Coding_Career/status/1403009280341512192))
-	- 3/ Limit to Infinity 
+	- 3/ Limit to [[Infinity]] 
 	  
-	  We often make sweeping statements and create byzantine systems that don't stand up to scrutiny or real life.
+	  We often make sweeping statements and create [[byzantine]] [[systems]] that don't stand up to scrutiny or real life.
 	  
-	  Reductio ad infinitum: Examine your implicit constraints, uncover nonlinearities, and simplify complexity by imagining extreme scenarios. 
+	  Reductio ad infinitum: Examine your implicit constraints, uncover nonlinearities, and simplify [[complexity]] by imagining extreme scenarios. 
 	  
 	  ![](https://pbs.twimg.com/media/E3h9gvqUcAUp8RO.png) ([View Tweet](https://twitter.com/Coding_Career/status/1403009287543164929))
 	- 4/ Set Theory

@@ -17,3 +17,7 @@ url:: https://twitter.com/Schuldensuehner
 	- This chart shows one of the drivers of recent rally. Hedge funds had to close their short positions. While S&P 500 has gained 15% from its June low, Goldman Sachs Basket of most-shorted stocks was up >45% at one time. But short-covering rally seems to be over for the time being. 
 	  
 	  ![](https://pbs.twimg.com/media/FasWJE9XoAEHZQn.png) ([View Tweet](https://twitter.com/Schuldensuehner/status/1561366079305547776))
+- New highlights added [[Jan 20th, 2023]] at 1:15 PM
+	- OOPS! Cost of insuring against US default hast jumped. 1y CDS price now trades at 69bps. 
+	  
+	  ![](https://pbs.twimg.com/media/Fm2HUf4X0AMqrTN.png) ([View Tweet](https://twitter.com/Schuldensuehner/status/1616096634919690242))

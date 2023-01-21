@@ -34,7 +34,7 @@ url:: https://twitter.com/jposhaughnessy/status/1561200057118228481
 	  ![](https://pbs.twimg.com/media/Fapk2IVXwAAPU0y.png) ([View Tweet](https://twitter.com/jposhaughnessy/status/1561200065284374528))
 	- 7/ This makes sense. 
 	  
-	  I have a degree in Economics (No help with the various businesses I've started) and a new school of thought was emerging at that time because of the utter failures of the econometric models of the 50s and 60s. The radical notions of these new young turks? https://t.co/6fcTV4TcqW ([View Tweet](https://twitter.com/jposhaughnessy/status/1561200066945323008))
+	  I have a degree in [[Economics]] (No help with the various businesses I've started) and a new school of thought was emerging at that time because of the utter failures of the econometric models of the 50s and 60s. The radical notions of these new young turks? https://t.co/6fcTV4TcqW ([View Tweet](https://twitter.com/jposhaughnessy/status/1561200066945323008))
 	- 8/ markets weren't emotionless automatons run flawlessly by robots. 
 	  
 	  They were, in fact, run by emotionally-driven people who sometimes make decisions based on them. But also, that when you CHANGED a big economic rule, people actually changed the way they behaved. https://t.co/5Eblt5scEE ([View Tweet](https://twitter.com/jposhaughnessy/status/1561200068690067457))

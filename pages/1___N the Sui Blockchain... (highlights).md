@@ -121,9 +121,9 @@ url:: https://twitter.com/tracecrypto1/status/1546498905856253954
 	- 32/n All 4 applications will heavily leverage Sui’s high-throughput and low-latency to deliver the best user experience. 
 	  
 	  But gaming and social applications are uniquely well positioned to build on Sui. ([View Tweet](https://twitter.com/tracecrypto1/status/1546500241196781576))
-	- 33/n Gaming can leverage Move’s safety and expressivity around digital objects.
+	- 33/n [[Gaming]] can leverage Move’s safety and expressivity around digital objects.
 	  
-	  And social media applications can leverage Sui's data storage economics to store all their data directly on-chain. ([View Tweet](https://twitter.com/tracecrypto1/status/1546500242354364416))
+	  And [[social media]] applications can leverage Sui's data storage economics to store all their data directly on-chain. ([View Tweet](https://twitter.com/tracecrypto1/status/1546500242354364416))
 	- 34/n Sui is currently running a public devnet and is launching its incentivized testnet next month. 
 	  
 	  Expect more details on mainnet launch in the coming months. ([View Tweet](https://twitter.com/tracecrypto1/status/1546500243533008896))

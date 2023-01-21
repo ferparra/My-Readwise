@@ -73,11 +73,11 @@ url:: https://twitter.com/jonwu_/status/1393307338245873666
 	  The better an exchange is able to concentrate liquidity around spot, the less impact large trades will have on price.
 	  
 	  In a CLOB, this is natural--people drop limit orders right around the spot price. So why AMM? ([View Tweet](https://twitter.com/jonwu_/status/1393307307690373126))
-	- Recall x * y = k, which spreads liquidity evenly across the curve of prices from 0 to infinity. Seems dumb?
+	- Recall x * y = k, which spreads [[liquidity]] evenly across the curve of prices from 0 to infinity. Seems dumb?
 	  
-	  But there's an advantage: liquidity bootstrapping.
+	  But there's an advantage: [[liquidity]] bootstrapping.
 	  
-	  You can create a market for your token w/o relying on market makers or the permissions of CZ/SBF/BA to list your token. ([View Tweet](https://twitter.com/jonwu_/status/1393307309540089862))
+	  You can create a [[market]] for your token w/o relying on [[market makers]] or the permissions of CZ/SBF/BA to list your token. ([View Tweet](https://twitter.com/jonwu_/status/1393307309540089862))
 		- **Tags**: #[[favorite]]
 	- Disadvantages?
 	  

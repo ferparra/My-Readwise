@@ -129,3 +129,11 @@ url:: https://twitter.com/robkhenderson
 	  ![](https://pbs.twimg.com/media/FmOB_gLX0AANwqc.png) 
 	  
 	  ![](https://pbs.twimg.com/media/FmOCBagWYAEzgsm.png) ([View Tweet](https://twitter.com/robkhenderson/status/1613276210993283075))
+- New highlights added [[Jan 20th, 2023]] at 12:14 PM
+	- I've followed @naval for years. Never knew this about his background and upbringing.
+	  
+	  From @EricJorgenson's project, The Navalmanack https://t.co/8XRhQcL2Ny 
+	  
+	  ![](https://pbs.twimg.com/media/Fm3jkcRXEAEm_Z_.png) 
+	  
+	  ![](https://pbs.twimg.com/media/Fm3jlWRWYAAoS3T.png) ([View Tweet](https://twitter.com/robkhenderson/status/1616198224796127235))

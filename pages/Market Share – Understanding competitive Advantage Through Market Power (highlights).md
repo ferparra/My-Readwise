@@ -15,8 +15,8 @@ tags:: #[[business]] #[[business strategy]]
 	  valuation as separate tasks. But they should be done together. ([View Highlight](https://read.readwise.io/read/01gpwcqg0b0z7wsmekmtmhvym7))
 	- economic theory tells us that return on investment in excess of the opportunity
 	  cost of capital gets eroded by competition ([View Highlight](https://read.readwise.io/read/01gpwcs8g0j3tzw192mf51505s))
-	- Strategy seeks to
-	  explain sustainable competitive advantage by looking at individual companies and how they differ. Economics
+	- [[Strategy]] seeks to
+	  explain sustainable [[competitive advantage]] by looking at individual companies and how they differ. [[Economics]]
 	  tends to treat firms in broader classes, old versus young or incumbent versus challenger, with an emphasis on
 	  aggregates. ([View Highlight](https://read.readwise.io/read/01gpwcsyh4d69mvsx7ja954m2r))
 		- **Tags**: #[[economics]] #[[business strategy]]

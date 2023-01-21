@@ -6,13 +6,13 @@ url:: https://podcastnotes.org/lex-fridman-podcast/tyler-cowen-economic-growth-a
 tags:: #[[@lex-fridman]] #[[@tyler-cowen]]
 
 - Highlights first synced by [[Readwise]] [[Jan 19th, 2023]]
-	- No one individual or idea holds all the wisdom ([View Highlight](https://read.readwise.io/read/01gq3cjjymyr7724x5s0yafaar))
+	- No one individual or idea holds all the #wisdom ([View Highlight](https://read.readwise.io/read/01gq3cjjymyr7724x5s0yafaar))
 		- **Tags**: #[[wisdom]]
-	- The greatest philosophy works are interactions among thinkers ([View Highlight](https://read.readwise.io/read/01gq3cjsw7egzac7jqm723pm72))
+	- The greatest #philosophy works are interactions among thinkers ([View Highlight](https://read.readwise.io/read/01gq3cjsw7egzac7jqm723pm72))
 		- **Tags**: #[[wisdom]]
 	- Get as many mentors as you can for the things you want to learn about ([View Highlight](https://read.readwise.io/read/01gq3cw5ens84a1rat21m7wkxs))
 		- **Tags**: #[[mentorship]]
-	- Economics doesn’t have strong predictive power ([View Highlight](https://read.readwise.io/read/01gq3cwzqy7czr65dmf5a4hzxn))
+	- [[Economics]] doesn’t have strong #predictive power ([View Highlight](https://read.readwise.io/read/01gq3cwzqy7czr65dmf5a4hzxn))
 		- **Tags**: #[[economics]]
 	- Game theory can help us understand why nuclear war is a low probability event ([View Highlight](https://read.readwise.io/read/01gq3cxf0xwn9j76rshvpk0n9n))
 		- **Tags**: #[[game theory]]

@@ -1,0 +1,24 @@
+title:: Ep. 231 —  Fight Burnout With Work Cycles (highlights)
+author:: [[Deep Questions with Cal Newport]]
+full-title:: "Ep. 231 —  Fight Burnout With Work Cycles"
+category:: #podcasts
+url:: https://share.snipd.com/episode/b061cf2d-885a-4125-a4e5-77f9c5415cd0
+
+- Highlights first synced by [[Readwise]] [[Jan 19th, 2023]]
+	- How to Get More Out of Your Cool Down Periods
+	  
+	  Key takeaways:
+	  (* Stealth cycles with stealth cool down periods can be just as effective as working out a company like Basecamp that has this built right into their handbook., * Cycles gives us this on the scale of weeks. So you know what, Jesse, I take it for granted as a professor, we naturally have these type of cycles on that scale built in because semesters end. We know this in academia, we're in between semesters. Everyone is taking a beat.)
+	  
+	  Transcript:
+	  Speaker 1
+	  A lot worse than it would be if you actually had regular cool down periods. You're going to get more done. It's going to be higher quality. People aren't going to burn out. What if you don't have control of a team? What if you don't run your own company? Do this stealthily on your own internally without telling other people, I have cycles and during this bit of the cycle, I'm all on this week or this two weeks. I'm pulling back. You can do this without having to make any declarations without having to get anything signed off on by a boss without really attracting that much attention. It's just a matter of making your weekly plans sparse during the cool down periods. Just don't put much stuff into those weekly plans. Being really careful about scheduling things during cool down periods. To the degree you can get away with this without it being notable, punt. Well, yeah, I was talking, I'm not really available that week, but the next week or let's get back to this after the break. You move things around. For the things that you have to schedule during the cool down period, have multiple days that are meeting free. Don't tell anyone you're doing this. But just for that two weeks, it's like, well, Tuesday and Thursday, you're not offering up. You have multiple days in these cool down weeks where you have no Zoom and no calls and no meetings. Be careful about your larger projects. If you have a project that's going to end, then another one's going to start. Don't start that one during a cool down period. Strategic about when you bring things on. These stealth cycles with stealth cool down periods can be just as effective as working out a company like Basecamp that has this built right into their handbook. What's going to happen is not only is this going to make your work more sustainable, I think you are going to become more valued in your company because the intensity of your intense periods is better. The quality of what you produce is better when you know that cool down is coming and you get the benefit of that cool down. So what are your managers going to notice? Not that I really was crunching the numbers and statistically speaking, in these two weeks out of the last six, it seemed to me that Cal was not scheduling meetings on Tuesdays as much as he did during the other one. We need to do something about this. That's not what they're going to notice. What they're going to notice is your peaks. Wow, this was great. This thing he produced last month was very good. This is someone that we really value. So I'm a big believer in cycles, whether they be institutionalized or happy surreptitiously. It is one way among many, I think, to feed into this natural inclination we have for up and down. We're chasing the gazelle, now we're taking a nap under the sun. This natural seasonality on all sorts of scales is useful. Cycles gives us this on the scale of weeks. So you know what, Jesse, I take it for granted as a professor, we naturally have these type of cycles on that scale built in because semesters end. We know this in academia, we're in between semesters. Everyone is taking a beat. Schedule meetings. You don't expect people to respond to emails. And then it ramps back up again. And then you get the biggest cycle of all, which is summer. And then summer is, it's such great. That rhythm works well. I think it for granted, but seeing base camps handbook helped me understand this idea that instead of just saying too bad you're not a professor, a lot of people could have something similar to working life. It just takes a little effort.
+	  
+	  Speaker 2
+	  I know that you coined a lot of terms. Did you come up with a term on structured productivity?
+	  
+	  Speaker 1
+	  I think so.
+	  
+	  Speaker 2
+	  It's a good term. ([Time 0:19:42](https://share.snipd.com/snip/66a4fb2a-22af-421e-be52-bcfde5604864))

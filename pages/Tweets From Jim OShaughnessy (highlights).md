@@ -37,3 +37,5 @@ url:: https://twitter.com/jposhaughnessy
 	  ~Arthur Schopenhauer ([View Tweet](https://twitter.com/jposhaughnessy/status/1477412394955644930))
 	- "Conversation would be vastly improved by the constant use of four simple words: I do not know."
 	  ~Andre Maurois ([View Tweet](https://twitter.com/jposhaughnessy/status/1499863591184445446))
+- New highlights added [[Jan 21st, 2023]] at 4:20 PM
+	- @patrick_oshag https://t.co/bPoiJP6Hp5 ([View Tweet](https://twitter.com/jposhaughnessy/status/1616634164127666178))

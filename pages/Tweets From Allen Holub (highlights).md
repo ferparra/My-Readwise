@@ -19,3 +19,7 @@ url:: https://twitter.com/allenholub
 	- I’m not a big fan of MoSCoW ranking (Must/Should/Could/Won’t have). To me it’s more binary. If it’s not "must have," toss it. Those other categories do nothing but swell the backlog with low-priority work we’ll never get to. ([View Tweet](https://twitter.com/allenholub/status/1442586641340801027))
 	- The main problem with "root cause analysis" is that, more often than not, there’s more than one "root cause," and those factors interact with one another in complex ways. It’s simplistic to believe that all problems can be resolved to a single root cause. ([View Tweet](https://twitter.com/allenholub/status/1454867664657162240))
 	- An MVP is an experiment that tests the hypothesis that something’s worth building. It is NOT Version 1 of a product. ([View Tweet](https://twitter.com/allenholub/status/1479181061938503688))
+- New highlights added [[Jan 21st, 2023]] at 4:20 PM
+	- So, you're using Fibonacci story points? Here's the perfect tool! Estimate away. 
+	  
+	  ![](https://pbs.twimg.com/media/Fm9EAQ5aAAEeWvm.jpg) ([View Tweet](https://twitter.com/allenholub/status/1616585599431118849))

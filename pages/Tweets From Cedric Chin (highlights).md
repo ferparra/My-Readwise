@@ -29,3 +29,5 @@ url:: https://twitter.com/ejames_c
 	  Well played, @scmallaby, well played. 
 	  
 	  ![](https://pbs.twimg.com/media/FkOx2WMakAEjFa6.jpg) ([View Tweet](https://twitter.com/ejames_c/status/1604321451037057024))
+- New highlights added [[Jan 21st, 2023]] at 4:20 PM
+	- @jposhaughnessy @patrick_oshag More from where that came from: https://t.co/ovA0Mhp7RQ ([View Tweet](https://twitter.com/ejames_c/status/1616647887936708610))

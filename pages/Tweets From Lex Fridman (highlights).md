@@ -5,7 +5,7 @@ category:: #tweets
 url:: https://twitter.com/lexfridman
 
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
-	- "Life must be understood backward. But it must be lived forward." - Soren Kierkegaard ([View Tweet](https://twitter.com/lexfridman/status/1365705280730841092))
+	- "Life must be understood backward. But it must be lived forward." - Soren [[Kierkegaard]] #quotes ([View Tweet](https://twitter.com/lexfridman/status/1365705280730841092))
 	- "Think lightly of yourself and deeply of the world." - Miyamoto Musashi ([View Tweet](https://twitter.com/lexfridman/status/1386349136576876545))
 		- **Tags**: #[[favorite]] #[[quotes]]
 	- Authenticity > Authority ([View Tweet](https://twitter.com/lexfridman/status/1394838502928437253))
