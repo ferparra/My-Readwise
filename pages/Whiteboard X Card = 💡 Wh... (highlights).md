@@ -12,7 +12,7 @@ url:: https://twitter.com/cnjunyi/status/1611427679500390400
 	  
 	  ![](https://pbs.twimg.com/media/FlzqachaAAAMKwt.jpg) ([View Tweet](https://twitter.com/cnjunyi/status/1611427679500390400))
 		- **Note**: Thread
-	- @logseq Whiteboard x Query = 🧘
+	- [[@logseq]] Whiteboard x Query = 🧘
 	  
 	  Making storm in brain 🤯  -> Actions 💪 
 	  

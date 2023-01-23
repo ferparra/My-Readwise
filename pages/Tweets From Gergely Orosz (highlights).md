@@ -37,11 +37,11 @@ url:: https://twitter.com/GergelyOrosz
 	  Incredible how this seems to have remained constant over decades: 
 	  
 	  ![](https://pbs.twimg.com/media/FRmU6IcXEAEAZfi.jpg) ([View Tweet](https://twitter.com/GergelyOrosz/status/1520410081103335424))
-	- Every time I post a #diagram about how big tech works - with a [[PRD]]/ERD process -, someone outside big tech shows up and assumes This Looks Like Waterfall Thus This Is Bad.
+	- Every time I post a #diagram about how big tech works - with a [[PRD]]/ERD process -, someone outside big tech shows up and assumes This Looks Like [[Waterfall]] Thus This Is Bad.
 	  
 	  Buddy.
 	  
-	  These places ship multiple times per day, and are more nimble than their competition using Scrum. 
+	  These places ship multiple times per day, and are more nimble than their competition using [[Scrum]]. 
 	  
 	  ![](https://pbs.twimg.com/media/FGTtk96XoAMvsns.jpg) ([View Tweet](https://twitter.com/GergelyOrosz/status/1469560602347675648))
 	- Today I learned how Spotify
@@ -53,3 +53,13 @@ url:: https://twitter.com/GergelyOrosz
 	  Some ideas for numbers. What else have you seen used in perf reviews? 
 	  
 	  ![](https://pbs.twimg.com/media/FjyO51vXwAIlHTf.jpg) ([View Tweet](https://twitter.com/GergelyOrosz/status/1602312952526344192))
+- New highlights added [[Jan 21st, 2023]] at 6:58 PM
+	- All set for reading for the next weeks after these arrived:
+	  
+	  Engineering Management for the Rest of Us by @sarah_edo 
+	  
+	  Domain-Driven Design with Golang by @MattJamesBoyle 
+	  
+	  Software Architecture: the Hard Parts by Neal Ford, Mark Richards, Pramod Sadalage & Zhamak Dehghani 
+	  
+	  ![](https://pbs.twimg.com/media/Fm7tZ6xWAAQSe6x.jpg) ([View Tweet](https://twitter.com/GergelyOrosz/status/1616490353191682059))

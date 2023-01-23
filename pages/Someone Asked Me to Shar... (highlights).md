@@ -5,7 +5,7 @@ category:: #tweets
 url:: https://twitter.com/caraantonaccio/status/1486435011037442055
 
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
-	- Someone asked me to share my research workflow in @logseq! Here's an overview of my very simple process  🧵 
+	- Someone asked me to share my research workflow in [[@logseq]]! Here's an overview of my very simple process  🧵 
 	  
 	  ![](https://pbs.twimg.com/media/FKDdNBmXEAUKkf6.jpg) ([View Tweet](https://twitter.com/caraantonaccio/status/1486435011037442055))
 		- **Note**: Thread

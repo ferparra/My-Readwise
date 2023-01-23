@@ -31,7 +31,7 @@ url:: https://twitter.com/OneStuttering/status/1515661876465594375
 	  However, applied thinking is dynamic & cannot be reduced to 2-dimensions. Reducing the friction between the different activities is instead necessary. ([View Tweet](https://twitter.com/OneStuttering/status/1515661885453967365))
 	- 5/ Organisation is often the chief stumbling block for input and retrieval: "where do I put this?" and "where do I find that again?"
 	  
-	  Networked outliners like @Logseq and @RoamResearch (& sort of @obsdmd with plugins🤔) allow us to side-step the upfront organisational burden. ([View Tweet](https://twitter.com/OneStuttering/status/1515661888222216194))
+	  Networked outliners like [[@Logseq]] and @RoamResearch (& sort of @obsdmd with plugins🤔) allow us to side-step the upfront organisational burden. ([View Tweet](https://twitter.com/OneStuttering/status/1515661888222216194))
 	- 6/ How do they do it?
 	- 7/ I'm all for left to right frameworks (particularly diagrams!), but finding the flow between these activities has been transformative for me, so much so that I think I'm going to come up with my own acronym. Let's give it a go:
 	  

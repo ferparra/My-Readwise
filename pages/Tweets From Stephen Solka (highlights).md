@@ -5,7 +5,7 @@ category:: #tweets
 url:: https://twitter.com/trashhalo
 
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
-	- New @logseq graph plugin in the marketplace. It analyzes your notes and uses network analysis algorithms to find hidden connections to inspire your writing. https://t.co/1VnjCv7ssQ 
+	- New [[@logseq]] graph plugin in the marketplace. It analyzes your notes and uses network analysis algorithms to find hidden connections to inspire your writing. https://t.co/1VnjCv7ssQ 
 	  
 	  ![](https://pbs.twimg.com/media/FWWby4hWYAElfkB.jpg) 
 	  

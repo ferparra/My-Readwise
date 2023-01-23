@@ -16,7 +16,7 @@ url:: https://twitter.com/johncutlefish
 	  
 	  then either 1) you aren’t listening or 2) you should advocate for more hiring more senior designers ([View Tweet](https://twitter.com/search?q=Product%20managers%20...%20if%20the%20designers%20on%20your%20team%20are%20not%20surfacing%20deeper%20insights%20about%20your%20customers%20/%20users%20than%20you%20are%20capable%20of%20surfacing%20%28eg%20if%20you%20aren%E2%80%99t%20learning%29...%20%20then%20either%201%29%20you%20aren%E2%80%99t%20listening%20or%202%29%20you%20should%20advocat%20%28from%3A%40johncutlefish%29))
 		- **Tags**: #[[favorite]] #[[product management]]
-	- A big issue I have with the product owner certification industry is that it doesn’t set up individuals for career advancement outside of the narrow constraints of scrum. “PO” title in many cases gets a resume filtered out for product management roles. ([View Tweet](https://twitter.com/johncutlefish/status/1393671259351699457))
+	- A big issue I have with the product owner certification industry is that it doesn’t set up individuals for career advancement outside of the narrow constraints of [[scrum]]. “PO” title in many cases gets a resume filtered out for product management roles. ([View Tweet](https://twitter.com/johncutlefish/status/1393671259351699457))
 	- product is hard
 	  
 	  vanity metrics = easy

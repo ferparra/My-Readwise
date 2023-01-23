@@ -5,7 +5,7 @@ category:: #articles
 url:: https://scrumguides.org/scrum-guide.html
 
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
-	- The Product Backlog is an emergent, ordered list of what is needed to
+	- The [[Product Backlog]] is an emergent, ordered list of what is needed to
 	  improve the product. It is the single source of work undertaken by the
 	  Scrum Team.
 	- The Sprint Goal is the single objective for the Sprint. Although the

@@ -58,3 +58,67 @@ url:: https://www.nateliason.com/notes/beginning-of-infinity-david-deutsch
 	- a good theory – if it is a superb theory, as the fundamental theories of physics nowadays are – then it is exceedingly hard to vary while still remaining a viable explanation. ([View Highlight](https://read.readwise.io/read/01gq8qb1m8c2y2qcgrv9yxg4fk))
 	- The way to converge with each other is to converge upon the truth. ([View Highlight](https://read.readwise.io/read/01gq8qbth9g840kgqzshcpfwhv))
 		- **Tags**: #[[truth]]
+- New highlights added [[Jan 21st, 2023]] at 9:24 PM
+	- Dollars in bank accounts are what may be called ‘configurational’ entities: they are states or configurations of objects, not what we usually think of as physical objects in their own right. ([View Highlight](https://read.readwise.io/read/01gq9rt5548pe53begmbcsshs4))
+		- **Tags**: #[[representations]] #[[currency]] #[[money]]
+	- Another example of fungible configurational entities in classical physics is amounts of energy ([View Highlight](https://read.readwise.io/read/01gq9rv3hsm152aj9azmn27tp7))
+	- There is only one known phenomenon which, if it ever occurred, would have effects that did not fall off with distance, and that is the creation of a certain type of knowledge, namely a beginning of infinity. ([View Highlight](https://read.readwise.io/read/01gq9rvyyfjp5d00a78rtsqaq5))
+	- The number of distinct histories will now increase rapidly. ([View Highlight](https://read.readwise.io/read/01gq9rwh45edh65js2dexcwwac))
+	- In entangled objects, further splitting happens instead of interference. ([View Highlight](https://read.readwise.io/read/01gq9rws7ed71mgmgrhcng4fz3))
+		- **Tags**: #[[quantum mechanics]]
+	- positive and negative charges attract each other and, if unrestrained, accelerate towards each other, emitting energy in the form of electromagnetic radiation as they go ([View Highlight](https://read.readwise.io/read/01gq9rxnrq14egksfcysnj9tx2))
+		- **Tags**: #[[electromagnetism]]
+	- w**henever a measurement is made, all the histories but one cease to exist. The surviving one is chosen at random, with the probability of each possible outcome being equal to the total measure of all the histories in which that outcome occurs.** ([View Highlight](https://read.readwise.io/read/01gq9rzj7xw8xqntxfvpttb7dm))
+	- One currently influential philosophical movement goes under various names such as postmodernism, deconstructionism and structuralism, depending on historical details that are unimportant here. It claims that because all ideas, including scientific theories, are conjectural and impossible to justify, they are essentially arbitrary: they are no more than stories, known in this context as ‘narratives’. ([View Highlight](https://read.readwise.io/read/01gq9s3dwnrqsxp8c0wbwg6krs))
+		- **Tags**: #[[philosophy]]
+	- Creating a successful postmodernist theory is indeed purely a matter of meeting the criteria of the postmodernist community – which have evolved to be complex, exclusive and authority-based. ([View Highlight](https://read.readwise.io/read/01gq9s4rr5yxqf3116f1rkj0n3))
+		- **Tags**: #[[post-modernism]]
+	- a generic feature of experimentation is that the bigger the errors you make, either in the numbers or in your naming and interpretation of the measured quantities, the more exciting the results are, if true ([View Highlight](https://read.readwise.io/read/01gq9s66qwz8sxcdjf4m7s0at9))
+		- **Tags**: #[[narrative building]] #[[experimentation]]
+	- In the ‘hard sciences’ – which usually do good science – false results due to all sorts of errors are nevertheless common. But they are corrected when their explanations are criticized and tested. That cannot happen in explanationless science. ([View Highlight](https://read.readwise.io/read/01gq9s6ybjqj5pkdtfs6a588p1))
+		- **Tags**: #[[narrative building]]
+- New highlights added [[Jan 22nd, 2023]] at 5:45 PM
+	- Popper’s criterion **Good political institutions are those that make it as easy as possible to detect whether a ruler or policy is a mistake, and to remove rulers or policies without violence when they are.** ([View Highlight](https://read.readwise.io/read/01gqc1yesyrbc7x91e2k5yh5nq))
+		- **Tags**: #[[@karl-popper]]
+	- It is a mistake to conceive of choice and decision-making as a process of selecting from existing options according to a fixed formula. That omits the most important element of decision-making, namely the creation of new options. ([View Highlight](https://read.readwise.io/read/01gqc1z00gbbvyr02zvzxsvepb))
+		- **Tags**: #[[decision making]]
+	- [[rational thinking]] does not consist of weighing the justifications of rival theories, but of using conjecture and criticism to seek the best explanation ([View Highlight](https://read.readwise.io/read/01gqc1zbppwex5a0fvkkbnpy69))
+		- **Tags**: #[[rationalism]]
+	- **Following a plurality-voting election, the usual outcome is that the party with the largest total number of votes has an overall majority in the legislature, and therefore takes sole charge**. ([View Highlight](https://read.readwise.io/read/01gqc1zzpcntftsq50npv3amt2))
+		- **Tags**: #[[democracy]]
+	- We have an inborn aversion to heights and to falling, yet people go skydiving – not in spite of this feeling, but because of it. It is that very feeling of inborn aversion that humans can reinterpret into a larger picture which to them is attractive – they want more of it; they want to appreciate it more deeply. ([View Highlight](https://read.readwise.io/read/01gqc213jv3wt5y24knr1weq82))
+	- We find flowers beautiful that we have never seen before, and which have not been known to our culture before – and quite reliably, for most humans in most cultures. The same is not true of the roots of plants, or the leaves. Why only the flowers? ([View Highlight](https://read.readwise.io/read/01gqc21gqncma6mmm2z7hrvsyy))
+		- **Tags**: #[[wonder]] #[[novelty]]
+	- the attribute we call beauty is of two kinds. One is a parochial kind of attractiveness, local to a species, to a culture or to an individual. The other is unrelated to any of those: it is universal, and as objective as the laws of physics ([View Highlight](https://read.readwise.io/read/01gqc22h63526q46rx7c96k71n))
+		- **Tags**: #[[beauty]]
+	- **The fact that flowers reliably seem beautiful to humans when their designs evolved for an apparently unrelated purpose is evidence that beauty is objective.** **Those convergent criteria of beauty solve the problem of creating hard-to-forge signals where prior shared knowledge is insufficient to provide them.** ([View Highlight](https://read.readwise.io/read/01gqc230tjzt1e63vqkzfhnqwd))
+		- **Tags**: #[[beauty]]
+	- when such memes do change, what are the conditions under which they can change for the better? ([View Highlight](https://read.readwise.io/read/01gqc23m9hpwxsw82ar2mb12b6))
+		- **Tags**: #[[society]] #[[culture]] #[[memes]]
+	- A meme exists in a brain form and a behaviour form, and each is copied to the other. ([View Highlight](https://read.readwise.io/read/01gqc247h5r6hdht92k7xm5xb7))
+		- **Tags**: #[[memetic theory]] #[[memes]]
+	- Thus, memes of this new kind, which are created by rational and critical thought, subsequently also depend on such thought to get themselves replicated faithfully. So I shall call them rational memes. Memes of the older, static-society kind, which survive by disabling their holders’ critical faculties, I shall call anti-rational memes. ([View Highlight](https://read.readwise.io/read/01gqc25h800x4ba3565bvvx4j0))
+		- **Tags**: #[[memetic theory]]
+	- Consider what we should expect to happen when a static society is gradually switching from anti-rational to rational memes. ([View Highlight](https://read.readwise.io/read/01gqc264cxcs3g3x06tykvqddc))
+		- **Tags**: #[[memetic theory]]
+	- **Rational meme**: An idea that relies on the recipients’ critical faculties to cause itself to be replicated. ([View Highlight](https://read.readwise.io/read/01gqc269syfycd8s23np57qarq))
+		- **Tags**: #[[mimetic theory]] #[[memetic theory]]
+	- **Anti-rational meme**: An idea that relies on disabling the recipients’ critical faculties to cause itself to be replicated. ([View Highlight](https://read.readwise.io/read/01gqc26dvc8gk109m9c01wzzrh))
+		- **Tags**: #[[mimetic theory]] #[[memetic theory]]
+	- So there is no such thing as ‘just imitating the behaviour’ – still less, therefore, can one discover those ideas by imitating it. **One needs to know the ideas before one can imitate the behaviour.** ([View Highlight](https://read.readwise.io/read/01gqc27cf0v5e6hjvg8qfswd5r))
+		- **Tags**: #[[creativity]]
+	- **But humans do not especially copy any behaviour. They use conjecture, criticism and experiment to create good explanations of the meaning of things – other people’s behaviour, their own, and that of the world in general. That is what creativity does.** **And if we end up behaving like other people, it is because we have rediscovered the same idea.** ([View Highlight](https://read.readwise.io/read/01gqc27ssfedtvgs95m78bmecq))
+		- **Tags**: #[[creativity]]
+	- **Not only is creativity necessary for human meme replication, it is also sufficient**. ([View Highlight](https://read.readwise.io/read/01gqc2824zrx0ze8k8kb4rkn6w))
+		- **Tags**: #[[creativity]]
+- New highlights added [[Jan 22nd, 2023]] at 8:47 PM
+	- The Easter Islanders may or may not have suffered a forest-management fiasco. But, if they did, **the explanation would not be about why they made mistakes – problems are inevitable – but why they failed to correct them.** ([View Highlight](https://read.readwise.io/read/01gqcdb7523sqtk32ytgcj1xsy))
+		- **Tags**: #[[risk]]
+	- progress is sustainable, indefinitely. But only by people who engage in a particular kind of thinking and behaviour – the problem-solving and problem-creating kind characteristic of the Enlightenment. And that requires the optimism of a dynamic society. ([View Highlight](https://read.readwise.io/read/01gqcdc2pawyrw1933064gmmj4))
+	- The Easter Island civilization collapsed because no human situation is free of new problems, and static societies are inherently unstable in the face of new problems. ([View Highlight](https://read.readwise.io/read/01gqcdcz9mbkqp5ea3r61eq0tx))
+		- **Tags**: #[[civilization]]
+	- In the optimistic conception – the one that was unforeseeably vindicated by events – people are problem-solvers: creators of the unsustainable solution and hence also of the next problem. In the pessimistic conception, that distinctive ability of people is a disease for which sustainability is the cure. In the optimistic one, sustainability is the disease and people are the cure. ([View Highlight](https://read.readwise.io/read/01gqcde741wv1wv68tw6y9sdpd))
+	- As the economist David Friedman has remarked, **most people believe that an income of about twice their own should be sufficient to satisfy any reasonable person** ([View Highlight](https://read.readwise.io/read/01gqcdp6qgj8pgw2h658c9w1p6))
+	- Perhaps a more practical way of stressing the same truth would be to frame the growth of knowledge (all knowledge, not only scientific) as a continual transition from problems to better problems, rather than from problems to solutions or from theories to better theories ([View Highlight](https://read.readwise.io/read/01gqcdph6513y6gq9vbq9t04k1))
+		- **Tags**: #[[problem solving]]
+	- There is only one way of thinking that is capable of making progress, or of surviving in the long run, and that is the way of seeking good explanations through creativity and criticism. ([View Highlight](https://read.readwise.io/read/01gqcdrj4yv8ajm5mfnwn09b54))

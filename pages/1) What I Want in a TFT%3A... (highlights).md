@@ -32,7 +32,7 @@ url:: https://twitter.com/yourpalomar/status/1492870413675810821
 	  https://t.co/E4HK1K3NXo 
 	  
 	  ![](https://pbs.twimg.com/media/FLe9vdsXwA0IpWj.png) ([View Tweet](https://twitter.com/yourpalomar/status/1492870431505887240))
-	- 6) Another thing I like is @logseq namespacing. 
+	- 6) Another thing I like is [[@logseq]] namespacing. 
 	  
 	  ▫️Parent/child_one/child_two
 	  

@@ -78,7 +78,7 @@ url:: https://twitter.com/homsiT/status/1603143634047705089
 	  @NotionHQ
 	  @obsdmd 
 	  @RoamResearch 
-	  @logseq 
+	  [[@logseq]] 
 	  @evernote 
 	  
 	  and others! 

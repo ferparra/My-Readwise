@@ -20,7 +20,7 @@ url:: https://twitter.com/pantherhr/status/1433446731224649729
 	  Use this framework to eliminate more meetings. ([View Tweet](https://twitter.com/pantherhr/status/1433446732763967493))
 	- #2 Be asynchronous
 	  
-	  Why? Because async communication creates better communication.
+	  Why? Because [[async]] communication creates better [[communication]].
 	  
 	  When you know somebody won’t reply right away, you think for longer about how to write a message.
 	  

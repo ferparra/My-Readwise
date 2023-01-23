@@ -18,6 +18,6 @@ url:: https://twitter.com/QwxleaA
 	  
 	  https://t.co/a63gF7mMWG (or just add the css to your custom.css)
 	  
-	  #zettelkasten @logseq 
+	  #zettelkasten [[@logseq]] 
 	  
 	  ![](https://pbs.twimg.com/media/FSJhwpWX0AA4UEi.jpg) ([View Tweet](https://twitter.com/QwxleaA/status/1522887502578728961))

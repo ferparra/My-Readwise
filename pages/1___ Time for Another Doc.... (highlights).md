@@ -13,7 +13,7 @@ url:: https://twitter.com/shishirmehrotra/status/1400333094482186242
 		- **Note**: Thread
 	- 2/ The company was acquired early and had to adapt to being integrated into Google, a company well known for its rituals. While we borrowed many best practices, we also recognized that some of Google’s rituals didn’t quite fit. ([View Tweet](https://twitter.com/shishirmehrotra/status/1400333096000507904))
 	- 3/ We slowly constructed rituals that took us from “controlled chaos” to a well-aligned team that simultaneously ran a complex business and took on meaningful strategic initiatives. ([View Tweet](https://twitter.com/shishirmehrotra/status/1400333097388838915))
-	- 4/ For strategic planning, we bucked the classic Google quarterly OKR system and shifted to a 6-month / 6-week process — 6-month strategic planning for aspirations, 6-week sprint planning for commitments. ([View Tweet](https://twitter.com/shishirmehrotra/status/1400333098957500418))
+	- 4/ For strategic planning, we bucked the classic Google quarterly [[OKR]] system and shifted to a 6-month / 6-week process — 6-month [[strategic planning]] for aspirations, 6-week sprint planning for commitments. ([View Tweet](https://twitter.com/shishirmehrotra/status/1400333098957500418))
 	- 5/ And a weekly cadence anchored our regular execution split into 4 meeting types: group information sharing, decision making forums, tag-ups, and 1:1s. 
 	  
 	  ![](https://pbs.twimg.com/media/E276n3jVkAQs_PG.png) ([View Tweet](https://twitter.com/shishirmehrotra/status/1400333102988201985))

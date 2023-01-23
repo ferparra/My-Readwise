@@ -33,7 +33,7 @@ url:: https://twitter.com/TfTHacker
 	  
 	  ![](https://pbs.twimg.com/media/FK5wnIxXEAEZti_.jpg) ([View Tweet](https://twitter.com/TfTHacker/status/1490252348857503748))
 - New highlights added [[Dec 7th, 2022]] at 6:53 PM
-	- High praise for @aryansawhney17. He developed SmartBlocks for @logseq. 
+	- High praise for @aryansawhney17. He developed SmartBlocks for [[@logseq.]] 
 	  
 	  I am blown away by his "Ultime Guide to Task Management in Logseq" video. 
 	  

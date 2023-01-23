@@ -5,7 +5,7 @@ category:: #tweets
 url:: https://twitter.com/TfTHacker/status/1606262914104455168
 
 - Highlights first synced by [[Readwise]] [[Dec 23rd, 2022]]
-	- 1/2 Quick tip for @logseq: 
+	- 1/2 Quick tip for [[@logseq]]: 
 	  
 	  Using the right sidebar on a tablet.
 	  

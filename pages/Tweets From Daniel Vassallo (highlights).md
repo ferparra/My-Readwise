@@ -49,3 +49,7 @@ url:: https://twitter.com/dvassallo
 	  2) The fact that the pilot is there in the plane with us
 	  
 	  #2 is underrated. In business, you also need some exposure to risk to be trusted. ([View Tweet](https://twitter.com/dvassallo/status/1613967874040950784))
+- New highlights added [[Jan 22nd, 2023]] at 10:07 AM
+	- @austin_rief https://t.co/2zscDt1iEG
+	  
+	  Filmed entirely with iPhones and a drone, and edited an iPad. Beats all HGTV / Discovery channel building shows. ([View Tweet](https://twitter.com/dvassallo/status/1616880659343233024))

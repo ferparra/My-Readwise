@@ -5,7 +5,7 @@ category:: #tweets
 url:: https://twitter.com/brandontoner/status/1490785393045909512
 
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
-	- Ohhhh I just figured out a cool trick in @logseq for naming the Journals pages (Daily Notes Page).
+	- Ohhhh I just figured out a cool trick in [[@logseq]] for naming the Journals pages (Daily Notes Page).
 	  
 	  If you use the yyyy/MM/dd format, it sets up a set of hierarchies from the namespacing!! (Giving you month pages, and year pages) ([View Tweet](https://twitter.com/brandontoner/status/1490785393045909512))
 		- **Note**: Thread

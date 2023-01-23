@@ -82,6 +82,6 @@ url:: https://twitter.com/IamAustinYang/status/1600440490741989376
 	  Being able to operate in a sub-optimal setup is worth applauding, and seeing what doesn't work first-hand will help you avoid the traps in the future.
 	  
 	  Just know that there are probably better places for you to shine. ([View Tweet](https://twitter.com/IamAustinYang/status/1600440523348537344))
-	- P.S. Blame all the confusion on SAFe 🙄
+	- P.S. Blame all the confusion on [[SAFe]] 🙄
 	  
-	  PO originated as a role PM (occasionally others) plays in Scrum, not a separate job. This blog post by @lissijean explains it the best: https://t.co/aLqPyRaZz2 ([View Tweet](https://twitter.com/IamAustinYang/status/1600440525911302146))
+	  PO originated as a role PM (occasionally others) plays in [[Scrum]], not a separate job. This blog post by @lissijean explains it the best: https://t.co/aLqPyRaZz2 ([View Tweet](https://twitter.com/IamAustinYang/status/1600440525911302146))

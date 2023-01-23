@@ -5,6 +5,6 @@ category:: #tweets
 url:: https://twitter.com/aryansawhney17
 
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
-	- Update to @logseq smartblocks!
+	- Update to [[@logseq]] smartblocks!
 	  
 	  Inspired by @caraantonaccio,

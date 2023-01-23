@@ -6,7 +6,7 @@ url:: https://twitter.com/omnivoreapp
 
 - Highlights first synced by [[Readwise]] [[Dec 22nd, 2022]]
 	- Omnivore is a free and open source read-it-later app. Save interesting articles, newsletter subscriptions, and documents and read them later.
-	- 9: Omnivore integrates with apps like @readwise and @logseq for syncing notes and highlights, but also supports sending data via webhooks. 
+	- 9: Omnivore integrates with apps like [[@readwise]] and [[@logseq]] for syncing notes and highlights, but also supports sending data via webhooks. 
 	  
 	  I backup my links to Google Sheets using a webhook and IFTTT (and briefly turned on the Roomba every time I saved an article about vacuums) 
 	  

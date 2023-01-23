@@ -7,7 +7,7 @@ url:: https://twitter.com/SergioRocks/status/1577644315924467712
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
 	- Why I don't use [[Scrum]] to manage my Remote Teams?
 	  
-	  TL;DR: It adds at least 8 hours of meetings per Sprint. That's 2 full days of lost productivity, per team member, per month!
+	  TL;DR: It adds at least 8 hours of meetings per [[Sprint]]. That's 2 full days of lost productivity, per team member, per month!
 	  
 	  This is what I do instead 👇 ([View Tweet](https://twitter.com/SergioRocks/status/1577644315924467712))
 		- **Note**: Thread
@@ -16,7 +16,7 @@ url:: https://twitter.com/SergioRocks/status/1577644315924467712
 	  At times because I was pushed to do it. Other times because I didn't know better.
 	  
 	  Everyone was doing it, so it felt like the natural way to manage tech projects to me. ([View Tweet](https://twitter.com/SergioRocks/status/1577644324573126659))
-	- These were the normal "Scrum meetings" in my teams:
+	- These were the normal "[[Scrum]] meetings" in my teams:
 	- And those 8 hours of meetings got extended every Sprint.
 	  
 	  Because either:
@@ -24,17 +24,17 @@ url:: https://twitter.com/SergioRocks/status/1577644315924467712
 	  
 	  I hired people in different time zones, and forcing them all to sit in so many meetings started feeling like a big bottleneck.
 	  
-	  [[Scrum]] isn't compatible with Async, imo! ([View Tweet](https://twitter.com/SergioRocks/status/1577644333297188869))
-	- Since then, I've stopped using Scrum. It was my first step to reduce meetings in my teams.
+	  [[Scrum]] isn't compatible with [[Async]], imo! ([View Tweet](https://twitter.com/SergioRocks/status/1577644333297188869))
+	- Since then, I've stopped using [[Scrum]]. It was my first step to reduce [[meetings]] in my teams.
 	  
-	  Beyond the time actually spent in meetings, they are also a big distraction for people who need to do deep work.
+	  Beyond the time actually spent in [[meetings]], they are also a big distraction for people who need to do deep work.
 	  
-	  Here I wrote more about 7 ways I replace meetings with async processes: https://t.co/PsW5WsDiut ([View Tweet](https://twitter.com/SergioRocks/status/1577644336417832965))
-	- Another thing I don't like in Scrum is how it forces all projects/features into a 2-week framework.
+	  Here I wrote more about 7 ways I replace meetings with [[async]] processes: https://t.co/PsW5WsDiut ([View Tweet](https://twitter.com/SergioRocks/status/1577644336417832965))
+	- Another thing I don't like in [[Scrum]] is how it forces all projects/features into a 2-week [[framework]].
 	  
-	  Some features are small and take just a few days. Others are enormous and take longer than 2 weeks.
+	  Some [[features]] are small and take just a few days. Others are enormous and take longer than 2 weeks.
 	  
-	  Not all types of effort fit well into such a fixed framework. ([View Tweet](https://twitter.com/SergioRocks/status/1577644338686853120))
+	  Not all types of effort fit well into such a fixed [[framework]]. ([View Tweet](https://twitter.com/SergioRocks/status/1577644338686853120))
 	- For me, it makes more sense to develop software in a goal-oriented way.
 	  
 	  "Goal" meaning: A clear business case that supports *Why* such feature needs to be built.
@@ -87,7 +87,7 @@ url:: https://twitter.com/SergioRocks/status/1577644315924467712
 	  For tasks with denser trade off considerations, we jump on a meeting to discuss those live and commit to an approach.
 	  
 	  Long iterations over async comms can create very long lead times, so I opt for meeting on those. ([View Tweet](https://twitter.com/SergioRocks/status/1577644375965835266))
-	- This is how I shifted from a heavy meeting culture (led by [[Scrum]]), to an Async-first workflow.
+	- This is how I shifted from a heavy meeting [[culture]] (led by [[Scrum]]), to an [[Async]]-first workflow.
 	  
 	  I can tell it was one of the key contributions to this acute before & after effect in my career.
 	  
@@ -97,9 +97,9 @@ url:: https://twitter.com/SergioRocks/status/1577644315924467712
 	  Join the waitlist for early access and a 30% discount👇
 	  
 	  https://t.co/jrY6gUmFdf ([View Tweet](https://twitter.com/SergioRocks/status/1577644381015777282))
-	- Interestingly, I read recently in @GergelyOrosz's newsletter that most Big Tech companies don't use Scrum either.
+	- Interestingly, I read recently in @GergelyOrosz's newsletter that most [[Big Tech]] companies don't use [[Scrum]] either.
 	  
-	  Instead, they use some variant of Plan > Build > Ship. I had never seen that coined as a process, but resonates a lot with my approach.
+	  Instead, they use some variant of [[Plan]] > [[Build]] > [[Ship]]. I had never seen that coined as a process, but resonates a lot with my approach.
 	  
 	  https://t.co/KD4ZzrBnh3 ([View Tweet](https://twitter.com/SergioRocks/status/1577644383020765185))
 	- @GergelyOrosz That's a wrap!

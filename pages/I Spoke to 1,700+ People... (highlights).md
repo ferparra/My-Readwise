@@ -15,7 +15,7 @@ url:: https://twitter.com/chris_herd/status/1344995155527479298
 	  Almost every region that has something which would attract people to move there will do the same thing
 	  
 	  Incentives for remote talent to move will grow quickly
-	- ⏰ Async-first: People now see offices are instantaneous gratification adult kids clubs where sync work makes it impossible to get stuff done
+	- ⏰ [[Async]]-first: People now see offices are instantaneous gratification adult kids clubs where sync work makes it impossible to get stuff done
 	  
 	  Tools that enable async work are the most important thing globally remote teams need. A lot of startups will try to tackle this
 	- 🏢 HQ Slashed: Companies of every size cut their commercial office space by 50-70%

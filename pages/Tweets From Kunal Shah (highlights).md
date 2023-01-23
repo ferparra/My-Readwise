@@ -18,3 +18,9 @@ url:: https://twitter.com/kunalb11
 - New highlights added [[Dec 1st, 2022]] at 8:25 PM
 	- Vanity thrives on validation. 
 	  Substance keeps score. ([View Tweet](https://twitter.com/kunalb11/status/1597965055462887424))
+- New highlights added [[Jan 21st, 2023]] at 7:57 PM
+	- This never gets old. 
+	  
+	  How to disagree: 
+	  
+	  ![](https://pbs.twimg.com/media/Fm-ZbrFaAAAdzgH.jpg) ([View Tweet](https://twitter.com/kunalb11/status/1616679498283638784))

@@ -1,3 +1,3 @@
-tags:: [[Agile Development]]
+tags:: [[Agile Development]], [[methodology]]
 
 -

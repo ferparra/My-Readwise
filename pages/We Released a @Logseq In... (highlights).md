@@ -5,7 +5,7 @@ category:: #tweets
 url:: https://twitter.com/snipd_app/status/1484183114096119816
 
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
-	- We released a @logseq integration 🥳🥳🥳
+	- We released a [[@logseq]] integration 🥳🥳🥳
 	  
 	  Export your podcast snips with:
 	  🔹 transcript, summary, snip title & private note
@@ -16,7 +16,7 @@ url:: https://twitter.com/snipd_app/status/1484183114096119816
 	  
 	  ![](https://pbs.twimg.com/media/FJjgrMCVcAoQGAC.jpg) ([View Tweet](https://twitter.com/snipd_app/status/1484183114096119816))
 		- **Note**: Thread
-	- Here you can see what your #podcast snips look like inside @logseq.
+	- Here you can see what your #podcast snips look like inside [[@logseq]].
 	  
 	  Try it out in "Account" --> "Export & sync" --> "LogSeq". https://t.co/ooB5fH1qdd ([View Tweet](https://twitter.com/snipd_app/status/1484183125282344965))
 	- @logseq is a privacy-first, open-source, personal knowledge base that works on local plain-text files such as Markdown & Org-mode files.

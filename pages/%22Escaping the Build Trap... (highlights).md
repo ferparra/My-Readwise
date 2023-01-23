@@ -63,7 +63,7 @@ url:: https://twitter.com/prla/status/1257924685590867974
 	  The fewer features, the better. Reduce product complexity. It's about quality, not quantity. Don't exhaust your users.
 	- Scrum can be helpful but doesn't answer:
 		- **Tags**: #[[favorite]]
-	- Product management and Scrum can work well together, but product management is not dependent on Scrum.
+	- [[Product management]] and [[Scrum]] can work well together, but product management is not dependent on Scrum.
 	- Keep strategy and value execution together.
 	  
 	  Only then can the work happening in the teams be evaluated to make sure it's essential to achieving the strategy.

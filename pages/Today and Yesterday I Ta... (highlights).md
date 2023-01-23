@@ -57,9 +57,9 @@ url:: https://twitter.com/jaysonrobinson/status/1313552039591456770
 	  
 	  In a physical environment, make it portable. Carry it with you to meetings. Invite people to comment on it or ask questions about it with a sticky.
 		- **Tags**: #[[favorite]]
-	- 3. Have a release that impacts the map? Make updating the map part of the acceptance criteria. Or review it before planning sessions. Or show it before sprint planning. Or make it part of onboarding. Or all of the above.
+	- 3. Have a release that impacts the map? Make updating the map part of the [[acceptance criteria]]. Or review it before planning sessions. Or show it before [[sprint planning]]. Or make it part of onboarding. Or all of the above.
 	  
-	  It's harder to forget when it's part of your process.
+	  It's harder to forget when it's part of your [[process]].
 	- Visualising complexity through mapping is an extremely useful skill to have. 
 	  
 	  Like anything though, it's a muscle that needs consistent training. Don't expect to be perfect if you're just starting out.

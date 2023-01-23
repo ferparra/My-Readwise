@@ -11,4 +11,4 @@ url:: https://twitter.com/LaurenRazavi
 	  
 	  Stop saying “hi” then waiting for a reply. Just say whatever it is you actually have to say.
 	  
-	  It’s called async for a reason. ([View Tweet](https://twitter.com/LaurenRazavi/status/1423666027326476289))
+	  It’s called [[async]] for a reason. ([View Tweet](https://twitter.com/LaurenRazavi/status/1423666027326476289))

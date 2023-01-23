@@ -5,9 +5,9 @@ category:: #tweets
 url:: https://twitter.com/PavelASamsonov/status/1507421428446121993
 
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
-	- I see product teams (esp. Scrum) build product when their feedback loop is the same size as their sprint. As a result, they only find out whether they delivered value at the start of the next sprint.
+	- I see product teams (esp. [[Scrum]]) build [[product]] when their [[feedback loop]] is the same size as their [[sprint]]. As a result, they only find out whether they delivered [[value]] at the start of the next sprint.
 	  
-	  And if they didn't, now they're one sprint behind the roadmap. Oops!
+	  And if they didn't, now they're one sprint behind the [[roadmap]]. Oops!
 	  
 	  1/4 
 	  
@@ -26,7 +26,7 @@ url:: https://twitter.com/PavelASamsonov/status/1507421428446121993
 	  
 	  In the 2nd, deadline is a friend. Every cycle gets us closer to "perfect" but we never race towards "done".
 	  https://t.co/H70IpNr6Sd ([View Tweet](https://twitter.com/PavelASamsonov/status/1507422626590953476))
-	- This is especially important when trying to reconcile Scrum ("we ship value every sprint") with the notion that there is no such thing as valuable software, only valuable use of the software - so you can't *know* it's valuable up-front.
+	- This is especially important when trying to reconcile [[Scrum]] ("we ship value every sprint") with the notion that there is no such thing as valuable software, only valuable use of the software - so you can't *know* it's valuable up-front.
 	  https://t.co/HQgy1ScSIM ([View Tweet](https://twitter.com/PavelASamsonov/status/1507425841260675106))
 	- The key distinction between "just do shorter sprints" is that the feedback loops stacked inside one sprint are intended to *iterate on the same thing* until we hit our threshold for the definition of good. We don't move on without confirming that the foundation is sound. ([View Tweet](https://twitter.com/PavelASamsonov/status/1507427543615430671))
 	- This is a departure from the Lean "skateboard" diagram that has confused a generation of PMs. An entire sprint spent on a skateboard that doesn't satisfy customer needs is a really expensive way to learn when you could've found out in the 1st feedback loop

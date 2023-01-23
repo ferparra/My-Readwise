@@ -5,7 +5,7 @@ category:: #tweets
 url:: https://twitter.com/Bsunter
 
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
-	- @logseq Works amazingly well with my gpt3 openai plugin to analyze the captions. 
+	- [[@logseq]] Works amazingly well with my [[gpt3]] openai plugin to analyze the captions. 
 	  
 	  It can make a top 5 points for a 20 minute video, to help you remember it or decide ahead of time if you should watch it. 
 	  
@@ -14,13 +14,13 @@ url:: https://twitter.com/Bsunter
 	  https://t.co/dbZsGzdSga 
 	  
 	  ![](https://pbs.twimg.com/media/FVTuGm_VUAAEUtt.jpg) ([View Tweet](https://twitter.com/Bsunter/status/1537115206412664833))
-	- Great feature from @readwise 
+	- Great feature from [[@readwise]] 
 	  
 	  Highlighting text on any website in mobile Safari and saving it to highlights. 
 	  
 	  I’m using it to save really good HackerNews Comments 😁
 	  
-	  Winds up perfectly organized in my @logseq notes too 🙌 
+	  Winds up perfectly organized in my [[@logseq]] notes too 🙌 
 	  
 	  ![](https://pbs.twimg.com/media/FXFgLLJVUAABsl_.jpg) 
 	  
@@ -80,7 +80,7 @@ url:: https://twitter.com/Bsunter
 	  
 	  ![](https://pbs.twimg.com/media/Fkc6BW1UUAAb3BA.jpg) ([View Tweet](https://twitter.com/Bsunter/status/1605316646897270784))
 - New highlights added [[Dec 31st, 2022]] at 5:35 PM
-	- For a really good directory of public @logseq graphs, 
+	- For a really good directory of public [[@logseq]] graphs, 
 	  
 	  check out the list of repos using the @pengx17 's logseq-publish action. 
 	  

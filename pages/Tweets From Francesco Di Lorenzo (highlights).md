@@ -11,7 +11,7 @@ url:: https://twitter.com/frankdilo
 - New highlights added [[Nov 25th, 2022]] at 9:39 PM
 	- Async @loom meetings are great for quick updates, explanations, etc.
 	  
-	  Benefits: async, can play at 1.5-2x speed, more people might watch than join a meeting, creates documentation that can be searched/referred later.
+	  Benefits: [[async]], can play at 1.5-2x speed, more people might watch than join a meeting, creates documentation that can be searched/referred later.
 	  
 	  We use them extensively at @typefully. ([View Tweet](https://twitter.com/frankdilo/status/1596081279392354306))
 - New highlights added [[Nov 29th, 2022]] at 12:48 AM

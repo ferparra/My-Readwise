@@ -7,7 +7,7 @@ url:: https://twitter.com/Jenyangwong/status/1597311879713390598
 - Highlights first synced by [[Readwise]] [[Nov 29th, 2022]]
 	- My top 5 tools as a PM: Loom, Figma, Notion, Linear and Sourcegraph.
 	  
-	  Today we’re diving into @loom. The best tool for PMs to communicate async with their team and cut down on meeting time.
+	  Today we’re diving into @loom. The best tool for PMs to communicate [[async]] with their team and cut down on meeting time.
 	  
 	  Here’s a breakdown the product and how I use it: ([View Tweet](https://twitter.com/Jenyangwong/status/1597311879713390598))
 		- **Note**: Thread

@@ -5,7 +5,7 @@ category:: #tweets
 url:: https://twitter.com/Bsunter/status/1614022906866176001
 
 - Highlights first synced by [[Readwise]] [[Jan 14th, 2023]]
-	- Really excited to announce a big update for the @logseq @openai #gpt3 plugin!
+	- Really excited to announce a big update for the [[@logseq]] @openai #gpt3 plugin!
 	  
 	  A UI popup that lets you use "prompt templates" or write freeform text as the prompt.
 	  
@@ -16,7 +16,7 @@ url:: https://twitter.com/Bsunter/status/1614022906866176001
 	  
 	  For example, to create flash cards for studying, you could write "create flash cards based on the following text:" https://t.co/BHpr7vVXdE ([View Tweet](https://twitter.com/Bsunter/status/1614022910775275520))
 	- There are also a bunch of built-in prompts for common tasks like summarization, creating outlines, asking follow-up questions, and identifying common objections to an idea. https://t.co/x7nDXG5aBk ([View Tweet](https://twitter.com/Bsunter/status/1614022914332033024))
-	- You can also define custom prompts templates anywhere in your notes, similar to the built-in @logseq templates
+	- You can also define custom prompts templates anywhere in your notes, similar to the built-in [[@logseq]] templates
 	  
 	  Just make a header with a "prompt-template:: Prompt Name" property, and a 
 	  ```prompt 
@@ -32,12 +32,12 @@ url:: https://twitter.com/Bsunter/status/1614022906866176001
 	  You can also click "Replace" to replace the current block with the output. This is useful for improving the tone of existing writing, fixing grammar/spelling, and translation. https://t.co/6jWRi79PfN ([View Tweet](https://twitter.com/Bsunter/status/1614022925333729280))
 	- Do you have a prompt that the community would find useful? Contribute it to the built-in prompts list 
 	  
-	  There's a TOML text file in the repo where you can add them. I encourage you to be creative and I'm especially interested in @logseq - specific prompts
+	  There's a TOML text file in the repo where you can add them. I encourage you to be creative and I'm especially interested in [[@logseq]] - specific prompts
 	  
 	  https://t.co/V0E42fZ3iE 
 	  
 	  ![](https://pbs.twimg.com/media/FmYmiTNagAAiVlG.png) ([View Tweet](https://twitter.com/Bsunter/status/1614022929146335233))
-	- @logseq To get started, search "openai" in the logseq marketplace or update the plugin. Then hit cmd+g or select "gpt" from the block or slash menu.
+	- @logseq To get started, search "openai" in the logseq marketplace or update the plugin. Then hit cmd+g or select "[[gpt]]" from the block or slash menu.
 	  
 	  You can check out the repo here https://t.co/dbZsGzw1ui
 	  

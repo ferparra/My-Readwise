@@ -5,7 +5,7 @@ category:: #tweets
 url:: https://twitter.com/petergyang/status/1546509702476861441
 
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
-	- 90% of decisions can be made async instead of having to schedule a meeting.
+	- 90% of decisions can be made [[async]] instead of having to schedule a meeting.
 	  
 	  If you learn how to do this effectively, your team will love you for it.
 	  
@@ -55,7 +55,7 @@ url:: https://twitter.com/petergyang/status/1546509702476861441
 	- 7/ To recap, here's how you can make better decisions async:
 	  
 	  1.  Identify key people
-	  2.  Set context
+	  2.  Set [[context]]
 	  3.  Use one channel
 	  4.  Number your points
 	  5.  Push for a decision

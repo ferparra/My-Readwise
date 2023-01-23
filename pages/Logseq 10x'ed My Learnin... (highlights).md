@@ -11,7 +11,7 @@ url:: https://twitter.com/rroudt/status/1603375788077686784
 	  
 	  But it’s easy to overcomplicate things.
 	  
-	  Here’s how I use @logseq to manage learning projects and acquire skills, fast ⬇️ ([View Tweet](https://twitter.com/rroudt/status/1603375788077686784))
+	  Here’s how I use [[@logseq]] to manage learning projects and acquire skills, fast ⬇️ ([View Tweet](https://twitter.com/rroudt/status/1603375788077686784))
 		- **Note**: Thread
 	- Why should you even bother planning your learning projects?
 	  
@@ -27,7 +27,7 @@ url:: https://twitter.com/rroudt/status/1603375788077686784
 	  "If you don't know what port you're sailing to, no wind is favorable."
 	  
 	  Pick a worthy goal, find the skill to reach the goal, take the shortest way to master the skill. ([View Tweet](https://twitter.com/rroudt/status/1603375793219850241))
-	- Why use @logseq to manage your learning projects?
+	- Why use [[@logseq]] to manage your learning projects?
 	  
 	  Because it’s easier.
 	  

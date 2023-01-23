@@ -5,7 +5,7 @@ category:: #tweets
 url:: https://twitter.com/neil_killick/status/1351642228028915713
 
 - Highlights first synced by [[Readwise]] [[Nov 18th, 2022]]
-	- Estimation has been officially removed from Scrum (see new Scrum Guide). Good, because people are way too obsessed with it.
+	- [[Estimation]] has been officially removed from [[Scrum]] (see new Scrum Guide). Good, because people are way too obsessed with it.
 	  
 	  Check out this thread for a non-obsessed and effective approach. 1/n
 	- 1. Slice a minimum functional implementation to deliver a useful capability to a customer
@@ -15,7 +15,7 @@ url:: https://twitter.com/neil_killick/status/1351642228028915713
 	  3/n
 	- 4. If you complete the sprint goal early, and no other refactoring is required to maximise quality, you can pull in another story
 	  
-	  Slicing stories this way enables you to count them rather than need an arbitrary abstraction like story points.
+	  Slicing stories this way enables you to count them rather than need an arbitrary abstraction like [[story points]].
 	  4/n
 	- Also, stories which add functionality to the product (and value to customers) is a currency both biz folks and devs alike understand. And will invariably be a more reliable predictor of capacity than SPs (calculate past 6 sprints' Coefficient of Variance for both to confirm).
 	  5/5

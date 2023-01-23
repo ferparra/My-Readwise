@@ -16,3 +16,5 @@ url:: https://twitter.com/natfriedman
 	- Talking to voice assistants right now feels stilted because it's slow, inaccurate, and you can't interrupt. 
 	  
 	  Widely-available high-quality fast ASR and TTS, paired with LLMs, is coming soon and will enable much more natural conversations. https://t.co/8UQP5YRZ5l ([View Tweet](https://twitter.com/natfriedman/status/1566572034372550657))
+- New highlights added [[Jan 21st, 2023]] at 6:58 PM
+	- Perplexity is not even six months old and has shipped more product than most companies do in their entire lives. Their latest is a GPT-based search engine that uses webgpt-like techniques to reduce hallucination and to cite its sources. https://t.co/WNkShDfzXY ([View Tweet](https://twitter.com/natfriedman/status/1616688584655773696))

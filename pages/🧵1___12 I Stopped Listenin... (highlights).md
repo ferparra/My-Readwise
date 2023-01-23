@@ -17,7 +17,7 @@ url:: https://twitter.com/RazvanSurdu/status/1484927046782312448
 	  > The greatest enemy of knowledge is not ignorance. It is the illusion of knowledge - Stephen Hawking
 	  
 	  So I stopped. ([View Tweet](https://twitter.com/RazvanSurdu/status/1484927053128355842))
-	- 4/12 I read books. I built a system, a flow, using great apps like: @readwiseio , @obsdmd and @logseq . I see every day how every nugget of knowledge is contributing to a greater whole. ([View Tweet](https://twitter.com/RazvanSurdu/status/1484927055955333123))
+	- 4/12 I read [[books]]. I built a system, a flow, using great apps like: [[@readwiseio]] , [[@obsdmd]] and [[@logseq]] . I see every day how every nugget of knowledge is contributing to a greater whole. ([View Tweet](https://twitter.com/RazvanSurdu/status/1484927055955333123))
 	- 5/12 I discovered @snipd_app a couple of months ago. Initially, I thought it is just another podcast client app. Boy, I was wrong... ([View Tweet](https://twitter.com/RazvanSurdu/status/1484927058773897218))
 	- 6/12 Once you subscribe to your favorite shows, the app analyses your episodes and breaks them down into chapters. Every chapter has its heading and content transcribed. ([View Tweet](https://twitter.com/RazvanSurdu/status/1484927061516902403))
 	- 7/12 If I have a 60 min episode, I get an overview of the main points discussed and it is up to me to decide what parts I want to listen or not. ([View Tweet](https://twitter.com/RazvanSurdu/status/1484927064381607940))

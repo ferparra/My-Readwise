@@ -5,7 +5,7 @@ category:: #tweets, [[Logseq]]
 url:: https://twitter.com/rroudt/status/1443546446360313859
 
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
-	- I'm setting up @logseq in combination with @obsdmd as a (potential) alternative to Roam.
+	- I'm setting up [[@logseq]] in combination with @obsdmd as a (potential) alternative to Roam.
 	  
 	  Why? Because I want to explore more of the Tools for Thought space—and have a space to journal where there are 100% no prying eyes.
 	  
@@ -16,7 +16,7 @@ url:: https://twitter.com/rroudt/status/1443546446360313859
 	  First off, I'm not replacing @RoamResearch as I do most of my knowledge work in it. My current workflows hardly translate to other tools.
 	  
 	  But, I need a private space to journal and love to write in blocks. ([View Tweet](https://twitter.com/rroudt/status/1443546447513718785))
-	- How to get started combining @logseq and @obsdmd.
+	- How to get started combining [[@logseq]] and @obsdmd.
 	  
 	  The first step is obviously to install both Logseq and Obsidian.
 	  

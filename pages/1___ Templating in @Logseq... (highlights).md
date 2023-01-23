@@ -5,11 +5,11 @@ category:: #tweets. [[Logseq]]
 url:: https://twitter.com/TfTHacker/status/1601246664341082112
 
 - Highlights first synced by [[Readwise]] [[Dec 10th, 2022]]
-	- 1/ Templating in @logseq
+	- 1/ Templating in [[@logseq]]
 	  
 	  I am on day 3 of my deep dive into Logseq. Also, I am using Tana in parallel, inputting the same data, tags, and structure into each tool. (Is anyone curious about my observations? 😏)
 	  
-	  However, today's thread is about Logseq's template feature. #TfT ([View Tweet](https://twitter.com/TfTHacker/status/1601246664341082112))
+	  However, today's thread is about [[Logseq]]'s template feature. #TfT ([View Tweet](https://twitter.com/TfTHacker/status/1601246664341082112))
 		- **Note**: Thread
 	- 2/ This is another important feature, and Logseq has us covered.
 	  

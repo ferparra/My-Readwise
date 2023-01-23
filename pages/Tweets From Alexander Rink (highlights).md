@@ -5,7 +5,7 @@ category:: #tweets
 url:: https://twitter.com/rcvd_io
 
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
-	- Check out the latest #PKM Newsletter by @curtismchale, loaded with information around @logseq, @obsdmd, @RoamResearch, @craftdocsapp and @rem_note, as well as a broad tool-agnostic look into general ideas. Worth your time.
+	- Check out the latest #PKM Newsletter by @curtismchale, loaded with information around [[@logseq]], @obsdmd, @RoamResearch, @craftdocsapp and @rem_note, as well as a broad tool-agnostic look into general ideas. Worth your time.
 	  
 	  https://t.co/68V79usHWc ([View Tweet](https://twitter.com/rcvd_io/status/1490376340448628743))
 	- Almost all creativity requires purposeful play.
