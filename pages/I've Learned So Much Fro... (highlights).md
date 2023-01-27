@@ -31,3 +31,7 @@ url:: https://twitter.com/rileytomasek/status/1603854647575384067
 	  The vectors are then stored in a @pinecone vector database. A user's query is embedded and then used to find similar vectors in the database. ([View Tweet](https://twitter.com/rileytomasek/status/1603854653871034380))
 	- The "Ask" answer uses text-davinci-003 to answer the question given the search results, with instructions not to make stuff up. ([View Tweet](https://twitter.com/rileytomasek/status/1603854656156811264))
 	- And the app is @remix_run hosted on @vercel. ([View Tweet](https://twitter.com/rileytomasek/status/1603867732432281617))
+- New highlights added [[Jan 27th, 2023]] at 3:14 PM
+	- Interested in something similar for your podcast?
+	  My DMs are open. ([View Tweet](https://twitter.com/rileytomasek/status/1604534385164029953))
+	- Who should be next? ([View Tweet](https://twitter.com/rileytomasek/status/1604535948359872512))

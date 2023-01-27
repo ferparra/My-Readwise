@@ -12,3 +12,11 @@ url:: https://twitter.com/arankomatsuzaki
 	  https://t.co/flo7FR8M98 
 	  
 	  ![](https://pbs.twimg.com/media/Ff4LMI-WIAE5XUi.png) ([View Tweet](https://twitter.com/arankomatsuzaki/status/1584716433803870208))
+- New highlights added [[Jan 25th, 2023]] at 5:37 PM
+	- The Semantic Scholar Open Data Platform
+	  
+	  Builds the Semantic Scholar Academic Graph, the largest open scientific literature graph to-date, with 200M+ papers, 80M+ authors, 550M+ paper authorship edges, and 2.4B+ citation edges.
+	  
+	  https://t.co/B9ThxEIHy1 
+	  
+	  ![](https://pbs.twimg.com/media/FnR_MGsX0AIQFM3.jpg) ([View Tweet](https://twitter.com/arankomatsuzaki/status/1618058422947303425))

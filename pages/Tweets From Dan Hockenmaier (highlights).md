@@ -18,3 +18,9 @@ url:: https://twitter.com/danhockenmaier
 	  Hard mode - taking a core differentiator of a real world business, and digitizing it (Airbnb)
 	  
 	  https://t.co/HOCa08QDHl ([View Tweet](https://twitter.com/danhockenmaier/status/1588921846644498432))
+- New highlights added [[Jan 23rd, 2023]] at 4:31 PM
+	- Very little of strategy is setting goals or a lofty vision.
+	  
+	  It is just the arduous, never-ending task of answering the question "what is really going on here"? https://t.co/WIK0oQHoZg 
+	  
+	  ![](https://pbs.twimg.com/media/FnHGEkDaMAAU7Wt.png) ([View Tweet](https://twitter.com/danhockenmaier/status/1617292420483526657))

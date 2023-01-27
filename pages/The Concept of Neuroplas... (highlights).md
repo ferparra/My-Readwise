@@ -5,7 +5,7 @@ category:: #tweets
 url:: https://twitter.com/SahilBloom/status/1616433960300470272
 
 - Highlights first synced by [[Readwise]] [[Jan 21st, 2023]]
-	- The concept of neuroplasticity says that experiences can actually change the structure and function of your brain.
+	- The concept of [[neuroplasticity]] says that experiences can actually change the structure and function of your brain.
 	  
 	  Your actions shape your reality.
 	  

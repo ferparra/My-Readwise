@@ -1,0 +1,11 @@
+title:: Enjoying Aeon? Forgotten Existentialist (highlights)
+author:: [[Deborah Casewell]]
+full-title:: "Enjoying Aeon? Forgotten Existentialist"
+category:: #articles
+url:: https://aeon.co/essays/karl-jaspers-the-forgotten-father-of-existentialism
+
+- Highlights first synced by [[Readwise]] [[Jan 25th, 2023]]
+	- Human mental life is constituted by a division between the subject and the object, and our other antinomical worldviews spring from this original antinomy. Those worldviews and their construction are not neutral, and the task of human existence is to come up to the limits of our worldviews, and be able to confront and choose more authentic possibilities. ([View Highlight](https://read.readwise.io/read/01gqkm5jrs48n4zg7j1fbay7rv))
+	- Often, the psychological analyses are punctuated by discussions of [Kierkegaard](https://aeon.co/essays/happy-birthday-kierkegaard-we-need-you-now) and [Friedrich Nietzsche](https://aeon.co/essays/what-nietzsche-learnt-from-diogenes-the-cynic) – in particular, Kierkegaard’s stress on the choice that each individual must make and commit to. ([View Highlight](https://read.readwise.io/read/01gqkm5z20ryhf5kt6v5hhk5xq))
+	- The importance of this text for his thought is that it introduces one of his most influential ideas – that of boundary or limit situations (‘*Grenzsituationen*’). These are situations in which the subject experiences dread, guilt and anxiety, where we experience a lack of unity and stability: ‘everything is fluid, is in the restless movement of being in question, everything is relative, finite, split into opposites, never whole, absolute, essential,’ as Jaspers put it. Although a negative experience, these situations allow the human consciousness to confront its limits and restrictions, and move beyond them. ([View Highlight](https://read.readwise.io/read/01gqkm70ke9w69q2gmbx91tats))
+	- A worldview is a shell that then insulates us from experiences that challenge our worldview ([View Highlight](https://read.readwise.io/read/01gqkm6wpxm96e9p8hh8b3annw))

@@ -5,7 +5,7 @@ category:: #tweets
 url:: https://twitter.com/linuz90
 
 - Highlights first synced by [[Readwise]] [[Dec 4th, 2022]]
-	- I recommend assigning the macOS default keyboard shortcut for emoji ⌘ ⌃ Space to @raycastapp's emoji picker.
+	- I recommend assigning the macOS default keyboard shortcut for emoji ⌘ ⌃ Space to [[@raycastapp]]'s emoji picker.
 	  
 	  It's 10x better and faster. 
 	  

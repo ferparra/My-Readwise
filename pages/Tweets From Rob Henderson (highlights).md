@@ -137,3 +137,15 @@ url:: https://twitter.com/robkhenderson
 	  ![](https://pbs.twimg.com/media/Fm3jkcRXEAEm_Z_.png) 
 	  
 	  ![](https://pbs.twimg.com/media/Fm3jlWRWYAAoS3T.png) ([View Tweet](https://twitter.com/robkhenderson/status/1616198224796127235))
+- New highlights added [[Jan 24th, 2023]] at 10:45 AM
+	- Will Durant (The Story of Philosophy) outlining Nietzchean morality: 
+	  
+	  ![](https://pbs.twimg.com/media/FnMSL71XwAgBuzv.png) 
+	  
+	  ![](https://pbs.twimg.com/media/FnMSL8EXwAAlT3Q.png) 
+	  
+	  ![](https://pbs.twimg.com/media/FnMSL8XXkAAgkFc.png) 
+	  
+	  ![](https://pbs.twimg.com/media/FnMSL8wWIAA7Hz6.png) ([View Tweet](https://twitter.com/robkhenderson/status/1617656779449716736))
+- New highlights added [[Jan 26th, 2023]] at 3:01 PM
+	- "Good relationships keep us happier, healthier and help us live longer...Economic mobility—people moving to jobs—can break up families and damage relationships. The result might make people wealthier but it probably wouldn’t make them happier." https://t.co/908Kq18Qgk ([View Tweet](https://twitter.com/robkhenderson/status/1618369237260865538))

@@ -50,7 +50,7 @@ url:: https://twitter.com/MishaLaskin/status/1483584738799624197
 	  8/N 
 	  
 	  ![](https://pbs.twimg.com/media/FJbAe5XXwAAcyDm.jpg) ([View Tweet](https://twitter.com/MishaLaskin/status/1483584768000376838))
-	- For BERT, each time we pass in a batch of data for pre-training, we sample a new random mask. This can be done efficiently if the mask is created directly on the GPU. Here's what what mask creation and masked language modeling objective look like. Pretty straightforward!
+	- For BERT, each time we pass in a batch of data for [[pre-training]], we sample a new random mask. This can be done efficiently if the mask is created directly on the GPU. Here's what what mask creation and masked [[language modeling]] objective look like. Pretty straightforward!
 	  
 	  9/N 
 	  

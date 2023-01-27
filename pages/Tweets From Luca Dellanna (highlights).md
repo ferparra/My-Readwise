@@ -11,3 +11,9 @@ url:: https://twitter.com/DellAnnaLuca
 	  
 	  The opportunity is pseudorandom, so good to spread bets.
 	  Your ability instead probably compounds. ([View Tweet](https://twitter.com/DellAnnaLuca/status/1083822493973049344))
+- New highlights added [[Jan 24th, 2023]] at 8:12 AM
+	- "Micromanagement" isn't a complaint against detailed delegation or feedback.
+	  
+	  It's a complaint against bad management. 
+	  
+	  ![](https://pbs.twimg.com/media/FnKpWofakAA6nZU.jpg) ([View Tweet](https://twitter.com/DellAnnaLuca/status/1617541428699365376))

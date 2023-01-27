@@ -267,3 +267,16 @@ url:: https://twitter.com/johncutlefish
 	  Stick to outcomes. Not features. Not output. #prodmgmt #ux 
 	  
 	  ![](https://pbs.twimg.com/media/DTdyLtcVAAAvxF3.jpg) ([View Tweet](https://twitter.com/johncutlefish/status/952355540474068993))
+- New highlights added [[Jan 26th, 2023]] at 10:42 AM
+	- Instead of offering [some way] as an innovate way to a solve for a core need, the #agile community often derides the need as backward. 
+	  
+	  Governance? Planning? Run for the hills!
+	  
+	  I love how [[Beyond Budgeting]] / @bbogsnes acknowledges core needs and presents a viable alternative. 
+	  
+	  ![](https://pbs.twimg.com/media/DiJWrbMVQAAGthS.jpg) ([View Tweet](https://twitter.com/johncutlefish/status/1018471777087832064))
+	- #beyondbudgeting 
+	  
+	  ...striking right at the heart of the issue. Thank you @bbogsnes 
+	  
+	  ![](https://pbs.twimg.com/media/DsELbUGUUAUMP3w.jpg) ([View Tweet](https://twitter.com/johncutlefish/status/1063143696709775360))

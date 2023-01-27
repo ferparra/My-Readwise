@@ -15,3 +15,5 @@ url:: https://twitter.com/ToKTeacher
 	  No human, no source, is an authority on it. 
 	  To claim authority undermines genuinely objective knowledge.
 	  Knowledge is created by correcting errors. ([View Tweet](https://twitter.com/ToKTeacher/status/1616677031147884544))
+- New highlights added [[Jan 23rd, 2023]] at 8:25 PM
+	- A couple of reasons why (in 45 seconds) "The Beginning of Infinity" by @DavidDeutschOxf stands apart from other books and deserves podcasts devoted to it, many blog posts and articles, discussion groups and all the rest of the special attention it gets: https://t.co/V2tbWeECMe ([View Tweet](https://twitter.com/ToKTeacher/status/1617424261483991040))

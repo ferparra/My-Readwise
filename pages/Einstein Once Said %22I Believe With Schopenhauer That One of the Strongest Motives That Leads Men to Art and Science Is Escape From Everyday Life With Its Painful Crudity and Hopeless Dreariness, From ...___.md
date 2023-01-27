@@ -1,0 +1,13 @@
+title:: Einstein Once Said "I Believe With Schopenhauer That One of the Strongest Motives That Leads Men to Art and Science Is Escape From Everyday Life With Its Painful Crudity and Hopeless Dreariness, From ...
+author:: [[u/PolytheneMan]]
+full-title:: "Einstein Once Said "I Believe With Schopenhauer That One of the Strongest Motives That Leads Men to Art and Science Is Escape From Everyday Life With Its Painful Crudity and Hopeless Dreariness, From the Fetters of One's Own Ever Shifting Desires." Where Can I Find Schopenhauer's Discussion of This?"
+category:: #articles
+url:: https://www.reddit.com/r/askphilosophy/comments/ihmrc0/einstein_once_said_i_believe_with_schopenhauer/
+tags:: #[[art]] #[[philosophy]]
+
+- Highlights first synced by [[Readwise]] [[Jan 26th, 2023]]
+	- Man tries to make for himself in the fashion that suits him best a simplified and intelligible picture of the world; he then tries to some extent to substitute this cosmos of his for the world of experience, and thus to overcome it. This is what the painter, the poet, the speculative philosopher, and the natural scientist do, each in his own fashion. ([View Highlight](https://read.readwise.io/read/01gqntndsfk4hnx7d8p0h62a0t))
+	- This is why the man who is tormented by passion, or want, or care, is so suddenly revived, cheered, and restored by a single free glance into nature: the storm of passion, the pressure of desire and fear, and all the miseries of willing are then at once, and in a marvelous manner, calmed and appeased. ([View Highlight](https://read.readwise.io/read/01gqntppawat9m7xjjjymb1e9c))
+	- This freeing of knowledge lifts us as wholly and entirely away from all that, as do sleep and dreams; happiness and unhappiness have disappeared; we are no longer individual; the individual is forgotten; we are only pure subject of knowledge; we are only that one eye of the world which looks out from all knowing creatures, but which can become perfectly free from the service of will in man alone. ([View Highlight](https://read.readwise.io/read/01gqntqeyd840t7pb480m6cv3y))
+	- To get a quick version of Schopenhauerian pessimism and how it is nearly impossible to evade suffering, I would read the essays “On the Suffering of the World” and “On the Vanity of Existence” (~15 pages total) before moving on to Book 3. ([View Highlight](https://read.readwise.io/read/01gqntrmm14fmmetkcr508qaw4))
+		- **Tags**: #[[suffering]]

@@ -253,7 +253,7 @@ url:: https://twitter.com/hubermanlab
 	  "The 3 to 5 Concept" by @DrAndyGalpin as discussed on the Huberman Lab Podcast https://t.co/13icCz1V0h ([View Tweet](https://twitter.com/hubermanlab/status/1553501345084166144))
 	- This @richroll podcast with @PeterAttiaMD as a guest is a must listen. The segment on Zone2 cardio is a gem. From now on I’m thinking Z2 max not V02 max (only). Listen to it; you’ll be smarter & better informed for health and performance by the end. So good! @Stanford https://t.co/JCh814y8k8 ([View Tweet](https://twitter.com/hubermanlab/status/1555095468224327681))
 	- We work harder when the end is in sight. It’s not about the end after all, it’s about narrow visual focus. We can leverage this to experience more motivation at any stage of effort. @EBalcetis of @nyuniversity explains on the Huberman Lab Podcast out now: https://t.co/Ib7KmIIxW6 https://t.co/qcWKxbwqWP ([View Tweet](https://twitter.com/hubermanlab/status/1555569776793047041))
-	- It is not surprising that low serotonin is not associated with depression & yet, SSRIs & other serotonergic agents (including psylocibin) have been shown in clinical trials to relieve depression. Serotonin does many things & has been shown to  be permissive for neuroplasticity. ([View Tweet](https://twitter.com/hubermanlab/status/1556131886681837578))
+	- It is not surprising that low [[serotonin]] is not associated with [[depression]] & yet, SSRIs & other serotonergic agents (including psylocibin) have been shown in clinical trials to relieve depression. [[Serotonin]] does many things & has been shown to  be permissive for [[neuroplasticity]]. ([View Tweet](https://twitter.com/hubermanlab/status/1556131886681837578))
 	- One way to get better at nasal breathing in sleep (which is far healthier than being a mouth breather; apnea is really bad; see Jaws By Ehrlich & Kahn of @StanfordMed) is to restrict yourself to nasal breathing during zone 2 cardio.  (Which we should all be doing 180-200min/wk.) ([View Tweet](https://twitter.com/hubermanlab/status/1556489802492456960))
 	- New Huberman Lab Podcast Out Now:
 	  TOOLS FOR OPTIMIZING SLEEP & SLEEP-WAKE TIMING
@@ -289,7 +289,7 @@ url:: https://twitter.com/hubermanlab
 	  (Clinical) [[hypnosis]]: can help solve specific problems. ([View Tweet](https://twitter.com/hubermanlab/status/1579673837134049280))
 	- It’s OK to get the majority of your Zone 2 cardio quota (180-200min a week) with a long slow jog or hike (weight vested for the fitter folks out there) or swim or ride 1 day/week. I explain a complete schedule for endurance & strength & the rationale here: https://t.co/OZ7JLb3xbW ([View Tweet](https://twitter.com/hubermanlab/status/1582405958197575685))
 	- The @VirtusanApp has a zero cost 10min NSDR (Non-Sleep-Deep-Rest) protocol by @hubermanlab and a lot more including special resources for students. Available for iOS & Android here: https://t.co/xhw7xkbFEg or on YouTube https://t.co/2WZMMT9jEI ([View Tweet](https://twitter.com/hubermanlab/status/1583507568252493824))
-	- Neuroplasticity (neural circuit rewiring) is a 2 phase process: it is initiated by alert, focused (even agitated) states, but consolidated during deep & REM sleep & non-sleep-deep-rest (NSDR). Brain changes require toggling back and forth between these two states. #science ([View Tweet](https://twitter.com/hubermanlab/status/1524391224529985537))
+	- [[Neuroplasticity]] (neural circuit rewiring) is a 2 phase process: it is initiated by alert, focused (even agitated) states, but consolidated during deep & REM sleep & non-sleep-deep-rest (NSDR). Brain changes require toggling back and forth between these two states. #science ([View Tweet](https://twitter.com/hubermanlab/status/1524391224529985537))
 	- The form of meditation you do can depend on whether your perception is dominated by interoception or exteroception at the time you begin the session. Explained in the latest Huberman Lab Podcast “How Meditation Works & Science-Based Effective Meditations” https://t.co/0ZrFt8jFVu ([View Tweet](https://twitter.com/hubermanlab/status/1587409579670790144))
 	- Science-based tools to reduce stress: 
 	  
@@ -334,3 +334,9 @@ url:: https://twitter.com/hubermanlab
 	  1) Sleep well and enough (for you).
 	  
 	  2) If you didn’t sleep well, don’t externalize your thoughts any more than absolutely necessary until after you do. ([View Tweet](https://twitter.com/hubermanlab/status/1602714861888323584))
+- New highlights added [[Jan 23rd, 2023]] at 3:31 PM
+	- Books that transformed my world view & that impact my thinking & behavior daily (Note: this is not an exhaustive list): 
+	  
+	  1) The Secret Pulse of Time (by Stefan Klein) 
+	  2) The Creative Act (by Rick Rubin; @RickRubin)
+	  3) On the Move (by Oliver Sacks) ([View Tweet](https://twitter.com/hubermanlab/status/1617215971110055938))
