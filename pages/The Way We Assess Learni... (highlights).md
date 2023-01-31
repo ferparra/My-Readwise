@@ -106,7 +106,7 @@ url:: https://twitter.com/anafabrega11/status/1461720715053473799
 	  
 	  They couldn’t get by with head knowledge and rote memorization. 
 	  
-	  They’d have to know how to apply themselves to solve complex problems and make real-world decisions. ([View Tweet](https://twitter.com/anafabrega11/status/1461720796565491715))
+	  They’d have to know how to apply themselves to solve [[complex problems]] and make real-world [[decisions]]. ([View Tweet](https://twitter.com/anafabrega11/status/1461720796565491715))
 	- 4. Stronger Institutions
 	  
 	  Crypto credentials would be harder to manipulate. On-chain data is open, unchangeable, and fully auditable.

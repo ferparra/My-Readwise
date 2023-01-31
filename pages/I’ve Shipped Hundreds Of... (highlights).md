@@ -7,11 +7,11 @@ url:: https://twitter.com/PatThePM/status/1590337164008628224
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
 	- I’ve shipped hundreds of features. 
 	  
-	  As a Product Manager, if you want to lead what features your team builds, there's a critical trait you must develop:
+	  As a [[Product Manager]], if you want to lead what features your team builds, there's a critical trait you must develop:
 	  
-	  Influence.
+	  [[Influence]].
 	  
-	  You can influence your leadership by developing a sound product strategy.
+	  You can [[influence]] your [[leadership]] by developing a sound [[product strategy]].
 	  
 	  Here’s how I did it 👇
 	  
@@ -36,7 +36,7 @@ url:: https://twitter.com/PatThePM/status/1590337164008628224
 	  It starts with reviewing:
 	  
 	  1. Existing features
-	  2. Customer research ([View Tweet](https://twitter.com/PatThePM/status/1590337168563736577))
+	  2. [[Customer research]] ([View Tweet](https://twitter.com/PatThePM/status/1590337168563736577))
 	- 2/ Review: Features
 	  
 	  Through a review of customer usage *data*, determine the 5 top performing features of your product - based on how they have influenced your OKRs.

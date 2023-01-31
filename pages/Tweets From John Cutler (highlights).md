@@ -241,14 +241,14 @@ url:: https://twitter.com/johncutlefish
 	  2. Knowledge loss/turnover
 	  3. Decision quality/burnout
 	  4. Lack of customer knowledge
-	  5. Reactive leadership
+	  5. Reactive [[leadership]]
 	  6. Low middle management support
 	  7. UX debt
 	  8. Low code quality
 	  
 	  🤯🤯🤯🤯🤯 
 	  
-	  ![](https://pbs.twimg.com/media/FjgfQDTVIAEraYf.jpg) ([View Tweet](https://twitter.com/johncutlefish/status/1601064674585255936))
+	  ![](https://pbs.twimg.com/media/FjgfQDTVIAEraYf.jpg){:height 430, :width 747} ([View Tweet](https://twitter.com/johncutlefish/status/1601064674585255936))
 - New highlights added [[Jan 5th, 2023]] at 12:34 PM
 	- How much autonomy does “the team” have over the solution? What is their mandate? 
 	  

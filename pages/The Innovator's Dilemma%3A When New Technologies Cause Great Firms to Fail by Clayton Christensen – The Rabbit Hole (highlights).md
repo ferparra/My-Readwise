@@ -14,4 +14,4 @@ url:: https://blas.com/the-innovators-dilemma/
 	- Small markets don’t solve the growth needs of small companies – create small organizations that get excited about small opportunities and small wins
 	- Markets that don’t exist can’t be analyzed
 	- Technology supply may not equal market demand – sometimes “good enough” is competitive and established firms tend to overshoot what the market demands. Moves from functionality to reliability to convenience to price
-	- Not wise to always be a technological leader or a follower – need to take distinctly different postures depending on whether they are addressing a disruptive or sustaining technology. Disruptive technologies have a large first-mover advantage and leadership is important
+	- Not wise to always be a technological leader or a follower – need to take distinctly different postures depending on whether they are addressing a disruptive or sustaining technology. Disruptive technologies have a large first-mover advantage and [[leadership]] is important

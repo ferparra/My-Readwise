@@ -14,3 +14,5 @@ url:: https://twitter.com/PeterAttiaMD
 	- Here’s a sneak peek of my upcoming “Ask Me Anything” episode of The Drive. In this clip, I discuss the three most modifiable risk factors for cardiovascular disease - smoking, blood pressure, and apoB.
 	  
 	  Full episode (ep. #238, AMA #43) coming Monday (1/16) https://t.co/VtmtoiYX4n ([View Tweet](https://twitter.com/PeterAttiaMD/status/1613949013090340892))
+- New highlights added [[Jan 28th, 2023]] at 5:42 PM
+	- In this clip from episode # 235 of The Drive, I highlight the relationship between strength, VO2 max, and longevity. I cannot emphasize this point enough - regular exercise is the most potent longevity “drug” we have. https://t.co/PeAFMcn43m ([View Tweet](https://twitter.com/PeterAttiaMD/status/1619032580111622144))

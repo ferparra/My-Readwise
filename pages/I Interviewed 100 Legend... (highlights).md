@@ -111,7 +111,7 @@ url:: https://twitter.com/RomeenSheth/status/1441199492062191617
 	  How to build a successful business:
 	- Having a billion dollars is great, having a billion seconds is priceless.
 	  
-	  Interesting thought experiment: 
+	  Interesting [[thought experiment]]: 
 	  
 	  If you had the opportunity to switch places with Warren Buffet, would you do it?
 	  

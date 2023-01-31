@@ -86,7 +86,7 @@ url:: https://twitter.com/MrJacobEspi/status/1488165188373123072
 	  What you'll learn:
 	- If you found this valuable, scrolling up to the first post and giving it an RT would mean a lot.
 	  
-	  Also, I write about team culture, leadership, and positive vibes. 
+	  Also, I write about [[team culture]], [[leadership]], and positive vibes. 
 	  
 	  Give me a follow if you'd like to see more of this type of content >> 
 	  @MrJacobEspi ([View Tweet](https://twitter.com/MrJacobEspi/status/1488165296754106370))

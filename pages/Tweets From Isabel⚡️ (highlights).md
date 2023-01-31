@@ -10,7 +10,7 @@ url:: https://twitter.com/isabelunraveled
 	  from @lukeburgis’ book wanting which i now own an audio, digital, and physical copy of. most impactful read for me in a while 
 	  
 	  ![](https://pbs.twimg.com/media/FiipD7hX0AAxz31.jpg) ([View Tweet](https://twitter.com/isabelunraveled/status/1596711961332703234))
-	- being articulate might be the most underrated skill of all time. it's *the* most direct path to influence (aside from inheritance). it's a core competency of all the characteristics that make people trust you, look to you for direction: persuasiveness, charisma, sales, leadership ([View Tweet](https://twitter.com/isabelunraveled/status/1590810718294904832))
+	- being articulate might be the most underrated skill of all time. it's *the* most direct path to [[influence]] (aside from inheritance). it's a core competency of all the characteristics that make people trust you, look to you for direction: [[persuasiveness]], [[charisma]], [[sales]], [[leadership]] ([View Tweet](https://twitter.com/isabelunraveled/status/1590810718294904832))
 	- "Self image is a self-fulfilling prophecy. You will do as you expect yourself to do—this is why stubbornness is such a powerful trait. Sometimes all you need is relentless self belief and a specific aim to get what you want."
 	  https://t.co/0mhDBMpBh6 ([View Tweet](https://twitter.com/isabelunraveled/status/1596597089538277376))
 - New highlights added [[Dec 2nd, 2022]] at 8:21 AM

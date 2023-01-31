@@ -83,11 +83,11 @@ url:: https://twitter.com/george__mack/status/1350513143387189248
 	  
 	  The charismatic one has got there with the aid of their charisma.
 		- **Tags**: #[[favorite]]
-	- Discomfort Razor: 
+	- [[Discomfort]] Razor: 
 	  
-	  • The more uncomfortable the activity, the more likely it will lead to growth. 
+	  • The more uncomfortable the activity, the more likely it will lead to [[growth]]. 
 	  
-	  • The more comfortable the activity, the more likely it will lead to stagnation. 
+	  • The more comfortable the activity, the more likely it will lead to [[stagnation]]. 
 	  
 	  1000 uncomfortable hours > 10,000 comfortable hours
 		- **Tags**: #[[resillience]] #[[favorite]]

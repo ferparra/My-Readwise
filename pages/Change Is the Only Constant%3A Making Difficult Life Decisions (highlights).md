@@ -16,7 +16,7 @@ url:: https://blog.stephsmith.io/change-is-the-only-constant/
 	- Humans deviate from risk like it’ll will kill them, when in reality, the more common “killer” is staying still.
 	- The professional tackles the project that will make him stretch. - Steven Pressfield, The War of Art
 	- “Some departments at NASA, for instance, were overhauling themselves by deliberately instituting organizational routines that encouraged engineers to take more risks. When unmanned rockets exploded on takeoff, department heads would applaud, so that everyone would know their division had tried and failed, but at least they had tried.” - Charles Duhigg, The Power of Habit
-	- effective leadership comes in many forms and often not from those flaunting the title
+	- effective [[leadership]] comes in many forms and often not from those flaunting the title
 	- “It’s no longer about finding a career for the rest of your life, but what could you do for the next few years—and what would you learn.”  - Arianne Cohen
 	- Change is constant, including people and plans. And the further out we look, the more caught up we get in the “what ifs”—most of which would never pan out.
 	- I encourage others to do this through side hustles or projects that allow them to learn, while also working towards some passion of theirs

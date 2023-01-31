@@ -21,7 +21,7 @@ url:: https://twitter.com/GergelyOrosz/status/1585525317585846272
 	  
 	  A great engineering manager who can help make the focus clear, makes people included and protects the team makes a *huge* difference.
 	  
-	  Same goes for product managers. And not to mention up the leadership chain. ([View Tweet](https://twitter.com/GergelyOrosz/status/1585525322526720000))
+	  Same goes for product managers. And not to mention up the [[leadership]] chain. ([View Tweet](https://twitter.com/GergelyOrosz/status/1585525322526720000))
 	- 4. The easiest way to destroy productivity is at the top. Eg the CEO or CTO changes direction, out of the blue. Forcing teams to stop work midway, and start something new, confused...
 	  
 	  What other thoughts do you have?Feel free to share here, or on a reply: https://t.co/BvzVlikX3g ([View Tweet](https://twitter.com/GergelyOrosz/status/1585525323990441986))

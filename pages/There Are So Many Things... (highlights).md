@@ -5,7 +5,7 @@ category:: #tweets
 url:: https://twitter.com/ryanrumsey/status/1331624473997537281
 
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
-	- There are so many things about moving into a management or leadership role that, on paper, are simple when, in reality, are really freaking hard. 
+	- There are so many things about moving into a management or [[leadership]] role that, on paper, are simple when, in reality, are really freaking hard. 
 	  
 	  Here’s a short list of simple things that are really hard to do well. ([View Tweet](https://twitter.com/ryanrumsey/status/1331624473997537281))
 		- **Note**: Thread

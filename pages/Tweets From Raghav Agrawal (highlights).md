@@ -5,7 +5,7 @@ category:: #tweets
 url:: https://twitter.com/impactology
 
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
-	- Complexity Explorables
+	- [[Complexity]] Explorables
 	  
 	  https://t.co/tgA32rIrHL
 	  

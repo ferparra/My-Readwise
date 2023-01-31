@@ -13,7 +13,7 @@ url:: https://blas.com/letters-from-a-stoic/
 	- The greater the mob with which we mingle, the greater the danger
 	- I am content with few, content with one, content with none at all
 	- Material possessions possess us, not the other way around
-	- Body should be treated more rigorously that it may not be disobedient to the mind. Eat merely to relieve hunger, drink merely to quench your thirst, dress merely to keep out the cold; house yourself merely as protection against personal discomfort
+	- [[Body]] should be treated more rigorously that it may not be disobedient to the [[mind]]. Eat merely to relieve hunger, drink merely to quench your thirst, dress merely to keep out the cold; house yourself merely as protection against personal [[discomfort]]
 	- What chance has made yours is not really yours
 	- Imagine somebody you really respect is watching your every move and ordering all your actions as if he beheld them (pair with Napoleon Hill’s mastermind group)
 	- If can enjoy the bare minimum, there is nothing fortune can snatch away. Simply dependent on oneself for happiness

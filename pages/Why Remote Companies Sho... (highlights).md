@@ -23,7 +23,7 @@ url:: https://twitter.com/david_perell/status/1585662926765133825
 	  I like this line from @patrickc 
 	  
 	  ![](https://pbs.twimg.com/media/FgFnUFMWYAAd1Yk.jpg) ([View Tweet](https://twitter.com/david_perell/status/1585662934604255233))
-	- 8. Company-level awareness: At @Levels, every new leadership hire spends the first six weeks writing a long-form strategy document about their area of focus. By doing so, they integrate their own expertise with the company's, and create alignment around their work. ([View Tweet](https://twitter.com/david_perell/status/1585662936017768450))
+	- 8. Company-level awareness: At @Levels, every new [[leadership]] hire spends the first six weeks writing a long-form [[strategy]] document about their [[area of focus]]. By doing so, they integrate their own expertise with the company's, and create alignment around their work. ([View Tweet](https://twitter.com/david_perell/status/1585662936017768450))
 	- 9. Freedom & flexibility: The ability to set your own hours is a major perk of remote work. The more work happens asynchronously, the more people can work at a time that's most convenient for them. But in a meeting heavy culture, you have to work in sync with everybody else. ([View Tweet](https://twitter.com/david_perell/status/1585662937246597120))
 	- 10. Hiring: Companies like Cloudflare and Netflix used their company blogs to attract top-notch technical talent. I think we'll increasingly see companies hire "Writers in Residence" to take internal memos and polish them up for a public audience. 
 	  

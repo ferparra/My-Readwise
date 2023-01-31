@@ -25,10 +25,10 @@ url:: https://twitter.com/GergelyOrosz/status/1440242068102680595
 	  Results are *so* uncomparably bad, and could indicate eng attrition, that on top of the usual (training, talk w vendor etc) they're also exploring moving off JIRA, at least for engineers. ([View Tweet](https://twitter.com/GergelyOrosz/status/1440245519566065673))
 	- This will be a challenge for JIRA.
 	  
-	  They've captured the project management market, but piss off engineering users. And it's becoming risky to do so, especially for modern companies that look at data like this.
+	  They've captured the [[project management]] market, but piss off engineering users. And it's becoming risky to do so, especially for modern companies that look at data like this.
 	  
 	  And JIRA can't afford to get locked out of tech/eng organizations. ([View Tweet](https://twitter.com/GergelyOrosz/status/1440246120563703808))
-	- The article is out on project management approaches after going through data from close to 100 companies. Here's the article, and the section on JIRA: https://t.co/LdEYMQ3Eb1
+	- The article is out on [[project management]] approaches after going through data from close to 100 companies. Here's the article, and the section on JIRA: https://t.co/LdEYMQ3Eb1
 	  
 	  Obviously, this is non-representative, but still, not flattering. 
 	  

@@ -226,11 +226,11 @@ url:: https://twitter.com/batkomichael/status/1172702983265480704
 	  I had begun to understand that business and life have a lot in common with a hug. The best way to get a good one was first to give one.
 	  
 	  Hospitality must be enlightened: we must care for our own staff first. ([View Tweet](https://twitter.com/batkomichael/status/1172715640756457472))
-	- Tribal Leadership
+	- Tribal [[Leadership]]
 	  https://t.co/TIWSmtqHCo
 	  
-	  Tribal Leadership focuses only two things — words people use and types of relationships they form
-	  — language is the first sign of the state of the culture ([View Tweet](https://twitter.com/batkomichael/status/1172715644728401920))
+	  Tribal [[Leadership]] focuses only two things — words people use and types of relationships they form
+	  — language is the first sign of the state of the [[culture]] ([View Tweet](https://twitter.com/batkomichael/status/1172715644728401920))
 		- **Tags**: #[[leadership]] #[[favorite]]
 	- Data Smart
 	  https://t.co/lnW2lRitIH

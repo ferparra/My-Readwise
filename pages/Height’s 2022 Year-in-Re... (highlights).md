@@ -51,7 +51,7 @@ url:: https://twitter.com/height_app/status/1603459310083657728
 	  ![](https://pbs.twimg.com/media/FkCh1XCUoAAd63j.png) ([View Tweet](https://twitter.com/height_app/status/1603459411061506048))
 	- 4 new integrations with some of your favorite tools: @discord, @getsentry, @notionhq, and @figma.
 	  
-	  These integrations elevate your project management experience by centralizing project communication and make hitting your deadlines the rule, rather than the exception. 
+	  These integrations elevate your [[project management]] experience by centralizing project [[communication]] and make hitting your deadlines the rule, rather than the exception. 
 	  
 	  ![](https://pbs.twimg.com/media/FkCh1_qVIAAe-CG.png) ([View Tweet](https://twitter.com/height_app/status/1603459421673123840))
 	- Height’s 2022 Year-In-Review 💫

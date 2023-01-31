@@ -38,10 +38,10 @@ url:: https://twitter.com/JustAnotherPM
 	  owning the success of the feature. ([View Tweet](https://twitter.com/JustAnotherPM/status/1359857330242924548))
 	- Must-follow-list for all product managers
 	  
-	  ‣ Product leadership @shreyas @kennethn @bbalfour @nrmehta
-	  ‣ Everything PM @johncutlefish @cagan @sachinrekhi 
-	  ‣ Growth @lennysan @gibsonbiddle @destraynor
-	  ‣ Break into PM @jackiebo 
-	  ‣ Design and PM @joulee 
+	  ‣ [[Product]] [[leadership]] [[@shreyas]] [[@kennethn]] [[@bbalfour]] [[@nrmehta]]
+	  ‣ Everything PM [[@johncutlefish]] [[@cagan]] [[@sachinrekhi]] 
+	  ‣ Growth [[@lennysan]] [[@gibsonbiddle]] [[@destraynor]]
+	  ‣ Break into PM [[@jackiebo]] 
+	  ‣ Design and PM [[@joulee]] 
 	  
 	  Who would you add? ([View Tweet](https://twitter.com/JustAnotherPM/status/1477658202829299715))

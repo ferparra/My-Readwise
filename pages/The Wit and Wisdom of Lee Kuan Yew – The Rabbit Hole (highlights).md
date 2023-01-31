@@ -5,7 +5,7 @@ category:: #articles
 url:: https://blas.com/the-wit-and-wisdom-of-lky/
 
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
-	- Lee’s pragmatism and unwillingness to be influenced by external pressures characterized his leadership style: “I was never a prisoner of any theory. What guided me were reason and reality. The acid test I applied to every theory or scheme was, would it work?”
+	- Lee’s pragmatism and unwillingness to be influenced by external pressures characterized his [[leadership]] style: “I was never a prisoner of any theory. What guided me were reason and reality. The acid test I applied to every theory or scheme was, would it work?”
 	- Hard-headed industrialists and bankers of developed countries never take unnecessary risks. They look round the world for places where there is political stability and industrial peace before they invest. In Singapore they find such a place. Hence the massive inflow of capital, machinery, technological know-how and banking expertise.
 	- A society to be successful must maintain a balance between nurturing excellence and encouraging the average to improve. There must be both cooperation and competition between people in the same society. The Singapore cooperation and competition have improved standards of life for all.
 	- Singapore has survived and prospered by making ourselves relevant to the world. In the last century, we traded in spices; this century, in tin and rubber. After independence in 1965, we moved into simple manufacturing. Now, we are in wafer fabs, pharmaceuticals and Asian currency units. As the world economy changed, so did we.

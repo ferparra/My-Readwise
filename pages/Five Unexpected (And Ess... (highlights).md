@@ -42,12 +42,12 @@ url:: https://twitter.com/lennysan/status/1318264554753675264
 	  
 	  Without micromanaging and telling everyone exactly what to do, push your team to think deeper and go further.
 		- **Tags**: #[[favorite]]
-	- 5/ 🤝 Build a strong and united leadership group
+	- 5/ 🤝 Build a strong and united [[leadership]] group
 	  
 	  As an IC PM, your team was your cross-functional IC peers (e.g. engineers, designers, DS, researchers, etc). As a manager, your team is now your peer managers (e.g. EM, design manager, DS manager, etc). It’s essential that you...
 		- **Tags**: #[[favorite]]
 	- 5b/ ...work as one unit because your team will be looking to you each of you for a clear direction and confidence. Put just as much, if not more, effort into building a strong relationship with this new team than you did with your IC team. Sit together, ...
 		- **Tags**: #[[favorite]]
-	- 5c/ have a weekly leads meeting, and constantly be checking in with each other on priorities, blockers, and personnel issues. The more cohesive your leadership team, the more cohesive your entire time will be.
+	- 5c/ have a weekly leads meeting, and constantly be checking in with each other on priorities, blockers, and personnel issues. The more cohesive your [[leadership]] team, the more cohesive your entire time will be.
 	- 6/ Much more, including how to get promoted and how to be successful in the job in the full post
 	  https://t.co/mr2hvi0SaI

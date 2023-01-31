@@ -12,7 +12,7 @@ url:: https://amplitude.com/blog/shreyas-doshi-product-lessons
 	  IC to manager transition [00:11:49]
 	  Discussing uncertainty and organizational culture [00:14:10]
 	  Middle management and the “real truth” [00:16:52]
-	  The role of product leadership [00:18:01]
+	  The role of [[product]] [[leadership]] [00:18:01]
 	  Professional identity (and the shift to leadership roles) [00:21:56]
 	  The manager’s role in helping people adopt non-default behaviors [00:25:39]
 	  Mindset, principles, and tactics (and getting stuck on tactics) [00:30:29]

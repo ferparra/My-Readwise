@@ -13,3 +13,9 @@ url:: https://twitter.com/prathyvsh
 	- Made a small visualization of how integration (∑) and differentiation (∆) moves between two different recognizable concepts in finite calculus. Summing up (∑) odd numbers gives you square numbers whose in-between differences (∆) are the odd numbers. 
 	  
 	  ![](https://pbs.twimg.com/media/Fiwjuc8aMAAY9qO.jpg) ([View Tweet](https://twitter.com/prathyvsh/status/1597693380548448257))
+- New highlights added [[Jan 29th, 2023]] at 1:12 PM
+	- This 3D matrix multiplication idea owns from @taliesinb’s talk “Geometry from Computation” from @semf_nexus’ conf: https://t.co/Sv9akYf7Om 
+	  
+	  ![](https://pbs.twimg.com/media/FToD6mqWYAYZUxQ.jpg) 
+	  
+	  ![](https://pbs.twimg.com/media/FToDEkMUsAAPifZ.jpg) ([View Tweet](https://twitter.com/prathyvsh/status/1529539520944906246))

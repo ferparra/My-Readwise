@@ -5,7 +5,7 @@ category:: #articles
 url:: https://podcastnotes.org/tim-ferris-show/marc-randolph-on-the-tim-ferriss-show/
 
 - Highlights first synced by [[Readwise]] [[Jan 18th, 2023]]
-	- Leadership is largely communication driven. To be a great leader, you have to be a great speaker and writer. ([View Highlight](https://read.readwise.io/read/01gq25rwvj4yxcjnbw4810fh3n))
+	- [[Leadership]] is largely [[communication]] driven. To be a great leader, you have to be a great speaker and writer. ([View Highlight](https://read.readwise.io/read/01gq25rwvj4yxcjnbw4810fh3n))
 		- **Tags**: #[[leadership]]
 	- You should always be trying to improve your writing and speaking skills ([View Highlight](https://read.readwise.io/read/01gq25v9hvn6rhgafvnn7s3chf))
 	- If you have an idea, don’t keep it safely tucked away in your head. Instead, get it out into the world and see what happens. ([View Highlight](https://read.readwise.io/read/01gq25w72cs2q9azcppczpdyk9))

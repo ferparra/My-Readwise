@@ -49,7 +49,7 @@ url:: https://twitter.com/NickMilo/status/1384158455250841606
 	- The PKM Planet allows us to see WHERE and think about HOW we are spending our time in the world of knowledge management.
 	  
 	  You can't fix what you don't know is broken. ([View Tweet](https://twitter.com/NickMilo/status/1384157690620833801))
-	- Welcome to the PKM Planet. On this planet, there are six main area/lands/realms where we spend time managing knowledge: Memory, Idea, Writing, Productivity, Skills, and Relationships. 
+	- Welcome to the [[PKM]] Planet. On this planet, there are six main area/lands/realms where we spend time managing knowledge: [[Memory]], [[Idea]], [[Writing]], [[Productivity]], [[Skills]], and [[Relationships]]. 
 	  
 	  ![](https://pbs.twimg.com/media/EzUJFdVVcAcYPtc.jpg) ([View Tweet](https://twitter.com/NickMilo/status/1384157695918313474))
 	- PMM — "Memory Management" — collecting knowledge, using & developing memory

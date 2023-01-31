@@ -15,3 +15,9 @@ url:: https://twitter.com/eigensteve
 	  
 	  This is what got me interested in applied math as an undergrad.  The three body problem in planetary dynamics, the double pendulum, turbulence, and more!
 	  https://t.co/t27TVcHJXS https://t.co/AMc05Qzgxr ([View Tweet](https://twitter.com/eigensteve/status/1609342588452220928))
+- New highlights added [[Jan 29th, 2023]] at 1:12 PM
+	- Excited to drop a new 2-week video series: 
+	  Crash Course in Complex Analysis!!!
+	  
+	  This is a super useful topic that comes up everywhere in mathematical physics, differential equations, and modern scientific computing.  Check it out!
+	  https://t.co/vlTF7XDM4u https://t.co/14fRXD4nhs ([View Tweet](https://twitter.com/eigensteve/status/1619471642417324032))

@@ -47,7 +47,7 @@ url:: https://twitter.com/tobiasrogers/status/1495756452727640071
 	  
 	  If you've got a question, chances are he's answered it already. 
 	  
-	  For starters, here's a thread of some of my favourite @shreyas posts on product leadership: 
+	  For starters, here's a thread of some of my favourite @shreyas posts on [[product]] [[leadership]]: 
 	  
 	  https://t.co/m4VtZfhYe7 ([View Tweet](https://twitter.com/tobiasrogers/status/1495756469320314882))
 	- Join the Product Twitter community

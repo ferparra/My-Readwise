@@ -6,7 +6,7 @@ url:: https://www.getdbt.com/what-is-analytics-engineering/
 
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
 	- Analytics engineers provide clean data sets to end users, modeling data in a way that empowers end users to answer their own questions.
-	- Analytics engineers provide clean data sets to end users, modeling data in a way that empowers end users to answer their own questions. While a data analyst spends their time analyzing data, an analytics engineer spends their time transforming, testing, deploying, and documenting data. Analytics engineers apply software engineering best practices like version control and continuous integration to the analytics code base.
+	- Analytics engineers provide clean data sets to [[end users]], modeling data in a way that empowers end users to answer their own questions. While a [[data analyst]] spends their time analyzing data, an [[analytics engineer]] spends their time transforming, testing, deploying, and documenting data. Analytics engineers apply [[software engineering]] best practices like [[version control]] and [[continuous integration]] to the analytics code base.
 		- **Tags**: #[[favorite]]
 	- Is it possible to build a single table that allows us to answer this entire set of business questions?
 	  What is clearest possible naming convention for tables in our warehouse?

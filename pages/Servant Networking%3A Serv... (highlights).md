@@ -11,9 +11,9 @@ url:: https://twitter.com/andrewcyu/status/1311074126530899968
 	  
 	  https://t.co/dOMCvkgEof https://t.co/SsuwzhZsYm
 		- **Tags**: #[[favorite]]
-	- 1/ When Kobe Bryant was asked for his best advice on leadership, and his answer was simple: serve, don’t lead.
+	- 1/ When Kobe Bryant was asked for his best advice on [[leadership]], and his answer was simple: serve, don’t lead.
 	  
-	  Similarly, we should apply the philosophy of servant leadership to networking: 
+	  Similarly, we should apply the [[philosophy]] of servant [[leadership]] to [[networking]]: 
 	  
 	  Serve, don't network. 
 	  

@@ -31,7 +31,7 @@ url:: https://twitter.com/shreyas/status/1492345140492472321
 	  Early on, “just work hard” is a fine recipe for being more effective as a PM.
 	  
 	  And then..... Scope enters the picture. ([View Tweet](https://twitter.com/shreyas/status/1492345155059257344))
-	- You see, when your scope is small, you can be on top of All The Things: stakeholder comms, customer interactions, deep work on product specs, project management, team meetings, horizontal projects, etc. etc. 
+	- You see, when your scope is small, you can be on top of All The Things: stakeholder comms, customer interactions, deep work on product specs, [[project management]], team meetings, horizontal projects, etc. etc. 
 	  
 	  But as your scope grows, you need to throw your old playbook away. 
 	  

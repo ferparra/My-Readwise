@@ -70,7 +70,7 @@ url:: https://twitter.com/coreyhainesco/status/1399727505913884684
 	- Btw if you haven't read this yet, please do yourself a favor and read it right now.
 	  
 	  https://t.co/GeeUuYsAhD ([View Tweet](https://twitter.com/coreyhainesco/status/1399727472585981956))
-	- 2. Customer research
+	- 2. [[Customer research]]
 	  
 	  What I’ve found is there are two types of companies:
 	  

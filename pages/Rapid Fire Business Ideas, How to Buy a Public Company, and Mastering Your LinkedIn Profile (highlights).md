@@ -1,0 +1,35 @@
+title:: Rapid Fire Business Ideas, How to Buy a Public Company, and Mastering Your LinkedIn Profile (highlights)
+author:: [[My First Million]]
+full-title:: "Rapid Fire Business Ideas, How to Buy a Public Company, and Mastering Your LinkedIn Profile"
+category:: #podcasts
+url:: https://share.snipd.com/episode/0bb39125-1be7-4fb5-8fac-e004d51063e3
+
+- Highlights first synced by [[Readwise]] [[Jan 29th, 2023]]
+	- Simple Businesses to start
+	  
+	  Key takeaways:
+	  (* Starting a business can be a very easy way to make a lot of money., * There are many different types of businesses that can be started., * It is not necessary to be a genius with one idea to be successful in this industry.)
+	  
+	  Transcript:
+	  Speaker 1
+	  Would create an agency that's going to target a really specific part of a business that makes money already and just figure out how to make more of it. So for example, email marketing for e-commerce brands or conversion rate optimization, CRO for companies. So you basically say, Hey, visitors are coming to your site. We can help you convert more of that traffic into sales. And I think there's such an easy play where you basically just create content. So you create content that basically just says like, here's the before and here's the after. Look, I changed these three things because I call this my, you know, my hot cold hot method and we boost a revenue by 32%. By the way, if you want somebody to boost your revenue by 32%, work with me. And I think that this is like a such a bootstrapable easy way to get to 100 K a month in revenue, right? Like you get 10 clients paying you 10 K a month. It is not hard to get 10 customers to pay you 10 K a month when it's a part of their business that's already going to produce like already producing hundreds of thousands of dollars. If not millions of dollars of revenue and you're going to provide, you know, the turnkey service. You take it off. You take the headache off their plate, but you do it better than they're doing it because you get seen as a thought leader by putting out like 10 of these case studies. And this happens all the time with ad agencies, email agencies, conversion rate optimization agencies. But you can do this with anything. You can do this with site speed. You could do this with like any number of things. So I would just go and you could start with started zero and become a quote unquote thought leader expert. Just by publishing like very simple before and after like kind of case studies and you start by not even having a client. You say, Hey, if I was this brand, here's what I would do. Look, when they do this, it sucks. You know, they, this is a dead end for them or, you know, they should steal this good idea from this other company. And so you could put the other case studies without even having clients. And so to me, this is like the easiest, like, if you are willing to work hard and you feel stuck at a job that maybe pays you 100 K a year. You're looking, how do I go from 100 K to 900 K? How do I go from 100 K to, you know, 750 K a year? This is the like all all it takes is hustle approach to that side of the type of business. And then those businesses can be sold. So like your job, you can't be, you can't sell your job. Right? Like if I write a book, I might write that that might be the title. You can't sell your job. Just like my one line case for why you should start a business instead of have a job. And if you get a business like this to 900 K and you know, 60% profit, you could sell that agency or that consulting business for maybe two or three times, you know, even a, and so you can sell that you can make 600 to 800 K a year and then sell it for two or three million, you know, after a couple years. So that's a very easy pathway to financial freedom, easy meeting. It's simple, not, not that it's no effort, but easy that like anybody can do it. And it doesn't take being the genius with the one idea who beats all the competitors in the space.
+	  
+	  Speaker 2
+	  Yeah, I totally agree with that. I think there's a bunch of other examples in my head like just setting up a Facebook pixel and doing it away. That's actually optimized and perfect and following all the Facebook guidelines. I think that's super hard.
+	  
+	  Speaker 1
+	  And I think there should be some guy who's like, I'm the expert at this. Right. And I take care of that for you. I gave a brand of e-commerce, but like you can also do this for just, Hey, every legal practice, every dentist, you need websites, I make websites for dentists. Right. So it doesn't even need to be like, you're the best at doing growth for D to C brands. It could be like, Hey, in Minneapolis, Minnesota, I make the best websites for restaurants in Minneapolis, Minnesota or legal practices, whatever. And just through cold email or some communist, cold email LinkedIn referrals, you can like get 10 customers to pay 10k a month.
+	  
+	  Speaker 2
+	  Yeah, I think you could pick any of these big sectors of the economy, like accounting, law, medicine, dental, senior living, whatever. ([Time 0:19:39](https://share.snipd.com/snip/22972512-6e65-4bb7-819e-dd0b41f68541))
+	- The Power of Imagination
+	  
+	  Key takeaways:
+	  (* People's lives are limited by their imagination., * One way to increase the amount of fun in one's life is to hire someone who is the opposite of oneself, in order to challenge one's assumptions and boundaries.)
+	  
+	  Transcript:
+	  Speaker 2
+	  Yeah, it is stunning that people do that. And it's so interesting when you meet people who do that and like what they choose to do with their time. Like you were telling me about that brain tree guy who's like, I'm trying to maximize my life. I'm trying to reverse my biological age. Yeah. Yeah. And so I changed my diet. I've got like a team of doctors, nutritionists, physical therapists, trainers, and I'm reversing my age. And that's what he's doing with this time and energy and money. It's super interesting to hear when people. Yeah. The thing I've seen. I now have this thought, which is that my life is actually limited by my imagination. And growing up, I always assumed it was limited by money or resources. And now I realize my life is just limited by my imagination. And one of the things that made me do is I'm trying to hire a chief fund officer. My definition of fun is often like, let's work. And let's grind it out. I'm trying to hire somebody who's the exact opposite of me to be like, no, that's lame. Here's like five more fun things you could be doing right now. Go do those instead. And I will literally close my laptop and just go do one of those five things in response to that. That's amazing.
+	  
+	  Speaker 1
+	  Do you that thing you just said that my life is limited by my imagination? I think that's probably like, I don't have any minutes into the podcast. But that's like a golden nugget right there. Like that's something I'm going to think about a lot. Say more about that. Like either how you thought of that or what's an example of that. ([Time 1:19:00](https://share.snipd.com/snip/9e9fca8f-083e-47c4-bafc-6fb9d268248b))

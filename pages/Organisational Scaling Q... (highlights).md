@@ -35,7 +35,7 @@ url:: https://twitter.com/yoz/status/1498395923453386756
 	  OK, so:
 	  Who's done this?
 	  At what org size?
-	  Why did leadership buy in? ([View Tweet](https://twitter.com/yoz/status/1498504852569272328))
+	  Why did [[leadership]] buy in? ([View Tweet](https://twitter.com/yoz/status/1498504852569272328))
 	- Also got many responses talking about tools - and new systems for using them - to help with the problem.
 	  
 	  Unfortunately, with most of these, their effectiveness changes radically as an org grows. It's not just diminishing returns; the total value of the knowledge base drops. ([View Tweet](https://twitter.com/yoz/status/1498513774172532738))

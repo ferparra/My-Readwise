@@ -17,7 +17,7 @@ url:: https://cutle.fish/blog/50-product-lessons
 	- People are rewarded for having a very specific plan and being able to say specifically what they’re going to do.
 	- when you converge later, you realize you’re solving the wrong problem
 	- the people who have the idea are often subject to a lot of confirmation bias and sunk cost bias
-	- When you’re converging at the right time, there is a period of messiness, there is a period that includes a little bit of discomfort.
+	- When you’re converging at the right time, there is a period of messiness, there is a period that includes a little bit of [[discomfort]].
 	- when you are iterating on or offering a product, there tend to be initiatives or missions baked into doing that
 	- In mission-oriented thinking, yes, you want to learn quickly, and you want to quickly figure out how to offer more and more value. But you’re not constrained by this idea and to the factory metaphor of delivery
 	- You often find that the amount of work that’s theoretically in progress is actually dwarfed by all of this planning and decomposing and pitching and discussing.

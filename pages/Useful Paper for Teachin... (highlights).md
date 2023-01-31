@@ -11,7 +11,7 @@ url:: https://twitter.com/emollick/status/1531728708209364992
 	  
 	  ![](https://pbs.twimg.com/media/FUHLJEGWYAofeiE.jpg) ([View Tweet](https://twitter.com/emollick/status/1531728708209364992))
 		- **Note**: Thread
-	- “Instead of avoiding the discomfort inherent to growth, people should seek it as a sign of progress. Growing is often uncomfortable; we find that embracing discomfort can be motivating.” Paper is here: https://t.co/Y1kzaGkOHc 
+	- “Instead of avoiding the [[discomfort]] inherent to [[growth]], people should seek it as a sign of [[progress]]. Growing is often uncomfortable; we find that embracing discomfort can be motivating.” Paper is here: https://t.co/Y1kzaGkOHc 
 	  
 	  ![](https://pbs.twimg.com/media/FUHLJYcWUAAz6eW.jpg) ([View Tweet](https://twitter.com/emollick/status/1531728712722440193))
 	- Another example of why avoiding difficulty hurts learning, this time from an experiment at Harvard. Students learn more when challenged, but students think they think they learn more when they are comfortable… because then they never realize how little they don’t know! https://t.co/gerp9vGcJS ([View Tweet](https://twitter.com/emollick/status/1531808902790139906))

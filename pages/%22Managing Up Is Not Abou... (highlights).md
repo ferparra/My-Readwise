@@ -5,7 +5,7 @@ category:: #tweets
 url:: https://twitter.com/bbalfour/status/1397322953319014401
 
 - Highlights first synced by [[Readwise]] [[Nov 18th, 2022]]
-	- "Managing up is not about influencing leadership to support your projects.  Instead, it is about driving alignment across your/your managers/orgs goals.  Support for you and your projects is what follows."
+	- "Managing up is not about influencing [[leadership]] to support your projects.  Instead, it is about driving alignment across your/your managers/orgs goals.  Support for you and your projects is what follows."
 	  
 	  Full Post -> https://t.co/S7DRMbh23d
 	  

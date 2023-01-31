@@ -25,7 +25,7 @@ url:: https://twitter.com/JulioV/status/1440542521759723546
 	- 6/ LatAm is the global leader in social network penetration and the following and influence of creators. However, through our "Creator Economy Survey" with over 5k creators, we saw that most influencers are still in the early days of monetizing. 
 	  
 	  ![](https://pbs.twimg.com/media/E_3VUoUVgAETOxD.jpg) ([View Tweet](https://twitter.com/JulioV/status/1440542559109926914))
-	- 7/ Representing over 20% of Brazil's GDP, agriculture was a sector we couldn't gloss over. The opportunity is massive, but digitalization is early. Consumers demand sustainability, which has put LatAm on a path to leadership in carbon offsets and plant-based protein 
+	- 7/ Representing over 20% of Brazil's GDP, agriculture was a sector we couldn't gloss over. The opportunity is massive, but digitalization is early. Consumers demand sustainability, which has put LatAm on a path to [[leadership]] in carbon offsets and plant-based protein 
 	  
 	  ![](https://pbs.twimg.com/media/E_3VaP9UcAI9Vg5.jpg) ([View Tweet](https://twitter.com/JulioV/status/1440542564986146821))
 	- 8/ Fintech still draws the lion's share of venture dollars (40% of total) and will likely see a second wave of disruption in the insurance sector and through embedded fintech models throughout the economy 

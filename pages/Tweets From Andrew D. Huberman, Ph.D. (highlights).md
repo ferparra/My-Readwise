@@ -340,3 +340,12 @@ url:: https://twitter.com/hubermanlab
 	  1) The Secret Pulse of Time (by Stefan Klein) 
 	  2) The Creative Act (by Rick Rubin; @RickRubin)
 	  3) On the Move (by Oliver Sacks) ([View Tweet](https://twitter.com/hubermanlab/status/1617215971110055938))
+- New highlights added [[Jan 28th, 2023]] at 3:46 PM
+	- @fproofmastery @foundmyfitness Liquid form fish oil (as opposed to capsules) is the most cost efficient way to ingest supplemental Omega3. ([View Tweet](https://twitter.com/hubermanlab/status/1619108476302802944))
+- New highlights added [[Jan 28th, 2023]] at 4:45 PM
+	- @jerryteixeira Healthy lifestyle is definitely the foundation. Supplements can move the needle a bit beyond that. The next level people often take is clomiphene, or HCG alone and/or low dose TCypionate. Most that do are not going in below 300ng/dL … so the “R” in TRT should be TET. Enhancement ([View Tweet](https://twitter.com/hubermanlab/status/1619122126275108867))
+- New highlights added [[Jan 29th, 2023]] at 8:11 AM
+	- Shift work causes a lot of health issues. As I learned from @SatchinPanda recently, if we are consistently on our phones & computers at night we are, biologically speaking, doing shift work. HLPodcast episode on Tools for Jet lag and Shiftwork. 
+	  https://t.co/OpEWaKPIhm ([View Tweet](https://twitter.com/hubermanlab/status/1619174893417041921))
+- New highlights added [[Jan 31st, 2023]] at 1:40 AM
+	- The science says:

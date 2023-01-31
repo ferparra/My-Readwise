@@ -22,7 +22,7 @@ url:: https://twitter.com/swardley/status/1067396671838011393
 	- Me : Ah, so you’re talking more product innovation or shifting product to utilities (business model innovation). They’re all different things and different methods are required.
 	  X : We need a consistent method.
 	  Me : You can’t have one ...
-	- … even taking something simple such as project management, there is no magic one size fits all method. You need to use multiple across the landscape. Hence any large system will require multiple methods at the same time which is why we break things into components. https://t.co/cCw0CIPGM0
+	- … even taking something simple such as [[project management,]] there is no magic one size fits all method. You need to use multiple across the landscape. Hence any large system will require multiple methods at the same time which is why we break things into components. https://t.co/cCw0CIPGM0
 	- X : That seems complex.
 	  Me : It can be both complex and complicated. At some points also simple, but we’re wandering. This is just the start, wait until you get into team organisation, culture, purchasing methods etc. https://t.co/w2SkUdGDBd
 	- X : I don’t have time for this, I need something now.
@@ -67,5 +67,5 @@ url:: https://twitter.com/swardley/status/1067396671838011393
 	  Me : Because almost everyone else is a mess as well. A few aren't and I'm afraid your competitors of the future won't be as trivial and simple to fight against as the the competitors of the past. Either adapt or get out of the way. Your choice.
 	- X : Are you always this grumpy?
 	  Me : This is my friendly mood. I've always saved the really grumpy face for those who work for me and don't think about context. Situational awareness is not a nice to have in my book.
-	- X : But this is more management than leadership.
+	- X : But this is more management than [[leadership]].
 	  Me : If you don't understand the landscape, if you can't anticipate or communicate or learn or challenge effectively, if you can't organise or work out where to attack or what type of people you need then leadership is irrelevant.

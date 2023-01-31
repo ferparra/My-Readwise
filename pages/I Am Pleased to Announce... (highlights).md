@@ -10,7 +10,7 @@ url:: https://twitter.com/sirbayes/status/1522450755310931968
 	  1/5 ([View Tweet](https://twitter.com/sirbayes/status/1522450755310931968))
 		- **Note**: Thread
 	- There is now one colab per figure, instead of per chapter. This more modular approach makes it easier to incrementally improve the figures. For example, some of them are now interactive, using colab widgets. And figure quality (e.g., fonts, legends) is being slowly improved. ([View Tweet](https://twitter.com/sirbayes/status/1522450756426641410))
-	- Shared code is factored out into a new pip installable repo called probml-utils. We now use continuous integration in the github backend to test all the code.
+	- Shared code is factored out into a new pip installable repo called probml-utils. We now use [[continuous integration]] in the [[github]] backend to test all the code.
 	  The old chapter notebooks and scripts are deprecated.
 	  All pytorch code has now been translated to JAX. ([View Tweet](https://twitter.com/sirbayes/status/1522450757601046528))
 	- As a reader of the online version of the book,

@@ -72,7 +72,7 @@ url:: https://twitter.com/eriktorenberg/status/1476985934260301824
 	  https://t.co/XxPOtzLczP
 	  https://t.co/CozkuMaDFP
 	  https://t.co/oXmK5iVf2x ([View Tweet](https://twitter.com/eriktorenberg/status/1476985955076562945))
-	- On leadership, I enjoyed 1. ”Conscious Leadership” which is something like a mix of 7 Habits of Highly Effective People and Nonviolent Communication: https://t.co/FP5kY9BKck
+	- On [[leadership]], I enjoyed 1. ”Conscious Leadership” which is something like a mix of 7 Habits of Highly Effective People and Nonviolent Communication: https://t.co/FP5kY9BKck
 	  
 	  And 2. The Great CEO Within: https://t.co/MzpY4EY9bp ([View Tweet](https://twitter.com/eriktorenberg/status/1476985956766916609))
 	- Joan Didion passed away a few days ago, so it’s fitting to end with her tragic memoir about her husband and daughter, as well as this speech she wrote when she was 13 (!) h/t @KTmBoyle 

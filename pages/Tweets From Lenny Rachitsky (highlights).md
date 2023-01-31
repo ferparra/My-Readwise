@@ -95,16 +95,16 @@ url:: https://twitter.com/lennysan
 	  
 	  My all-time most popular posts and podcasts, categorized and organized:
 	  
-	  1. Building product
+	  1. Building [[product]]
 	  2. GTM
-	  3. Growth strategy
+	  3. [[Growth]] strategy
 	  4. Benchmarks
-	  5. PMF
-	  6. Career
-	  7. Hiring
-	  8. Startups and leadership
-	  9. Pricing
-	  10. Sales
+	  5. [[PMF]]
+	  6. [[Career]]
+	  7. [[Hiring]]
+	  8. Startups and [[leadership]]
+	  9. [[Pricing]]
+	  10. [[Sales]]
 	  
 	  Link below. 
 	  

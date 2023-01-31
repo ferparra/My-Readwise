@@ -17,7 +17,7 @@ url:: https://twitter.com/christinexzhu/status/1366121096400015363
 	  In 2004, when 77% of Amazon’s revenue was physical media products, it started to think about building a digital media business, something it knew nothing about. ([View Tweet](https://twitter.com/christinexzhu/status/1366121097368903684))
 	- 3/6 Stay flexible on the details, but innovation needs to be well staffed.
 	  
-	  The demand of core business tend to soak up bandwidth with leaders. Amazon’s single-threaded leadership gave them focus to devote time & attention to make a new business successful. ([View Tweet](https://twitter.com/christinexzhu/status/1366121098174210048))
+	  The demand of core business tend to soak up bandwidth with leaders. Amazon’s single-threaded [[leadership]] gave them focus to devote time & attention to make a new business successful. ([View Tweet](https://twitter.com/christinexzhu/status/1366121098174210048))
 		- **Tags**: #[[culture]] #[[favorite]]
 	- 4/6 Build by working backwards.
 	  

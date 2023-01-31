@@ -7,7 +7,7 @@ url:: https://twitter.com/5harath/status/1310966730659893249
 - Highlights first synced by [[Readwise]] [[Nov 18th, 2022]]
 	- 1/ Why you should follow @pm_suzie
 	  
-	  With over 10yrs of experience as a business analyst, PM designing and delivering software that is valuable, usable, feasible, and desirable, Suzie is the Head of Product at @Bitbucket She often tweets about customer research, product processes.
+	  With over 10yrs of experience as a [[business analyst]], PM designing and delivering software that is [[valuable]], [[usable]], [[feasible]], and [[desirable]], Suzie is the Head of Product at @Bitbucket She often tweets about [[customer research]], [[product]] processes.
 	- 2/ Why you should follow @camassey
 	  
 	  Chris is an editor, community leader and Product Manager at @mindtheproduct who comes from a background in technical editing, community building, product marketing. He often tweets about all things product, marketing, research and discovery.

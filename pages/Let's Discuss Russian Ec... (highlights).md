@@ -22,7 +22,7 @@ url:: https://twitter.com/kamilkazani/status/1501360272442896388
 	- Ofc government pressures producers to be self-reliant and independent upon import. However, import-substitution (импортзамещение) is 95% PR. Producers and mid-ranked officials pretend to do "import-substitution" because Putin tells so. For this fake work they get real awards 
 	  
 	  ![](https://pbs.twimg.com/media/FNXskZ4XIAU4hAc.jpg) ([View Tweet](https://twitter.com/kamilkazani/status/1501366206430953494))
-	- Consider Svetlana Orlova, governor of Vladimir. In 2017 she presented new tractor designed and produced by a local factory under her wise leadership. A CEO wouldn't shut up about how much she inspired them all and guided to this great accomplishment in import substitution 
+	- Consider Svetlana Orlova, governor of Vladimir. In 2017 she presented new tractor designed and produced by a local factory under her wise [[leadership]]. A CEO wouldn't shut up about how much she inspired them all and guided to this great accomplishment in import substitution 
 	  
 	  ![](https://pbs.twimg.com/media/FNXsyuAXEAMRIR7.jpg) ([View Tweet](https://twitter.com/kamilkazani/status/1501367060798099457))
 	- "Our governor can guide, can inspire, can command. Several of our main branches of production are organised by her direct orders. One of her last commands is to make our own tractor. It is a huge work of scientists, engineers technicians for the last two years" said CEO Lebedev 

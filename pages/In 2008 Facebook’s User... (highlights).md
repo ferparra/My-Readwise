@@ -20,4 +20,4 @@ url:: https://twitter.com/drose_999/status/1312215292609662977
 	- Growth marketing focused on tons of small improvements and viral loops that compounded over time to bring more people on the service, which also made the product better for existing users who were now able to connect with more friends and family (=definition of network effect).
 		- **Tags**: #[[favorite]]
 	- The core product team focused on new features + load time, informed by a combination of intuition and data. We shipped fast and frequently, and the product steadily improved. Real-time Feed, Messenger, Timeline, Games Platform, etc.
-	- By mid-2009, user growth was back on track and revenue growth was also re-accelerating. We ended that year with more than 150M users and $750M revenue. We had a stable leadership team that stayed largely in tact for 10 years (many are still there). And we didn’t look back.
+	- By mid-2009, user growth was back on track and revenue growth was also re-accelerating. We ended that year with more than 150M users and $750M revenue. We had a stable [[leadership]] team that stayed largely in tact for 10 years (many are still there). And we didn’t look back.

@@ -4,10 +4,10 @@ full-title:: "Using Play to Rewire & Improve Your Brain"
 category:: #podcasts
 
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
-	- Play is Contingency Testing in a Low Stakes Environment
+	- [[Play]] is [[Contingency Testing]] in a Low Stakes Environment
 	  
 	  Summary:
-	  Play is contingency testing under conditions where the stakes are sufficiently low that individuals should feel comfortable assuming different roles. Play allows children, and adults for that matter, to explore different outcomes in a kind of low stakes environment. If you win, you might feel really good about it, but you're not really incredible. You are just incredible in that particular situation for that particular moment. It doesn't really transform the rest of your life unless that game is of a particular type, for sport, for instance. We'll talk about sport later.
+	  [[Play]] is contingency testing under conditions where the stakes are sufficiently low that individuals should feel comfortable assuming different roles. Play allows children, and adults for that matter, to explore different outcomes in a kind of low stakes environment. If you win, you might feel really good about it, but you're not really incredible. You are just incredible in that particular situation for that particular moment. It doesn't really transform the rest of your life unless that game is of a particular type, for sport, for instance. We'll talk about sport later.
 	  
 	  Transcript:
 	  Speaker 1

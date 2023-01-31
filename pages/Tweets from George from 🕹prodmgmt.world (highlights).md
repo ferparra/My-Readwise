@@ -62,3 +62,7 @@ url:: https://twitter.com/nurijanian
 	  (Source: John Cutler) 
 	  
 	  ![](https://pbs.twimg.com/media/FkmcT9ZWAAA9X8-.png) ([View Tweet](https://twitter.com/nurijanian/status/1605986613347090432))
+- New highlights added [[Jan 27th, 2023]] at 7:33 PM
+	- JTBD Stack for Starting a SaaS (@shavin47) 
+	  
+	  ![](https://pbs.twimg.com/media/FnY-IVhXgAMs_oN.jpg) ([View Tweet](https://twitter.com/nurijanian/status/1618549432647139330))

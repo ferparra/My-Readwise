@@ -20,7 +20,7 @@ url:: https://twitter.com/Jenyangwong/status/1597311879713390598
 	  
 	  Slack, Notion, Linear, Medium, etc. are all integrated with Loom for videos to be embedded.
 	  
-	  Ofc it also integrates w every PMs fave project management tool, Jira. ([View Tweet](https://twitter.com/Jenyangwong/status/1597311895043657729))
+	  Ofc it also integrates w every PMs fave [[project management]] tool, [[Jira]]. ([View Tweet](https://twitter.com/Jenyangwong/status/1597311895043657729))
 	- 3/ The product - pricing
 	  
 	  The best part. If you’re recording videos <5 mins, it’s free (even if you’re part of a team).

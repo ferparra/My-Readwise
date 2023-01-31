@@ -20,7 +20,7 @@ url:: https://twitter.com/SalomonCrypto/status/1576284739392090112
 	  
 	  The city is approached from all sides by 4 division of the Byzantine army. Each division has a general with unitary control over their division. 
 	  
-	  ![](https://pbs.twimg.com/media/FeAWn8HUcAALHBu.jpg) ([View Tweet](https://twitter.com/SalomonCrypto/status/1576284749932285953))
+	  ![](https://pbs.twimg.com/media/FeAWn8HUcAALHBu.jpg){:height 340, :width 702} ([View Tweet](https://twitter.com/SalomonCrypto/status/1576284749932285953))
 	- (4/21) The city is well defended; it will require the entire Byzantine army to capture it. If a single division (or a subset) attack, they will surely be defeated.
 	  
 	  After the generals arrive and make camp for the night, they must make a choice: tomorrow, will I fight or retreat? ([View Tweet](https://twitter.com/SalomonCrypto/status/1576284753204236288))

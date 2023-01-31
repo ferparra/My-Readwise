@@ -5,7 +5,7 @@ category:: #tweets
 url:: https://twitter.com/gibsonbiddle
 
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
-	- What I learned on Substack: have a plan but try lots of stuff. Find intersection of your passion & what's relevant to many. Outcome-based roadmaps, CV/resume tips, & "career: what I learned & how" = success. Essay on how outdoor leadership applies to product leadership = fail. ([View Tweet](https://twitter.com/gibsonbiddle/status/1387886725742010370))
+	- What I learned on Substack: have a plan but try lots of stuff. Find intersection of your [[passion]] & what's relevant to many. Outcome-based roadmaps, CV/resume tips, & "career: what I learned & how" = success. Essay on how outdoor [[leadership]] applies to product leadership = fail. ([View Tweet](https://twitter.com/gibsonbiddle/status/1387886725742010370))
 		- **Tags**: #[[favorite]]
 	- 1) After a few years of writing and talking about products, my focus always returns to three things: 
 	  1. Consumer Science

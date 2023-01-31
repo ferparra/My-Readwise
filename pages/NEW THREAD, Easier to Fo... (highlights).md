@@ -63,7 +63,7 @@ url:: https://twitter.com/_log_scale_/status/1423675144120066048
 	  11/25 ([View Tweet](https://twitter.com/_log_scale_/status/1423675155063050240))
 	- Gensler said that an exchange that listed 5 coins might be OK, but one that listed 25 coins would very likely have a problem.
 	  
-	  In other words, >99.9% of coins would be disallowed because they have a leadership team and did not register with the SEC when they raised funds.
+	  In other words, >99.9% of coins would be disallowed because they have a [[leadership]] team and did not register with the SEC when they raised funds.
 	  
 	  12/25 ([View Tweet](https://twitter.com/_log_scale_/status/1423675156463976451))
 	- The take-home message is that the SEC likes bitcoin, and that as an organic store of value it is not subject to SEC regulation.

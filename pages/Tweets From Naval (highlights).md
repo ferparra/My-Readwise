@@ -37,3 +37,5 @@ url:: https://twitter.com/naval
 	  
 	  Individuals are leaving institutions. ([View Tweet](https://twitter.com/naval/status/1345564424770240513))
 	- Eat like a lion, work like a lion, feel like a lion, live like a lion. ([View Tweet](https://twitter.com/naval/status/1500608982469079042))
+- New highlights added [[Jan 31st, 2023]] at 12:23 PM
+	- It takes time to develop your gut, but once it’s developed, don’t listen to anything else. ([View Tweet](https://twitter.com/naval/status/1619901860693053440))

@@ -18,4 +18,4 @@ url:: https://blas.com/an-elegant-puzzle/
 	- Work the policy, not the exceptions – consistency is a precondition of fairness so cultures which allow frequent exceptions are not only susceptible to bias, but also inefficient
 	- Collect every escalation as a test case for reconsidering your constraints. This approach is powerful because it creates a release valve for folks who are frustrated with edge cases in your current policies
 	- Velocity – when folks want you to commit to more work than you believe you can deliver; your goal is to provide a compelling explanation for how your team finishes work.
-	- Leadership is matching appropriate action to your current context
+	- [[Leadership]] is matching appropriate [[action]] to your current [[context]]

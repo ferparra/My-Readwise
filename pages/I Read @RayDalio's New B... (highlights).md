@@ -267,9 +267,9 @@ url:: https://twitter.com/wolf_vukovic/status/1540378141612421121
 	  and what doesn’t 
 	  (centralization + suppression) ([View Tweet](https://twitter.com/wolf_vukovic/status/1540378233304018945))
 	- @RayDalio @nfergus @peterfrankopan @nntaleb 33/
-	  The main problem when you use history and macro theory to make inferences/predictions about the future is that both are falsifiable
+	  The main problem when you use [[history]] and [[macro]] theory to make [[inferences]]/[[predictions]] about the future is that both are falsifiable
 	  
-	  You cannot prove many causal relationships in macro or in history. ([View Tweet](https://twitter.com/wolf_vukovic/status/1540378235870908416))
+	  You cannot prove many [[causal relationships]] in [[macro]] or in [[history]]. ([View Tweet](https://twitter.com/wolf_vukovic/status/1540378235870908416))
 	- @RayDalio @nfergus @peterfrankopan @nntaleb 34/
 	  You can use natural experiments in history to make causal inferences about specific situations
 	  

@@ -16,7 +16,7 @@ url:: https://twitter.com/corymuscara/status/1594717233334427656
 	  ![](https://pbs.twimg.com/media/FiGS4M-WIAAkxEe.jpg) ([View Tweet](https://twitter.com/corymuscara/status/1594717240540004352))
 	- 1. Finding your true self is an act of love. Expressing it is an act of rebellion.
 	  
-	  2. A sign of growth is having more tolerance for discomfort. But it’s also having less tolerance for bullshit.
+	  2. A sign of [[growth]] is having more tolerance for [[discomfort]]. But it’s also having less tolerance for bullshit.
 	  
 	  3. Who you are is not your fault, but it is your responsibility. ([View Tweet](https://twitter.com/corymuscara/status/1594717243614568448))
 	- 4. Procrastination is the refusal or inability to be with difficult emotions.

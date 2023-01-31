@@ -47,3 +47,9 @@ url:: https://twitter.com/algekalipso
 	  Open Individualism + Valence Realism (+ good theories of consciousness)
 	  
 	  https://t.co/IqObyX1wFZ ([View Tweet](https://twitter.com/algekalipso/status/1613990565431111680))
+- New highlights added [[Jan 30th, 2023]] at 1:49 PM
+	- You have to be able to prove the existence of the nine-point circle if you want to join the "math of DMT" research group.
+	  
+	  (I don't make the rules here - this is just following a tradition that dates back to the time of Plato for this kinda thing) 
+	  
+	  ![](https://pbs.twimg.com/media/FnrOsGQaQAAlL8S.jpg) ([View Tweet](https://twitter.com/algekalipso/status/1619835145338621952))

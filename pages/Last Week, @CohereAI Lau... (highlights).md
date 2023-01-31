@@ -12,7 +12,7 @@ url:: https://twitter.com/aidangomezzz/status/1590774853400809472
 		- **Note**: Thread
 	- Whether you’re an expert or beginner—we want anyone to be able to build LLM-powered apps on top of Cohere.
 	  
-	  These are just the first set of projects that we're release, many more to come thanks to leadership from @egrefen 2/8 ([View Tweet](https://twitter.com/aidangomezzz/status/1590774856597082125))
+	  These are just the first set of projects that we're release, many more to come thanks to [[leadership]] from @egrefen 2/8 ([View Tweet](https://twitter.com/aidangomezzz/status/1590774856597082125))
 	- Conversant 🗣 by @eddotman + team: A framework for building conversational agents on top of Cohere, with a hands-on demo on how to use generative language models in conversational settings.
 	  
 	  Repo: https://t.co/cveaCFbPKV 

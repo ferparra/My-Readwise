@@ -14,4 +14,4 @@ url:: https://blas.com/understanding-michael-porter/
 	- Making trade-offs means accepting limits—saying no to some customers, for example, so that you can better serve others. Trade-offs arise when choices are incompatible. Because a successful strategy will attract imitators, choices that are difficult to copy are essential.
 	- Good strategies depend on the connection among many things, on making interdependent choices.
 	- Continuity over time – if your company can achieve this, it has a robust, stable core but is also able to innovate and adapt
-	- Focus refers to the breadth or narrowness of the customers and needs a company serves. Differentiation allows a company to command a premium price. Cost leadership allows it to compete by offering a low relative price.
+	- [[Focus]] refers to the breadth or narrowness of the customers and needs a company serves. [[Differentiation]] allows a company to command a premium price. Cost [[leadership]] allows it to compete by offering a low relative price.

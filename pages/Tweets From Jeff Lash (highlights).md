@@ -328,7 +328,7 @@ url:: https://twitter.com/jefflash
 	  
 	  Product managers often complain they have "all the responsibility, none of the authority." 
 	  
-	  Real leadership doesn't comes from an org chart but from  behavior. Act like a leader & model desired behavior to get others to follow.
+	  Real [[leadership]] doesn't comes from an org chart but from  behavior. Act like a leader & model desired behavior to get others to follow.
 	  
 	  #prodmgmt 
 	  

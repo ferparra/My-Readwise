@@ -52,3 +52,9 @@ url:: https://twitter.com/patriciamou_
 	  *  tho I def question this 😆 
 	  
 	  ![](https://pbs.twimg.com/media/Fk73aU8acAAPif-.jpg) ([View Tweet](https://twitter.com/patriciamou_/status/1607495138087170049))
+- New highlights added [[Jan 29th, 2023]] at 1:12 PM
+	- I believe there's only two ways of obtaining deep & eternal happiness: 
+	  
+	  your own self-expression via art, music, writing, creation & building (the universe expressing itself through you) 
+	  
+	  helping others self-express (the universe helping itself/the universe unfold & actualize) ([View Tweet](https://twitter.com/patriciamou_/status/1619406996855459840))

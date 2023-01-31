@@ -54,9 +54,9 @@ url:: https://twitter.com/prla/status/1257924685590867974
 	  
 	  If you change your strategy yearly or monthly, without good reason from data or the market, you are treating your strategy as a plan rather than as a framework.
 		- **Tags**: #[[favorite]]
-	- Product management is not project management.
+	- [[Product management]] is not [[project management]].
 	  
-	  Products are vehicles of value. They deliver value repeatedly to customers and users without requiring the company to build something new every time.
+	  [[Products]] are vehicles of [[value]]. They deliver [[value]] repeatedly to [[customers]] and [[users]] without requiring the company to build something new every time.
 		- **Tags**: #[[favorite]]
 	- Proactively kill bad ideas.
 	  
@@ -72,7 +72,7 @@ url:: https://twitter.com/prla/status/1257924685590867974
 	  
 	  Appropriately constrained teams can see how their stories align to the goals of the org.
 		- **Tags**: #[[favorite]]
-	- Lack of leadership alignment is by far the biggest issue standing in the way of successful product management.
+	- Lack of [[leadership]] alignment is by far the biggest issue standing in the way of successful [[product management]].
 	  
 	  When strategy is communicated well in an organization, product development and management are synchronized.
 		- **Tags**: #[[leadership]] #[[product management]] #[[favorite]]
