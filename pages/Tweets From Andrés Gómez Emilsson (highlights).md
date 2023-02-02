@@ -53,3 +53,7 @@ url:: https://twitter.com/algekalipso
 	  (I don't make the rules here - this is just following a tradition that dates back to the time of Plato for this kinda thing) 
 	  
 	  ![](https://pbs.twimg.com/media/FnrOsGQaQAAlL8S.jpg) ([View Tweet](https://twitter.com/algekalipso/status/1619835145338621952))
+- New highlights added [[Feb 1st, 2023]] at 3:19 PM
+	- Resonance alone does not solve the binding (boundary) problem for the simple reason that resonance alone does not generate objective, frame-invariant, and caudally significant *boundaries*.
+	  
+	  But it *is* a piece of the puzzle, as it enables holistic behavior. ([View Tweet](https://twitter.com/algekalipso/status/1620611576771534849))

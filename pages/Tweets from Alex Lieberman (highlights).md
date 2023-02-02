@@ -11,3 +11,11 @@ New highlights added [[Jan 26th, 2023]] at 11:42 AM
 	  It gets your ass off Twitter. 
 	  
 	  It's a no-regret activity. https://t.co/U1R8LssFkB ([View Tweet](https://twitter.com/businessbarista/status/1619888455638740992))
+- New highlights added [[Feb 1st, 2023]] at 1:16 PM
+	- Product-market fit is wrong.
+	  
+	  You don’t want to think of a product then find a market. Blind ideas lead to reckless excitement and clouded thinking.
+	  
+	  Market-product fit is right.
+	  
+	  Observe actual behaviors and trends in-market and then brainstorm a product based on what you find. ([View Tweet](https://twitter.com/businessbarista/status/1620563145873035264))

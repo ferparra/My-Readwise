@@ -20,3 +20,7 @@ url:: https://twitter.com/foundmyfitness
 	  Untrained participants who lowered weights had similar gains to those who lifted & lowered weights - but they performed half the repetitions. ([View Tweet](https://twitter.com/foundmyfitness/status/1604947646925266944))
 - New highlights added [[Jan 28th, 2023]] at 3:46 PM
 	- @L_h_wander Microalgae oil is the best plant-based option. An omega-3 index of 8% is the target - that means approximately 2 grams per day for most people. ([View Tweet](https://twitter.com/foundmyfitness/status/1592995292919783424))
+- New highlights added [[Feb 2nd, 2023]] at 9:12 AM
+	- High-intensity exercise increases lactate - which is transported into the brain and increases serotonin.
+	  
+	  High-intensity exercise increased serotonin, which correlated with improved inhibitory control - the ability to selectively focus and suppress attention to other stimuli. ([View Tweet](https://twitter.com/foundmyfitness/status/1620884413092618240))
