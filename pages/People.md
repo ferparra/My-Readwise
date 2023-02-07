@@ -60,7 +60,7 @@
   related-to:: [[@naval on Twitter]], [[nav.al]], [[@QuotesNaval on Twitter]]
   collapsed:: true
 	- Explain what is career capital from Naval Ravikant's point of view
-		- "Career capital" is a term used by Naval Ravikant to describe the investments you make in yourself that will pay off in the future in the form of better career opportunities and higher earnings potential. These investments can include things like #education, #skills development, #networking, and building a positive #reputation.
+		- "[[Career capital]]" is a term used by [[Naval Ravikant]] to describe the [[investments]] you make in yourself that will pay off in the future in the form of better career [[opportunities]] and higher [[earnings]] potential. These investments can include things like #education, #skills development, #networking, and building a positive #reputation.
 	- Bullet points of ways one can build career capital from Naval Ravikant's point of view #status/to-verify
 		- Work on your network
 		- Get a mentor

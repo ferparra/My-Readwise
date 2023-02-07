@@ -1,0 +1,26 @@
+title:: The Best Time Is Now | 9 Peak Performance Tips From Top Performers (highlights)
+author:: [[The Daily Stoic]]
+full-title:: "The Best Time Is Now | 9 Peak Performance Tips From Top Performers"
+category:: #podcasts
+url:: https://share.snipd.com/episode/20305eea-a9ab-4989-882c-97a1ec7eb99f
+
+- Highlights first synced by [[Readwise]] [[Feb 4th, 2023]]
+	- How to Cultivate Confidence
+	  
+	  Key takeaways:
+	  (* One can cultivate a confident mind by being selective about the memories they bring into their life, and by telling themselves stories that reflect this confidence., * It is important to be careful about the stories that we tell ourselves, as they can have a significant impact on our confidence.)
+	  
+	  Transcript:
+	  Speaker 2
+	  How does one go about cultivating this confident mind that you're talking about? Three ways you can think about it. I've got to start looking for memories from my past of quality effort, little tiny successes here and there and some indicators of progress. I've got to start being somewhat more selective about how I think about my past, both long-term and short-term in terms of yesterday. And maybe I need to be very selective in terms of how I think about basically the last hour of my life. When I was in physical geography class just now, what did I do right in that class? I want to take that memory with me into the future. You mentioned Eli Manning in the fourth quarter. Let's go back to the 2012 Super Bowl and there he is, three minutes to go on the clock. They're down by five points. They got a score touchdown. And so Manning takes a snap in the fourth quarter, throws this beautiful 40-yard rainbow right into his receiver's hands despite the fact that that receiver was covered pretty darn well. That play of the game set up the Giants' winning touchdown. Two days later, Manning is on a nationally syndicated radio show. Commentator says, do you ever think about the ramifications of failure at moments like that? And very politely, Eli Manning says, no, that's exactly what you don't do. You think about all the times you got it right. That's the feeling that you keep. He was pretty good at doing that. The first real class of activities in terms of cultivating confidence is to be very selective about bringing in constructive memories from your past. The second class of activities is being really careful about the stories that you tell yourself about yourself in the present. What are the underlying stories that you tell yourself? Oh, I'm good at this. Oh, I'm not good at that. Oh, I hate doing this. Oh, I love doing that. Understand, ladies and gentlemen, every one of those expressions is basically a belief about yourself. The kid who says, oh, I'm not good at math. Okay. ([Time 0:09:04](https://share.snipd.com/snip/5b1edbb1-53bc-4432-bee5-f1d278f37f17))
+	- The Enemy of Perfection: How to Have Great Moments
+	  
+	  Key takeaways:
+	  (* Perfection is the enemy of good., * It is important to have a long view and trust the process., * It is important to decouple who you are from what you do.)
+	  
+	  Transcript:
+	  Speaker 4
+	  I had the mantra one season that good is the enemy of great. Like everything I do, every day I have to be great. I have to be worthy of that next moment. When really my new one is perfection is the enemy of good. When you try too hard to have that moment every single day, you actually rob yourself of that kind of synchronicity that happens when it does all come together. And when you have been like toiling and working and just focusing on that process and also adapting to what's happening in the world, which might be yeah, having a few weeks where you feel off for me. I was just sick and had to take an extra week off the bike. Those things happen and it's not going to be perfect. But oftentimes in my career when I really analyze what's happened in those kind of like big amazing moments, there will often be a few things that I look back on like 2018 when I won the World Championship, I actually hurt my knee in June and I took two weeks off. At that moment of winning Worlds, I said, man, I'm so glad I hurt myself. I had this break. I ended the season so energized. But in the moment, it felt like my career was other. Having that kind of long view and trusting that process is so much easier said than done. But it is really kind of the crux of making those moments possible.
+	  
+	  Speaker 6
+	  It's highly talented people were talented at a young age that had some proclivity at a young age. This is I'm talking more about the sport world and business. And as a young age, what most people do is that they're supposed to form their identity. But if the identity is almost infused with the thing that you do, then your identity is mapped to your outcomes. Sure. You have this below conscious surface that I am what I do. And I think a big part of my work in high performing environments is to help people. This is like decouple who you are from what you do. And it's so intertwined. That's why the fight flight freeze mechanisms are on full tilt for people prior to walking on stage or prior to getting on the mound. Those true brain mechanisms that are responsible for survival are on point when there's nothing of real threat, physical threat. ([Time 0:15:48](https://share.snipd.com/snip/7193db24-54b9-4e22-9c88-21636eba5ec9))

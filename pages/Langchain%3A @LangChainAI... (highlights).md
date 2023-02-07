@@ -5,17 +5,17 @@ category:: #tweets
 url:: https://twitter.com/mathemagic1an/status/1595128726270144512
 
 - Highlights first synced by [[Readwise]] [[Nov 24th, 2022]]
-	- Langchain: @LangChainAI  (https://t.co/YKgFgNfTfm)
+	- Langchain: [[@LangChainAI]]  (https://t.co/YKgFgNfTfm)
 	  
-	  A pythonic interface to building more complex programs with LLMs 
+	  A pythonic interface to building more complex programs with [[LLMs]] 
 	  
 	  Very bullish on the potential here!
 	  
-	  If you have more complex business logic for your LLM app and want to host your own backend, this is the play. https://t.co/nCVKYci9ZM ([View Tweet](https://twitter.com/mathemagic1an/status/1595128726270144512))
+	  If you have more complex [[business logic]] for your LLM app and want to host your own [[backend]], this is the play. https://t.co/nCVKYci9ZM ([View Tweet](https://twitter.com/mathemagic1an/status/1595128726270144512))
 		- **Note**: Thread
 	- 2/ 
 	  
-	  @LangChainAI  is a python package with a convenient API for weaving LLMs into working programs
+	  [[@LangChainAI]]  is a [[python]] package with a convenient [[API]] for weaving [[LLMs]] into working programs
 	  
 	  For instance: code below builds a python docstring generator 
 	  
@@ -57,14 +57,14 @@ url:: https://twitter.com/mathemagic1an/status/1595128726270144512
 	  https://t.co/WGblqsiBQy ([View Tweet](https://twitter.com/mathemagic1an/status/1595128743483572224))
 	- 8/ 
 	  
-	  Overall, @LangChainAI 's approach - building a batteries-included python package - is the other half of the puzzle to what @dust4ai and @everyprompt provide.
+	  Overall, [[@LangChainAI]] 's approach - building a batteries-included python package - is the other half of the puzzle to what @dust4ai and @everyprompt provide.
 	  
-	  Others are oriented around the UI, @LangChainAI is oriented around the programming tools you already use ([View Tweet](https://twitter.com/mathemagic1an/status/1595128745136095232))
+	  Others are oriented around the UI, [[@LangChainAI]] is oriented around the programming tools you already use ([View Tweet](https://twitter.com/mathemagic1an/status/1595128745136095232))
 	- 9/
 	  
-	  Obvious area for @LangChainAI to expand into - pairing this with a web UI. 
+	  Obvious area for [[@LangChainAI]] to expand into - pairing this with a web UI. 
 	  
 	  It should:
 	- 10/
 	  
-	  Highly recommend checking out this project and excited for what @hwchase17 and the @LangChainAI team put out next 🚀🚀🚀 ([View Tweet](https://twitter.com/mathemagic1an/status/1595128747703033858))
+	  Highly recommend checking out this project and excited for what @hwchase17 and the [[@LangChainAI]] team put out next 🚀🚀🚀 ([View Tweet](https://twitter.com/mathemagic1an/status/1595128747703033858))

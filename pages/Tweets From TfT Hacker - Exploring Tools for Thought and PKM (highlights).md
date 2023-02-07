@@ -41,3 +41,7 @@ url:: https://twitter.com/TfTHacker
 	  
 	  #TfT
 	  https://t.co/tcRHitOpgr ([View Tweet](https://twitter.com/TfTHacker/status/1600092150351290370))
+- New highlights added [[Feb 3rd, 2023]] at 11:29 AM
+	- An amazing feature of @ReadwiseReader is that it can be navigated almost completely by the keyboard. It sounds unimportant, but it is, it keeps your eyes focused on reading while you navigate through an article, to other articles, etc. #TfT 
+	  
+	  Give it a try https://t.co/vVjoJW9yRr https://t.co/BJIP7zTK66 ([View Tweet](https://twitter.com/TfTHacker/status/1621252897479577603))

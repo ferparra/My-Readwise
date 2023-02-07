@@ -1,0 +1,15 @@
+title:: Embracing the Cold —  Dr. Susanna Søberg on the Benefits of Cold Therapy (highlights)
+author:: [[WHOOP Podcast]]
+full-title:: "Embracing the Cold —  Dr. Susanna Søberg on the Benefits of Cold Therapy"
+category:: #podcasts
+url:: https://share.snipd.com/episode/4d5ceee7-4f95-4431-8ccc-519a1e92181d
+
+- Highlights first synced by [[Readwise]] [[Feb 4th, 2023]]
+	- The Effect of Cold Exposure on Brown Fat Activation and Glucose Metabolism
+	  
+	  Key takeaways:
+	  (* Minutes of cold exposure per week increased brown fat activation and insulin sensitivity in healthy subjects., * Brown fat is a temperature levulator in our body, so the heat might as well be activating our metabolism.)
+	  
+	  Transcript:
+	  Speaker 1
+	  So, and this was kind of like not what I actually were looking for but I wanted to figure out when I did. Yeah, no, but it was like I did want to find some kind of like a method or something because I was not a winter swimmer when I started. So I wanted to do a study where I kind of like looked at the lowest threshold but finding the good benefits. Amazing. So, and so no one else had done a study where they have looked at activation of the brown fat with cold water. They have looked at cold air. They have looked at how the effect is with wearing a cooling vest or sleeping in a cold room and stuff like that. But never had there been any studies with the cold water which is a very much more potent activator of our immune system and of our metabolism and everything. So, it was kind of like a new thing going into to that research. So what I wanted to do was to look comparing two groups, one that is already adapted to cold and the other one who has never taken an ice bath or winter swimming at all. But the groups on the other hand just were really like equal or very matched on age and gender and also on fitness level. And they were. So, what we found in the study was actually that because I monitored how much they went into swimming and how much they actually also went into the sauna because I wanted them to do the Nordic way of doing this cold exposure which was also with the heat. And I had this kind of feeling that the brown fat is not only an activator of the cold, it is a temperature levulator in our body. So the heat might as well be activating our metabolism. So, I didn't want to rule that out. So they did both and we saw that 11 minutes of cold exposure, we saw that 11 minutes of cold water immersion per week, not in one time but divided on two to three days actually activated our brown fat and also increased our insulin sensitivity in these healthy subjects that we look into. We also saw that they had a fast glucose metabolism when we gave them sugar drink, we saw that they faster got rid of the sugar in the bloodstream. They also were just warmer. We saw that the brown fat activation was increased but also they were ([Time 0:40:55](https://share.snipd.com/snip/79329321-2b90-4bb9-8750-e44098db8c22))

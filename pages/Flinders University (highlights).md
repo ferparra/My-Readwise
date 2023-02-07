@@ -5,7 +5,7 @@ category:: #articles
 url:: https://oasis.flinders.edu.au/what-can-you-learn-from-the-stoics-about-dealing-with-setbacks/
 
 - Highlights first synced by [[Readwise]] [[Nov 18th, 2022]]
-	- Well a philosophy of life consists of two things:
+	- Well a [[philosophy of life]] consists of two things:
 	  
 	  a goal – what in life is of greatest value?
 	  a set of strategies to get there – how do I achieve that thing of value?

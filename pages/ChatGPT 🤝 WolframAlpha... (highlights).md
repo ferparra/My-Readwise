@@ -5,7 +5,7 @@ category:: #tweets
 url:: https://twitter.com/hwchase17/status/1613190606591000576
 
 - Highlights first synced by [[Readwise]] [[Jan 19th, 2023]]
-	- ChatGPT 🤝 WolframAlpha
+	- [[ChatGPT]] 🤝 [[WolframAlpha]]
 	  
 	  Give #ChatGPT a Wolfram|Alpha neural implant (as @stephen_wolfram put it) with @LangChainAI
 	  

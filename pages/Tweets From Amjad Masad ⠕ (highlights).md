@@ -15,3 +15,7 @@ url:: https://twitter.com/amasad
 	  ![](https://pbs.twimg.com/media/Fi1jJQrVQAALlXH.jpg) ([View Tweet](https://twitter.com/amasad/status/1598042665375105024))
 - New highlights added [[Dec 24th, 2022]] at 1:45 PM
 	- Ghostwriter Chat! Talk with AI to generate code, debug, follow up & iterate—right in your editor. Who wants early access? https://t.co/3dbPlzn9N0 ([View Tweet](https://twitter.com/amasad/status/1606139822837338112))
+- New highlights added [[Feb 4th, 2023]] at 1:22 PM
+	- Carmack’s description of AGI is super reasonable and seems doable. 
+	  
+	  ![](https://pbs.twimg.com/media/FoCyvF5WQAEvNnS.jpg) ([View Tweet](https://twitter.com/amasad/status/1621492395861737473))

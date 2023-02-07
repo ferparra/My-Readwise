@@ -15,4 +15,4 @@ url:: https://podcastnotes.org/tim-ferris-show/steven-pressfield-on-the-artists-
 		- **Tags**: #[[fear]]
 	- Be patient and loving with yourself ([View Highlight](https://read.readwise.io/read/01gq28hg9fsxdqyw9863gnsvb8))
 		- **Tags**: #[[self-compassion]]
-	- **“You’re on a journey whether you realize it or not; we all are. There’s no way not to be. And things will reveal themselves as they go, but don’t beat yourself up too much”** ***Steven Pressfield*** ([View Highlight](https://read.readwise.io/read/01gq28j28mw0ngfhkavakdcmw6))
+	- **“You’re on a journey whether you realize it or not; we all are. There’s no way not to be. And things will reveal themselves as they go, but don’t beat yourself up too much”** [[Steven Pressfield]] ([View Highlight](https://read.readwise.io/read/01gq28j28mw0ngfhkavakdcmw6))

@@ -13,7 +13,7 @@ url:: https://twitter.com/cdixon
 	  ![](https://pbs.twimg.com/media/FBS--uRVgAUmx1G.jpg) 
 	  
 	  ![](https://pbs.twimg.com/media/FBS--uQVgAACx9i.jpg) ([View Tweet](https://twitter.com/cdixon/status/1446991369025646592))
-	- Hierarchy of disagreement by @paulg 
+	- Hierarchy of disagreement by [[@paulg]] 
 	  
 	  ![](https://pbs.twimg.com/media/FCj9rw3VUAkLhMV.jpg) ([View Tweet](https://twitter.com/cdixon/status/1452689811781787648))
 	- The typical path of how people respond to life-changing inventions 

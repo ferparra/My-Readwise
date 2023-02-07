@@ -9,7 +9,7 @@ url:: https://twitter.com/mohakagr/status/1443454595758395393
 	  
 	  I'll explore 3 things:
 		- **Note**: Thread
-	- (2/n) In a nutshell, the upgrade aims to facilitate scalability and interoperability with @Cosmos. The major impact will be to increase the widespread adoption of $UST and the development of an efficient and interoperable ecosystem. ([View Tweet](https://twitter.com/mohakagr/status/1443454596878200832))
+	- (2/n) In a nutshell, the upgrade aims to facilitate scalability and [[interoperability]] with @Cosmos. The major impact will be to increase the widespread adoption of $UST and the development of an efficient and interoperable ecosystem. ([View Tweet](https://twitter.com/mohakagr/status/1443454596878200832))
 	- (3/n) The upgrade has many changes, out of which four are the most significant: 
 	  
 	  1. Burning LUNA seigniorage 

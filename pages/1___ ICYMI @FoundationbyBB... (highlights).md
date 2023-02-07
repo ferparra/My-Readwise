@@ -10,7 +10,7 @@ url:: https://twitter.com/joelconnolly/status/1445606243352006669
 	  A 🧵 ([View Tweet](https://twitter.com/joelconnolly/status/1445606243352006669))
 		- **Note**: Thread
 	- 2/ The program is three months long. There are three stages to it. In Stage 1, we set goals, design a Build in Public strategy, and get to know each other. This part is all about setting the tone, establishing a framework, and building trust. ([View Tweet](https://twitter.com/joelconnolly/status/1445606245642108933))
-	- 3/ In Stage 2, we are focusing on inspiration and ambition raising. Each week, we get together and interview an inspirational creative who has successfully made a career of their passions. ([View Tweet](https://twitter.com/joelconnolly/status/1445606247558836225))
+	- 3/ In Stage 2, we are focusing on [[inspiration]] and [[ambition]] raising. Each week, we get together and interview an inspirational creative who has successfully made a career of their passions. ([View Tweet](https://twitter.com/joelconnolly/status/1445606247558836225))
 	- 4/ In Stage 3, we prepare for our demo day. I'm building this program as we go and, full disclosure, I don't yet know what the demo day will look like 🥸 ([View Tweet](https://twitter.com/joelconnolly/status/1445606249421152260))
 	- 5/ Most weeks see us catching up for a zoom call and "building in public". Each week, we share parts of our journey on the internet. We share those posts with the group, hoping that everyone will jump in, like, share, comment etc. ([View Tweet](https://twitter.com/joelconnolly/status/1445606251358871559))
 	- 6/ I'm running everything from Notion, and here is what our Homebase looks like. We have the front page with an index and a list of our passion projects. 

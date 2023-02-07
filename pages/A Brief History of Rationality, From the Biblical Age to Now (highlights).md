@@ -13,5 +13,5 @@ tags:: #[[faith]]
 		- **Tags**: #[[prompt]]
 	- Perhaps faith, too, is a child of rationality, in its own way. ([View Highlight](https://read.readwise.io/read/01gq4sesvdca9ahv3ck0s2n0d4))
 	- With the emergence of Aristotelianism, along with Neoplanatism (*for a good time, try saying this after a couple of shots*), particularly through the rediscovery of Greek thought through Muslim thinkers, Jewish philosophy all of a sudden had a lot to contend with ([View Highlight](https://read.readwise.io/read/01gq4sgpv0sbpm4gynxz193c47))
-	- he modern era brings us Spinoza, the excommunicated Portuguese Jewish polymath and thinker, who had a hand in launching all of Western philosophy hurtling towards what we have today. ([View Highlight](https://read.readwise.io/read/01gq4shrfhh74backqkqhk8reb))
+	- he modern era brings us [[Spinoza]], the excommunicated Portuguese Jewish polymath and thinker, who had a hand in launching all of Western philosophy hurtling towards what we have today. ([View Highlight](https://read.readwise.io/read/01gq4shrfhh74backqkqhk8reb))
 	- We are all products of all of these debates, all of these controversies and exercises in thought. ([View Highlight](https://read.readwise.io/read/01gq4sj7qw2pvpbycagw8wm4x2))

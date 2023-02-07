@@ -20,11 +20,11 @@ url:: https://twitter.com/spignal/status/1400735418618986496
 		- **Note**: Thread
 	- Europe's fall from the top tier of global business has been spectacular. 
 	  
-	  We call it "The Land that Ambition Forgot".
+	  We call it "The Land that [[Ambition]] Forgot".
 	  
 	  Remember the era of Nokia, Ericsson, BP, Vodafone? All were among the world's top 10 companies.
 	  
-	  Look at profits, sales, etc - on every metric Europe has faded 
+	  Look at profits, sales, etc - on every metric [[Europe]] has faded 
 	  
 	  ![](https://pbs.twimg.com/media/E3BhCqoXwAMFVrh.png) ([View Tweet](https://twitter.com/spignal/status/1400735316739248129))
 	- Now Europe's biggest firm (currently LVMH) barely scrapes into the top 20 most valuable firms in the world. Apple by itself is worth roughly as much as ALL the firms in the German DAX30 index or the CAC40 in France.

@@ -5,7 +5,7 @@ category:: #tweets
 url:: https://twitter.com/lennysan/status/1318264554753675264
 
 - Highlights first synced by [[Readwise]] [[Nov 18th, 2022]]
-	- Five unexpected (and essential) jobs of a manager of PMs:
+	- Five unexpected (and essential) jobs of a manager of [[PMs]]:
 	  
 	  ✋ Stop stupid sh*t from happening
 	  🪓 Unblock, unblock, unblock
@@ -17,7 +17,7 @@ url:: https://twitter.com/lennysan/status/1318264554753675264
 		- **Tags**: #[[leadership]] #[[product management]] #[[favorite]]
 	- 1/ ✋ Stop stupid stupid sh*t from happening
 	  
-	  You are now in a higher echelon of influence and visibility. As such, your team (and the company) are relying on you to have an active hand in shaping what gets done. Use this newfound power! ...
+	  You are now in a higher echelon of [[influence]] and visibility. As such, your team (and the company) are relying on you to have an active hand in shaping what gets done. Use this newfound power! ...
 	- 1b/ When you see stupid sh*t happening, within your team or anywhere in the company, push back and ask direct questions. 
 	  
 	  You’ll be surprised by how much impact your opinion now has.
@@ -30,15 +30,15 @@ url:: https://twitter.com/lennysan/status/1318264554753675264
 		- **Tags**: #[[favorite]]
 	- 3/ 🏆 Preserve (and improve) the PM team quality bar
 	  
-	  At larger companies, you’ll now be included in the performance review and calibration process. This means you’ll have a hand in determining what great performance looks like at every level. The default path is to...
+	  At larger companies, you’ll now be included in the [[performance review]] and calibration process. This means you’ll have a hand in determining what great [[performance]] looks like at every level. The default path is to...
 		- **Tags**: #[[product management]] #[[favorite]]
 	- 3b/ make everyone feel good by letting OK work slide. The more courageous path is to push everyone around you to keep that bar as high as possible. 
 	  
 	  Rage against the dying of the light.
 	- 4/ 🧐 Preserve (and improve) the product quality bar
 	  
-	  Your teammates will now be coming to you for design reviews, strategy feedback, goal setting, etc. The natural tendency will be to make everyone happy by going with the flow — letting good enough work through...
-	- 4b/ Don’t let this happen. You are now the torch-bearer for the quality, ambition, and innovation that happens within your team, (and adjacent teams). 
+	  Your teammates will now be coming to you for [[design reviews]], [[strategy]] feedback, [[goal setting]], etc. The natural tendency will be to make everyone happy by going with the flow — letting good enough work through...
+	- 4b/ Don’t let this happen. You are now the torch-bearer for the quality, [[ambition]], and innovation that happens within your team, (and adjacent teams). 
 	  
 	  Without micromanaging and telling everyone exactly what to do, push your team to think deeper and go further.
 		- **Tags**: #[[favorite]]

@@ -149,3 +149,6 @@ url:: https://twitter.com/robkhenderson
 	  ![](https://pbs.twimg.com/media/FnMSL8wWIAA7Hz6.png) ([View Tweet](https://twitter.com/robkhenderson/status/1617656779449716736))
 - New highlights added [[Jan 26th, 2023]] at 3:01 PM
 	- "Good relationships keep us happier, healthier and help us live longer...Economic mobility—people moving to jobs—can break up families and damage relationships. The result might make people wealthier but it probably wouldn’t make them happier." https://t.co/908Kq18Qgk ([View Tweet](https://twitter.com/robkhenderson/status/1618369237260865538))
+- New highlights added [[Feb 5th, 2023]] at 7:56 PM
+	- "I have never understood why it is greed to want to keep the money you have earned but not greed to want to take somebody else's money."
+	  —Thomas Sowell ([View Tweet](https://twitter.com/robkhenderson/status/1621966961709137920))

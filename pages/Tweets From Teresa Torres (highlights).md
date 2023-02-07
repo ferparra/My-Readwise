@@ -54,3 +54,11 @@ url:: https://twitter.com/ttorres
 	  #prodmgmt #ux #engineering 
 	  
 	  ![](https://pbs.twimg.com/media/FmIVpoUXEBcaHnh.jpg) ([View Tweet](https://twitter.com/ttorres/status/1612875424752668689))
+- New highlights added [[Feb 5th, 2023]] at 3:53 PM
+	- Worthy Read: Coaching – Decisions by Marty Cagan (@cagan)
+	  
+	  https://t.co/cx1vfkAH64
+	  
+	  #prodmgmt #ux #engineering 
+	  
+	  ![](https://pbs.twimg.com/media/FoKbdC4XoAE9dnU.jpg) ([View Tweet](https://twitter.com/ttorres/status/1622029742256918528))

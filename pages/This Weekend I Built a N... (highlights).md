@@ -5,11 +5,11 @@ category:: #tweets
 url:: https://twitter.com/hwchase17/status/1592547529568444416
 
 - Highlights first synced by [[Readwise]] [[Jan 8th, 2023]]
-	- This weekend I built a Notion QA Bot: ask questions of your @NotionHQ database and receive an accurate, conversational response back
+	- This weekend I built a Notion QA Bot: ask questions of your [[@NotionHQ]] database and receive an accurate, conversational response back
 	  
 	  Much more user friendly than the traditional search experience (see thread)
 	  
-	  Built with @LangChainAI, open sourced here: https://t.co/J8slxDOnWZ https://t.co/5NzR6hTHtQ ([View Tweet](https://twitter.com/hwchase17/status/1592547529568444416))
+	  Built with [[@LangChainAI]], open sourced here: https://t.co/J8slxDOnWZ https://t.co/5NzR6hTHtQ ([View Tweet](https://twitter.com/hwchase17/status/1592547529568444416))
 		- **Note**: Thread
 	- One example where the search experience was better was with the "work from home policy" question. If you search this in Notion the regular way you get "No results", but it is in fact there 
 	  

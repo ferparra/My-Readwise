@@ -9,8 +9,8 @@ url:: https://www.datamesh-architecture.com/
 	- To discover, access, and use the data product, it is described with metadata, including
 	                            ownership and contact information, data location and access, update frequency,
 	                            and a specification of the data model.
-	- Policies on interoperability are the starting point.
-	                            They allow other domain teams to use data products in a consistent way.
+	- Policies on [[interoperability]] are the starting point.
+	                            They allow other [[domain teams]] to use [[data]] products in a consistent way.
 	- Global policies such as privacy and compliance are also common. Think about protection of personally identifiable information (PII) or industry-specific legal requirements.
 	- Events are small, immutable, and highly domain oriented, such as OrderPurchased or ShipmentDelivered.
 	                            Entities represent business objects such as shipments or articles with their state changing over time.

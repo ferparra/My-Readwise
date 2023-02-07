@@ -13,7 +13,7 @@ url:: https://twitter.com/brunowinck/status/1592130794419810305
 		- **Note**: Thread
 	- Markdown introduced the ability to add formatting with any text editor. Before that, it was either proprietary rich editors (ala Word, Evernote) with limited interoperability or HTML, which is overkilled in most cases. 
 	  
-	  A gain of interoperability but risk of using a non-standard ([View Tweet](https://twitter.com/brunowinck/status/1592130796617625601))
+	  A gain of [[interoperability]] but risk of using a non-standard ([View Tweet](https://twitter.com/brunowinck/status/1592130796617625601))
 	- Wikilinks, introduced in the https://t.co/w91zzNQyjO , 20 years ago are now common. The idea is that all pages have a name, possibly invented, and referring to them in the text using double brackets makes a link automagically ([View Tweet](https://twitter.com/brunowinck/status/1592130799813681155))
 	- Backlinks, first demonstrated in Roam, can be implemented as a search (as it was in https://t.co/w91zzNQyjO) or by maintaining backlinks. 
 	  
@@ -127,9 +127,9 @@ url:: https://twitter.com/brunowinck/status/1592130794419810305
 	  PKM is not an island. You will want to save Twitter threads, save kindle highlights, save emails but also to publish pages, send mailing from your PKM system etc. 
 	  
 	  Of course, your system could grow & englobe all that but it becomes a dinosaur & we know the end ([View Tweet](https://twitter.com/brunowinck/status/1592286346659471361))
-	- So 10 years ago, engineers had a smart idea: every service will offer an API that other services can connect to. Twitter, Trello, Google, Facebook, Circle everyone did it. 
+	- So 10 years ago, engineers had a smart idea: every service will offer an [[API]] that other services can connect to. Twitter, Trello, Google, Facebook, Circle everyone did it. 
 	  
-	  A huge ecosystem was built. it allows interoperability between hundreds of apps. That's what Zapier uses ([View Tweet](https://twitter.com/brunowinck/status/1592286350447120384))
+	  A huge ecosystem was built. it allows interoperability between hundreds of apps. That's what [[Zapier]] uses ([View Tweet](https://twitter.com/brunowinck/status/1592286350447120384))
 	- Using other services API allows to build integrations. If the PKM system has an API itself, it allows everyone to build integrations. It's a powerful pattern. 
 	  
 	  Unigraph has been very successful at that. 

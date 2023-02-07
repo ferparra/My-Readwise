@@ -315,10 +315,10 @@ url:: https://twitter.com/batkomichael/status/1172702983265480704
 	  If you're looking to dive into a magical world of assassins entangled in political affairs ✨
 	  
 	  https://t.co/gVmnolQhtQ ([View Tweet](https://twitter.com/batkomichael/status/1236105419816226817))
-	- 👤 Ego is the Enemy 👤
-	  Purpose. Realism. Student for a Life. Find canvases for others to paint on. Life up to your own standards.
+	- 👤 [[Ego]] is the Enemy 👤
+	  [[Purpose]]. Realism. Student for a Life. Find canvases for others to paint on. Life up to your own standards.
 	  
-	  Favourite quote: "When you combine insecurity and ambition, you get an inability to say No to things."
+	  Favourite quote: "When you combine [[insecurity]] and [[ambition]], you get an inability to say No to things."
 	  
 	  h/t @VullinghsJ 🙏
 	  

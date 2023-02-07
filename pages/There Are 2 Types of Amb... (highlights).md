@@ -5,11 +5,11 @@ category:: #tweets
 url:: https://twitter.com/startingfromnix/status/1597735810207399937
 
 - Highlights first synced by [[Readwise]] [[Nov 30th, 2022]]
-	- there are 2 types of ambition 
+	- there are 2 types of [[ambition]] 
 	  
-	  1. Specific: you know you want to be a doctor or have a particular site for your energy. you know how to direct your energy
+	  1. Specific: you know you want to be a doctor or have a particular site for your energy. you know how to direct your [[energy]]
 	  
-	  2. Unspecific: you have a lot of energy but are not sure where to put it ([View Tweet](https://twitter.com/startingfromnix/status/1597735810207399937))
+	  2. Unspecific: you have a lot of [[energy]] but are not sure where to put it ([View Tweet](https://twitter.com/startingfromnix/status/1597735810207399937))
 		- **Note**: Thread
 	- when you compare yourself to people with specific energy, it feels like unspecific energy is “directionless” or perhaps even “not ambitious” 
 	  

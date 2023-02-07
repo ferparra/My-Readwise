@@ -19,7 +19,7 @@ url:: https://twitter.com/_bfarmer/status/1473519099691028482
 	- Recursive FRI gives us the best of both worlds - fast proofs when we're limited by proving time, and fast verification in environments like Ethereum where gas cost dominates. ([View Tweet](https://twitter.com/_bfarmer/status/1473519108092268550))
 	- That's why we built Plonky2 earlier this year (and will be open sourcing it in a few weeks). 
 	  
-	  It’s a recursive SNARK based on PLONK + FRI. It's far faster than anything else - recursive proofs take 170ms on a Macbook Pro - and it allows us to take advantage of FRI’s flexibility. ([View Tweet](https://twitter.com/_bfarmer/status/1473519109103104002))
-	- It’s also natively compatible with Ethereum, unlike other recursion schemes like Halo. Size-optimized proofs are 45kb, and after EIP-4488, it should be the cheapest recursive SNARK to verify on Ethereum. 
+	  It’s a recursive [[SNARK]] based on PLONK + FRI. It's far faster than anything else - recursive proofs take 170ms on a Macbook Pro - and it allows us to take advantage of FRI’s flexibility. ([View Tweet](https://twitter.com/_bfarmer/status/1473519109103104002))
+	- It’s also natively compatible with Ethereum, unlike other recursion schemes like Halo. Size-optimized proofs are 45kb, and after EIP-4488, it should be the cheapest recursive [[SNARK]] to verify on [[Ethereum]]. 
 	  
 	  We think it's the best approach for ZKP's on blockchains. @0xPolygon 🚀 ([View Tweet](https://twitter.com/_bfarmer/status/1473519110143283201))

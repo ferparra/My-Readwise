@@ -5,7 +5,7 @@ category:: #tweets
 url:: https://twitter.com/alandownie
 
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
-	- @paulg The pinnacle of freedom is having the choice to give it up.
+	- [[@paulg]] The pinnacle of [[freedom]] is having the choice to give it up.
 	  
 	  You’re not free if you’re in constant fear of having your liberty taken from you.
 	  

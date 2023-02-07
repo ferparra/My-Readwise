@@ -1,0 +1,18 @@
+title:: Mar 26 the Vision of the Anointed by Thomas Sowell (highlights)
+author:: [[Kristopia]]
+full-title:: "Mar 26 the Vision of the Anointed by Thomas Sowell"
+category:: #articles
+url:: https://www.kristopia.org/book-thoughts/2021/3/26/the-vision-of-the-anointed-by-thomas-sowell
+
+tags:: #[[leftism]] #[[political correctness]] #[[wokeism]]
+
+- Highlights first synced by [[Readwise]] [[Feb 4th, 2023]]
+	- The Vision of the Anointed is a trenchant critique of the moral exaltation and the vision of differential rectitude of the anointed (leftists), and an examination of  the catastrophic consequences the defects of their visions have led to in education, crime, family disintegration, and other social pathology. ([View Highlight](https://read.readwise.io/read/01grdr8132k70jvdx3ehpd1hrg))
+	- Thomas illustrated that when the actual course of events of a social policy crashed and burned, or followed a pattern diametrically the opposite of what was assumed and proclaimed by the anointed, they made not the slightest dent in the policies they advocated, or in the vision of the anointed, had achieved a sacrosanct status, cowardly sealed off from the contaminating influence of facts. Thomas further deconstructs how statistics can be distorted to prove assumptions, the seemingly “politically correct” visions, are they actually correct when confronted with statistics and facts? ([View Highlight](https://read.readwise.io/read/01grdr8y5sdfdbdaazsezwwgre))
+	- They believe problems exist because other people are evil, selfish, not as wise or virtuous as them, so whoever disagrees with them, their words are not worth considering. This is a dangerous growing trend that we have witnessed nowadays....the cancel culture, the “toxic” label, “good vibes only”, and “trust your feelings”, the list goes on... ([View Highlight](https://read.readwise.io/read/01grdr9kcy2eqqg4xnajyr1q1q))
+		- **Tags**: #[[cancel culture]]
+	- Disagree with someone one the right and he is likely to think you are wrong or foolish. However, to disagree with someone on the left, he is more likely to think you are selfish, a sell-out, a racist, an ableist, an agest, a bigot, insensitive, and evil. ([View Highlight](https://read.readwise.io/read/01grdrazemkjbwbt8xb6tzy5r5))
+	- Disagreements should be on methods, probabilities, and empirical evidence, with compassion of course. Yet, this has not been the case with the anointed. When opponents disagree with the social policies of the “good” people who “want to help” out of “decent” and “generous” motives, they are often being demonized and labeled as uninformed, selfish or motivated by unworthy purposes. ([View Highlight](https://read.readwise.io/read/01grdrbg9k7ppxtrrjd2t6z4h4))
+	- All social theories can be imperfect, the harm done by their imperfections depends not only on how far they differ from reality, but also on “how readily they adjust to evidence”, to come back into the line with the facts. ([View Highlight](https://read.readwise.io/read/01grdrcn99p01bere2v0xqwmy0))
+		- **Tags**: #[[social theory]] #[[utopianism]]
+	- it doesn’t matter how close the vision was to reality, if that vision is resistant towards evidence and reality, this makes the vision far more dangerous than a theory that may be initially farther from the truth but is more capable of adjusting to feedback based on evidence. ([View Highlight](https://read.readwise.io/read/01grdre37xm1w42kk0354g4bfv))

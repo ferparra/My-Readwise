@@ -1,0 +1,17 @@
+title:: A Mathematician's Apology (highlights)
+author:: [[Plus Maths]]
+full-title:: "A Mathematician's Apology"
+category:: #articles
+url:: https://plus.maths.org/content/node/6725
+document_note:: In A Mathematician's Apology, G.H. Hardy attempts to defend and explain the value of pure mathematics. He explores the beauty of mathematics, discussing its sense of unshakeable truth and permanence. He argues that a great mathematical result combines generality and depth, and must have a certain aesthetic aspect in its proof. He goes on to state that pure mathematics is largely useless and cannot be judged by practical standards, but is still an art form and a worthwhile pursuit. The essay is an autobiographical apology and gives a glimpse into the minds of mathematicians.
+tags:: #[[books]] #[[math]] #[[pure mathematics]]
+
+- Highlights first synced by [[Readwise]] [[Feb 4th, 2023]]
+	- *A mathematician's apology* is an attempt to justify, and explain, pure mathematics. ([View Highlight](https://read.readwise.io/read/01grdvqv9xc73bvej6wyn583ks))
+	- "A mathematician, like a painter or poet, is a maker of patterns. If his patterns are more permanent than theirs, it is because they are made with ideas. [...] The mathematician's patterns, like the painter's or the poet's must be *beautiful*; the ideas like the colours or the words, must fit together in a harmonious way. Beauty is the first test: there is no permanent place in the world for ugly mathematics." ([View Highlight](https://read.readwise.io/read/01grdvrkgvbmcapr5vt1xmwjyc))
+		- **Tags**: #[[beauty]] #[[art]]
+	- The permanence is what distinguishes maths among other fields, and their fundamental nature is what distinguishes these two results among others within maths. ([View Highlight](https://read.readwise.io/read/01grdvt352df1xbrn7z2chmw77))
+	- maths appears to be made of different "strata", with basic ideas (eg the whole numbers) sitting on top of more involved ones (eg the irrational numbers). A result is deep if it cuts right through to the lower strata. ([View Highlight](https://read.readwise.io/read/01grdvvy539jsqbsvqd1sfjvqh))
+	- "There is a very high degree of *unexpectedness*, combined with *inevitability* and *economy*. The arguments take so odd and surprising a form; the weapons used so childishly simple when compared with the far-reaching results; but there is no escape from the conclusions. There are no complications of detail [...]. A mathematical proof should resemble a simple and clear-cut constellation, not a scattered cluster in the Milky Way." ([View Highlight](https://read.readwise.io/read/01grdvwwv32t6f5mwzapf14jf4))
+	- Hardy believes that those aspects of maths that serve as tools for engineers and other applied scientists are precisely the boring ones. Real maths, according to Hardy, is "almost wholly useless". He makes some surprising points, for example that maths is in "more direct contact with reality" than physics, and that "pure mathematics is on the whole distinctly more useful than applied" ([View Highlight](https://read.readwise.io/read/01grdvxhc43gm235ydspgxyz17))
+	- New technologies use both quantum mechanics (eg the internet) and relativity (eg GPS). Even the number theoretical result on the infinitude of primes could be argued, admittedly with a considerable stretch, to find applications in cryptography, which makes use of very large primes. ([View Highlight](https://read.readwise.io/read/01grdvye3k370abddrje9y26j2))

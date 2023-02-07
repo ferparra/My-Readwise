@@ -379,3 +379,5 @@ url:: https://twitter.com/shreyas
 	- Seek your manager’s input on your next career milestone (and ask for advocacy)
 - New highlights added [[Jan 21st, 2023]] at 2:53 PM
 	- The biggest problem with saying that Execution is more important than Ideas is that it demonstrates a gross misunderstanding of how you get outstanding Execution: you get it through 100s of excellent (and usually correct) Ideas about what to do & how to do it, day in and day out. ([View Tweet](https://twitter.com/shreyas/status/1616621603550527490))
+- New highlights added [[Feb 2nd, 2023]] at 5:16 PM
+	- As a product leader, make sure to spend more time (than you currently do) with the creative people in your group, no matter what level & what function they are in. Listen to what they’re excited about, share the challenges / opportunities as you see them and listen to their ideas ([View Tweet](https://twitter.com/shreyas/status/1621024604948144130))

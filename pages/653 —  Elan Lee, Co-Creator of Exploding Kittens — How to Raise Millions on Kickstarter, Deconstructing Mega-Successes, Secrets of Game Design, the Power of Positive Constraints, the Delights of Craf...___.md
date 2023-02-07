@@ -1,0 +1,15 @@
+title:: 653 —  Elan Lee, Co-Creator of Exploding Kittens — How to Raise Millions on Kickstarter, Deconstructing Mega-Successes, Secrets of Game Design, the Power of Positive Constraints, the Delights of Craf...
+author:: [[The Tim Ferriss Show]]
+full-title:: "\#653 —  Elan Lee, Co-Creator of Exploding Kittens — How to Raise Millions on Kickstarter, Deconstructing Mega-Successes, Secrets of Game Design, the Power of Positive Constraints, the Delights of Craftsmanship, and the Art of Turning Fans Into Superfans"
+category:: #podcasts
+url:: https://share.snipd.com/episode/d0e76370-ba14-46db-a255-7ec7f71c1239
+
+- Highlights first synced by [[Readwise]] [[Feb 4th, 2023]]
+	- Alternate Reality Games: The Oatmeal
+	  
+	  Key takeaways:
+	  (* Alternate reality games are a type of entertainment that can be enjoyed by a wide range of people., * Kickstarter is a great way to fund these types of projects., * Alternate reality games are often set up to deliver a story that is convoluted and that must be pieced together by the audience.)
+	  
+	  Transcript:
+	  Speaker 1
+	  Still the case by a lot actually. Okay. Yeah. In order to talk about Kickstarter, we have to talk about two things. One is alternate reality games and the other is the oatmeal. So alternate reality games, my background being sort of trained at Microsoft and at the Xbox and learning about communities and the appeal of games and why we play games together. I then went off and started with some friends, this company to build alternate reality games. And all you really need to know about alternate reality games, although I could talk about them for a long time is the central premise is together you are stronger. Together as a community. You can become extraordinary versions of yourselves and the games are set up to deliver a story out in the real world that is convoluted and you have to piece it back together. It's like my mentor, Jordan Weisman likes to call it internet archaeology. So archaeology is you find all the little bits and pieces of the vase. You put it together in order to figure out what it is about that society, how that society lived, how those people lived. And reality games are the same thing. We write a beautiful story, start to finish with a very compelling narrative and then we break it up into little pieces and we hide those pieces everywhere in the real world on the internet, on phone lines, fax lines, live actors everywhere. And you, the audience working together because you're stronger together, go and perform that feat of archaeology, find all the pieces, put them back together, look at your beautiful digital vase and then learn the story based on what you found. So I built a lot of those and I was really trained over and over again, really beaten into my sake, community first, community first. They're so much smarter than you are. Learn to entertain a crowd. That's what this is all about. We decided to launch this Kickstarter campaign. We had this really compelling hook. We knew the game was really good. ([Time 0:23:44](https://share.snipd.com/snip/89466a81-eabd-4f2e-8cc9-05f5d87aa891))

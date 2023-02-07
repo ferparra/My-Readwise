@@ -349,3 +349,7 @@ url:: https://twitter.com/hubermanlab
 	  https://t.co/OpEWaKPIhm ([View Tweet](https://twitter.com/hubermanlab/status/1619174893417041921))
 - New highlights added [[Jan 31st, 2023]] at 1:40 AM
 	- The science says:
+- New highlights added [[Feb 5th, 2023]] at 7:56 PM
+	- Terrific brief 8min NSDR/Yoga Nidra which - as a practice, is gaining mechanistic understanding. Meanwhile, this is a great one for improving sleep and recovering “missed” sleep. https://t.co/kacxVBMmtQ ([View Tweet](https://twitter.com/hubermanlab/status/1621994535428698112))
+- New highlights added [[Feb 6th, 2023]] at 10:56 AM
+	- Brief (8-10min) Non-Sleep-Deep-Rest (NSDR) protocols are distinct from meditation & similar but different from Yoga Nidra. Emerging data show they can restore mental & physical vigor, dopamine levels & offset missed hours of sleep. Links to two examples are below (zero cost): ([View Tweet](https://twitter.com/hubermanlab/status/1622370587791466497))

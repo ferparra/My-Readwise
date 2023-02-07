@@ -35,9 +35,9 @@ url:: https://twitter.com/blakeaburge/status/1451555358942523395
 	- “We don’t have to be smarter than the rest. We have to be more disciplined than the rest.”
 	  
 	  –Warren Buffett ([View Tweet](https://twitter.com/blakeaburge/status/1451555370204155905))
-	- “Character cannot be developed in ease and quiet. 
+	- “[[Character]] cannot be developed in ease and quiet. 
 	  
-	  Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved.” 
+	  Only through experience of trial and [[suffering]] can the soul be strengthened, [[ambition]] inspired, and success [[achieved]].” 
 	  
 	  –Helen Keller ([View Tweet](https://twitter.com/blakeaburge/status/1451555371235962885))
 	- "It’s not the load that breaks you down, it’s the way you carry it." 

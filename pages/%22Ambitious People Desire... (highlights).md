@@ -5,7 +5,7 @@ category:: #tweets
 url:: https://twitter.com/kerry62189/status/1422779285832671233
 
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
-	- "Ambitious people desire not only to be recognized but also to be deemed worthy of recognition. The concept of ambition is invariably tied to notions of honor and deference. Today, however, these terms have an obsolete sound."
+	- "Ambitious people desire not only to be recognized but also to be deemed worthy of recognition. The concept of [[ambition]] is invariably tied to notions of honor and deference. Today, however, these terms have an obsolete sound."
 	  https://t.co/fIaJ1tDcjp 
 	  
 	  ![](https://pbs.twimg.com/media/E760Bx6XIAMgTYX.jpg) ([View Tweet](https://twitter.com/kerry62189/status/1422779285832671233))
@@ -13,7 +13,7 @@ url:: https://twitter.com/kerry62189/status/1422779285832671233
 	- "'Honor,' as the sociologist Peter L. Berger has written, 'occupies about the same place in contemporary usage as chastity,' that is, as 'ideological leftovers in the consciousness of obsolete classes, such as military officers or ethnic grandmothers.'" 
 	  
 	  ![](https://pbs.twimg.com/media/E760Ox4XIAMgq5L.jpg) ([View Tweet](https://twitter.com/kerry62189/status/1422779292400898050))
-	- "...fame, glory, renown...have traditionally been associated with aristocratic societies...Acts of bravery, heroism and self-abnegation were often linked to a person’s role in a social hierarchy...There is certainly a zero-sum quality to terms like honor and ambition." 
+	- "...fame, glory, renown...have traditionally been associated with aristocratic societies...Acts of [[bravery]], [[heroism]] and self-abnegation were often linked to a person’s role in a [[social hierarchy]]...There is certainly a zero-sum quality to terms like [[honor]] and [[ambition]]." 
 	  
 	  ![](https://pbs.twimg.com/media/E760a8MXMAI7qQe.jpg) ([View Tweet](https://twitter.com/kerry62189/status/1422779299074031616))
 	- "Yet the study of heroes seems to have something old-fashioned, if not elitist, about it...Modern history and social science tend to be increasingly quantitative and data-driven, dealing more with the average than outsized individuals." And how's that working out? 
@@ -39,12 +39,12 @@ url:: https://twitter.com/kerry62189/status/1422779285832671233
 	  Closer to the mark, but not that close. 
 	  
 	  ![](https://pbs.twimg.com/media/E763wHOXEAAjho8.jpg) ([View Tweet](https://twitter.com/kerry62189/status/1422779347589640193))
-	- "Lincoln’s reference to emancipating slaves or enslaving freemen suggests the morally neutral form of this kind of great ambition. It can be used to achieve freedom as well as new forms of domination. The description is frighteningly prescient of.. Nietzsche’s Ubermensch."
+	- "Lincoln’s reference to emancipating slaves or enslaving freemen suggests the morally neutral form of this kind of great [[ambition]]. It can be used to achieve [[freedom]] as well as new forms of domination. The description is frighteningly prescient of.. [[Nietzsche]]’s [[Ubermensch]]."
 	  Yes. ([View Tweet](https://twitter.com/kerry62189/status/1422779349766397953))
 	- "These readers...draw the wrong conclusion. Lincoln understood...that the great political founders were inspired not by wealth...or pleasure...but by honor...and recognition. It is these higher-order goals that testify to a certain breadth of soul and loftiness of outlook." 
 	  
 	  ![](https://pbs.twimg.com/media/E764lyGWQAAltQg.jpg) ([View Tweet](https://twitter.com/kerry62189/status/1422779354451415044))
-	- "Yet it was precisely because of his imaginative sympathy for this kind of grand ambition that made it possible for Lincoln to resist it...Lincoln believed that no one who had ever been tempted by grand ambition would have the capacity to resist it."
+	- "Yet it was precisely because of his imaginative sympathy for this kind of grand ambition that made it possible for [[Lincoln]] to resist it...[[Lincoln]] believed that no one who had ever been tempted by grand [[ambition]] would have the capacity to resist it."
 	  Exactly. ([View Tweet](https://twitter.com/kerry62189/status/1422779356569554946))
 	- "Lincoln’s...towering genius is far from the prosaic usurper...Such a person prefers to rule in Hell than to serve in Heaven. His is a revolt not against an unjust order but against any order of which he is not the author..." 
 	  

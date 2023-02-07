@@ -18,7 +18,7 @@ url:: https://blas.com/letters-from-a-stoic/
 	- Imagine somebody you really respect is watching your every move and ordering all your actions as if he beheld them (pair with Napoleon Hill’s mastermind group)
 	- If can enjoy the bare minimum, there is nothing fortune can snatch away. Simply dependent on oneself for happiness
 	- Treat your inferiors as you would be treated by your betters
-	- Show me a man who is not a slave; one is a slave to lust, another to greed, another to ambition, and all men are slaves to fear
+	- Show me a man who is not a slave; one is a slave to [[lust]], another to [[greed]], another to [[ambition]], and all men are slaves to [[fear]]
 	- When a man is physically sick he gives up caring for all else? Why not do the same in order to achieve a sound mind?
 	- The wise man does nothing unwillingly. He escapes necessity because he will to do what necessity is about to force upon him
 	- Huge difference between a life of leisure and a life of idleness

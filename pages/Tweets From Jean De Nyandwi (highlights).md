@@ -64,3 +64,11 @@ url:: https://twitter.com/Jeande_d
 	  https://t.co/ST5VWkoboj 
 	  
 	  ![](https://pbs.twimg.com/media/Fl0DigcaEAA257T.jpg) ([View Tweet](https://twitter.com/Jeande_d/status/1611448145829036032))
+- New highlights added [[Feb 5th, 2023]] at 3:53 PM
+	- Stanford CS 324 - Large Language Models - Lecture Notes 2022
+	  
+	  A handy notes on various topics and techniques related to large language models. Notes are structured really well and there are pointers for recent/landmark papers in LLMs.
+	  
+	  https://t.co/zhRBeu5CxH 
+	  
+	  ![](https://pbs.twimg.com/media/FoJimYNacAApkLL.jpg) ([View Tweet](https://twitter.com/Jeande_d/status/1621967231826665472))

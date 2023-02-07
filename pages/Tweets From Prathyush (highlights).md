@@ -19,3 +19,9 @@ url:: https://twitter.com/prathyvsh
 	  ![](https://pbs.twimg.com/media/FToD6mqWYAYZUxQ.jpg) 
 	  
 	  ![](https://pbs.twimg.com/media/FToDEkMUsAAPifZ.jpg) ([View Tweet](https://twitter.com/prathyvsh/status/1529539520944906246))
+- New highlights added [[Feb 6th, 2023]] at 1:56 PM
+	- @interpretantion Formal track: Fourier transforms and Harmonic analysis.
+	  
+	  Peanut brain track: Totient function is DFT of GCD: https://t.co/TlbSvbE8eU and Visual approach to FTA: https://t.co/pnEIc6FhvZ
+	  
+	  Crank track: Coefficients are convolutions of roots of unity. ([View Tweet](https://twitter.com/prathyvsh/status/1622358570519105537))

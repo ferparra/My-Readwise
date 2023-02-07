@@ -14,3 +14,7 @@ url:: https://twitter.com/teej_m
 	- @imrobertyi We build dashboards to answer exploratory questions. This is a mistake.
 	  
 	  Dashboards exist to answer causal questions. Dashboards must model the business. When they do, they’re useful tools to change the business, or to know what’s changed. ([View Tweet](https://twitter.com/teej_m/status/1595642165325078530))
+- New highlights added [[Feb 6th, 2023]] at 10:56 AM
+	- Stop blaming “seasonality”. Any data investigation that starts with “maybe it’s seasonal” is off track.
+	  
+	  When reporting metrics, seasonality should be baked in. Leaders need to think about comparison periods - how data is compared over time - and enforce it across the company. ([View Tweet](https://twitter.com/teej_m/status/1622361136929832960))

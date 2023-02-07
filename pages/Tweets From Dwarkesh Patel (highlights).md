@@ -5,14 +5,14 @@ category:: #tweets
 url:: https://twitter.com/dwarkesh_sp
 
 - Highlights first synced by [[Readwise]] [[Jan 14th, 2023]]
-	- My podcast with @tylercowen is out!!!
+	- My [[podcast]] with [[@tylercowen]] is out!!!
 	  
 	  We discuss:
 	  
-	  -how sex is more pessimistic than he is
-	  -why he expects society to collapse
-	  -if humility, stimulants, & intelligence are overrated
-	  -how he identifies talent, deceit, & ambition
+	  -how [[sex]] is more pessimistic than he is
+	  -why he expects [[society]] to collapse
+	  -if [[humility]], [[stimulants]], & [[intelligence]] are overrated
+	  -how he identifies [[talent]], [[deceit]], & [[ambition]]
 	  -& much more!
 	  
 	  Extremely fun & interesting! Enjoy! https://t.co/TTnze2oanC ([View Tweet](https://twitter.com/dwarkesh_sp/status/1575121336799739906))
