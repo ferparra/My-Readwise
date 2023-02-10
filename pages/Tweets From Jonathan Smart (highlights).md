@@ -25,3 +25,23 @@ url:: https://twitter.com/jonsmart
 	  #BVSSH 
 	  
 	  ![](https://pbs.twimg.com/media/FMM4l5QXwAURzga.jpg) ([View Tweet](https://twitter.com/jonsmart/status/1496101727208153092))
+- New highlights added [[Feb 9th, 2023]] at 6:20 PM
+	- Lead, Leader, Leadership ≠ Command, Direct, Commit, Control 
+	  
+	  The origins of the word 'lead' is to ''guide on a journey''.
+	  The origins of the workd 'command' comes from ''commit'' and ''mandate''.
+	  
+	  They are not mutually exclusive.
+	  
+	  #BVSSH 
+	  
+	  ![](https://pbs.twimg.com/media/Focen5xWcAIkrMF.jpg) ([View Tweet](https://twitter.com/jonsmart/status/1623299864237842439))
+- New highlights added [[Feb 10th, 2023]] at 1:18 PM
+	- Install transparency: do you have a balanced set of data insights into the system of work, end-to-end?
+	  Or is your org flying blind (or partially sighted)? 
+	  
+	  If it's not being measured, it's not possible to inspect & adapt and it's not possible to articulate progress. 
+	  
+	  #BVSSH 
+	  
+	  ![](https://pbs.twimg.com/media/FohoNf5XoAAerU5.jpg) ([View Tweet](https://twitter.com/jonsmart/status/1623662250132217856))

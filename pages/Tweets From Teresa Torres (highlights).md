@@ -62,3 +62,5 @@ url:: https://twitter.com/ttorres
 	  #prodmgmt #ux #engineering 
 	  
 	  ![](https://pbs.twimg.com/media/FoKbdC4XoAE9dnU.jpg) ([View Tweet](https://twitter.com/ttorres/status/1622029742256918528))
+- New highlights added [[Feb 7th, 2023]] at 1:01 PM
+	- The power of defaults https://t.co/ZhG8p6nNfq ([View Tweet](https://twitter.com/ttorres/status/1622718527827312676))

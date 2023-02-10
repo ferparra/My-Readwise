@@ -15,3 +15,13 @@ url:: https://twitter.com/euwyngoh
 	- Axiom #2: Perpetually incomplete datasets — It is rational to be doubtful. What is irrational is to be overly certain of one's own conception of reality.
 	  
 	  https://t.co/3Gx1MlYW4C ([View Tweet](https://twitter.com/euwyngoh/status/1464440800444485636))
+- New highlights added [[Feb 9th, 2023]] at 3:21 PM
+	- Phases my worldview has gone through:
+	  
+	  1. Christian (fundamental)
+	  2. Doubter: valley of uncertainty
+	  3. Semi-nihilist: “all is triviality”
+	  4. Apologist: truth-seeking
+	  5. Aesthete: “beauty will save the world”
+	  6. Existentialist: all is ideology
+	  7. Christian (phenomenology) ([View Tweet](https://twitter.com/euwyngoh/status/1622786065152245760))

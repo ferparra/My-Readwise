@@ -10,3 +10,5 @@ document_note:: The biographies of exceptional people all have a common theme: t
 		- **Tags**: #[[learning]] #[[career capital]] #[[mastery]]
 	- The default for a parent is rather to imitate their peers and outsource the big decisions to bureaucracies. ([View Highlight](https://read.readwise.io/read/01grmh0k3qy4fwcakepdt2wfrx))
 		- **Tags**: #[[parenting]]
+- New highlights added [[Feb 7th, 2023]] at 7:58 PM
+	- Aristocratic tutoring was not focused on measurables. Historically, it usually involved a paid adult tutor, who was an expert in the field, spending significant time with a young child or teenager, instructing them but also engaging them in discussions, often in a live-in capacity, fostering both knowledge but also engagement with intellectual subjects and fields. ([View Highlight](https://read.readwise.io/read/01grnghwrwf0s60420rpkj1pvn))

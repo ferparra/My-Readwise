@@ -30,4 +30,4 @@ url:: https://twitter.com/rishdotblog/status/1382398205078298624
 	  Also hope that the Apple Watch 7 has an optical glucose monitor – will help diabetics save so much money! [7/] ([View Tweet](https://twitter.com/rishdotblog/status/1382264686410752003))
 	- I'll likely combine this data with step count, heart rate, and sleep data from Fitbit and then publish it to Github as a weekend project
 	  
-	  Many startups (like https://t.co/BuvkodmM3R) are emerging in the wearable-enabled health space. Super excited about the future! [/fin] ([View Tweet](https://twitter.com/rishdotblog/status/1382264688918949895))
+	  Many [[startups]] (like https://t.co/BuvkodmM3R) are emerging in the wearable-enabled health space. Super excited about the future! [/fin] ([View Tweet](https://twitter.com/rishdotblog/status/1382264688918949895))

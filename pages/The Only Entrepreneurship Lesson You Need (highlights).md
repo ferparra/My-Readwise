@@ -5,15 +5,15 @@ category:: #articles
 url:: https://medium.com/startup-grind/the-only-entrepreneurship-lesson-reading-list-you-need-105d9e3bcf5a
 
 - Highlights first synced by [[Readwise]] [[Feb 7th, 2023]]
-	- When I was first getting into entrepreneurship, I asked
+	- When I was first getting into [[entrepreneurship]], I asked
 	  
 	  [Mark Cuban](https://medium.com/u/29fd628f3aaa?source=post_page-----105d9e3bcf5a--------------------------------)
 	  
 	  what he read or studied to learn how to start and build businesses. His response:
 	  
-	  > “Experience. It’s the only reliable teacher I’ve ever had. No books ever captured what it’s really like. You just gotta do it.” ([View Highlight](https://read.readwise.io/read/01grmb8sa6drn950km30ayjkra))
+	  > “[[Experience]]. It’s the only reliable teacher I’ve ever had. No books ever captured what it’s really like. You just gotta do it.” ([View Highlight](https://read.readwise.io/read/01grmb8sa6drn950km30ayjkra))
 		- **Tags**: #[[@mark-cuban]]
-	- Reading is NEVER a replacement for doing, but reading can be how you figure out where to start. ([View Highlight](https://read.readwise.io/read/01grmb9s1hfy0agmksak3w07a1))
+	- [[Reading]] is NEVER a replacement for doing, but reading can be how you figure out where to start. ([View Highlight](https://read.readwise.io/read/01grmb9s1hfy0agmksak3w07a1))
 	- You need three things to create a successful startup: to start with **good people**, to **make something customers actually want**, and to **spend as little money as possible**. Most startups that fail do it because they fail at one of these. A startup that does all three will probably succeed. ([View Highlight](https://read.readwise.io/read/01grmba7cadebymsq07gmm6b9b))
 		- **Tags**: #[[paul graham]] #[[@paul graham]]
 	- Paul Graham likes to talk about it in terms of finding people who are resourceful and determined. ([View Highlight](https://read.readwise.io/read/01grmbb2n6ccf5f6tp37r71s7s))

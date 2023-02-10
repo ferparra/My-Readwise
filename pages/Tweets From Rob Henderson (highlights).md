@@ -152,3 +152,7 @@ url:: https://twitter.com/robkhenderson
 - New highlights added [[Feb 5th, 2023]] at 7:56 PM
 	- "I have never understood why it is greed to want to keep the money you have earned but not greed to want to take somebody else's money."
 	  —Thomas Sowell ([View Tweet](https://twitter.com/robkhenderson/status/1621966961709137920))
+- New highlights added [[Feb 9th, 2023]] at 3:21 PM
+	- "From sacrifice comes meaning. From struggle comes purpose...If there is anything to romanticize about art, it’s the struggle...A willingness to trade off something—time, comfort, easy money, recognition—lies at the heart of every great work."  -@RyanHoliday 
+	  
+	  ![](https://pbs.twimg.com/media/FoZQN7sWAAIy_Mv.jpg) ([View Tweet](https://twitter.com/robkhenderson/status/1623072995831951362))

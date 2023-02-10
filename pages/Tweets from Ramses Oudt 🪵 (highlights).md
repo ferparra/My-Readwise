@@ -29,3 +29,9 @@ url:: https://twitter.com/rroudt
 	  Have you defined your writing system? 
 	  
 	  ![](https://pbs.twimg.com/media/FnDgvhOaMAIIjJ4.jpg) ([View Tweet](https://twitter.com/rroudt/status/1617039383785504774))
+- New highlights added [[Feb 7th, 2023]] at 1:01 PM
+	- @arvidkahl Nothing helps sell an idea like passion.
+	  
+	  In my corporate jobs, I’d often nerd out about processes and software systems (yes, I’m that guy). But it wasn’t my knowledge that would sell people on my advice; they always told me it was my enthusiasm.
+	  
+	  Lesson: show your passion. ([View Tweet](https://twitter.com/rroudt/status/1622770713428885505))

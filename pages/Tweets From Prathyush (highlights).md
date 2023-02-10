@@ -25,3 +25,7 @@ url:: https://twitter.com/prathyvsh
 	  Peanut brain track: Totient function is DFT of GCD: https://t.co/TlbSvbE8eU and Visual approach to FTA: https://t.co/pnEIc6FhvZ
 	  
 	  Crank track: Coefficients are convolutions of roots of unity. ([View Tweet](https://twitter.com/prathyvsh/status/1622358570519105537))
+- New highlights added [[Feb 9th, 2023]] at 3:22 PM
+	- Mindblowingly good curation of topics from @dan_mackinlay up here: https://t.co/McTGWR5AHT
+	  
+	  I dont think I have ever come across a notebook like this that has been continuously edited since 2010s with such a wide spanning exploration of topics. Kudos for the great work! https://t.co/qixuUF8nGX ([View Tweet](https://twitter.com/prathyvsh/status/1623381647201652737))

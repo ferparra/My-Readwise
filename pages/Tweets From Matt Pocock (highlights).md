@@ -53,3 +53,9 @@ url:: https://twitter.com/mpocock1
 	- Conditional types in TypeScript are just like if/else statements.
 	  
 	  There's a check, a true case, and a false case. https://t.co/QQJZJtowj3 ([View Tweet](https://twitter.com/mattpocockuk/status/1606055010319470595))
+- New highlights added [[Feb 7th, 2023]] at 1:01 PM
+	- Had another idea for a zod library - this one to do with type-safe messaging between different environments.
+	  
+	  Perfect for websockets, window.postMessage, or any kind of pub/sub.
+	  
+	  But I need some help naming the primitives. Assist me! https://t.co/IYi1s2lwvx ([View Tweet](https://twitter.com/mattpocockuk/status/1622720203762065412))

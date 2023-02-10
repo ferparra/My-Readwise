@@ -1,0 +1,10 @@
+title:: Meilisearch 1.0: The Next Stage in Search (highlights)
+author:: [[Meilisearch Blog]]
+full-title:: "Meilisearch 1.0: The Next Stage in Search"
+category:: #articles
+url:: https://blog.meilisearch.com/v1-enterprise-ready-stable/
+
+tags:: #[[open source]] #[[search]]
+
+- Highlights first synced by [[Readwise]] [[Feb 10th, 2023]]
+	- **Meilisearch is an open-source, user-focused search engine** that easily integrates with any website or application. It features powerful built-in capabilities such as [search-as-you-type](https://docs.meilisearch.com/learn/what_is_meilisearch/features.html?utm_source=release-post&utm_id=v1-announcement&utm_content=search-as-you-type#search-as-you-type), [typo tolerance](https://docs.meilisearch.com/learn/what_is_meilisearch/features.html?utm_source=release-post&utm_id=v1-announcement&utm_content=typo-tolerant#typo-tolerant), [faceted search](https://docs.meilisearch.com/learn/what_is_meilisearch/features.html?utm_source=release-post&utm_id=v1-announcement&utm_content=faceted-search#faceting), [geo search](https://docs.meilisearch.com/learn/advanced/geosearch.html?utm_source=release-post&utm_id=v1-announcement&utm_content=geosearch), and [multi-tenancy](https://docs.meilisearch.com/learn/security/tenant_tokens.html?utm_source=release-post&utm_id=v1-announcement&utm_content=multitenancy). A suite of [SDKs and libraries](https://docs.meilisearch.com/learn/what_is_meilisearch/sdks.html?utm_source=release-post&utm_id=v1-announcement&utm_content=integrations) makes it easy to connect with popular coding languages and web tools. When it comes to languages, Meilisearch supports them all, with special optimizations for any language that uses whitespace to separate words, plus Chinese, Japanese, Hebrew, Thai, and Korean. ([View Highlight](https://read.readwise.io/read/01grw654gqjvdvcme2kzp6xgmc))

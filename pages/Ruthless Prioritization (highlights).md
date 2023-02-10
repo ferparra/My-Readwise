@@ -14,5 +14,5 @@ url:: https://medium.com/p/e4256e3520a9
 		- **Tags**: #[[prioritization]] #[[favorite]]
 	- All high functioning teams must prioritize. Not once a month, not once a week — but rigorously, and ruthlessly.
 		- **Tags**: #[[prioritization]] #[[favorite]]
-	- As an aside, most people think startups are fast because they work harder and are more ambitious. The truth is that most of the speed difference comes from having far less dependencies (and few customers to upset if something screws up), so it’s just easier to get stuff done.
+	- As an aside, most people think [[startups]] are fast because they work harder and are more ambitious. The truth is that most of the speed difference comes from having far less dependencies (and few customers to upset if something screws up), so it’s just easier to get stuff done.
 		- **Tags**: #[[prioritization]] #[[product management]] #[[favorite]]

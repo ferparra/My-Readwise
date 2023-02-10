@@ -16,3 +16,9 @@ url:: https://twitter.com/TaylorPearsonMe
 	  Prioritization is the essential skill of the knowledge worker. 
 	  
 	  ![](https://pbs.twimg.com/media/EWtZ95IWAAEdzLN.jpg) ([View Tweet](https://twitter.com/TaylorPearsonMe/status/1255195843046576129))
+- New highlights added [[Feb 9th, 2023]] at 3:22 PM
+	- Automation magnifies the efficiency or inefficiency of an existing process.
+	  
+	  Adding automation to an inefficient process only makes it more inefficient. 
+	  
+	  ![](https://pbs.twimg.com/media/FoYtYa7XsAAOzlx.jpg) ([View Tweet](https://twitter.com/TaylorPearsonMe/status/1623034615601500167))
