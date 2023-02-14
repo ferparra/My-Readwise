@@ -64,3 +64,11 @@ url:: https://twitter.com/ttorres
 	  ![](https://pbs.twimg.com/media/FoKbdC4XoAE9dnU.jpg) ([View Tweet](https://twitter.com/ttorres/status/1622029742256918528))
 - New highlights added [[Feb 7th, 2023]] at 1:01 PM
 	- The power of defaults https://t.co/ZhG8p6nNfq ([View Tweet](https://twitter.com/ttorres/status/1622718527827312676))
+- New highlights added [[Feb 10th, 2023]] at 3:54 PM
+	- "The tools to identify and screen interview applicants tend to fall into two main categories: tools primarily designed for communicating with your customers and tools for a broad audience." - @trixiemaru
+	  
+	  https://t.co/hUIOK54Qml
+	  
+	  #prodmgmt #ux #engineering (via @ttorres) 
+	  
+	  ![](https://pbs.twimg.com/media/FokLZ2SWcAEx5QS.jpg) ([View Tweet](https://twitter.com/ttorres/status/1623841682692218880))

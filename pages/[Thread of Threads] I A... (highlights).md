@@ -66,10 +66,10 @@ url:: https://twitter.com/antilibrary_vk/status/1164959690234593280
 	- Book recommendations.
 	  
 	  https://t.co/9TmIEGWwSi ([View Tweet](https://twitter.com/antilibrary_vk/status/1164959721981431808))
-	- Lessons from “The Tao Te Ching” by Lao Tzu.
+	- Lessons from “[[The Tao Te Ching]]” by [[Lao Tzu]].
 	  
 	  https://t.co/z34Uwy82kq ([View Tweet](https://twitter.com/antilibrary_vk/status/1164959723965149189))
-	- Lessons from “The Tao Te Ching” by Lao Tzu - Part 2.
+	- Lessons from “[[The Tao Te Ching]]” by [[Lao Tzu]] - Part 2.
 	  
 	  https://t.co/DD6PbLGvmE ([View Tweet](https://twitter.com/antilibrary_vk/status/1164959725764481024))
 	- Complexity sells, and misleads.
@@ -106,7 +106,7 @@ url:: https://twitter.com/antilibrary_vk/status/1164959690234593280
 	- On the value of a university degree, why it might be a bad deal, and learning 'how to learn'. 
 	  
 	  https://t.co/QH2rDt9I1B ([View Tweet](https://twitter.com/antilibrary_vk/status/1227548891488215040))
-	- Lessons from “The Tao Te Ching” by Lao Tzu - Part 4.
+	- Lessons from “[[The Tao Te Ching]]” by [[Lao Tzu]] - Part 4.
 	  
 	  https://t.co/1aI6vLSVat ([View Tweet](https://twitter.com/antilibrary_vk/status/1227565173264637959))
 	- A heartfelt letter from a father, on embracing imperfection. 

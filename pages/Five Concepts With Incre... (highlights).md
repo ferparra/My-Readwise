@@ -7,11 +7,11 @@ url:: https://twitter.com/shreyas/status/1287525472977342464
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
 	- Five concepts with incredibly high ROI:
 	  
-	  1. Talent Stacking
-	  2. High Agency
-	  3. Clear Thinking
-	  4. Deep Work
-	  5. Transactional Analysis
+	  1. [[Talent Stacking]]
+	  2. [[High Agency]]
+	  3. [[Clear Thinking]]
+	  4. [[Deep Work]]
+	  5. [[Transactional Analysis]]
 	  
 	  Links & References👇🏾 ([View Tweet](https://twitter.com/shreyas/status/1287525472977342464))
 		- **Note**: Thread

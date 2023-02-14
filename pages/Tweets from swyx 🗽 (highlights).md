@@ -46,7 +46,7 @@ url:: https://twitter.com/swyx
 	  Embrace hammers so you can nail everything else. 
 	  
 	  ![](https://pbs.twimg.com/media/FJopJztaQAAxqTJ.jpg) ([View Tweet](https://twitter.com/swyx/status/1484544280819810306))
-	- ✍️10 Principles I Learned from Tiago Forte's Building a Second Brain
+	- ✍️10 Principles I Learned from Tiago Forte's Building a [[Second Brain]]
 	  
 	  https://t.co/KHsBXKHLTX
 	  

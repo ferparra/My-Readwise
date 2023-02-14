@@ -5,10 +5,10 @@ category:: #podcasts
 url:: https://share.snipd.com/episode/1b834f52-a5af-4d21-884a-c5e85669da73
 
 - Highlights first synced by [[Readwise]] [[Jan 17th, 2023]]
-	- A Healthy Relationship With Anger
+	- A Healthy Relationship With [[Anger]]
 	  
 	  Key takeaways:
-	  (* Anger is a normal and healthy feeling when it is directed towards the appropriate parties., * It is important to approach anger with compassion and understanding in order to reach a healthy and positive outcome., * It is important to channel anger in a way that is beneficial to oneself and others.)
+	  (* [[Anger]] is a normal and healthy feeling when it is directed towards the appropriate parties., * It is important to approach anger with compassion and understanding in order to reach a healthy and positive outcome., * It is important to channel anger in a way that is beneficial to oneself and others.)
 	  
 	  Transcript:
 	  Speaker 2

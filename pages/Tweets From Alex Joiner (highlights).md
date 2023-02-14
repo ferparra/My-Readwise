@@ -22,3 +22,7 @@ url:: https://twitter.com/IFM_Economist
 	  https://t.co/ilQU82OvqW 
 	  
 	  ![](https://pbs.twimg.com/media/FjboZvqacAEpA_z.png) ([View Tweet](https://twitter.com/IFM_Economist/status/1600722444683448325))
+- New highlights added [[Feb 10th, 2023]] at 3:54 PM
+	- The RBA's forecasts in detail. A bit of marking to the data. Business investment notably weaker, the unemployment rate rising more quickly, productivity growth negligible but the wages forecast upgraded materially, seems like an optimistic expectation with downside risk 
+	  
+	  ![](https://pbs.twimg.com/media/FokOrXfaIAAf_Wz.jpg) ([View Tweet](https://twitter.com/IFM_Economist/status/1623845907920998405))

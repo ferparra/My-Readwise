@@ -5,7 +5,7 @@ category:: #tweets
 url:: https://twitter.com/daretorant
 
 - Highlights first synced by [[Readwise]] [[Dec 29th, 2022]]
-	- @interintellect_ For nonfiction, a tie between Tao te Ching (Lao Tzu) and Talking Zen (Alan Watts)
+	- @interintellect_ For nonfiction, a tie between [[Tao te Ching]] ([[Lao Tzu]]) and Talking Zen ([[Alan Watts]])
 	  
 	  For fiction, Ishmael by Daniel Quinn blew me away
 	  

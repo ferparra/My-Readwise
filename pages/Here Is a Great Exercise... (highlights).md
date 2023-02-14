@@ -5,9 +5,9 @@ category:: #tweets
 url:: https://twitter.com/DellAnnaLuca/status/1622471414833123336
 
 - Highlights first synced by [[Readwise]] [[Feb 6th, 2023]]
-	- Here is a great exercise for self-introspection:
+	- Here is a great exercise for self-[[introspection]]:
 	  
-	  1. Write an *ordered* list of your top 5-10 values (e.g., health, family, honesty, etc.) 
+	  1. Write an *ordered* list of your top 5-10 values (e.g., [[health]], [[family]], [[honesty]], etc.) 
 	  
 	  ![](https://pbs.twimg.com/media/FoQtJmJagAEBB2U.jpg) ([View Tweet](https://twitter.com/DellAnnaLuca/status/1622471414833123336))
 		- **Note**: Thread

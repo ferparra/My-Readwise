@@ -67,11 +67,11 @@ url:: https://twitter.com/FisFraga/status/1621567292466417665
 	  
 	  This was a major game-changer for me.
 	  
-	  I planned 2 to 3 Deep Work sessions and defined specific actions for each.
+	  I planned 2 to 3 [[Deep Work]] sessions and defined specific actions for each.
 	  
 	  It's MUCH easier to start work the next day
 	  
-	  Plus, your subconscious mind gets to think about these plans during sleep! 
+	  Plus, your [[subconscious]] mind gets to think about these plans during sleep! 
 	  
 	  ![](https://pbs.twimg.com/media/FoD24yOacAE3aYr.jpg) ([View Tweet](https://twitter.com/FisFraga/status/1621567328302551040))
 	- 🔶 5: Deep Work is 𝐊𝐞𝐲
@@ -91,7 +91,7 @@ url:: https://twitter.com/FisFraga/status/1621567292466417665
 	  
 	  The effects of caffeine are astounding.
 	  
-	  For 3 months, I drank coffee 2x a day, before my Deep Work sessions.
+	  For 3 months, I drank coffee 2x a day, before my [[Deep Work]] sessions.
 	  
 	  It made a huge difference.
 	  
@@ -106,7 +106,7 @@ url:: https://twitter.com/FisFraga/status/1621567292466417665
 	  🔸 2: Done is better than perfect
 	  🔸 3: Images + Examples = x1000 Quality
 	  🔸 4: Plan the Next day before sleep
-	  🔸 5: Deep Work is 𝐊𝐞𝐲
+	  🔸 5: [[Deep Work]] is 𝐊𝐞𝐲
 	  🔸 6: Caffeine is a powerful creative drug ([View Tweet](https://twitter.com/FisFraga/status/1621567337194459136))
 	- That's it!!
 	  

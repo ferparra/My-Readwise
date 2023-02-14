@@ -18,9 +18,9 @@ url:: https://twitter.com/swyx/status/1385360514553810946
 	  We only have so many years for long term games to compound. Make 'em count.
 	  
 	  https://t.co/IL2wIooYU4 ([View Tweet](https://twitter.com/swyx/status/1385349098790735877))
-	- 2. Writing is Stupendously High Leverage 
+	- 2. Writing is Stupendously High [[Leverage]] 
 	  
-	  It helps to organize my thoughts and learning (aka @fortelabs' Building A Second Brain), and enables me to share great ideas even while I sleep (aka it's a Friendcatcher).
+	  It helps to organize my thoughts and learning (aka @fortelabs' Building A [[Second Brain]]), and enables me to share great ideas even while I sleep (aka it's a Friendcatcher).
 	  
 	  https://t.co/fZJ2XjsevA ([View Tweet](https://twitter.com/swyx/status/1385349100837638145))
 	- 3. Learn in Public

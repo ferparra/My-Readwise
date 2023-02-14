@@ -353,3 +353,5 @@ url:: https://twitter.com/hubermanlab
 	- Terrific brief 8min NSDR/Yoga Nidra which - as a practice, is gaining mechanistic understanding. Meanwhile, this is a great one for improving sleep and recovering “missed” sleep. https://t.co/kacxVBMmtQ ([View Tweet](https://twitter.com/hubermanlab/status/1621994535428698112))
 - New highlights added [[Feb 6th, 2023]] at 10:56 AM
 	- Brief (8-10min) Non-Sleep-Deep-Rest (NSDR) protocols are distinct from meditation & similar but different from Yoga Nidra. Emerging data show they can restore mental & physical vigor, dopamine levels & offset missed hours of sleep. Links to two examples are below (zero cost): ([View Tweet](https://twitter.com/hubermanlab/status/1622370587791466497))
+- New highlights added [[Feb 10th, 2023]] at 3:54 PM
+	- Article @StanfordMed about our lab’s discovery (Clinical Trial) of 5 min Cyclic (Physiological) Sighing as a potent way to reduce anxiety 24/7. For reducing stress/elevating mood Cyclic Sighing outperforms meditation or other practices. https://t.co/qvOjSkBkYx ([View Tweet](https://twitter.com/hubermanlab/status/1623871564579217408))

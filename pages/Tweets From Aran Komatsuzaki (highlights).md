@@ -36,3 +36,11 @@ url:: https://twitter.com/arankomatsuzaki
 	  https://t.co/B1xiiVFoMZ 
 	  
 	  ![](https://pbs.twimg.com/media/Fn2IDb-XEAENPa_.png) ([View Tweet](https://twitter.com/arankomatsuzaki/status/1620601511960272902))
+- New highlights added [[Feb 10th, 2023]] at 3:54 PM
+	- Toolformer: Language Models Can Teach Themselves to Use Tools 
+	  
+	  Presents Toolformer, a model trained to decide which APIs to call, when to call them, what arguments to pass, and how to best incorporate the results into future token prediction. 
+	  
+	  abs: https://t.co/VDChnSTVIa 
+	  
+	  ![](https://pbs.twimg.com/media/Fokb7HZagAAcaYm.png) ([View Tweet](https://twitter.com/arankomatsuzaki/status/1623860375644143616))

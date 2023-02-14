@@ -9,22 +9,22 @@ url:: https://twitter.com/batkomichael/status/1172702983265480704
 	  https://t.co/XUuAeZ2yu0
 	  
 	  <10mins summaries of books I read ([View Tweet](https://twitter.com/batkomichael/status/1172702983265480704))
-	- How to Win Friends and Influence People
+	- [[How to Win Friends and Influence People]]
 	  https://t.co/hZuH5WZQOS
-	- Habits of Highly Effective People
+	- [[7 Habits of Highly Effective People]]
 	  https://t.co/madzbddH2h
-	- Hooked
+	- [[Hooked]]
 	  https://t.co/30lGMl63Ut
-	- Power of Habit
+	- [[Power of Habit]]
 	  https://t.co/bGASPv3hbK
-	- Tao Te Ching
+	- [[Tao Te Ching]]
 	  https://t.co/IvAuIWkQUx
-	- Presuasion
+	- [[Presuasion]]
 	  https://t.co/yc0tuLdsuI
 		- **Tags**: #[[persuassion]]
 	- The Inevitable 12 Tech Trends
 	  https://t.co/8MqKwRqNUe
-	- A Man's Search for Meaning
+	- [[A Man's Search for Meaning]]
 	  https://t.co/sQNtm6lU5e
 	- Founder's Mentality
 	  https://t.co/01B7UBTky9
@@ -169,8 +169,8 @@ url:: https://twitter.com/batkomichael/status/1172702983265480704
 	- Name of the Wind
 	  https://t.co/wQIlouJeZG
 	  
-	  If you want to know the truth of who you are, walk until not a person knows your name. Travel is a great teacher, bitter as medicine. A long stretch of road will teach you more about yourself than a hundred years of quiet introspection. ([View Tweet](https://twitter.com/batkomichael/status/1172710078362767360))
-	- Crossing the Chasm
+	  If you want to know the truth of who you are, walk until not a person knows your name. Travel is a great teacher, bitter as medicine. A long stretch of road will teach you more about yourself than a hundred years of quiet [[introspection]]. ([View Tweet](https://twitter.com/batkomichael/status/1172710078362767360))
+	- [[Crossing the Chasm]]
 	  https://t.co/wp33db62qS
 	  
 	  Trying to cross the chasm without taking a niche market approach is like trying to light a fire without kindling.

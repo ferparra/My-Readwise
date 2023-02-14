@@ -29,7 +29,7 @@ url:: https://twitter.com/andybudd/status/1413467714543226891
 	- However history shows us examples over and over again of initially crappy products slowly (and then much more rapidly) gaining market share. Many (but not all) of these products eventually end up with a good design, but this is typically though countless rounds of iteration. ([View Tweet](https://twitter.com/andybudd/status/1411358573813276673))
 	- Iteration a lot of us designers sit scratching our heads over. If you’d only have let us do the right research/product discovery up front we could have got you there much faster, and avoided a tonne of waste along the way. All of which I’d argue was still true. ([View Tweet](https://twitter.com/andybudd/status/1411359186017996800))
 	- This is where the fundamental category error creeps in. In the early stages of a product, designers think the game is to create the best version of the product, when it’s really just about getting something marginally better than what’s currently being used out the door. ([View Tweet](https://twitter.com/andybudd/status/1411360177626963975))
-	- A lot of this comes down to the “crossing the chasm” concept. In the early stages of a venture, cash flow is generally more important than quality, and with the right sales and marketing in place you should hopefully tempt enough early adopters to try your crappy product. 
+	- A lot of this comes down to the “[[crossing the chasm]]” concept. In the early stages of a venture, cash flow is generally more important than quality, and with the right sales and marketing in place you should hopefully tempt enough early adopters to try your crappy product. 
 	  
 	  ![](https://pbs.twimg.com/media/E5YopzhWEAAu9xG.jpg) ([View Tweet](https://twitter.com/andybudd/status/1411360798748950528))
 		- **Tags**: #[[favorite]]
@@ -46,7 +46,7 @@ url:: https://twitter.com/andybudd/status/1413467714543226891
 	  https://t.co/Een4zKr01S ([View Tweet](https://twitter.com/andybudd/status/1411367222879133701))
 	- Hopefully this tension between our desire to design the right thing and our business partners need for speed and efficiency will balance each other out and we’ll reach some natural equilibrium. ([View Tweet](https://twitter.com/andybudd/status/1411368761379131397))
 	- But for a practice that tends to mourn the missed potential of what could have been, over the great improvements that they actually made, it’s going to continue to be frustrating going. It’s the designers lot. ([View Tweet](https://twitter.com/andybudd/status/1411369311042736134))
-	- Also a big apology for this crazy Twitter stream of consciousness, but I’ve just got back off a weeks holiday in the new forest and this has been buzzing around in my subconscious. ([View Tweet](https://twitter.com/andybudd/status/1411369859003432965))
+	- Also a big apology for this crazy Twitter stream of consciousness, but I’ve just got back off a weeks holiday in the new forest and this has been buzzing around in my [[subconscious]]. ([View Tweet](https://twitter.com/andybudd/status/1411369859003432965))
 	- Some great follow up thoughts from @dingstweets here.
 	  
 	  https://t.co/8qtULNd8RE ([View Tweet](https://twitter.com/andybudd/status/1411685820415811586))

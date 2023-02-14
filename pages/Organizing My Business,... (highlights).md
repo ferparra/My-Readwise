@@ -92,7 +92,7 @@ url:: https://twitter.com/fortelabs/status/1499388402378149895
 	  Certain pieces only works when I'm inspired. Other times, I feel like writing something finicky and detail-oriented. That's ok!
 	  
 	  With this system, I can trust the writing will happen exactly when it should. ([View Tweet](https://twitter.com/fortelabs/status/1499388520431038468))
-	- @NotionHQ @bethenyswineha2 @TheLaurenValdez @LongBeachCity @NotionHQ is just one part of my Second Brain - the bigger system I rely on to not forget my most important ideas, tasks, and life projects.
+	- @NotionHQ @bethenyswineha2 @TheLaurenValdez @LongBeachCity @NotionHQ is just one part of my [[Second Brain]] - the bigger system I rely on to not forget my most important ideas, tasks, and life projects.
 	  
 	  I hope these 3 examples can inspire you to create your own system. It will change your life for the better! ([View Tweet](https://twitter.com/fortelabs/status/1499388522930786305))
 	- @NotionHQ @bethenyswineha2 @TheLaurenValdez @LongBeachCity P.S. This thread was originally a YouTube video, with much more detail.

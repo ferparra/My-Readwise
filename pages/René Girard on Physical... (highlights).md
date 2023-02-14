@@ -16,7 +16,7 @@ url:: https://twitter.com/robkhenderson/status/1598117688169345026
 	- "Even our desires for our partners tend not to be informed fully by our partners but by people around them...This is a full-scale attack on the modern conception of individuals who can form their own decisions through reason, who have an authentic core of desires to tap into." 
 	  
 	  ![](https://pbs.twimg.com/media/Fi2oV8UXwAE0EaC.jpg) ([View Tweet](https://twitter.com/robkhenderson/status/1598118631627718657))
-	- This is very good. Almost nobody ever achieves this level of introspection and self-awareness. 
+	- This is very good. Almost nobody ever achieves this level of [[introspection]] and [[self-awareness]]. 
 	  
 	  ![](https://pbs.twimg.com/media/Fi2rlKzX0AEbnb0.jpg) 
 	  

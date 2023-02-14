@@ -14,7 +14,7 @@ url:: https://twitter.com/patio11/status/1321510312671989762
 	- They're worse in the sense that they'll convert as a lower rate, but they're not necessarily *bad* leads; whether they're good or not depends on your standard CAC vs LTV math.
 	  
 	  But but but but but they will not perform like your early adopters on churn rates, either.
-	- Most businesses will attempt to counteract this by getting better at conversion to recoup some of the notional loss of conversion rate (again, a poor frame for thinking about it) and, wait for it, Charging More, because crossing the chasm ungates Basically All Of The Money.
+	- Most businesses will attempt to counteract this by getting better at conversion to recoup some of the notional loss of conversion rate (again, a poor frame for thinking about it) and, wait for it, Charging More, because [[crossing the chasm]] ungates Basically All Of The Money.
 	- A related factor: leads from different sources are generally lumped together in summary statistics but are often basically incomparable in terms of pre-signup and post-signup behavior.
 	  
 	  And attribution (in complex sales especially) remains a mostly unsolved challenge.

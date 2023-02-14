@@ -42,7 +42,7 @@ url:: https://podcastnotes.org/modern-wisdom/creating-a-life-of-meaning-wisdom-j
 	  
 	  •   **Improve your ability to get in a flow state, also in other domains of your life** ([View Highlight](https://read.readwise.io/read/01gq29kvp4jzmzdeb572tp0gg8))
 		- **Tags**: #[[flow]]
-	- Purpose is only one of the contributors to a meaningful life, and not the most important ([View Highlight](https://read.readwise.io/read/01gq29mfbbzy6qejj4pvbrytcm))
+	- [[Purpose]] is only one of the contributors to a [[meaningful life]], and not the most important ([View Highlight](https://read.readwise.io/read/01gq29mfbbzy6qejj4pvbrytcm))
 		- **Tags**: #[[purpose]]
 	- Personal growth can lead to losing relationships ([View Highlight](https://read.readwise.io/read/01gq29nna6dvb4t9s598fy4h8y))
 	- We continuously move between focus and distraction ([View Highlight](https://read.readwise.io/read/01gq29p21azh15fdzdv1zzk95d))

@@ -47,7 +47,7 @@ url:: https://twitter.com/SadHillWill/status/1575371418220761088
 	  
 	  ![](https://pbs.twimg.com/media/FdzLhnMaAAAaKOt.jpg) ([View Tweet](https://twitter.com/SadHillWill/status/1575371578472529920))
 	- Miller could have allowed the movement within the frame to guide our eye alone in that moment, and that would have worked great for this shot on its own. But he's determined to earn our trust — what's most important will *always* be in the center. ([View Tweet](https://twitter.com/SadHillWill/status/1575371580347412481))
-	- Because Fury Road is so consistent, even though we're used to having to quickly scanning frames in action scenes, this subconscious conditioning works very quickly. We often underestimate how fast we're capable of learning, and how quickly films can teach us, if we're open to it! ([View Tweet](https://twitter.com/SadHillWill/status/1575371581534380033))
+	- Because Fury Road is so consistent, even though we're used to having to quickly scanning frames in action scenes, this [[subconscious]] conditioning works very quickly. We often underestimate how fast we're capable of [[learning]], and how quickly films can teach us, if we're open to it! ([View Tweet](https://twitter.com/SadHillWill/status/1575371581534380033))
 	- In quieter scenes, though, Miller tends to loosen up a bit, allowing his subjects to fall into balance across the frame. He encourages us to relax and search each shot freely. A shifting style of compositional balance is used to control tone and pacing. 
 	  
 	  ![](https://pbs.twimg.com/media/FdzN6FYacAEbuNo.jpg) 

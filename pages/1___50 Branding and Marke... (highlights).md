@@ -248,9 +248,9 @@ url:: https://twitter.com/adamscochran/status/1408090837372784644
 	  2. Focus on authentically connecting with your earliest users in ways that don't scale, and embody your brand in these interactions. ([View Tweet](https://twitter.com/adamscochran/status/1408091487301160970))
 	- 48/50
 	  
-	  3. Work on defining and promoting an engaging culture (product vision, team interaction, community environment) to attract top talent.
+	  3. Work on defining and promoting an engaging [[culture]] ([[product vision]], team interaction, community environment) to attract top talent.
 	  
-	  4. Focus on every overlooked touchpoint of your product to see if it represents you the way you deserve to be seen. ([View Tweet](https://twitter.com/adamscochran/status/1408091488588898310))
+	  4. Focus on every overlooked touchpoint of your [[product]] to see if it represents you the way you deserve to be seen. ([View Tweet](https://twitter.com/adamscochran/status/1408091488588898310))
 	- 49/50
 	  
 	  If you do all those things, instead of listening to a lot of half-baked ad agencies, you'll go a lot farther on a lot less capital. ([View Tweet](https://twitter.com/adamscochran/status/1408091489834577920))

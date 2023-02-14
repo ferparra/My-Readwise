@@ -7,11 +7,11 @@ url:: https://www.youtube.com/watch?v=p3JLaF_4Tz8
 - Highlights first synced by [[Readwise]] [[Jan 29th, 2023]]
 	- 00:00:00 Dr. Anna Lembke, Addiction Expert
 	  00:02:25 Disclaimer & Sponsors: Roka, InsideTracker, Headspace
-	  00:07:00 Dopamine, Happiness & Impulsivity 
-	  00:15:56 What Is Pleasure? 
-	  00:18:20 Addiction, Boredom & Passion for Life
+	  00:07:00 [[Dopamine]], [[Happiness]] & [[Impulsivity]] 
+	  00:15:56 What Is [[Pleasure]]? 
+	  00:18:20 [[Addiction]], [[Boredom]] & [[Passion]] for Life
 	  00:24:00 Pain-Pleasure Balance Controls Addiction
-	  00:29:10 Dopamine Deficits, Anhedonia
+	  00:29:10 [[Dopamine]] Deficits, Anhedonia
 	  00:30:47 Are All Addictions the Same?
 	  00:35:38 Boredom & Anxiety Lead to Creativity 
 	  00:40:35 Finding Your Passion Starts with Boredom & Action Steps 
@@ -24,7 +24,7 @@ url:: https://www.youtube.com/watch?v=p3JLaF_4Tz8
 	  01:20:10 Lying, Truth Telling, Guilt & Shame
 	  01:30:40 Clinical Applications of: Ibogaine, Ayahuasca, Psilocybin & MDMA 
 	  01:40:20 Social Media Addiction 
-	  01:51:25 Narcissism 
+	  01:51:25 [[Narcissism]] 
 	  01:53:30 Goal Seeking, Success & Surprise
-	  01:58:10 Reciprocity
+	  01:58:10 [[Reciprocity]]
 	  02:01:15 Closing Comments, Resources

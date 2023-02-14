@@ -66,3 +66,11 @@ url:: https://twitter.com/nurijanian
 	- JTBD Stack for Starting a SaaS (@shavin47) 
 	  
 	  ![](https://pbs.twimg.com/media/FnY-IVhXgAMs_oN.jpg) ([View Tweet](https://twitter.com/nurijanian/status/1618549432647139330))
+- New highlights added [[Feb 11th, 2023]] at 1:14 PM
+	- How Complex Systems Fail 
+	  
+	  ![](https://pbs.twimg.com/media/Fon7zmUWYAALbxI.jpg) 
+	  
+	  ![](https://pbs.twimg.com/media/Fon7zmlWYAEawvF.jpg) 
+	  
+	  ![](https://pbs.twimg.com/media/Fon7zmqWYAAd0on.jpg) ([View Tweet](https://twitter.com/nurijanian/status/1624106009902850049))

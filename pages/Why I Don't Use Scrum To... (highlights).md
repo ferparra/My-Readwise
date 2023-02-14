@@ -27,7 +27,7 @@ url:: https://twitter.com/SergioRocks/status/1577644315924467712
 	  [[Scrum]] isn't compatible with [[Async]], imo! ([View Tweet](https://twitter.com/SergioRocks/status/1577644333297188869))
 	- Since then, I've stopped using [[Scrum]]. It was my first step to reduce [[meetings]] in my teams.
 	  
-	  Beyond the time actually spent in [[meetings]], they are also a big distraction for people who need to do deep work.
+	  Beyond the time actually spent in [[meetings]], they are also a big distraction for people who need to do [[deep work]].
 	  
 	  Here I wrote more about 7 ways I replace meetings with [[async]] processes: https://t.co/PsW5WsDiut ([View Tweet](https://twitter.com/SergioRocks/status/1577644336417832965))
 	- Another thing I don't like in [[Scrum]] is how it forces all projects/features into a 2-week [[framework]].

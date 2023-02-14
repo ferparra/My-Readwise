@@ -22,17 +22,17 @@ tags:: #[[human motivation]]
 	  [38:10](https://www.youtube.com/watch?v=nl1PIagzgUo&t=2290s) – Value of time in India  
 	  [41:40](https://www.youtube.com/watch?v=nl1PIagzgUo&t=2500s) – Kunal’s startup journey  
 	  [1:00:35](https://www.youtube.com/watch?v=nl1PIagzgUo&t=3635s) – What predicts startup success  
-	  [1:06:42](https://www.youtube.com/watch?v=nl1PIagzgUo&t=4002s) – On insight  
+	  [1:06:42](https://www.youtube.com/watch?v=nl1PIagzgUo&t=4002s) – On [[insight]]  
 	  [1:11:02](https://www.youtube.com/watch?v=nl1PIagzgUo&t=4262s) – Core human motivations  
 	  [1:14:55](https://www.youtube.com/watch?v=nl1PIagzgUo&t=4495s) – Maslow’s Hierarchy of Needs in America vs. India  
 	  [1:18:06](https://www.youtube.com/watch?v=nl1PIagzgUo&t=4686s) – On your group of friends and compounding  
 	  [1:24:29](https://www.youtube.com/watch?v=nl1PIagzgUo&t=5069s) – Sharpening insight through public discourse  
-	  [1:29:55](https://www.youtube.com/watch?v=nl1PIagzgUo&t=5395s) – On signaling  
+	  [1:29:55](https://www.youtube.com/watch?v=nl1PIagzgUo&t=5395s) – On [[signaling]]  
 	  [1:31:47](https://www.youtube.com/watch?v=nl1PIagzgUo&t=5507s) – Inner v. Outer scorecard  
-	  [1:35:15](https://www.youtube.com/watch?v=nl1PIagzgUo&t=5715s) – On jealousy of different levels  
+	  [1:35:15](https://www.youtube.com/watch?v=nl1PIagzgUo&t=5715s) – On [[jealousy]] of different levels  
 	  [1:43:46](https://www.youtube.com/watch?v=nl1PIagzgUo&t=6226s) – Most people aren’t in the truth business  
 	  [1:53:45](https://www.youtube.com/watch?v=nl1PIagzgUo&t=6825s) – On getting surprised  
 	  [1:55:28](https://www.youtube.com/watch?v=nl1PIagzgUo&t=6928s) – Wealthy people keep secrets  
 	  [2:02:32](https://www.youtube.com/watch?v=nl1PIagzgUo&t=7352s) – On making decisions  
-	  [2:18:35](https://www.youtube.com/watch?v=nl1PIagzgUo&t=8315s) – Opportunity cost  
+	  [2:18:35](https://www.youtube.com/watch?v=nl1PIagzgUo&t=8315s) – [[Opportunity cost]]  
 	  [2:22:10](https://www.youtube.com/watch?v=nl1PIagzgUo&t=8530s) – on hiring high performers ([View Highlight](https://read.readwise.io/read/01gqybajext077fe34kaa541dk))

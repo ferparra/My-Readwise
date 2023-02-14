@@ -5,7 +5,7 @@ category:: #tweets
 url:: https://twitter.com/fortelabs
 
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
-	- Notetaking apps used by students in the current cohort of our Building a Second Brain course:
+	- Notetaking apps used by students in the current cohort of our Building a [[Second Brain]] course:
 	  
 	  @evernote: 350
 	  @RoamResearch: 263

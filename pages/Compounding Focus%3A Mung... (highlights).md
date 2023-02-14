@@ -9,7 +9,7 @@ url:: https://twitter.com/andrewcyu/status/1313564851197763584
 	  
 	  Munger's quote about compounding is super applicable to FOCUS as well 
 	  
-	  couldn't get this image out of my head yday and cranked through hours of deep work imagining each distraction as "unnecessary interruption" 
+	  couldn't get this image out of my head yday and cranked through hours of [[deep work]] imagining each distraction as "unnecessary interruption" 
 	  
 	  cheers @jackbutcher for this new focus model https://t.co/tX6DbsqbkE ([View Tweet](https://twitter.com/andrewcyu/status/1313564848190492672))
 	- 2/ Begs the question – what is ever a "necessary" interruption? bathroom, eating, exercise. other than that, pretty much everything could be categorized as "unnecessary interruption" right?

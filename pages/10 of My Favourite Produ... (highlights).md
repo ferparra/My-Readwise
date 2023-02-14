@@ -37,7 +37,7 @@ url:: https://twitter.com/LisaZane15/status/1485706404266749953
 	  The way this was conceived was so, so smart. Turning PMF into a leading indicator is 🔥 for anyone building new products from scratch with many unknowns. 
 	  
 	  https://t.co/nudETos3Ud ([View Tweet](https://twitter.com/LisaZane15/status/1485706415398432770))
-	- 5. Examples of Product Vision, Product Principles, Product Strategy, and Written Narratives by @cagan 
+	- 5. Examples of [[Product Vision]], Product Principles, Product Strategy, and Written Narratives by @cagan 
 	  
 	  Why? 
 	  

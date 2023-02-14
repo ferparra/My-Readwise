@@ -81,7 +81,7 @@ url:: https://twitter.com/dickiebush/status/1576576147172872193
 	  
 	  Split the page in 2 columns and brain dump bullet points of everything that comes to mind.
 	  
-	  The goal here is to identify in the present moment what's working and what's not working.
+	  The goal here is to identify in the [[present moment]] what's working and what's not working.
 	  
 	  From there, you ask another question: ([View Tweet](https://twitter.com/dickiebush/status/1576576183847845890))
 	- 4. Based on these areas, what am I going to do more of? Less of?

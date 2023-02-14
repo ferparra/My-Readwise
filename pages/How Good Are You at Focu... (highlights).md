@@ -30,17 +30,17 @@ url:: https://twitter.com/rroudt/status/1407296095483416582
 	- Journaling has been the most effective tool for me to gain clarity and set course towards my vision.
 	  
 	  For more than five years, I’ve been writing for and to myself. In that period, I’ve become aware of unhealthy behaviors and nudged myself onto a straighter path. ([View Tweet](https://twitter.com/rroudt/status/1407296101170892801))
-	- Journaling has saved my life, literally.
+	- [[Journaling]] has saved my life, literally.
 	  
 	  By writing, I started to hold a mirror to myself every day. What I saw was an unhappy, obese, and alcoholic kid who never grew up. I was still a scared boy, not taking ownership.
 	  
 	  Journaling made me see it, and work my way out of it. ([View Tweet](https://twitter.com/rroudt/status/1407296102362013697))
-	- One of the realizations that journaling has given me is that I’m not a single person.
+	- One of the realizations that [[journaling]] has given me is that I’m not a single person.
 	  
 	  I see myself as a trinity, as roughly three persons; there’s my past self, my current self, and my future self.
 	  
 	  By thinking and caring for all three of my selves, my life has improved a lot. ([View Tweet](https://twitter.com/rroudt/status/1407296103540609025))
-	- This is the the cycle of self-improvement that I found by journaling consistently:
+	- This is the the cycle of [[self-improvement]] that I found by [[journaling]] consistently:
 	  
 	  1) I learn from my past self in the present.
 	  2) My present self distills lessons from the past and sends them to my future self.

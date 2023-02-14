@@ -40,9 +40,9 @@ url:: https://twitter.com/simplybastow/status/1181868931918766080
 	  DITCH YOUR TIMELINE ROADMAPS!
 	  
 	  There are alternatives that won't set you up for failure: ([View Tweet](https://twitter.com/simplybastow/status/1168531714832027648))
-	- Step 1: Start with a product vision
+	- Step 1: Start with a [[product vision]]
 	  
-	  Here's a format that works well. It's the elevator pitch template from @geoffreyamoore's fantastic book, Crossing the Chasm, and it asks the right sort of questions to get you started on your vision statement. 
+	  Here's a format that works well. It's the [[elevator pitch]] [[template]] from @geoffreyamoore's fantastic book, [[Crossing the Chasm]], and it asks the right sort of questions to get you started on your [[vision statement]]. 
 	  
 	  ![](https://pbs.twimg.com/media/EDd1Z5pXsAA1R6C.jpg) ([View Tweet](https://twitter.com/simplybastow/status/1168531721786134528))
 	- Step 2: Think outcomes, not output

@@ -6,7 +6,7 @@ url:: https://podcastnotes.org/venture-stories/the-power-of-mimetic-desire-in-ev
 tags:: #[[mimetic theory]]
 
 - Highlights first synced by [[Readwise]] [[Jan 18th, 2023]]
-	- Mimetic theory is an explanation of human behavior and culture created by French philosopher Rene Girard ([View Highlight](https://read.readwise.io/read/01gq29445rcqtd47ay5t919ay1))
+	- [[Mimetic theory]] is an explanation of human behavior and culture created by French philosopher [[Rene Girard]] ([View Highlight](https://read.readwise.io/read/01gq29445rcqtd47ay5t919ay1))
 	- **“Man is the creature who does not know what to desire, and he turns to others in order to make up his mind. We desire what others desire because we imitate their desires.”** – *Rene Girard* ([View Highlight](https://read.readwise.io/read/01gq294dht8x5dbqr1w2jwwyah))
 		- **Tags**: #[[quotes]] #[[mimetic theory]] #[[desire]]
 	- “If you want to build a ship, don’t drum up people to collect wood and don’t assign them tasks and work, but rather teach them to long for the endless immensity of the sea” – *Antoine de Saint-Exupery* ([View Highlight](https://read.readwise.io/read/01gq295bqxfxr50vg0c6z3sgbz))

@@ -1,0 +1,41 @@
+title:: 1/ Why You Need to Docum... (highlights)
+author:: [[@jposhaughnessy on Twitter]]
+full-title:: "1/ Why You Need to Docum..."
+category:: #tweets
+url:: https://twitter.com/jposhaughnessy/status/1218578824197218309
+
+- Highlights first synced by [[Readwise]] [[Feb 12th, 2023]]
+	- 1/ Why you need to document things to improve your decision-making, a thread:
+	  
+	  "The first principle is that you must not fool yourself and you are the easiest person to fool."
+	  ~Richard P. Feynman
+	  
+	  Feynman is one of my heroes, a brilliant physicist who was also a renaissance man ([View Tweet](https://twitter.com/jposhaughnessy/status/1218578824197218309))
+		- **Note**: Thread
+	- 2/ If you read any of his books or the books written about him, you'll see he had an amazing capacity to challenge not only conventional views and beliefs, but also his own as well. As I've mentioned in other threads, that's a really hard habit to acquire. ([View Tweet](https://twitter.com/jposhaughnessy/status/1218578824843145216))
+	- 3/ One reason why it's so hard is that our brain's have some funny kinks that exist to give us a "kinder and gentler" view of reality and ourselves than is warranted. One such kink is the foundation of hindsight bias, where our brain rewires our "memories" to make them consistent ([View Tweet](https://twitter.com/jposhaughnessy/status/1218578825447124993))
+	- 4/ with current conditions. And the sneaky part is, we genuinely believe that our current "memory" of what we thought in the past is accurate. One way to see just how true this is is to keep a handwritten journal of decisions and beliefs throughout time. https://t.co/hyeVuU39pU ([View Tweet](https://twitter.com/jposhaughnessy/status/1218578826172813314))
+	- 5/ If you can consistently record thoughts, decisions and beliefs over time, you'll quickly see that we are all "unreliable narrators." An unreliable narrator is a "narrator whose credibility has been seriously compromised. ([View Tweet](https://twitter.com/jposhaughnessy/status/1218578827179368450))
+	- 6/ The term was coined in 1961 by Wayne C. Booth in "The Rhetoric of Fiction."" It's hard to describe the first time you adamantly maintain you held a certain view in the past, only to discover by returning to your handwritten journal that you did *not* hold that view. https://t.co/4WMSuTV6LG ([View Tweet](https://twitter.com/jposhaughnessy/status/1218578827984756736))
+	- 7/ As an example, During the crash of 1987, I for a while well afterward felt that I "knew" the crash was coming and had amassed a large put position in anticipation of it. What I conveniently "misremembered" until going back to my journals is that I sold all those puts ([View Tweet](https://twitter.com/jposhaughnessy/status/1218578829289107457))
+	- 8/ the *day before* the actual crash! 
+	  
+	  My journal revealed that I had changed my mind and that I thought the worst had passed and was worried that the huge bull reversal would *crush* my put position. Here's the thing: I would have sworn under oath that wasn't the way things https://t.co/brogx2UL1K ([View Tweet](https://twitter.com/jposhaughnessy/status/1218578830367100929))
+	- 9/ transpired. Why? Because my brain was doing me a "kindness" by rearranging my memory to make it consistent with my then current belief. Evolution wants we humans to maintain an "illusion of continuity and control" because frankly, without it, we could lose our minds. ([View Tweet](https://twitter.com/jposhaughnessy/status/1218578831780597761))
+	- 10/ Imagine what would happen if our brains *didn't* edit and rework all of the data hitting our perception field. Given that we register only a fraction of all the data and stimuli we take in, taking it all in might genuinely lead to loss of control and madness. https://t.co/cMM8ZeZYl7 ([View Tweet](https://twitter.com/jposhaughnessy/status/1218578832850083840))
+	- 11/ If you follow the speculation in psychology and psychiatry, one potential reason for things like schizophrenia is filter failure, where the brain doesn't filter out extraneous data. So, what to do? I advocate keeping a handwritten journal of at least your *major* ([View Tweet](https://twitter.com/jposhaughnessy/status/1218578833907036160))
+	- 12/ decisions and beliefs. Why handwritten? 
+	  
+	  Because like the evil overlords in George Orwell's "1984," the Ministry of "Truth" was the opposite, flushing all embarrassing truths down the ‘memory hole,' our brains are formatted to do the same. That means if you have the ([View Tweet](https://twitter.com/jposhaughnessy/status/1218578834599092225))
+	- 13/ ability to alter the record (say by changing the text of a word document) you might do so without really remembering that you did. I experienced this first hand while writing several of my books: I would make changes, save them without noting changes were made, and then ([View Tweet](https://twitter.com/jposhaughnessy/status/1218578835484094465))
+	- 14/ being "surprised" that the text was different than I had recalled. (This is why marking changes and saving by version becomes so important when you are consciously trying to keep track of things.) This won't surprise people who have written books or long form essays, ([View Tweet](https://twitter.com/jposhaughnessy/status/1218578836331356160))
+	- 15/ but it genuinely does surprise people who have not. Many who have not experienced this are incredulous and think "well, maybe that's a problem for you, but I would *never* do something so dumb!" 
+	  
+	  Hint: that's another trick of the brain and, yes, you would. https://t.co/bUFiCnKINI ([View Tweet](https://twitter.com/jposhaughnessy/status/1218578837010821121))
+	- 16/ So, in addition to some interesting speculation about writing things out by hand imprinted differently on your brain than typing things, the more pragmatic reason is--you can't scribble things out of a handwritten document without noticing that you have done so. https://t.co/Bqbvrg0OFB ([View Tweet](https://twitter.com/jposhaughnessy/status/1218578837895831555))
+	- 17/ And seeing things in your own handwriting makes if very difficult to argue with or fool yourself. This process also makes your mind far more open to understanding that we do such things unconsciously and that it is generally a universal part of being a human being. https://t.co/5gxihn6J7p ([View Tweet](https://twitter.com/jposhaughnessy/status/1218578838856355845))
+	- 18/ This very exercise leaves you far more open to understanding and combating these quirks of the mind and allows you far more flexibility in being more open to understanding them which, in turn, helps you begin to better optimize your mental models and thought processes. ([View Tweet](https://twitter.com/jposhaughnessy/status/1218578840802471936))
+	- 19/ But, it's honestly hard to begin drilling down on yourself in this manner. It feels unnatural when you start and you might originally find yourself abandoning the practice. To that I say, of course you will, I did, we all do because we're all human and share similar https://t.co/XABAUCk09t ([View Tweet](https://twitter.com/jposhaughnessy/status/1218578841444212736))
+	- 20/ software. But if you're diligent and get over the hump, you'll be amazed that you didn't realize this process was happening and after getting over the shock of seeing this happen the first time you go back to your journals, you'll actually begin to rewire your brain for https://t.co/RRyqqYksgN ([View Tweet](https://twitter.com/jposhaughnessy/status/1218578842958417920))
+	- 21/ the better. Our brains are quantum supercomputers that do amazing stuff for us, but it's okay to understand that some of the programs they run are no longer useful to maximizing of decision-making capabilities and deleting and replacing them with better programs. https://t.co/rGHhtCiDEl ([View Tweet](https://twitter.com/jposhaughnessy/status/1218578844019560448))
+	- 22/ We're amazing creatures that have the ability to optimize and improve ourselves, the trick is, like many new habits, to repeat it enough times to make it stick. And the first time you see your thought process improve, you'll be delighted you did. https://t.co/zmqAI38I5D ([View Tweet](https://twitter.com/jposhaughnessy/status/1218578845143531525))

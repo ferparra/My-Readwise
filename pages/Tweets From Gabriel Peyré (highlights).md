@@ -53,3 +53,5 @@ url:: https://twitter.com/gabrielpeyre
 	- Network flow problem is a specific class of linear programs that finds numerous applications (eg network, communication, optimal transport). On contrary to general LP, there are efficient cubic time simplex solvers. https://t.co/AShT7ZnGIt 
 	  
 	  ![](https://pbs.twimg.com/media/FkrlutZXkB0r_z3.jpg) ([View Tweet](https://twitter.com/gabrielpeyre/status/1614140381943177217))
+- New highlights added [[Feb 11th, 2023]] at 11:01 PM
+	- Cellular automata are discrete dynamical models defined by a local operator. For 3 neighbors automata, there are 256 possible rules, some more interesting than others. https://t.co/MGY0dgnjRG https://t.co/ueY1ApX2Da ([View Tweet](https://twitter.com/gabrielpeyre/status/1624287116988497920))

@@ -49,7 +49,7 @@ tags:: #[[@lex-fridman]] #[[@tyler-cowen]]
 	- The CCP made a lot of good decisions
 	  
 	  •   Created infrastructure to attract people to cities
-	  •   Instilled a genuine meritocracy (reward and elevate talented people) ([View Highlight](https://read.readwise.io/read/01gq3d586d3cgwzecnthgwk42x))
+	  •   Instilled a genuine [[meritocracy]] (reward and elevate talented people) ([View Highlight](https://read.readwise.io/read/01gq3d586d3cgwzecnthgwk42x))
 		- **Tags**: #[[policy]] #[[china]]
 	- **Build small groups of peers with common interests**
 	  

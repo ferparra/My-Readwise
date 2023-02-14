@@ -117,7 +117,7 @@ url:: https://twitter.com/robkhenderson
 	  
 	  —Tocqueville ([View Tweet](https://twitter.com/robkhenderson/status/1607607802897534983))
 - New highlights added [[Jan 13th, 2023]] at 10:27 AM
-	- "It takes a huge investment in introspection to learn that 'studying' the news last month neither had any predictive ability during your activities of that month nor did it impact your current knowledge of the world." https://t.co/alR1dEMu63 
+	- "It takes a huge investment in [[introspection]] to learn that 'studying' the news last month neither had any predictive ability during your activities of that month nor did it impact your current [[knowledge]] of the world." https://t.co/alR1dEMu63 
 	  
 	  ![](https://pbs.twimg.com/media/FmIMQ5CXkB8poBM.jpg) ([View Tweet](https://twitter.com/robkhenderson/status/1612865106697752592))
 	- Camille Paglia's essay "What I hate about Foucault": 
@@ -156,3 +156,12 @@ url:: https://twitter.com/robkhenderson
 	- "From sacrifice comes meaning. From struggle comes purpose...If there is anything to romanticize about art, it’s the struggle...A willingness to trade off something—time, comfort, easy money, recognition—lies at the heart of every great work."  -@RyanHoliday 
 	  
 	  ![](https://pbs.twimg.com/media/FoZQN7sWAAIy_Mv.jpg) ([View Tweet](https://twitter.com/robkhenderson/status/1623072995831951362))
+- New highlights added [[Feb 11th, 2023]] at 4:16 PM
+	- "when one commits and/or is reminded of a personal past wrongdoing, our psychological immune system is activated, as it seeks to eliminate—or, at least, mitigate—threats to our beliefs that we are fundamentally and truly morally good." https://t.co/ReK8E9ApbX 
+	  
+	  ![](https://pbs.twimg.com/media/Foo-X4rXEAAqOZJ.png) 
+	  
+	  ![](https://pbs.twimg.com/media/Foo-YimXwAEbpJg.png) ([View Tweet](https://twitter.com/robkhenderson/status/1624179306992738305))
+	- "pursuing happiness does not lead to happiness. Happiness emerges when we are making good progress towards other goals; the idea that we ought to be able to attain happiness per se paradoxically sets us up for failure and for low mood." https://t.co/5Dh54qJBSw 
+	  
+	  ![](https://pbs.twimg.com/media/FonMRPHWYAAAUsU.jpg) ([View Tweet](https://twitter.com/robkhenderson/status/1624053879427006478))

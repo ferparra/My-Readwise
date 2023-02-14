@@ -7,7 +7,7 @@ url:: https://medium.com/the-mission/this-10-minute-routine-will-increase-your-m
 - Highlights first synced by [[Readwise]] [[Nov 18th, 2022]]
 	- Your memory gets better as you become more imaginative
 	- You can’t remember something if you don’t connect it to something else.
-	- “Never go to sleep without a request to your subconscious.”
+	- “Never go to sleep without a request to your [[subconscious]].”
 	- Willpower is a linear and brutish approach to accomplishing something.
 		- **Tags**: #[[willpower]] #[[favorite]]
 	- ‘When the imagination and the will are in conflict, the imagination always wins.’ If you ‘will’ yourself to remember, and your imagination is not on the task, you will have zero retention and recall. Your imagination is the place of all your memory power.”

@@ -8,7 +8,7 @@ url:: https://share.snipd.com/episode/cda38a3f-b0fa-4399-b49c-3e21e8767a98
 	- How to Capture Less and Store More Relevant Information
 	  
 	  Key takeaways:
-	  (* It is important to be selective with what is stored in a second brain, as overstoring can lead to less value being created., * It is important to be aware of the potential negative impacts of overstoring, such as becoming less able to access and use information.)
+	  (* It is important to be selective with what is stored in a [[second brain]], as overstoring can lead to less value being created., * It is important to be aware of the potential negative impacts of overstoring, such as becoming less able to access and use information.)
 	  
 	  Transcript:
 	  Speaker 2

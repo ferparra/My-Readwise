@@ -21,7 +21,7 @@ url:: https://twitter.com/rroudt/status/1412748772010991621
 	  Our mental working memory is limited, so we need to externalize our thinking to be effective.
 	  
 	  Yet, few knowledge workers treat their notes as first-class parts of their process, wasting them instead. ([View Tweet](https://twitter.com/rroudt/status/1412748745205157893))
-	- I learned the CODE Framework from @fortelabs in his Building a Second Brain course.
+	- I learned the CODE Framework from @fortelabs in his Building a [[Second Brain]] course.
 	  
 	  Once I grokked the lifecycle of useful notes, I started to be more careful in collecting them.
 	  

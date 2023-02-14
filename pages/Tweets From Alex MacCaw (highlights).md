@@ -9,9 +9,9 @@ url:: https://twitter.com/maccaw
 	- When picking startup ideas, my advice is to first pick an audience, and then to build something they want.
 	  
 	  You'll spend a lot of time with your customers - it's much more fun building things for people you like hanging out with. ([View Tweet](https://twitter.com/maccaw/status/1411437996629430274))
-	- What I'm realizing with @reflectnotes is that a lot of people are looking for guidance on how to takes notes effectively and build a second brain.
+	- What I'm realizing with @reflectnotes is that a lot of people are looking for guidance on how to takes notes effectively and build a [[second brain]].
 	  
-	  So we're putting together a note-taking academy. More soon! 
+	  So we're putting together a [[note-taking]] academy. More soon! 
 	  
 	  ![](https://pbs.twimg.com/media/E-2zxJfVIA4gMnu.jpg) ([View Tweet](https://twitter.com/maccaw/status/1436001782610599936))
 	- Bootstrapping in 2021:

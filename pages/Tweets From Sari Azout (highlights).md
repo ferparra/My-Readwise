@@ -9,7 +9,7 @@ url:: https://twitter.com/sariazout
 	  
 	  the point is to help people live a good life, not an efficient life
 	  
-	  the point is resonance, not scale
+	  the point is [[resonance]], not scale
 	  
 	  the point is to deliver comfort, not just convenience
 	  

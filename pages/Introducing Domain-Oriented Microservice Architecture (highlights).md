@@ -5,7 +5,7 @@ category:: #articles
 url:: https://eng.uber.com/microservice-architecture/
 
 - Highlights first synced by [[Readwise]] [[Nov 18th, 2022]]
-	- Understanding dependencies between services can become quite difficult, as calls between services can go many layers deep. A latency spike in the nth dependency can cause a cascade of issues upstream. Visibility into what’s actually happening is impossible without the right tools, making debugging difficult.
+	- Understanding [[dependencies]] between services can become quite difficult, as calls between services can go many layers deep. A latency spike in the nth dependency can cause a cascade of issues upstream. Visibility into what’s actually happening is impossible without the right tools, making debugging difficult.
 	- Instead of orienting around single microservices, we oriented around collections of related microservices. We call these domains.
 	  We further create collections of domains which we call layers. The layer that the domain belongs to establishes what dependencies the microservices within that domain are allowed to take on. We call this layer design.
 	  We provide clean interfaces for domains that we treat as a single point of entry into the collection. We call these gateways.

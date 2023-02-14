@@ -11,8 +11,8 @@ url:: https://twitter.com/rroudt
 	  • Kindle for books
 	  • Memex / Instapaper for articles
 	  • @readwiseio to sync everything
-	  • @RoamResearch as a second brain to feed my first brain
-	  • Roam SR for spaced repetition (bye bye Anki, after 15+ years) ([View Tweet](https://twitter.com/rroudt/status/1379755406558367749))
+	  • @RoamResearch as a [[second brain]] to feed my first brain
+	  • Roam SR for [[spaced repetition]] (bye bye Anki, after 15+ years) ([View Tweet](https://twitter.com/rroudt/status/1379755406558367749))
 	- Keep a journal to raise your awareness and change habits.
 	  
 	  Because habits are automatic behaviors, it’s nearly impossible to stop them in each moment.

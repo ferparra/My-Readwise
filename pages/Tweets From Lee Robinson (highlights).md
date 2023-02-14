@@ -19,3 +19,7 @@ url:: https://twitter.com/leeerob
 	  Use async/await to fetch data directly in Server Components. 
 	  
 	  ![](https://pbs.twimg.com/media/FgCO6g2UYAAG2eb.jpg) ([View Tweet](https://twitter.com/leeerob/status/1585424395857645568))
+- New highlights added [[Feb 14th, 2023]] at 9:02 AM
+	- Vercel Cron Jobs. Next week. 
+	  
+	  ![](https://pbs.twimg.com/media/Fo4J6XZWcAMFUnf.png) ([View Tweet](https://twitter.com/leeerob/status/1625249090932994051))

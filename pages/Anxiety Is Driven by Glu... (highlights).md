@@ -16,7 +16,7 @@ url:: https://twitter.com/Grimhood/status/1381640511136493572
 	  
 	  When people say it “doesn’t help”, this indicates glutamate/adrenaline/cortisol too high to manage in this state on their own. ([View Tweet](https://twitter.com/Grimhood/status/1381640983826157569))
 	- Not that they’re “doing it wrong”, but their biochemistry prevents them from shifting it without support. ([View Tweet](https://twitter.com/Grimhood/status/1381640985092878336))
-	- Anxiety really is one of the easier states to relieve altogether.
+	- [[Anxiety]] really is one of the easier states to relieve altogether.
 	  
-	  It’s a shame people either get stuck in victim mentality or doctors tell them there is no hope outside of addictive medications. ([View Tweet](https://twitter.com/Grimhood/status/1381640986397315074))
+	  It’s a shame people either get stuck in [[victim mentality]] or doctors tell them there is no hope outside of addictive medications. ([View Tweet](https://twitter.com/Grimhood/status/1381640986397315074))
 	- Now, take this actionable advice and thrive potentially for the very first time in your life. ([View Tweet](https://twitter.com/Grimhood/status/1381640987676614656))

@@ -7,7 +7,7 @@ url:: https://twitter.com/gametheorizing/status/1459679046254706688
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
 	- Starting a mega-🧵 on life alpha. 
 	  
-	  Insights that appear when my subconscious is lit up (eg shower thoughts, traveling) will be added periodically as they manifest.
+	  Insights that appear when my [[subconscious]] is lit up (eg shower thoughts, traveling) will be added periodically as they manifest.
 	  
 	  My goal is to collect the ingredients for making great life decisions, & you are welcome to join for the ride 🚀 ([View Tweet](https://twitter.com/gametheorizing/status/1459679046254706688))
 		- **Note**: Thread

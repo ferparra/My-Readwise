@@ -11,11 +11,11 @@ url:: https://blas.com/how-to-love/
 	- Understanding someone’s suffering is the best gift you can give another person. Understanding is love’s other name. If you don’t understand, you can’t love.
 	- In true love there is no place for pride.
 	- Your good intentions are not enough; you have to be artful.
-	- The Six Mantras
+	- [[The Six Mantras]]
 	  
-	  I am here for you – The greatest gift we can make to others is our true presence.
+	  I am here for you – The greatest gift we can make to others is our true [[presence]].
 	  I know you are there and I am happy
-	  I know you are suffering
-	  I am suffering
-	  This is a happy moment – when you’re sitting together, walking together, eating, or doing something together, breathe in mindfully and realize how lucky you are. Mindfulness makes the present moment into a wonderful moment.
+	  I know you are [[suffering]]
+	  I am [[suffering]]
+	  This is a happy moment – when you’re sitting together, walking together, eating, or doing something together, breathe in mindfully and realize how lucky you are. [[Mindfulness]] makes the present moment into a wonderful moment.
 	  You are partly right – You are not a victim of illusion because you know that you’re not perfect. And when another person criticizes you, you can also say, “You are partly right.”

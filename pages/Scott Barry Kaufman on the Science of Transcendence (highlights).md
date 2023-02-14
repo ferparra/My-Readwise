@@ -8,7 +8,7 @@ url:: https://share.snipd.com/episode/77639c2c-949b-4fc9-9d69-a2654bf90862
 	- Self Acceptance is a Game Changer
 	  
 	  Summary:
-	  Self acceptance is about owning your behaviour in a way that basically dissipates shame. I think you're also seeing this play out more controversially in the setrans movement. You know, i'm a lot of these individuals a who have gender identities that are extraordinarily mismatched to their physical bodies. That experience is disorientig f for people t question. What's controversial is, what do you do with that? Do you call yourself a different gender, or do you deal with it in other ways? And that's openf for discussion, i think, debate. But nevertheless, if you can have self acceptance over the fact that you are out there, you know, on a bell curve
+	  [[Self-acceptance]] is about owning your behaviour in a way that basically dissipates [[shame]]. I think you're also seeing this play out more controversially in the setrans movement. You know, i'm a lot of these individuals a who have gender identities that are extraordinarily mismatched to their physical bodies. That experience is disorientig f for people t question. What's controversial is, what do you do with that? Do you call yourself a different gender, or do you deal with it in other ways? And that's openf for discussion, i think, debate. But nevertheless, if you can have self acceptance over the fact that you are out there, you know, on a bell curve
 	  
 	  Transcript:
 	  Speaker 2

@@ -7,7 +7,7 @@ url:: https://twitter.com/erinmuur/status/1428128290569662468
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
 	- It’s been just over a week since @readwiseio launched our native Obsidian integration and I’m blown away by the helpfulness and creativity of this community! A few of my faves resources ⬇️💕 ([View Tweet](https://twitter.com/erinmuur/status/1428128290569662468))
 		- **Note**: Thread
-	- 📽️ For visual learners or beginners: @zowielangdon just released a step-by step walkthrough that covers everything from plugin installation to how he structures a second brain within Obsidian. Definitely the most comprehensive tutorial I’ve seen to date: 
+	- 📽️ For visual learners or beginners: @zowielangdon just released a step-by step walkthrough that covers everything from plugin installation to how he structures a [[second brain]] within Obsidian. Definitely the most comprehensive tutorial I’ve seen to date: 
 	  https://t.co/0hMr8HTlw7 ([View Tweet](https://twitter.com/erinmuur/status/1428129013285937156))
 	- 📚 For those who prefer to read: 
 	  @benenewton was kind enough to do a deep dive over on Medium, including an overview of YAML frontmatter options:

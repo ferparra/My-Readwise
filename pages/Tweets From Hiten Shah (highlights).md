@@ -8,7 +8,7 @@ url:: https://twitter.com/hnshah
 	- My simple explanation of startup pivots... 
 	  
 	  ![](https://pbs.twimg.com/media/E172CR5VgAIOahs.jpg) ([View Tweet](https://twitter.com/hnshah/status/1395823458106286082))
-	- A surprisingly simple technique for a rockstar product vision: The Ladder of Needs https://t.co/c4wwKe4gDX 
+	- A surprisingly simple technique for a rockstar [[product vision]]: The Ladder of Needs https://t.co/c4wwKe4gDX 
 	  
 	  ![](https://pbs.twimg.com/media/DkA1ZAhUcAA_q7y.jpg) 
 	  

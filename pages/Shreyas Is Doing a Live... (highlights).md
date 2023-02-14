@@ -27,7 +27,7 @@ url:: https://twitter.com/swyx/status/1492687642550411267
 	  
 	  https://t.co/1NmVhRbIS1
 	  
-	  Principle 2: You must block time in your calendar for deep work. Nothing new here for people who've followed me for a while :) ([View Tweet](https://twitter.com/swyx/status/1492687649823334402))
+	  Principle 2: You must block time in your calendar for [[deep work]]. Nothing new here for people who've followed me for a while :) ([View Tweet](https://twitter.com/swyx/status/1492687649823334402))
 	- Q: How to manage notifications?
 	  
 	  trim channels, no Slack on phone, but respond to DMs ASAP

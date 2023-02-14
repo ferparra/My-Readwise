@@ -32,3 +32,11 @@ url:: https://twitter.com/zsviczian
 	  👉👉👉 https://t.co/SmALorplZV 
 	  
 	  ![](https://pbs.twimg.com/media/FG_myV6X0AA9RYg.jpg) ([View Tweet](https://twitter.com/zsviczian/status/1472649614335565837))
+- New highlights added [[Feb 11th, 2023]] at 7:16 PM
+	- Here's a short video about an experiment in creating a book-on-a-page summary for a book I haven't read.
+	  
+	  Is the skill of creating a hand-crafted book on a page summary still relevant? See my answer in the video.
+	  
+	  👉👉👉 https://t.co/4Z18e3ftzc 
+	  
+	  ![](https://pbs.twimg.com/media/FonnwedXsAk9jKU.jpg) ([View Tweet](https://twitter.com/zsviczian/status/1624084506599731202))

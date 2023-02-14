@@ -474,7 +474,7 @@ url:: https://twitter.com/Jeanvaljean689/status/1360350303611064320
 	  --> ([View Tweet](https://twitter.com/Jeanvaljean689/status/1359555692890255362))
 	- 83/n I make this distinction very consciously ...
 	  
-	  The *individual* may well get to have a "second brain"-like feeling, with a well designed Memex -
+	  The *individual* may well get to have a "[[second brain]]"-like feeling, with a well designed Memex -
 	  
 	  But the TRUE magic is that a community can discover a sense of collective ❤️️and in synchrony + that's where *wisdom* begins. https://t.co/wUZbQ0nieN ([View Tweet](https://twitter.com/Jeanvaljean689/status/1359555700242845700))
 	- 84/n ❤

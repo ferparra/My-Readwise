@@ -15,7 +15,7 @@ url:: https://www.youtube.com/watch?v=dmyapk-WH5w
 	  54:19 - Social media: A global intelligence network
 	  58:11 - Minimizing your [[opportunity costs]]
 	  01:08:19 - Lessons from school at the workplace
-	  01:24:26 - Tao Te Ching on leadership
+	  01:24:26 - [[Tao Te Ching]] on [[leadership]]
 	  01:27:17 - Being an invisible leader
 	- And MUCH more including:
 	- Books Mentioned:

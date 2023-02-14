@@ -11,5 +11,5 @@ url:: https://theamericanscholar.org/solitude-and-leadership/
 	- Marlow believes in the need to find yourself just as much as anyone does, and the way to do it, he says, is work, solitary work. Concentration. Climbing on that steamboat and spending a few uninterrupted hours hammering it into shape. Or building a house, or cooking a meal, or even writing a college paper, if you really put yourself into it.
 		- **Tags**: #[[favorite]]
 	- “Your own reality—for yourself, not for others.” Thinking for yourself means finding yourself, finding your own reality.
-	- Introspection means talking to yourself, and one of the best ways of talking to yourself is by talking to another person
+	- [[Introspection]] means talking to yourself, and one of the best ways of talking to yourself is by talking to another person
 	- The time to start preparing yourself for them is now. And the way to do it is by thinking through these issues for yourself—morality, mortality, honor—so you will have the strength to deal with them when they arise. Waiting until you have to confront them in practice would be like waiting for your first firefight to learn how to shoot your weapon.

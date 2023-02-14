@@ -1,0 +1,17 @@
+title:: Ted Chiang Is a Great Wr... (highlights)
+author:: [[@AndrewLampinen on Twitter]]
+full-title:: "Ted Chiang Is a Great Wr..."
+category:: #tweets
+url:: https://twitter.com/AndrewLampinen/status/1624422478045913090
+
+- Highlights first synced by [[Readwise]] [[Feb 12th, 2023]]
+	- Ted Chiang is a great writer, but this is not a great take and I'm disappointed to see it getting heavily praised. It's not in keeping with our scientific understanding of LMs or deep learning more generally. Thread: 1/n https://t.co/wMKi9n9WLw ([View Tweet](https://twitter.com/AndrewLampinen/status/1624422478045913090))
+		- **Note**: Thread
+	- One important approach to the scientific study of complex phenomena like human intelligence or the behavior of language models is to create a simplified model which captures the key elements, while maintaining full control over the system, and study its behavior. 2/ ([View Tweet](https://twitter.com/AndrewLampinen/status/1624422479841185794))
+	- When we and others study the performance of LM-like models under controlled situations, where we know exactly what is trained, we find that these models can learn generalizable strategies that perform well on truly novel test examples rather than just memorizing + rephrasing. 3/ ([View Tweet](https://twitter.com/AndrewLampinen/status/1624422482319929351))
+	- For example, see the grokking paper by @exteriorpower (https://t.co/Xkh2wxJyTB), works led by @scychan on few-shot learning and generalization (https://t.co/l9zfL4PUuo and https://t.co/pGSbFkNBGR), @oswaldjoh work on in-context gradient descent (https://t.co/hAx1DePdEP) etc. 4/ ([View Tweet](https://twitter.com/AndrewLampinen/status/1624422485440569346))
+	- But it's also a general finding that neural networks generalize better from more diverse learning experiences. E.g. the open-ended learning work (https://t.co/HDdQwcYPK3) or our work on how richer environments improve generalization (https://t.co/DS5Hngqld1). 5/ ([View Tweet](https://twitter.com/AndrewLampinen/status/1624422488972066816))
+	- So if anything, we should expect LMs with internet training to generalize better than models trained on toy tasks. And indeed, LMs perform well at BIG-Bench (https://t.co/sYBSK9JfNU) — tasks researchers chose specifically to be hard for a model that memorized the internet. 6/ ([View Tweet](https://twitter.com/AndrewLampinen/status/1624422492210077696))
+	- And though some particularly challenging BIG-Bench tasks are harder, models can perform better on many of them if given time to produce some reasoning steps before their answer (https://t.co/b6RcGVwtdy). Memorization + rephrasing is not a good explanation of this. 7/ ([View Tweet](https://twitter.com/AndrewLampinen/status/1624422495020277760))
+	- This is not to imply that LMs never do (lossy) memorization, of course; that definitely happens in many instances, is important to study, and may underlie their success in some cases. But saying that is all they do seems out of keeping with the state of the science. 7/7 ([View Tweet](https://twitter.com/AndrewLampinen/status/1624422497440374784))
+	- See also this thoughtful thread from @raphaelmilliere! https://t.co/K8NuPpEMfr ([View Tweet](https://twitter.com/AndrewLampinen/status/1624422500472856580))

@@ -20,17 +20,17 @@ url:: https://twitter.com/shreyas
 		- **Tags**: #[[favorite]]
 	- Compact definitions of important stuff:
 	  
-	  Joy = Pleasure in the present moment
+	  [[Joy]] = Pleasure in the [[present moment]]
 	  
-	  Happiness = Reality meets expectations
+	  [[Happiness]] = Reality meets expectations
 	  
-	  Success = Time optionality
+	  [[Success]] = Time optionality
 	  
-	  Presence = Immersed observation
+	  [[Presence]] = Immersed observation
 	  
-	  Tranquility = Lack of resistance
+	  [[Tranquility]] = Lack of resistance
 	  
-	  Wisdom = Discerning what truly matters ([View Tweet](https://twitter.com/shreyas/status/1368408102203133952))
+	  [[Wisdom]] = Discerning what truly matters ([View Tweet](https://twitter.com/shreyas/status/1368408102203133952))
 		- **Tags**: #[[favorite]]
 	- An approach to run working sessions
 	  

@@ -27,7 +27,7 @@ tags:: #[[human evolution]] #[[mythology]] #[[shamanism]]
 	- If you are a secular Buddhist who takes the practice of mindfulness as an opportunity to get a hawk’s-eye-view on the mind, then these are the vines on which the monkey mind swings. ([View Highlight](https://read.readwise.io/read/01gq4qpnmx95b3xrw1x4bw141b))
 		- **Tags**: #[[mindfulness]] #[[buddhism]]
 	- An evolutionary bias towards seeking out the safety of mother figures, avoiding enemies, respecting the wisdom of our elders, and for seeing ourselves as the heroes of own adventures is a powerful advantage over creatures that might fail to make such associations. ([View Highlight](https://read.readwise.io/read/01gq4qqvs19nf9tk3tweetsnnm))
-	- Research consistently [finds](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1758-0854.2009.01024.x) that experiencing a coherent and meaningful life is one of the strongest predictors of our wellbeing. ([View Highlight](https://read.readwise.io/read/01gq4qr5yed4gg5h0hwr2waa9m))
+	- Research consistently [finds](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1758-0854.2009.01024.x) that experiencing a coherent and [[meaningful life]] is one of the strongest predictors of our [[wellbeing]]. ([View Highlight](https://read.readwise.io/read/01gq4qr5yed4gg5h0hwr2waa9m))
 		- **Tags**: #[[happiness]] #[[wellbeing]]
 	- To gain mastery over reality is to create a mythology worth living for. ([View Highlight](https://read.readwise.io/read/01gq4qtfhknzf759wxap33xykt))
 		- **Tags**: #[[reality]] #[[mastery]] #[[mythology]]

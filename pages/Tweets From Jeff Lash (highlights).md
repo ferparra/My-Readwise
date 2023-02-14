@@ -452,11 +452,11 @@ url:: https://twitter.com/jefflash
 	  This lets you build a list of people to tap as-needed and segment invitees based on info you've already gathered.
 	  
 	  #prodmgmt ([View Tweet](https://twitter.com/jefflash/status/1351165603692818439))
-	- #ProdMgmtDailyTip 20: Create a product vision.
+	- #ProdMgmtDailyTip 20: Create a [[product vision]].
 	  
-	  It isn't a strategy, list of features, or near-term metric. It defines the desired future state: the audience, objectives & impact.
+	  It isn't a [[strategy]], list of features, or near-term metric. It defines the desired future state: the audience, [[objectives]] & [[impact]].
 	  
-	  Create it w/input from the product team and remind them/others of it on a regular basis.
+	  Create it w/input from the [[product team]] and remind them/others of it on a regular basis.
 	  
 	  #prodmgmt ([View Tweet](https://twitter.com/jefflash/status/1351881161346310147))
 	- #ProdMgmtDailyTip 22: Conduct a premortem.

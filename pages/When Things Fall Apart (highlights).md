@@ -5,7 +5,7 @@ category:: #books
 
 - ![](https://images-na.ssl-images-amazon.com/images/I/51oJhGqBSLL._SL200_.jpg)
 - Highlights first synced by [[Readwise]] [[Nov 18th, 2022]]
-	- Nontheism is relaxing with the ambiguity and uncertainty of the present moment without reaching for anything to protect ourselves. ([Location 663](https://readwise.io/to_kindle?action=open&asin=B00BBXJH2C&location=663))
+	- Nontheism is relaxing with the [[ambiguity]] and [[uncertainty]] of the [[present moment]] without reaching for anything to protect ourselves. ([Location 663](https://readwise.io/to_kindle?action=open&asin=B00BBXJH2C&location=663))
 	- As human beings, not only do we seek resolution, but we also feel that we deserve resolution. However, not only do we not deserve resolution, we suffer from resolution. ([Location 852](https://readwise.io/to_kindle?action=open&asin=B00BBXJH2C&location=852))
 	- Less desire is the willingness to be lonely without resolution when everything in us yearns for something to cheer us up and change our mood. ([Location 874](https://readwise.io/to_kindle?action=open&asin=B00BBXJH2C&location=874))
 	- When we draw a line down the center of a page, we know who we are if we’re on the right side and who we are if we’re on the left side. But we don’t know who we are when we don’t put ourselves on either side. ([Location 885](https://readwise.io/to_kindle?action=open&asin=B00BBXJH2C&location=885))

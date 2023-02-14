@@ -21,4 +21,4 @@ tags:: #[[@ryan-holiday]] #[[stoicism]]
 	- Choose resilience over resentment and look for the good in the situation or what you can control to improve the circumstance at hand ([View Highlight](https://read.readwise.io/read/01gq277sb5df5dnwbqttztx8e5))
 	- The art of acquiescence is when you accept your situation and understand there’s nothing you can do at the moment to change things
 	  
-	  •   Remember the phrase “Amor fati”–it means to embrace your fate ([View Highlight](https://read.readwise.io/read/01gq2781bwk35rfancg23vbms9))
+	  •   Remember the phrase “[[Amor fati]]”–it means to embrace your fate ([View Highlight](https://read.readwise.io/read/01gq2781bwk35rfancg23vbms9))

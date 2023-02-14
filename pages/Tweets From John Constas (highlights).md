@@ -7,7 +7,7 @@ url:: https://twitter.com/JohnConstas
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
 	- Anyone telling you food doesn't matter for mental health needs a reality check
 	  
-	  Your gut is your second brain
+	  Your gut is your [[second brain]]
 	  
 	  Don't destroy it with refined sugars/wheat, rancid seed oils & toxic pesticides
 	  

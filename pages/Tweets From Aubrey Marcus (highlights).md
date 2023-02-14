@@ -157,11 +157,11 @@ url:: https://twitter.com/AubreyMarcus
 		- **Tags**: #[[favorite]]
 	- The future is a thief.
 	  
-	  It robs you of the present moment, leaving you with your hopes and fears.
+	  It robs you of the [[present moment]], leaving you with your hopes and fears.
 	  
 	  Hope tells you that what is happening right now isn’t as good as it could be.
 	  
-	  Fear tells you not to be too happy now, because it could all be taken from you. ([View Tweet](https://twitter.com/AubreyMarcus/status/1187398531394527232))
+	  [[Fear]] tells you not to be too happy now, because it could all be taken from you. ([View Tweet](https://twitter.com/AubreyMarcus/status/1187398531394527232))
 	- The hardest person to tell the truth to is yourself.
 	  
 	  We judge our imperfections.

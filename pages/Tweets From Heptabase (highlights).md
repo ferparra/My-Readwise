@@ -9,7 +9,7 @@ url:: https://twitter.com/Heptabase
 	  
 	  ![](https://pbs.twimg.com/media/Fh-Ydn6UoAIXSiK.jpg) ([View Tweet](https://twitter.com/Heptabase/status/1594160484738945024))
 - New highlights added [[Nov 27th, 2022]] at 10:16 AM
-	- In the latest update, we've combined the low capturing friction of daily journaling and the power of visual thinking.
+	- In the latest update, we've combined the low capturing friction of daily [[journaling]] and the power of visual thinking.
 	  
 	  Step 1: Dump ideas in your Journal.
 	  

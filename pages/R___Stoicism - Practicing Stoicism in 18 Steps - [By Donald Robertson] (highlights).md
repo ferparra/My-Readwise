@@ -14,7 +14,7 @@ url:: https://www.reddit.com/r/Stoicism/comments/c9bah6/practicing_stoicism_in_1
 	- 7 - Contemplation of Death: Contemplate your own death regularly, the deaths  of loved ones and even the demise of the universe itself.
 	- 8 - Premeditation of Adversity: Mentally rehearse potential losses or misfortunes and view them as “indifferent” (decatastrophising), also view them as natural and inevitable to remove any sense of shock or surprise.
 	- 9 - The Financial Metaphor: View your actions as financial transactions and consider whether your behaviour is profitable, e.g., if you sacrifice externals but gain virtue that’s profitable but, by contrast, “What does it profit a man if he gains the whole world but loses himself.”
-	- 10 - Accepting Fate (Amor Fati): Rather than seeking for things to be as you will, rather will for things to be as they are, and your life will go smoothly and serenely.
+	- 10 - Accepting Fate ([[Amor Fati]]): Rather than seeking for things to be as you will, rather will for things to be as they are, and your life will go smoothly and serenely.
 	- 11 - Say to External Things: “It is nothing to me.”
 	- 12 - Say Over Loved-Ones: “Tomorrow you will die.”
 	- 13 - Cognitive Distancing: Tell yourself it is your judgement that upset you and not the thing itself.
