@@ -58,3 +58,7 @@ url:: https://twitter.com/patriciamou_
 	  your own self-expression via art, music, writing, creation & building (the universe expressing itself through you) 
 	  
 	  helping others self-express (the universe helping itself/the universe unfold & actualize) ([View Tweet](https://twitter.com/patriciamou_/status/1619406996855459840))
+- New highlights added [[Feb 18th, 2023]] at 8:23 PM
+	- “Experience is the only teacher we have…
+	  
+	  …clinging to books only degenerates the human mind.”

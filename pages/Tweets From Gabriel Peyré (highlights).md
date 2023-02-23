@@ -55,3 +55,5 @@ url:: https://twitter.com/gabrielpeyre
 	  ![](https://pbs.twimg.com/media/FkrlutZXkB0r_z3.jpg) ([View Tweet](https://twitter.com/gabrielpeyre/status/1614140381943177217))
 - New highlights added [[Feb 11th, 2023]] at 11:01 PM
 	- Cellular automata are discrete dynamical models defined by a local operator. For 3 neighbors automata, there are 256 possible rules, some more interesting than others. https://t.co/MGY0dgnjRG https://t.co/ueY1ApX2Da ([View Tweet](https://twitter.com/gabrielpeyre/status/1624287116988497920))
+- New highlights added [[Feb 18th, 2023]] at 8:23 PM
+	- Schrodinger’s problem is an approximation (regularization using diffusion) of the Optimal Transport problem. https://t.co/3nwtDvFOgJ https://t.co/2GOQUGc8no ([View Tweet](https://twitter.com/gabrielpeyre/status/1626823831590432769))

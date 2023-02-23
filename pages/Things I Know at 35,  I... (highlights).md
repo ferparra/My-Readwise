@@ -46,13 +46,13 @@ url:: https://twitter.com/AmandaMGoetz/status/1420012738412220425
 	  Sunk costs. 
 	  
 	  Why waste another minute not seeking a more fulfilling relationship? ([View Tweet](https://twitter.com/AmandaMGoetz/status/1420012750793752578))
-	- Look down for gratitude. 
-	  Look around for support. 
-	  Look up for inspiration. 
+	- Look down for [[gratitude]]. 
+	  Look around for [[support]]. 
+	  Look up for [[inspiration]]. 
 	  
 	  I used to ALWAYS compare myself to those ahead of me in life and I lost all sense of gratitude for where I was and how fortunate I was. 
 	  
-	  Where you focus your attention will affect your framing. ([View Tweet](https://twitter.com/AmandaMGoetz/status/1420012751980834825))
+	  Where you focus your [[attention]] will affect your [[framing]]. ([View Tweet](https://twitter.com/AmandaMGoetz/status/1420012751980834825))
 	- Reframe your power. 
 	  
 	  Rather than being angry no one is supporting / helping you…..be proud you can do it on your own. 

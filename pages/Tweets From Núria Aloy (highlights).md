@@ -5,9 +5,9 @@ category:: #tweets
 url:: https://twitter.com/nurialoy
 
 - Highlights first synced by [[Readwise]] [[Nov 27th, 2022]]
-	- Instead of giving due dates, reduce work in progress, prioritize by cost of delay & reduce batch size.
+	- Instead of giving due dates, reduce [[work in progress]], prioritize by [[cost of delay]] & reduce [[batch size]].
 	  
-	  Instead of organizing by projects, organize by product & decouple dependencies that increase wait times & lengthen queues.
+	  Instead of organizing by projects, organize by product & decouple [[dependencies]] that increase wait times & lengthen queues.
 	  
 	  #lean #kanban
 	  

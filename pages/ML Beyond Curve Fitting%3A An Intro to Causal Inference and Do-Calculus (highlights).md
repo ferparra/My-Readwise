@@ -25,4 +25,4 @@ url:: https://www.inference.vc/untitled/
 	- as a result of a do-calculus derivation you end up with an equivalent formula for p̃ (y|do(x))p~(y|do(x))\tilde{p}(y\vert do(x)) which no longer has any do operators in them, so you estimate it from observational data alone
 	- a full causal model is a form of prior knowledge that you have to add to your analysis in order to get answers to causal questions without actually carrying out intervention
 	- It allows us to answer "what-if-we-did-x" type questions that would normally require controlled experiments and explicit interventions to answe
-	- Causal inference and do-calculus allows you to understand a problem and establish what needs to be estimated from data based on your assumptions captured in a causal diagram
+	- [[Causal inference]] and [[do-calculus]] allows you to understand a problem and establish what needs to be estimated from data based on your assumptions captured in a causal diagram

@@ -8,9 +8,9 @@ url:: https://twitter.com/FitFounder
 	- Cheat codes in life
 	  
 	  No porn
-	  Gratitude
-	  Journaling
-	  Meditation
+	  [[Gratitude]]
+	  [[Journaling]]
+	  [[Meditation]]
 	  Visualization
 	  Lifting heavy
 	  Masterminds

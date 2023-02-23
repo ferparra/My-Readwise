@@ -30,7 +30,7 @@ url:: https://twitter.com/SahilBloom/status/1469676688682491904
 	  People with a low ability at a task are prone to systematically overestimate their ability at that task.
 	  
 	  Example: Everyone is a genius in a bull market. ([View Tweet](https://twitter.com/SahilBloom/status/1469676691299749899))
-	- Loss Aversion
+	- [[Loss Aversion]]
 	  
 	  Humans tend to prefer avoiding losses vs. achieving gains—the pain of losing something is more powerful than the pleasure of winning it.
 	  

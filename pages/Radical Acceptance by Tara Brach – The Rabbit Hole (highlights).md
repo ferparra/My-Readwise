@@ -5,7 +5,7 @@ category:: #articles
 url:: https://blas.com/radical-acceptance/
 
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
-	- Radical acceptance – recognize what is true and embrace it with an open heart. The willingness and courage to experience ourselves and our life as is. It is a state of unlimited freedom
+	- [[Radical acceptance]] – recognize what is true and embrace it with an open heart. The willingness and courage to experience ourselves and our life as is. It is a state of unlimited freedom
 	- Acceptance is not resigning ourselves for better or for worse. When you completely accept yourself, you can begin making big, lasting changes
 	- Suffering comes from resisting and fighting your temptations, not the actual temptations
 	- Try not to classify others (depressed, alcoholic, etc) as this makes us blind to the actual person

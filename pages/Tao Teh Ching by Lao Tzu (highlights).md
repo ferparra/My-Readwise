@@ -1,0 +1,20 @@
+title:: Tao Teh Ching by Lao Tzu (highlights)
+author:: [[The Rabbit Hole]]
+full-title:: "Tao Teh Ching by Lao Tzu"
+category:: #articles
+url:: https://blas.com/tao-teh-ching/
+document_note:: The Tao Teh Ching is a classic text advocating humility, non-striving, generosity, frugality, and non-forcefulness. It offers a framework of how to live, emphasizing avoiding unnecessary things, stress, and emotions. It also contains passages advocating being selfless, benefiting all things without striving, requiting injury with kindness, desiring to be desireless, and helping all creatures find their own nature. Overall, the text is timeless and powerful, offering valuable insight into life and nature.
+tags:: #[[leadership]]
+
+- Highlights first synced by [[Readwise]] [[Feb 17th, 2023]]
+	- “…Therefore, the Sage wants to remain behind, But finds himself at the head of others; Reckons himself out, But finds himself safe and secure. Is it not because he is selfless That his Self is realized? ([View Highlight](https://read.readwise.io/read/01gsffnj3d7pg53xttmaf5rk9h))
+		- **Note**: The Sage (a wise person) wants to stay out of the spotlight and let others take the lead, but instead he finds himself in charge of others. He tries to distance himself from the situation, but he still feels safe and secure. Is it because he is unselfish and puts the needs of others before his own that his true self is revealed?
+	- “The highest form of goodness is like water. Water knows how to benefit all things without striving with them. it stays in places loathed by all men. Therefore, it comes near the Tao…If you do not strive with others, You will be free from blame.” ([View Highlight](https://read.readwise.io/read/01gsffpc1epa477v6jdh7dvsfq))
+		- **Note**: The best way to be good is like water. Water helps everything without trying to be better than them. It goes to places that no one else wants to go. This is what it means to follow the Tao. If you don't try to compete with other people, you won't get in trouble.
+	- “…Hence, only he who is willing to give his body for the sake of the world is fit to be entrusted with the world. Only he who can do it with love is worthy of being the steward of the world.” ([View Highlight](https://read.readwise.io/read/01gsffqwd416s2hmzhbjrgmgw9))
+		- **Note**: This passage is saying that if you want to be the leader of the world, you must be willing to give your time and energy for the benefit of the world, and you must do it out of love and care for others.
+	- “…The Great Way is very smooth and straight; And yet the people prefer devious paths.” ([View Highlight](https://read.readwise.io/read/01gsffrbz22qatbqxfaenzk9wq))
+	- “…Do the non-Ado. Strive for the effortless. Savour the savourless. Exalt the low. Multiply the few. Requite injury with kindness…” ([View Highlight](https://read.readwise.io/read/01gsfft2v4tqmghnwewtz6xje7))
+		- **Note**: The Tao Teh Ching is a classic series of insights into life and nature which encourages humility, strength, generosity, and frugality. It encourages avoiding unnecessary things, stress, and emotions to help change one's outlook on life and decisions. Several passages from the text outline important teachings such as being selfless, being generous and kind, being willing to give for the sake of the world, and avoiding leading others by the nose. This classic is timeless and provides powerful, relevant guidance.
+	- “…Therefore, the Sage desires to be desireless, Sets no value on rare goods, Learns to unlearn his learning, And induces the masses to return from where they have overpassed. He only helps all creatures to find their own nature, But does not venture to lead them by the nose.” ([View Highlight](https://read.readwise.io/read/01gsffscagtdwwym4eaybydacd))
+		- **Note**: The wise person does not want things they do not need, does not care about rare and valuable things, un-learns things they have learned, and encourages others to go back to what is natural for them. The wise person helps all creatures to find their own way, but does not try to control them.

@@ -12,13 +12,13 @@ url:: https://www.goodreads.com/work/quotes/3275794-to-kill-a-mockingbird
 	  
 	    
 	      To Kill a Mockingbird
-	- “I wanted you to see what real courage is, instead of getting the idea that courage is a man with a gun in his hand. It's when you know you're licked before you begin, but you begin anyway and see it through no matter what.- Atticus Finch”
+	- “I wanted you to see what real [[courage]] is, instead of getting the idea that [[courage]] is a man with a gun in his hand. It's when you know you're licked before you begin, but you begin anyway and see it through no matter what.- Atticus Finch”
 	    ―
 	  
 	    Harper Lee,
 	  
 	    
-	      To Kill a Mockingbird
+	      [[To Kill a Mockingbird]]
 	- “People generally see what they look for, and hear what they listen for.”
 	    ―
 	  

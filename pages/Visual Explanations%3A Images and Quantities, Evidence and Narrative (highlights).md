@@ -1,0 +1,12 @@
+title:: Visual Explanations: Images and Quantities, Evidence and Narrative (highlights)
+author:: [[Blas]]
+full-title:: "Visual Explanations: Images and Quantities, Evidence and Narrative"
+category:: #articles
+url:: https://blas.com/visual-explanations/
+document_note:: This book examines design strategies for presenting information about motion, process, mechanism, cause and effect. It looks at the logic of depicting quantitative evidence, including principles for showing data and standards for evaluating visual evidence. It also discusses design strategies for the arrangement of images as narrative to enhance the richness, complexity, resolution, dimensionality, and clarity of the content. It is about pictures of verbs, the representation of mechanism and motion, of process and dynamics, of causes and effects, of explanation and narrative. It emphasizes the need for clarity and excellence both in the display of data and in the thinking process. It also highlights techniques for visual representations of evidence, such as parallelism, multiples, and confections.
+
+- Highlights first synced by [[Readwise]] [[Feb 21st, 2023]]
+	- Parallelism
+	  
+	  1.  Embodying inherent links and connections, parallelism synchronizes multiple channels of information, draws analogies, enforces contrasts and comparisons. Our examples have inventoried all sorts of design strategies that collate like with like: pairing, orientation, simultaneity, overlap, superimposition, flowing together on a common track, codes, pointer lines, sequence, adjacency, analogy, similar content. Parallelism provides a coherent architecture for organizing and learning from images - as well as from words and numbers, the allies of images. And by establishing a structure of rhythms and relationships, parallelism becomes the poetry of visual information. ([View Highlight](https://read.readwise.io/read/01gsq77kzayp8jnepyzq97zw7f))
+		- **Note**: Parallelism is a way to organize information. It links similar ideas together and helps you compare and contrast them. It can arrange information in lots of different ways, like pairing two ideas, putting them in the same orientation, overlapping them, or even creating patterns with codes and pointers. Parallelism helps you make sense of images, words, and numbers, and creates a special kind of rhythm and relationship that makes it like a poem.

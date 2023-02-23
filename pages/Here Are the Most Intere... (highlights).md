@@ -21,7 +21,7 @@ url:: https://twitter.com/eriktorenberg/status/1476985934260301824
 	  https://t.co/LgGE8PbaMM ([View Tweet](https://twitter.com/eriktorenberg/status/1476985939746381824))
 	- "The Mind is Flat" proposes that that our notion of an inner life/authentic self is misguided
 	  
-	  Scientifically we understand less about the brain (& consciousness, trauma) than we think
+	  Scientifically we understand less about the brain (& [[consciousness]], [[trauma]]) than we think
 	  
 	  The counter is “The Body Keeps Score”, tho I find this more empowering
 	  https://t.co/ChphGdtzpx ([View Tweet](https://twitter.com/eriktorenberg/status/1476985941101215748))

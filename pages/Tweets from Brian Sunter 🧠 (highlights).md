@@ -95,3 +95,12 @@ url:: https://twitter.com/Bsunter
 	  Aphoristic musings on a wide range of topics such as morality, religion, psychology, art, and science. It is written in an energetic, poetic, rhapsodic style. Controversial and guaranteed to provoke a reaction. Not for everyone. 
 	  
 	  ![](https://pbs.twimg.com/media/FlqLNRKaYAARJWY.jpg) ([View Tweet](https://twitter.com/Bsunter/status/1610752883917754368))
+- New highlights added [[Feb 18th, 2023]] at 1:16 PM
+	- Auto Shift: Get rid of your Shift key.
+	  One of my favorite keyboard features. 
+	  
+	  You hold down a key slightly longer to shift it: capitalize a letter or type a symbol. 
+	  
+	  I can't ever go back to holding down Shift with my pinky now. Feels so uncomfortable.
+	  
+	  https://t.co/EIxaKTE3B3 ([View Tweet](https://twitter.com/Bsunter/status/1626717533779931138))

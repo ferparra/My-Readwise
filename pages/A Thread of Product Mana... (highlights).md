@@ -5,7 +5,7 @@ category:: #tweets
 url:: https://twitter.com/shreyas/status/1399067325567881216
 
 - Highlights first synced by [[Readwise]] [[Nov 18th, 2022]]
-	- A thread of product management frameworks:
+	- A thread of [[product management]] frameworks:
 	  
 	  (this might be useful if you are a product manager, product leader, or founder) ([View Tweet](https://twitter.com/shreyas/status/1399042778613485578))
 		- **Note**: Thread
@@ -209,7 +209,7 @@ url:: https://twitter.com/shreyas/status/1399067325567881216
 	- 17/
 	  Inputs-Outputs-Outcomes
 	  
-	  Product management is about collecting the right Inputs, converting them to the right Outputs, so we can get to the right Outcomes.
+	  [[Product management]] is about collecting the right Inputs, converting them to the right Outputs, so we can get to the right Outcomes.
 	  
 	  Like the 3X framework, this framework can help product people make better, context sensitive observations & decisions. 
 	  

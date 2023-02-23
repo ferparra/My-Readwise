@@ -5,7 +5,7 @@ category:: #podcasts
 url:: https://share.snipd.com/episode/c0691901-1288-4fb9-81ca-77abd6e4a17c
 
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
-	- The Plasticity of Meditation
+	- The Plasticity of [[Meditation]]
 	  
 	  Summary:
 	  "i want to open as many doors as possible during this lifetime," Sande says. He's doing his first seven day silent retreat at a mountain cloud zen center, which i'm very excited about. A lot of the big unlocks that happen with meditation are not just through 50 minutes a day, he says. "You'll eventually get to some amazing state of consciousness."

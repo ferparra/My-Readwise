@@ -37,7 +37,7 @@ url:: https://www.goodreads.com/quotes/tag/honesty
 	    ―
 	  
 	    George Washington
-	- “The real things haven't changed. It is still best to be honest and truthful; to make the most of what we have; to be happy with simple pleasures; and have courage when things go wrong.”
+	- “The real things haven't changed. It is still best to be honest and truthful; to make the most of what we have; to be happy with simple pleasures; and have [[courage]] when things go wrong.”
 	    ―
 	  
 	    Laura Ingalls Wilder

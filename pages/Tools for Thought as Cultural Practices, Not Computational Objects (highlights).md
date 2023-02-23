@@ -12,7 +12,7 @@ url:: https://maggieappleton.com/tools-for-thought
 	  shared cumulative facts fundamentally changed our ability to understand
 	  the physical world around us. Allowed us to harness that information in
 	  the service of disciplines like engineering and medicine.
-	- Rene Descartes' system of assigning numbers to points on an X - Y - Z
+	- Rene [[Descartes]]' system of assigning numbers to points on an X - Y - Z
 	  axis. Allows us to model and map areas of 3D space using precise
 	  measurements. Enabled us to draw up plans for objects and structures that
 	  don't yet exist. Also enabled mapping latitude and longitude points on

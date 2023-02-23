@@ -1,0 +1,20 @@
+title:: The Happiness Advantage: The Seven Principles That Fuel Success and Performance at Work (highlights)
+author:: [[Blas]]
+full-title:: "The Happiness Advantage: The Seven Principles That Fuel Success and Performance at Work"
+category:: #articles
+url:: https://blas.com/the-happiness-advantage/
+document_note:: This document discusses the seven principles of The Happiness Advantage which suggests that happiness is the precursor to success, rather than the result. The principles are: Meditate, Spend money on other people and experiences, Exercise a signature strength, Adjust your mindset, Retrain your brain to spot patterns of possibility, Find the mental path that leads up out of failure and suffering, and Invest in your social support network. These principles all emphasize the importance of adopting good habits and creating strong social ties to achieve greater success and happiness.
+
+- Highlights first synced by [[Readwise]] [[Feb 18th, 2023]]
+	- The Tetris Effect - when our brains get stuck in a pattern that focuses on stress, negativity and failure, we set ourselves up to fail. This principle teaches us how to retrain our brains to spot patterns of possibility, so we can see - and seize - opportunity wherever we look
+	  
+	  1.  When we train our brains to constantly look for and focus on the positive, we profit from three of the most important tools available to us - happiness, gratitude and optimism
+	  2.  This habit, like any other habit, takes time and hard work to make second nature ([View Highlight](https://read.readwise.io/read/01gsj2ec2z86kfdw39jtsexxma))
+		- **Note**: The Tetris Effect means that when our brains are focused on bad things like stress, being negative, and not succeeding, it's hard for us to do well. This principle teaches us how to teach our brains to look for good things and see chances to succeed wherever we go. 
+		  
+		  We can use happiness, thankfulness, and having a positive attitude to help us succeed. But like any other skill, it takes time and effort to make this second nature.
+	- The 20 Second Rule - sustaining lasting change often feels impossible because our willpower is limited. And when willpower fails, we fall back on our old habits and succumb to the path of least resistance. This principle shows that by making small energy adjustments we can reroute the path of least resistance and replace bad habits with good ones
+	  
+	  1.  Willpower is ineffective for sustaining change because it gets worn out as it is a limited resource. Humans are energy saving creatures and will always tend towards the path of least resistance. What you have to do is lower the "activation energy" for habits you want to adopt and raise it for habits you want to avoid. The easier, more visible, more palpable the habit, the more likely you are to follow through
+	  2.  The key to creating good habits is ritual and repeated practice until the actions become ingrained in your brain's neural chemistry. And the key to daily practice is to put your desired actions as close to the path of least resistance as possible. Identify the activation energy - the time, the choices, the mental and physical effort they require - and then reduce them as much as possible ([View Highlight](https://read.readwise.io/read/01gsj2f3c8k3tghj8fah83pfpa))
+		- **Note**: The 20 Second Rule helps us to stick to good habits and make them last a long time. Our willpower is like a battery - it runs out after a while, so it can't help us keep going. We use the 20 Second Rule to make it easier to do the things we want to do, and harder to do the things we don't want to do. To do this, we need to make the good habits easier to do. We can do this by making them more visible, more noticeable and easier to remember. We also need to practice the good habits until they become part of us, like building muscle memory. Finally, we need to make the good habits easier to do by putting them close to the path of least resistance. This means taking away any extra steps or choices that make the good habits harder to do.

@@ -54,17 +54,6 @@ url:: https://twitter.com/shreyas
 	  But.... there were people that were performing the PM role before that and were clearly doing that quite well.
 	  
 	  Role ≠ Title ([View Tweet](https://twitter.com/shreyas/status/1301910476570329088))
-	- To be consistently effective in Product Management, you need to build expertise in 5 domains.
-	  
-	  Tactics & Processes are essential for starting.
-	  
-	  But don't stop there.
-	  
-	  Important to learn, build & teach the right Principles, Frameworks & Mindset.
-	  
-	  Mindset is especially underrated. 
-	  
-	  ![](https://pbs.twimg.com/media/E5GOCcpVoAQqyGN.jpg) ([View Tweet](https://twitter.com/shreyas/status/1410071342829821954))
 	- Placebo Productivity: when we do tasks that make us feel productive but we are in fact doing them to avoid doing more productive tasks that are hard.
 	  
 	  Placebo Productivity is actually a useful hack when we are low on willpower. So use it. But don’t fill your entire day with it. ([View Tweet](https://twitter.com/shreyas/status/1413182440533860354))
@@ -105,9 +94,9 @@ url:: https://twitter.com/shreyas
 	  
 	  In reality:
 	  Product Creativity =
-	  Courage × Insight × Influence × Action
+	  [[Courage]] × [[Insight]] × [[Influence]] × [[Action]]
 	  
-	  So to build a culture of Creativity, remove org-wide friction so people don't have to manifest herculean Courage, Influence, Action to be creative ([View Tweet](https://twitter.com/shreyas/status/1428175559696084997))
+	  So to build a culture of [[Creativity]], remove org-wide friction so people don't have to manifest herculean [[Courage]], [[Influence]], [[Action]] to be creative ([View Tweet](https://twitter.com/shreyas/status/1428175559696084997))
 	- Key definitions:
 	  
 	  Strategy is about the choices you make to differentiate & distribute your product to create long-term competitive advantage, and tying these choices to a cohesive action plan.

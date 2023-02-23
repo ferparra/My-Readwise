@@ -5,7 +5,7 @@ category:: #articles
 url:: https://medium.com/p/ffad4a99db24
 
 - Highlights first synced by [[Readwise]] [[Nov 18th, 2022]]
-	- The easiest way to test for good product management on a team is to ask any engineer or designer on that team to describe the vision and strategy for their product. The coherence of their answers will give you all the feedback you need.
+	- The easiest way to test for good [[product management]] on a team is to ask any engineer or designer on that team to describe the [[vision]] and [[strategy]] for their product. The coherence of their answers will give you all the feedback you need.
 		- **Tags**: #[[product management]] #[[favorite]]
 	- Backlog represents the units of work to achieve a scope
 	- Scope defines what you need to ship to execute your strategy

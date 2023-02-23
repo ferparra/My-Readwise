@@ -15,9 +15,9 @@ url:: https://twitter.com/shreyas/status/1244810075908128768
 	  
 	  Bad product strategy either downplays the competition or ignores these factors altogether. ([View Tweet](https://twitter.com/shreyas/status/1244810083894063106))
 		- **Tags**: #[[favorite]]
-	- Good product strategy creates clarity on customer needs. Good product strategy is intentional and creative about tackling the right subset of those needs. 
+	- Good [[product strategy]] creates clarity on [[customer needs]]. Good product strategy is intentional and creative about tackling the right subset of those needs. 
 	  
-	  Bad product strategy presents a laundry list of priorities or “strategic goals” that attempt to tackle all customer needs. ([View Tweet](https://twitter.com/shreyas/status/1244810087056601090))
+	  Bad [[product strategy]] presents a laundry list of priorities or “strategic goals” that attempt to tackle all customer needs. ([View Tweet](https://twitter.com/shreyas/status/1244810087056601090))
 	- Good product strategy is intentional about whether to play head to head against incumbents or to play on a different turf entirely. 
 	  
 	  Bad product strategy defaults to one of these stances without a rigorous assessment of options and industry trends. ([View Tweet](https://twitter.com/shreyas/status/1244810087912230913))

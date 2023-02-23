@@ -8,9 +8,9 @@ tags:: #[[books]] #[[creativity]] #[[@rick-rubin]]
 
 - Highlights first synced by [[Readwise]] [[Feb 13th, 2023]]
 	- Everyone is a creator ([View Highlight](https://read.readwise.io/read/01gs4e9vnk1gf3meg06bsrf2qy))
-	- The universe is as large as your awareness. Cultivate your awareness to increase the size of your universe ([View Highlight](https://read.readwise.io/read/01gs4ea2apkkzh2vkm2s1b3dk1))
+	- The universe is as large as your awareness. Cultivate your [[awareness]] to increase the size of your universe ([View Highlight](https://read.readwise.io/read/01gs4ea2apkkzh2vkm2s1b3dk1))
 		- **Tags**: #[[self-awareness]]
-	- Art is our portal to the unseen world ([View Highlight](https://read.readwise.io/read/01gs4eaax5z5athfpctrj0szzq))
+	- [[Art]] is our portal to the unseen world ([View Highlight](https://read.readwise.io/read/01gs4eaax5z5athfpctrj0szzq))
 		- **Tags**: #[[art]]
 	- Be finely tuned to moments that take your breath away, coincidences, surprises. These are all opportunities to trust your gut, leaning into feeling more then intellect. It’s not unusual for science to catch up to art, nor art the spiritual ([View Highlight](https://read.readwise.io/read/01gs4eayb904gwpgptvtbqyz0t))
 		- **Tags**: #[[surprise]] #[[wonder]] #[[instinct]]
@@ -28,7 +28,7 @@ tags:: #[[books]] #[[creativity]] #[[@rick-rubin]]
 		- **Tags**: #[[experimentation]]
 	- Art is often the bending, ignoring or breaking of rules. However, sometimes the temporary rules and limitations, spark creativity is it focuses the mind ([View Highlight](https://read.readwise.io/read/01gs4ezrt971nrgy9zcf8xw5h8))
 		- **Tags**: #[[art]]
-	- Pay close attention to strong reactions, whether positive or negative. There could be deeper meeting there if you seek to understand that strong emotion. ([View Highlight](https://read.readwise.io/read/01gs4ezztf0r6991p5rc0k217h))
+	- Pay close attention to strong reactions, whether positive or negative. There could be deeper meeting there if you seek to understand that strong [[emotion]]. ([View Highlight](https://read.readwise.io/read/01gs4ezztf0r6991p5rc0k217h))
 		- **Tags**: #[[self-awareness]]
 	- Living in a mode of discovery, rather than assumption, it’s preferable in any situation ([View Highlight](https://read.readwise.io/read/01gs4f0fd21xsweeh7d6qt06gq))
 		- **Tags**: #[[experimentation]]

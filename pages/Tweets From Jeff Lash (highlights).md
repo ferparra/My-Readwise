@@ -105,7 +105,7 @@ url:: https://twitter.com/jefflash
 	  #prodmgmt ([View Tweet](https://twitter.com/jefflash/status/1397349227131506690))
 	- #ProdMgmtDailyTip 149: Prioritize problems before designing solutions.
 	  
-	  #Prodmgmt must ensure limited resources (time, people, money, brainpower) are focused on addressing the most pressing customer needs.
+	  #Prodmgmt must ensure limited resources (time, people, money, brainpower) are focused on addressing the most pressing [[customer needs]].
 	  
 	  Before creating a solution, ensure you're focused on the right problem. 
 	  
@@ -371,7 +371,7 @@ url:: https://twitter.com/jefflash
 	  #prodmgmt ([View Tweet](https://twitter.com/jefflash/status/1362542054539223042))
 	- #ProdMgmtDailyTip 58: Rely on data over intuition.
 	  
-	  Product management is a job that requires making constant decisions in the face of uncertainty. While gut feel and experience can be helpful, look for data to guide and inform decisions whenever possible.
+	  [[Product management]] is a job that requires making constant decisions in the face of [[uncertainty]]. While gut feel and experience can be helpful, look for data to guide and inform decisions whenever possible.
 	  
 	  #prodmgmt 
 	  

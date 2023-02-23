@@ -22,3 +22,7 @@ url:: https://twitter.com/TaylorPearsonMe
 	  Adding automation to an inefficient process only makes it more inefficient. 
 	  
 	  ![](https://pbs.twimg.com/media/FoYtYa7XsAAOzlx.jpg) ([View Tweet](https://twitter.com/TaylorPearsonMe/status/1623034615601500167))
+- New highlights added [[Feb 16th, 2023]] at 4:16 PM
+	- "A false idea, but one clear and precise, will always have more power in the world than a true, but complex, idea." 
+	  
+	  ![](https://pbs.twimg.com/media/FpBQ7FgXsAEl3Lm.png) ([View Tweet](https://twitter.com/TaylorPearsonMe/status/1625888443451539456))

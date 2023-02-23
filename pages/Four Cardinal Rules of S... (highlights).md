@@ -18,7 +18,7 @@ url:: https://twitter.com/daniela_witten/status/1312180955801505794
 	  
 	  3/
 		- **Tags**: #[[favorite]]
-	- So, unless you can design your study to uncover causation (very hard to do in most practical settings — the field of causal inference is devoted to understanding the settings in which it is possible), the best you can do is to discover correlations. 
+	- So, unless you can design your study to uncover causation (very hard to do in most practical settings — the field of [[causal inference]] is devoted to understanding the settings in which it is possible), the best you can do is to discover correlations. 
 	  
 	  Sad but true.
 	  

@@ -88,14 +88,14 @@ url:: https://twitter.com/SahilBloom/status/1418910032188563463
 	  Doing a favor makes you more likely to do another for that person than them doing a favor for you.
 	  
 	  We reinforce our self-perceptions. ([View Tweet](https://twitter.com/SahilBloom/status/1418910019291164673))
-	- Loss Aversion
+	- [[Loss Aversion]]
 	  
-	  First identified by famed scientists Amos Tversky and Daniel Kahneman, it says the pain of losing something is more powerful than the pleasure of winning it.
+	  First identified by famed scientists Amos Tversky and [[Daniel Kahneman]], it says the pain of losing something is more powerful than the pleasure of winning it.
 	  
 	  As such, humans will typically do more to avoid losses than they will to seek gains. ([View Tweet](https://twitter.com/SahilBloom/status/1418910020415197186))
-	- Endowment Effect
+	- [[Endowment Effect]]
 	  
-	  Related to loss aversion, the endowment effect says that once we have something, we don't want to give it up.
+	  Related to [[loss aversion]], the [[endowment effect]] says that once we have something, we don't want to give it up.
 	  
 	  Humans will demand more to give up an object than they would be willing to pay to acquire it. ([View Tweet](https://twitter.com/SahilBloom/status/1418910021304393742))
 	- Availability Bias

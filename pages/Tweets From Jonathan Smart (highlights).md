@@ -45,3 +45,15 @@ url:: https://twitter.com/jonsmart
 	  #BVSSH 
 	  
 	  ![](https://pbs.twimg.com/media/FohoNf5XoAAerU5.jpg) ([View Tweet](https://twitter.com/jonsmart/status/1623662250132217856))
+- New highlights added [[Feb 15th, 2023]] at 3:55 PM
+	- Organisations are Complex Adaptive Systems
+	  Be clear on the Why for change
+	  Articulate a balanced set of measurable outcomes (desired direction)
+	  Incentivse continous improvement
+	  The only way to learn is by doing. Invite multiple experiments. 
+	  How can I help?
+	  Share Learning
+	  
+	  #BVSSH 
+	  
+	  ![](https://pbs.twimg.com/media/Fo7YKaiXoAQixLH.jpg) ([View Tweet](https://twitter.com/jonsmart/status/1625474192098439169))

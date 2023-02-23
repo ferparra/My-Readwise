@@ -5,7 +5,7 @@ category:: #podcasts
 url:: https://share.snipd.com/episode/ef97ce48-3d35-49b0-9a6b-8bc840e2a3f3
 
 - Highlights first synced by [[Readwise]] [[Jan 17th, 2023]]
-	- The Process Driven Approach to Product Management
+	- The Process Driven Approach to [[Product Management]]
 	  
 	  Key takeaways:
 	  (* High performing companies have coherence between their structure and their current strategy., * Strong opinions loosely held is a balance that allows for their ability to have the help they need.)

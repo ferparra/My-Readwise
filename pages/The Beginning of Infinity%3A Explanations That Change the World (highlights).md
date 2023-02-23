@@ -1,0 +1,13 @@
+title:: The Beginning of Infinity: Explanations That Change the World (highlights)
+author:: [[Blas]]
+full-title:: "The Beginning of Infinity: Explanations That Change the World"
+category:: #articles
+url:: https://blas.com/beginning-of-infinity/
+document_note:: The book "The Beginning of Infinity" by David Deutsch argues that progress is potentially boundless, as humans can continuously refine their explanations of the universe and improve their understanding. Deutsch states that the Enlightenment and later Scientific Revolution came about due to the unprecedented attack on knowledge from authority, and that fallibilism and disregarding knowledge authority are essential for unlimited knowledge growth. He also discusses the jump to universality, where a small change in a system can lead to unexpected leaps and open new frontiers. He believes that AI will eventually take a similar jump to universality and become much more powerful. Deutsch argues that explanations make human potential nearly limitless, and that the freedom and creativity to come up with new choices is an important part of decision making. Finally, he states that cultures consist of memes that evolve, and that there is objective beauty in certain explanations which can be improved upon as understanding of them improves.
+
+- Highlights first synced by [[Readwise]] [[Feb 18th, 2023]]
+	- The real source of our knowledge is a conjecture along with testing criticism questioning and refinement ([View Highlight](https://read.readwise.io/read/01gsj2b441s5d6grp7apa2qcs5))
+	- Problems are inevitable but humans thrive because these problems are solvable ([View Highlight](https://read.readwise.io/read/01gsj2b6sgmrb6t8rdd6s36es2))
+	- Common misconceptions about evolution is that it always indicates progress and it always favors species-level survival rather than individual. What it does indicate is the genes which are most effective at spreading. Organisms are the slave or tools of genes and their desire to spread ([View Highlight](https://read.readwise.io/read/01gsj2ba4yv564b4z3atf7fmzn))
+	- Beware of the difference between prediction and prophecy. Prophecy purports to know things which cannot be known - bad explanations and theories tend to fall in this camp ([View Highlight](https://read.readwise.io/read/01gsj2bg3vc2cs1tn1tq8z989e))
+	- Elegance - the deep beauty found in certain explanations ([View Highlight](https://read.readwise.io/read/01gsj2bmv29748w0q9bdc6fyc5))

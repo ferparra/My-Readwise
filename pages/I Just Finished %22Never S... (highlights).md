@@ -24,9 +24,9 @@ url:: https://twitter.com/onejasonknight/status/1609531894231703555
 	- 4. "That's right" are the two best words 
 	  
 	  "You're right" is awful because it puts the responsibility on you. It sounds like an agreement but may not lead anywhere. "That's right" means they've thought about it, internalised it and are more likely to take action off of it ([View Tweet](https://twitter.com/onejasonknight/status/1609531904419631106))
-	- 5. Use cognitive biases to your advantage
+	- 5. Use [[cognitive biases]] to your advantage
 	  
-	  We all have them, and you're up against cognitive biases all the time. But use biases like loss aversion, reciprocity bias, anchoring etc to help frame the negotiation in ways that are favourable to you ([View Tweet](https://twitter.com/onejasonknight/status/1609531906504146944))
+	  We all have them, and you're up against cognitive biases all the time. But use biases like [[loss aversion]], [[reciprocity bias]], [[anchoring]] etc to help frame the negotiation in ways that are favourable to you ([View Tweet](https://twitter.com/onejasonknight/status/1609531906504146944))
 	- 6. Look for Black Swans
 	  
 	  There are always unknown unknowns in negotiations. Maybe they are ill-informed, constrained or have competing interests. Try to understand these and use techniques to work them out as best you can. ([View Tweet](https://twitter.com/onejasonknight/status/1609531908316176386))

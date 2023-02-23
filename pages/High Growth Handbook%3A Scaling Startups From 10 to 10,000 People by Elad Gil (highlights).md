@@ -1,0 +1,24 @@
+title:: High Growth Handbook: Scaling Startups From 10 to 10,000 People by Elad Gil (highlights)
+author:: [[The Rabbit Hole]]
+full-title:: "High Growth Handbook: Scaling Startups From 10 to 10,000 People by Elad Gil"
+category:: #articles
+url:: https://blas.com/high-growth-handbook/
+document_note:: In High Growth Handbook: Scaling Startups from 10 to 10,000 People, Elad Gil provides a range of advice for entrepreneurs on topics such as product focus, pricing power, the role of the CEO, the role of the Board, hiring and training, and raising capital. Gil emphasizes the need for a CEO to set the company’s vision and foster culture, for Boards to act as advisors, and for companies to prioritize culture when hiring. He also discusses the importance of having a "How to Work with Me" document, planning procedures, and setting expectations early. Additionally, Gil advises that product managers should be responsible for addressing customer needs, and that companies should not over-optimize for a valuation when raising money.
+
+- Highlights first synced by [[Readwise]] [[Feb 21st, 2023]]
+	- •   The CEO sets the vision of the company and communicates that to all stakeholders while hiring, growing, and fostering the culture.
+	  •   They are chief psychologist and need to be responsible for capital allocation.
+	  •   You must manage yourself, your reports, and your Board.
+	  •   You must learn to delegate more, audit your calendar, say “no” more often and make time for things you enjoy.
+	  •   Learn from an experienced executive, trial by fire, have dinner often with CEOs at other companies, get an executive coach.
+	  •   You must be able to get perspective and keep the big picture in view – this means focusing on the right things.
+	  •   Hold regular 1-on-1s, weekly staff meetings
+	  •   Should write a “How to Work with Me” document which will help others quickly understand how you like to work
+	    1.  Great example of how Johnson of Stripe wrote her document
+	  •   Can’t have too many things be mandatory so must choose carefully ([View Highlight](https://read.readwise.io/read/01gsmmj01afemgs7264b76618m))
+		- **Note**: The CEO of a high-growth startup is responsible for setting the vision of the company, communicating it to stakeholders, hiring, growing, and fostering the culture, managing themselves, their reports, and their Board, delegating more, auditing their calendar, saying “no” more often, and making time for things they enjoy. To do this effectively, they must learn from experienced executives, have dinner with other CEOs, and get an executive coach. They must also be able to keep the big picture in view, hold regular 1-on-1s, weekly staff meetings, and create a "How to Work with Me" document. They should also be careful not to make too many things mandatory.
+	- As a leader, you have to state the obvious and you have to do it often. Make sure people are on the same page. Create documents which outline your overall vision and strategy and shorter term documents for how you’ll get there. You must codify a set of behaviors and principles and adhere to them. You need planning procedures earlier than you think and they must start at the top and flow all the way down ([View Highlight](https://read.readwise.io/read/01gsmmh7a4eymr6bdmb5fxmswb))
+		- **Note**: This document emphasizes the importance of communication and planning as a leader in order to ensure that people stay on the same page. It advises leaders to create documents that outline the overall vision and strategy, as well as shorter term goals, and to establish a set of behaviors and principles to adhere to. Additionally, it suggests that planning procedures should start at the top and work their way down.
+	- Rapidly growing companies should look to have a position that “fills the gaps.” Someone who reports directly to the founder or CEO and can help cover bases and fix problems until a bigger team and an executive is hired and built out. Fast growing companies are chaotic on the inside and that’s why a position like this is so powerful. Finding a good person, having them understand the problems, building out their team, and scaling takes time so you really need to be looking out for at least a year and hiring someone to fix the problems you think you’ll run up against. ([View Highlight](https://read.readwise.io/read/01gsmmkgpcxdhp8zh1zv673cy4))
+	- Product managers are the CEOs of a certain product lines and are responsible for addressing customer needs, desires, wants, and creating products to match that ([View Highlight](https://read.readwise.io/read/01gsmmkp0n0ek3xjkwwc0tn4ft))
+		- **Tags**: #[[product management]]

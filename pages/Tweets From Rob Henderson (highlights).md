@@ -17,7 +17,7 @@ url:: https://twitter.com/robkhenderson
 	  ![](https://pbs.twimg.com/media/E59byz3XMAQ1Nci.jpg) ([View Tweet](https://twitter.com/robkhenderson/status/1413949742309068805))
 	- "If we were all given by magic the power to read each other’s thoughts, I suppose the first effect would be that almost all friendships would be dissolved" https://t.co/cSpkYvLkkH
 	  
-	  —Bertrand Russell 
+	  —[[Bertrand Russell]] 
 	  
 	  ![](https://pbs.twimg.com/media/E7fsBptWEAE2rvf.jpg) ([View Tweet](https://twitter.com/robkhenderson/status/1420863724815065090))
 	- Men who can do 40 push-ups or more have a 96 percent reduced risk of heart disease compared with men who could do less than 10 push-ups. Push-ups are a better predictor of whether a man will get heart disease than an aerobic treadmill test. https://t.co/k5R3CJ5oa6 ([View Tweet](https://twitter.com/robkhenderson/status/1531339838087057409))
@@ -101,7 +101,7 @@ url:: https://twitter.com/robkhenderson
 	- ![](https://pbs.twimg.com/media/FiGh87wX0AIcikZ.jpg) ([View Tweet](https://twitter.com/robkhenderson/status/1594733815829647374))
 - New highlights added [[Nov 30th, 2022]] at 7:12 AM
 	- "Mimetic desire is why a class of students can enter a university with very different ideas of what they want to do...yet converge on a much smaller set of opportunities – which they mimetically reinforce in one another – by the time they graduate." https://t.co/vxdo5YWDuG ([View Tweet](https://twitter.com/robkhenderson/status/1597607986071052294))
-	- Marxian doctrine on morality and false consciousness. 
+	- Marxian doctrine on [[morality]] and false [[consciousness]]. 
 	  
 	  ![](https://pbs.twimg.com/media/FiwF74oXkAYXUBN.jpg) 
 	  
@@ -165,3 +165,7 @@ url:: https://twitter.com/robkhenderson
 	- "pursuing happiness does not lead to happiness. Happiness emerges when we are making good progress towards other goals; the idea that we ought to be able to attain happiness per se paradoxically sets us up for failure and for low mood." https://t.co/5Dh54qJBSw 
 	  
 	  ![](https://pbs.twimg.com/media/FonMRPHWYAAAUsU.jpg) ([View Tweet](https://twitter.com/robkhenderson/status/1624053879427006478))
+- New highlights added [[Feb 15th, 2023]] at 3:55 PM
+	- "Neglect...generally leads to what is called ‘avoidant attachment’...an infant will learn to recoil from contact...For the rest of his life he will tend to convey an unconscious, non-verbal message that says, ‘Stay away...'I don’t need you..don’t connect’" https://t.co/ZLw7zLH1kh 
+	  
+	  ![](https://pbs.twimg.com/media/Fo4nH37WIAAEwYg.jpg) ([View Tweet](https://twitter.com/robkhenderson/status/1625279562572615682))

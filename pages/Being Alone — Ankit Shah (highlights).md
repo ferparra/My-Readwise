@@ -28,7 +28,7 @@ url:: https://www.ankit.fyi/being-alone
 	- As you notice the reality that you don’t know everything about others, you might wonder what you don’t know about yourself.
 	- As you notice the reality that you don’t know everything about others, you might wonder what you don’t know about yourself.
 		- **Tags**: #[[favorite]]
-	- In order to grow curious with yourself and listen to what you might find, you need space to step outside of yourself. Giving your consciousness breathing room—time, non-judgment, quietude—can yield its own kind of shared humanity: Self Awareness.
+	- In order to grow curious with yourself and listen to what you might find, you need space to step outside of yourself. Giving your [[consciousness]] breathing room—time, non-judgment, quietude—can yield its own kind of shared humanity: Self Awareness.
 	- In order to grow curious with yourself and listen to what you might find, you need space to step outside of yourself. Giving your consciousness breathing room—time, non-judgment, quietude—can yield its own kind of shared humanity: Self Awareness.
 	- People are so much more interesting when we give them space and curiosity to bloom before us.
 		- **Tags**: #[[favorite]]

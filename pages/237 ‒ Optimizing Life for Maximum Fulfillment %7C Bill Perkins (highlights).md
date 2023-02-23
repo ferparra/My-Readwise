@@ -16,7 +16,7 @@ url:: https://share.snipd.com/episode/419f4ba9-34f3-40ce-b549-2d6d495d1a5c
 	  
 	  Speaker 1
 	  It applies in different ways. So what I've come up with this book is there's three variables, your wealth, your health and your time. We're taking those three variables and we're solving for net fulfillment. We're not solving for maximum wealth. We're not solving even for maximum health. There's maximum time. We're solving for net fulfillment. I'm saying that's your purpose. If you're with me, we're solving for net fulfillment. ([Time 0:28:29](https://share.snipd.com/snip/5162aaae-3cac-461f-96a5-4c2d4219d559))
-	- The Difference Between Fear and Risk Tolerance
+	- The Difference Between [[Fear]] and [[Risk Tolerance]]
 	  
 	  Key takeaways:
 	  (* Risk tolerance is relative to the individual, and can be changed through discussion., * Loss aversion is a greater motivator for some people than gain., * Focusing on opportunity costs can help people overcome their fear of loss.)

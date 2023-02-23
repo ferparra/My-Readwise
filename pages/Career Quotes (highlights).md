@@ -5,10 +5,10 @@ category:: #articles
 url:: https://www.goodreads.com/quotes/tag/career
 
 - Highlights first synced by [[Readwise]] [[Nov 18th, 2022]]
-	- “Why do they always teach us that it's easy and evil to do what we want and that we need discipline to restrain ourselves? It's the hardest thing in the world--to do what we want. And it takes the greatest kind of courage. I mean, what we really want.”
+	- “Why do they always teach us that it's easy and evil to do what we want and that we need discipline to restrain ourselves? It's the hardest thing in the world--to do what we want. And it takes the greatest kind of [[courage]]. I mean, what we really want.”
 	    ―
 	  
-	    Ayn Rand
+	    [[Ayn Rand]]
 	- “A career is wonderful, but you can't curl up with it on a cold night”
 	    ―
 	  

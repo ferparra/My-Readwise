@@ -355,3 +355,10 @@ url:: https://twitter.com/hubermanlab
 	- Brief (8-10min) Non-Sleep-Deep-Rest (NSDR) protocols are distinct from meditation & similar but different from Yoga Nidra. Emerging data show they can restore mental & physical vigor, dopamine levels & offset missed hours of sleep. Links to two examples are below (zero cost): ([View Tweet](https://twitter.com/hubermanlab/status/1622370587791466497))
 - New highlights added [[Feb 10th, 2023]] at 3:54 PM
 	- Article @StanfordMed about our lab’s discovery (Clinical Trial) of 5 min Cyclic (Physiological) Sighing as a potent way to reduce anxiety 24/7. For reducing stress/elevating mood Cyclic Sighing outperforms meditation or other practices. https://t.co/qvOjSkBkYx ([View Tweet](https://twitter.com/hubermanlab/status/1623871564579217408))
+- New highlights added [[Feb 15th, 2023]] at 3:55 PM
+	- Physiological Sighs (deep nasal inhale followed by 2nd brief nasal inhale, then a full exhale via the mouth) is not Yogic or “breathwork”. It is a naturally occurring breathing pattern that reverses hypoxia, occurs in sleep too & also happens to be the fastest way to de-stress. ([View Tweet](https://twitter.com/hubermanlab/status/1625346035165052929))
+- New highlights added [[Feb 19th, 2023]] at 8:37 AM
+	- Self-Directed Neuroplasticity: your ability to change your nervous system in specific ways= 2 steps: 
+	  
+	  1) Deliberate focus (the more intense the  better) on the thing you’re trying to learn
+	  2) Sleep & Non-Sleep Deep Rest (NSDR) states, which are when actual neural rewiring occurs ([View Tweet](https://twitter.com/hubermanlab/status/1626999119255580672))

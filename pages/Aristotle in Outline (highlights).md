@@ -70,19 +70,19 @@ tags:: #[[@aristotile]] #[[philosophy]]
 		- **Tags**: #[[virtue]] #[[happiness]]
 	- The Virtues and Vices
 	  
-	  •   Courage
-	  •   Temperance
+	  •   [[Courage]]
+	  •   [[Temperance]]
 	  •   Generosity or Liberality
 	  •   Magnificence or Munificence
 	  •   Pride or high-mindedness
-	  •   Ambition
+	  •   [[Ambition]]
 	  •   Good temper
 	  •   Truthfulness
 	  •   Wittiness
 	  •   Friendliness
 	  •   Modesty
 	  •   Righteous indignation
-	  •   Justice ([View Highlight](https://read.readwise.io/read/01gs56s53pk1gavwj2y5bqyb2n))
+	  •   [[Justice]] ([View Highlight](https://read.readwise.io/read/01gs56s53pk1gavwj2y5bqyb2n))
 		- **Tags**: #[[virtue]]
 	- •   **Function of the state is to promote happiness of the people**
 	  •   **Politics = science of government - how to run a country**

@@ -59,7 +59,7 @@ url:: https://www.goodreads.com/quotes/tag/grief
 	    ―
 	  
 	    Leo Tolstoy
-	- “God, but life is loneliness, despite all the opiates, despite the shrill tinsel gaiety of "parties" with no purpose, despite the false grinning faces we all wear. And when at last you find someone to whom you feel you can pour out your soul, you stop in shock at the words you utter - they are so rusty, so ugly, so meaningless and feeble from being kept in the small cramped dark inside you so long. Yes, there is joy, fulfillment and companionship - but the loneliness of the soul in its appalling self-consciousness is horrible and overpowering.”
+	- “God, but life is [[loneliness]], despite all the opiates, despite the shrill tinsel gaiety of "parties" with no purpose, despite the false grinning faces we all wear. And when at last you find someone to whom you feel you can pour out your soul, you stop in shock at the words you utter - they are so rusty, so ugly, so meaningless and feeble from being kept in the small cramped dark inside you so long. Yes, there is [[joy]], [[fulfillment]] and companionship - but the loneliness of the soul in its appalling self-[[consciousness]] is horrible and overpowering.”
 	    ―
 	  
 	    Sylvia Plath,

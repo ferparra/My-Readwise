@@ -72,3 +72,11 @@ url:: https://twitter.com/ttorres
 	  #prodmgmt #ux #engineering (via @ttorres) 
 	  
 	  ![](https://pbs.twimg.com/media/FokLZ2SWcAEx5QS.jpg) ([View Tweet](https://twitter.com/ttorres/status/1623841682692218880))
+- New highlights added [[Feb 18th, 2023]] at 4:53 PM
+	- “It’s one thing to work in a product trio. It’s another thing entirely to work well with your trio.” - @ttorres
+	  
+	  https://t.co/fgbeLLMa6e
+	  
+	  #prodmgmt #ux #engineering 
+	  
+	  ![](https://pbs.twimg.com/media/FpOQM19XwAAIvvc.jpg) ([View Tweet](https://twitter.com/ttorres/status/1626802443169267713))

@@ -13,19 +13,19 @@ url:: https://en.wikipedia.org/wiki/Panpsychism
 	  
 	  — [Zhanran 湛然](https://en.wikipedia.org/wiki/Zhanran),[[49]](https://en.wikipedia.org/wiki/Panpsychism#cite_note-Parks-49) the sixth patriarch of Tendai Buddhism (1711-82)[[50]](https://en.wikipedia.org/wiki/Panpsychism#cite_note-50) ([View Highlight](https://read.readwise.io/read/01gmz237k9h9vb8wjy9tdx6khr))
 	- Hoffman views perception as a construction rather than a reconstruction. He argues that perceptual systems are analogous to information channels, and thus subject to [data compression](https://en.wikipedia.org/wiki/Data_compression). The set of possible representations for any given data set is quite large. ([View Highlight](https://read.readwise.io/read/01gmz255pjqtt9heb8jz8t9c7b))
-	- He represents rudimentary units of consciousness (which he calls "conscious agents") as [Markovian kernels](https://en.wikipedia.org/wiki/Markovian_kernel) ([View Highlight](https://read.readwise.io/read/01gmz25j9avw95zbghvpyr0xs3))
-	- frustration with philosophical theories of consciousness for lacking [predictive power](https://en.wikipedia.org/wiki/Predictive_power). ([View Highlight](https://read.readwise.io/read/01gmz27dd9rwv2t7b26enttgbm))
-	- even basic objects or substances have a nonzero degree of Φ. This would mean that consciousness is ubiquitous, albeit to a minimal degree. ([View Highlight](https://read.readwise.io/read/01gmz28e6y7vzha9ywb5pxv0xh))
+	- He represents rudimentary units of [[consciousness]] (which he calls "conscious agents") as [Markovian kernels](https://en.wikipedia.org/wiki/Markovian_kernel) ([View Highlight](https://read.readwise.io/read/01gmz25j9avw95zbghvpyr0xs3))
+	- frustration with philosophical theories of [[consciousness]] for lacking [predictive power](https://en.wikipedia.org/wiki/Predictive_power). ([View Highlight](https://read.readwise.io/read/01gmz27dd9rwv2t7b26enttgbm))
+	- even basic objects or substances have a nonzero degree of Φ. This would mean that [[consciousness]] is ubiquitous, albeit to a minimal degree. ([View Highlight](https://read.readwise.io/read/01gmz28e6y7vzha9ywb5pxv0xh))
 	- David Chalmers and Philip Goff have each described panpsychism as an alternative to both [materialism](https://en.wikipedia.org/wiki/Materialism) and dualism. ([View Highlight](https://read.readwise.io/read/01gmz28xtevf6jva6da8w2f04p))
-	- But what consciousness is, we know not; and how it is that anything so remarkable as a state of consciousness comes about as the result of irritating nervous tissue, is just as unaccountable as the appearance of the Djin when Aladdin rubbed his lamp in the story, or as any other ultimate fact of nature.
+	- But what [[consciousness]] is, we know not; and how it is that anything so remarkable as a state of consciousness comes about as the result of irritating nervous tissue, is just as unaccountable as the appearance of the Djin when Aladdin rubbed his lamp in the story, or as any other ultimate fact of nature.
 	  
 	  — Thomas Henry Huxley (1896) ([View Highlight](https://read.readwise.io/read/01gmz2aw340147j3b573h9c0dh))
 		- **Tags**: #[[@huxley]] #[[quotes]]
 	- The questions of *why* and *how* this material structure has experience, and why it has *that* particular experience rather than another experience, are known as the *[hard problem of consciousness](https://en.wikipedia.org/wiki/Hard_problem_of_consciousness)*. ([View Highlight](https://read.readwise.io/read/01gmz2by7f6nvgjxtj18m0220a))
-	- Dualism makes the problem insoluble; materialism denies the existence of any phenomenon to study, and hence of any problem.
+	- [[Dualism]] makes the problem insoluble; [[materialism]] denies the existence of any phenomenon to study, and hence of any problem.
 	  
-	  — John R. Searle, Consciousness and Language, p. 47 ([View Highlight](https://read.readwise.io/read/01gmz2dwq3d9sg0qavczhmbe92))
-	- Panpsychism has all the benefits of materialism because it could mean that consciousness is physical while also escaping the grasp of epiphenomenalism. ([View Highlight](https://read.readwise.io/read/01gmz2es7v5f6ktd9rbvw400kt))
+	  — John R. Searle, [[Consciousness]] and Language, p. 47 ([View Highlight](https://read.readwise.io/read/01gmz2dwq3d9sg0qavczhmbe92))
+	- [[Panpsychism]] has all the benefits of [[materialism]] because it could mean that [[consciousness]] is physical while also escaping the grasp of epiphenomenalism. ([View Highlight](https://read.readwise.io/read/01gmz2es7v5f6ktd9rbvw400kt))
 	- Physics is mathematical, not because we know so much about the physical world, but because we know so little: it is only its mathematical properties that we can discover. For the rest our knowledge is negative.
 	  
-	  — Bertrand Russell, An Outline of Philosophy (1927) ([View Highlight](https://read.readwise.io/read/01gmz2f7epvsb8tmkxzy3sw1xw))
+	  — [[Bertrand Russell]], An Outline of Philosophy (1927) ([View Highlight](https://read.readwise.io/read/01gmz2f7epvsb8tmkxzy3sw1xw))

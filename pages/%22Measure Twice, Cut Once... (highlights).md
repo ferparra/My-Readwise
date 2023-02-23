@@ -21,7 +21,7 @@ url:: https://twitter.com/NoahHaber/status/1315300855063642116
 	- In woodwork, the general solution to this is to make a quick "jig" (something to help you make a cut). Put a block ~26" from saw blade, put leg #1 against the stop block, make your cut, and repeat, without moving the stop block.
 	  
 	  Boom, 4 legs, exactly equal.
-	- In causal inference, we are dealing with a very similar problem. We have a TON of variables we have to deal with, where any one particular thing throws off our results.
+	- In [[causal inference]], we are dealing with a very similar problem. We have a TON of variables we have to deal with, where any one particular thing throws off our results.
 	  
 	  One solution is to very, very carefully examine the problem and map (measure) it out.
 		- **Tags**: #[[favorite]]
@@ -29,7 +29,7 @@ url:: https://twitter.com/NoahHaber/status/1315300855063642116
 	  
 	  I prefer to think about things a bit differently, and set things up so that I never have to measure.
 		- **Tags**: #[[favorite]]
-	- That's the general idea behind a lot of the methods in what I like to call the  avoidance by design strategy for causal inference.
+	- That's the general idea behind a lot of the methods in what I like to call the  avoidance by design strategy for [[causal inference]].
 	  
 	  The biggest of these strategies is the RCT. But back to wood for a second.
 	  

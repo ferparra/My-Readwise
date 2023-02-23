@@ -21,12 +21,12 @@ url:: https://twitter.com/eriktorenberg/status/1344815629426073600
 	  Once WEIRD-ness gets going, it eats everything in sight, and completely reorders power, norms, and social structures.
 	  
 	  https://t.co/Kxkzc90mf7 ([View Tweet](https://twitter.com/eriktorenberg/status/1344815632450129922))
-	- "The Courage To Be Disliked" is Adlerian psychology meets stoicism, written by a Japanese classics professor who studied Greek philosophy.
+	- "The Courage To Be Disliked" is [[Adlerian psychology]] meets [[stoicism]], written by a Japanese classics professor who studied Greek philosophy.
 	  
 	  The book is a fascinating fusion of the three, and a strong counterpoint to Freud and current therapy culture.
 	  
 	  https://t.co/Fma5OlX8yk ([View Tweet](https://twitter.com/eriktorenberg/status/1344815633981087745))
-	- Inventing The Individual shows how Christianity set the stage for consciousness, agency, & moral equality
+	- Inventing The Individual shows how Christianity set the stage for [[consciousness]], [[agency]], & moral equality
 	  
 	  The church was corrupt, but God is within you, so go inwards so you can better serve God
 	  
@@ -84,7 +84,7 @@ url:: https://twitter.com/eriktorenberg/status/1344815629426073600
 	  
 	  Nietzsche meant fully realizing one's full creative potential. 
 	  https://t.co/sXD6QzBBgG ([View Tweet](https://twitter.com/eriktorenberg/status/1344815649172856833))
-	- Post-modernism combines our new Descartes-ism "I feel, therefore it's true" with the power principle: knowledge is a function of power ("who holds power, makes truth") and that the person or group who has less power thus has a moral claim to truth.
+	- [[Post-modernism]] combines our new [[Descartes]]-ism "I feel, therefore it's true" with the [[power]] principle: [[knowledge]] is a function of [[power]] ("who holds power, makes truth") and that the person or group who has less power thus has a moral claim to truth.
 	  
 	  https://t.co/2wQ32akXSt ([View Tweet](https://twitter.com/eriktorenberg/status/1344815650598862848))
 	- Virtually everyone who was elite and cool in the 1930s in the West was a communist. 

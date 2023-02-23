@@ -46,7 +46,7 @@ url:: https://twitter.com/andybudd/status/1413467714543226891
 	  https://t.co/Een4zKr01S ([View Tweet](https://twitter.com/andybudd/status/1411367222879133701))
 	- Hopefully this tension between our desire to design the right thing and our business partners need for speed and efficiency will balance each other out and we’ll reach some natural equilibrium. ([View Tweet](https://twitter.com/andybudd/status/1411368761379131397))
 	- But for a practice that tends to mourn the missed potential of what could have been, over the great improvements that they actually made, it’s going to continue to be frustrating going. It’s the designers lot. ([View Tweet](https://twitter.com/andybudd/status/1411369311042736134))
-	- Also a big apology for this crazy Twitter stream of consciousness, but I’ve just got back off a weeks holiday in the new forest and this has been buzzing around in my [[subconscious]]. ([View Tweet](https://twitter.com/andybudd/status/1411369859003432965))
+	- Also a big apology for this crazy Twitter stream of [[consciousness]], but I’ve just got back off a weeks holiday in the new forest and this has been buzzing around in my [[subconscious]]. ([View Tweet](https://twitter.com/andybudd/status/1411369859003432965))
 	- Some great follow up thoughts from @dingstweets here.
 	  
 	  https://t.co/8qtULNd8RE ([View Tweet](https://twitter.com/andybudd/status/1411685820415811586))

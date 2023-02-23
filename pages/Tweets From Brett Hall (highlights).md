@@ -25,3 +25,12 @@ url:: https://twitter.com/ToKTeacher
 	  Explanations 
 	  Quantum Computers
 	  And this is just the start! ([View Tweet](https://twitter.com/ToKTeacher/status/1624643756631949312))
+- New highlights added [[Feb 18th, 2023]] at 8:23 PM
+	- “Every solution of a problem raises new unsolved problems.” - Karl Popper (Conjectures and Refutations).
+	  
+	  And then of course - new, better solutions follow. And so it goes. Forever. https://t.co/TmZjJ0l1zt ([View Tweet](https://twitter.com/ToKTeacher/status/1626831849464156160))
+	- Is #FollowFriday a thing?
+	  1. @arjunkhemani high energy podcast & newsletter on optimism
+	  2. @ThibaultDiP threads on optimism & progress
+	  3. @jimmpierce insights on introspection, Enlightenment & wisdom
+	  4. @masonhellcat comedy from all angles: standup, sketches & content curation ([View Tweet](https://twitter.com/ToKTeacher/status/1626574435091365888))

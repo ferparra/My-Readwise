@@ -27,7 +27,7 @@ url:: https://twitter.com/anafabrega11/status/1473659133777829893
 	  https://t.co/xYdyxU2VFM ([View Tweet](https://twitter.com/anafabrega11/status/1473659147094794250))
 	- 9. Elastic Thinking
 	  https://t.co/8A4d62ILVs ([View Tweet](https://twitter.com/anafabrega11/status/1473659148579577856))
-	- 10. Skin in the Game for Parents
+	- 10. [[Skin in the Game]] for Parents
 	  https://t.co/RDxHs7QvOP ([View Tweet](https://twitter.com/anafabrega11/status/1473659149967929352))
 	- 11. Generalize, Then Specialize
 	  https://t.co/ekhRr1xA5p ([View Tweet](https://twitter.com/anafabrega11/status/1473659151922442244))

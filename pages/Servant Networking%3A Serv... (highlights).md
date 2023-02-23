@@ -44,7 +44,7 @@ url:: https://twitter.com/andrewcyu/status/1311074126530899968
 	- 10/ and so much more. serve by offering to host community meetups, provide trainings, conversations etc. 
 	  
 	  Servant networking is well-suited for a COVID world, as traditional networking events and conferences are gone and folks are looking for new ways to connect
-	- 11/ Servant networking teaches you creativity, generosity, patience, gratitude – whats not to love? Even if you end up meeting zero people, you win for yourself.
+	- 11/ Servant networking teaches you [[creativity]], [[generosity]], [[patience]], [[gratitude]] – whats not to love? Even if you end up meeting zero people, you win for yourself.
 	  
 	  In the words of Kobe Bryant – 
 	  

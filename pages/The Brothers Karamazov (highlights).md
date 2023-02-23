@@ -8,7 +8,7 @@ document_note:: The Brothers Karamazov is an incredibly deep and captivating boo
 - Highlights first synced by [[Readwise]] [[Feb 13th, 2023]]
 	- Dostoevsky clearly favors the life of faith even though it is the more difficult option and often never gets any recognition. ([View Highlight](https://read.readwise.io/read/01gs4hemadzw76j6g7jpj5pbsw))
 		- **Tags**: #[[dostoevsky]]
-	- Free will is at times seen as a burden because if people are free to make their own choices, then they should choose the hardships that often come with faith and religion as opposed to the comfort of doubt. ([View Highlight](https://read.readwise.io/read/01gs4hf10pqr00d3ywgwvtky5k))
+	- [[Free will]] is at times seen as a burden because if people are free to make their own choices, then they should choose the [[hardships]] that often come with [[faith]] and [[religion]] as opposed to the comfort of doubt. ([View Highlight](https://read.readwise.io/read/01gs4hf10pqr00d3ywgwvtky5k))
 		- **Tags**: #[[free will]]
 	- One must first truly know and love oneself before you can love God and others and the primary way to know oneself is through suffering ([View Highlight](https://read.readwise.io/read/01gs4hfgc9jkxs4wakkqp8yb24))
 		- **Tags**: #[[self-acceptance]] #[[suffering]]

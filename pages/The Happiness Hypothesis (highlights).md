@@ -43,7 +43,7 @@ document_note:: The Happiness Hypothesis outlines the various aspects of what tr
 		- **Tags**: #[[@kant]]
 	- [Bentham](http://en.wikipedia.org/wiki/Jeremy_Bentham) is considered the father of [utilitarianism](http://en.wikipedia.org/wiki/Utilitarianism) - greatest good for the greatest number ([View Highlight](https://read.readwise.io/read/01gs4jmwa7pvdv5zf225f21067))
 		- **Tags**: #[[utilitarianism]]
-	- 6 key virtues - wisdom, courage, transcendence, humaneness, courage, justice, temperance ([View Highlight](https://read.readwise.io/read/01gs4jn94cx6vsqjdmt7wjzx90))
+	- 6 key virtues - [[wisdom]], [[courage]], [[transcendence]], humaneness, [[courage]], [[justice]], [[temperance]] ([View Highlight](https://read.readwise.io/read/01gs4jn94cx6vsqjdmt7wjzx90))
 		- **Tags**: #[[stoicism]]
 	- Both sides are required for balance and to live wisely ([yin and yang](http://en.wikipedia.org/wiki/Yin_and_yang)) ([View Highlight](https://read.readwise.io/read/01gs4jpgy9b99qg8wsyhj2tgk8))
 		- **Tags**: #[[balance]]

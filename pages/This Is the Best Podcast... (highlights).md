@@ -62,7 +62,7 @@ url:: https://twitter.com/SteadyCompound/status/1589531076716032001
 	  ![](https://pbs.twimg.com/media/Fg8mH3EX0AE-hYi.jpg) 
 	  
 	  ![](https://pbs.twimg.com/media/Fg8mH3TXkAE7urD.png) ([View Tweet](https://twitter.com/SteadyCompound/status/1589531113160146945))
-	- 6. Loss aversion
+	- 6. [[Loss aversion]]
 	  
 	  Our loss aversion prevents us from selling investments at a loss.
 	  

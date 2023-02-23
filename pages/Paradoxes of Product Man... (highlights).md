@@ -5,7 +5,7 @@ category:: #tweets
 url:: https://twitter.com/aakashg0/status/1600248463773470721
 
 - Highlights first synced by [[Readwise]] [[Dec 7th, 2022]]
-	- Paradoxes of product management: ([View Tweet](https://twitter.com/aakashg0/status/1600248463773470721))
+	- Paradoxes of [[product management]]: ([View Tweet](https://twitter.com/aakashg0/status/1600248463773470721))
 		- **Note**: Thread
 	- 1.The tension between creating value for users & stakeholders and achieving personal goals & objectives. ([View Tweet](https://twitter.com/aakashg0/status/1600248465560571904))
 	- 2.The balance between innovation and risk, and the need to think outside the box while minimizing potential failure. ([View Tweet](https://twitter.com/aakashg0/status/1600248467766775808))

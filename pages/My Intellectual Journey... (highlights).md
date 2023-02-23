@@ -5,12 +5,12 @@ category:: #tweets
 url:: https://twitter.com/CRSegerie/status/1583981603063496705
 
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
-	- My intellectual journey to solve the hard problem of consciousness.
+	- My intellectual journey to solve the hard problem of [[consciousness]].
 	  
 	  Iceberg meme format in 7 chapters:
 	  Pre awakening
-	  Early Awakening
-	  Scientific Method
+	  Early [[Awakening]]
+	  [[Scientific Method]]
 	  Losing my mind
 	  Moral cluelessness
 	  Deeper in the iceberg

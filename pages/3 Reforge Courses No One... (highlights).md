@@ -26,7 +26,7 @@ url:: https://twitter.com/nurijanian/status/1606213097135476737
 	  This practical course teaches you how to improve your chances of finding product/market fit using the Deliberate Startup methodology, a comprehensive approach that focuses on the key steps needed to build a successful product. 
 	  
 	  ![](https://pbs.twimg.com/media/FkpqUj6WQAEtdCb.jpg) ([View Tweet](https://twitter.com/nurijanian/status/1606213123429515267))
-	- 3. Data for Product Managers
+	- 3. [[Data]] for [[Product Managers]]
 	  
 	  This program teaches you how to be more data-driven in product management, from analysis to communication. 
 	  

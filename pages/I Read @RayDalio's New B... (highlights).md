@@ -201,9 +201,9 @@ url:: https://twitter.com/wolf_vukovic/status/1540378141612421121
 	  
 	  The US withheld these shocks quite successfully thus far ([View Tweet](https://twitter.com/wolf_vukovic/status/1540378215440470016))
 	- @RayDalio 26/
-	  The Great Depression and the Great Recession were the biggest threats to Western model of capitalist democracy
+	  [[The Great Depression]] and the Great Recession were the biggest threats to Western model of capitalist [[democracy]]
 	  
-	  Both produced alternatives: the first gave rise to national-socialism and communism
+	  Both produced alternatives: the first gave rise to national-[[socialism]] and [[communism]]
 	  
 	  The second gave rise to state capitalism ([View Tweet](https://twitter.com/wolf_vukovic/status/1540378217969725441))
 	- @RayDalio 27/ 

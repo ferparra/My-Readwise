@@ -35,14 +35,14 @@ url:: https://www.goodreads.com/author/quotes/1455.Ernest_Hemingway
 	  
 	    
 	      The Old Man and the Sea
-	- “Courage is grace under pressure.”
+	- “[[Courage]] is grace under pressure.”
 	    ―
 	  
-	    ernest hemingway
-	- “If people bring so much courage to this world the world has to kill them to break them, so of course it kills them. The world breaks every one and afterward many are strong at the broken places. But those that will not break it kills. It kills the very good and the very gentle and the very brave impartially. If you are none of these you can be sure it will kill you too but there will be no special hurry.”
+	    [[Ernest Hemingway]]
+	- “If people bring so much [[courage]] to this world the world has to kill them to break them, so of course it kills them. The world breaks every one and afterward many are strong at the broken places. But those that will not break it kills. It kills the very good and the very gentle and the very brave impartially. If you are none of these you can be sure it will kill you too but there will be no special hurry.”
 	    ―
 	  
-	    Ernest Hemingway,
+	    [[Ernest Hemingway]],
 	  
 	    
 	      A Farewell to Arms

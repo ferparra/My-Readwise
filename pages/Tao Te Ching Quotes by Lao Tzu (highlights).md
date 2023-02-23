@@ -33,7 +33,7 @@ url:: https://www.goodreads.com/work/quotes/100074
 	  
 	    
 	      [[Tao Te Ching]]
-	- “A man with outward courage dares to die; a man with inner courage dares to live.”
+	- “A man with outward [[courage]] dares to die; a man with inner [[courage]] dares to live.”
 	    ―
 	  
 	    [[Lao Tzu]],

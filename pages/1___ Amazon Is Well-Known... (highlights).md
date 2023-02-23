@@ -81,7 +81,7 @@ url:: https://twitter.com/TrungTPhan/status/1412067640978247683
 	  An archive of writing (e.g. annual letters) encodes thinking, especially now that he's gone. ([View Tweet](https://twitter.com/TrungTPhan/status/1412067629183897604))
 	- 14/  Here is the email from Bezos saying "No Powerpoint" (June 9th, 2004). 
 	  
-	  In it, he emphasizes the importance of "narrative structure" and says Powerpoint "gives permission to...ignore the interconnectedness of ideas." 
+	  In it, he emphasizes the importance of "narrative structure" and says Powerpoint "gives permission to...ignore the [[interconnectedness]] of ideas." 
 	  
 	  ![](https://pbs.twimg.com/media/E5f8pCuUYAEVMp_.png) ([View Tweet](https://twitter.com/TrungTPhan/status/1412067635903176707))
 	- 15/ Follow @TrungTPhan for other business breakdowns and really dumb memes, like the time I read all of Bezos' annual letters and summarized them in one tweet: https://t.co/1GpABCI1IU ([View Tweet](https://twitter.com/TrungTPhan/status/1412067637522173960))

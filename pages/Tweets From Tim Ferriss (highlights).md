@@ -32,7 +32,7 @@ url:: https://twitter.com/tferriss
 	  — Paul Conti, MD 
 	  
 	  Listen to my interview with Paul Conti, MD here: https://t.co/cXgWtfCk3w ([View Tweet](https://twitter.com/tferriss/status/1441464183887859713))
-	- “Inaction breeds doubt and fear. Action breeds confidence and courage. If you want to conquer the negative elements in your life, don’t sit at home and think about it. Go out and get busy!” — Dale Carnegie ([View Tweet](https://twitter.com/tferriss/status/1442158534293078017))
+	- “Inaction breeds doubt and fear. [[Action]] breeds confidence and [[courage]]. If you want to conquer the negative elements in your life, don’t sit at home and think about it. Go out and get busy!” — [[Dale Carnegie]] ([View Tweet](https://twitter.com/tferriss/status/1442158534293078017))
 	- "Eric Schmidt — The Promises and Perils of AI, the Future of Warfare, Profound Revolutions on the Horizon, and Exploring the Meaning of Life" 
 	  
 	  Listen to my interview with @ericschmidt: https://t.co/WEAfl8z7XJ ([View Tweet](https://twitter.com/tferriss/status/1454975568450101256))

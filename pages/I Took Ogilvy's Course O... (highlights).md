@@ -9,7 +9,7 @@ url:: https://twitter.com/VedikaBhaia/status/1442347948566667269
 	  
 	  Here are the 10 important theory's I learned from it which you'd be a fool to miss out on: ([View Tweet](https://twitter.com/VedikaBhaia/status/1442347948566667269))
 		- **Note**: Thread
-	- Loss aversion theory: 
+	- [[Loss aversion]] theory: 
 	  
 	  The negative psychological impact we feel from losing something is about twice as strong as the positive impact of gaining the same thing.  
 	  
@@ -60,13 +60,13 @@ url:: https://twitter.com/VedikaBhaia/status/1442347948566667269
 	- TLDR; for the lazy folks 
 	  
 	  1) Loss aversion theory 
-	  2) Sentence framing 
-	  3) Goal Gradient Hypothesis
-	  4) Mental Anchoring 
-	  5) Defaulting
-	  6) Scarcity 
-	  7) Pain of paying 
-	  8) IKEA Effect 
+	  2) [[Sentence framing]] 
+	  3) [[Goal Gradient Hypothesis]]
+	  4) Mental [[Anchoring]] 
+	  5) [[Defaulting]]
+	  6) [[Scarcity]] 
+	  7) [[Pain of paying]] 
+	  8) [[IKEA Effect]] 
 	  
 	  (This is all that I could fit lol) ([View Tweet](https://twitter.com/VedikaBhaia/status/1442347970494550017))
 	- I'm thinking of making more threads, give me ideas for what you'd like to see. ([View Tweet](https://twitter.com/VedikaBhaia/status/1442347972230934531))

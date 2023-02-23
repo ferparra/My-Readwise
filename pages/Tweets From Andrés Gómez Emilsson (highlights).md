@@ -36,7 +36,7 @@ url:: https://twitter.com/algekalipso
 - New highlights added [[Jan 13th, 2023]] at 10:27 AM
 	- To a first approximation:
 	  
-	  1. Consciousness is computational (algorithms) or intrinsic/physical (what physics is made of/building blocks)?
+	  1. [[Consciousness]] is computational (algorithms) or intrinsic/physical (what physics is made of/building blocks)?
 	  
 	  The feeling of value/pleasure is:
 	  
@@ -44,7 +44,7 @@ url:: https://twitter.com/algekalipso
 - New highlights added [[Jan 14th, 2023]] at 8:24 AM
 	- Recipe for alignment:
 	  
-	  Open Individualism + Valence Realism (+ good theories of consciousness)
+	  Open [[Individualism]] + Valence Realism (+ good theories of consciousness)
 	  
 	  https://t.co/IqObyX1wFZ ([View Tweet](https://twitter.com/algekalipso/status/1613990565431111680))
 - New highlights added [[Jan 30th, 2023]] at 1:49 PM

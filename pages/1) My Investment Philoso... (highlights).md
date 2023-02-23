@@ -10,7 +10,7 @@ url:: https://twitter.com/saxena_puru/status/1215909869670129665
 	  I'm a full-time investor and my concentrated portfolio is comprised of (primarily founder-led) high growth companies with large addressable markets. I usually look for dominant businesses with a special sauce (moat) which allows..
 	- 2)...them to compound their revenues, cash flows and earnings for an extended period of time (multiple years).
 	  
-	  Usually (but not always), such disruptive businesses operate in the technology sector and they are led by visionary founders with skin in the game. 
+	  Usually (but not always), such disruptive businesses operate in the technology sector and they are led by visionary founders with [[skin in the game]]. 
 	  
 	  When I invest,...
 	- 3)...it is always with the intention of holding indefinitely but the business world is unforgiving and capitalism is brutal; so in reality, my average holding period is a few years. 

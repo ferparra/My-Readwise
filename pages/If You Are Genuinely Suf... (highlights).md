@@ -33,7 +33,7 @@ url:: https://twitter.com/Grimhood/status/1380305261877862404
 	- The pharmacology of both of these nutrient supplements coincidentally mimics leading antidepressants commonly prescribed for depression without the side effects or dependency. ([View Tweet](https://twitter.com/Grimhood/status/1380308449959899138))
 	- Next up is dynorphin expression.
 	  
-	  I wrote a whole thread on this already at the beginning of quarantine in the United States because I knew what a negative impact this all would have on the collective consciousness: https://t.co/cd8OsMhYRJ ([View Tweet](https://twitter.com/Grimhood/status/1380308852336259072))
+	  I wrote a whole thread on this already at the beginning of quarantine in the United States because I knew what a negative impact this all would have on the collective [[consciousness]]: https://t.co/cd8OsMhYRJ ([View Tweet](https://twitter.com/Grimhood/status/1380308852336259072))
 	- This is most important if you experience dissociation, anhedonia, amotivation, etc.
 	  
 	  Implement all of the above immediately. ([View Tweet](https://twitter.com/Grimhood/status/1380309275512217606))

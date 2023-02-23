@@ -10,7 +10,7 @@ url:: https://twitter.com/AubreyMarcus
 	  Functions can be replaced. No matter what you “do” someone can “do” it better.  
 	  
 	  Except be you. So let your confidence rest in your essence, not function. ([View Tweet](https://twitter.com/AubreyMarcus/status/1164607217670283265))
-	- When the world is afraid, courage can be as simple as a smile.
+	- When the world is afraid, [[courage]] can be as simple as a smile.
 	  
 	  Complimenting a stranger.
 	  Helping out a friend.
@@ -170,7 +170,7 @@ url:: https://twitter.com/AubreyMarcus
 	  
 	  So as long as we live in a world of projection, denial, and rationalization, we can stay safe and cozy in our own delusion.
 	  
-	  Or... courage. ([View Tweet](https://twitter.com/AubreyMarcus/status/1162855975210115072))
+	  Or... [[courage]]. ([View Tweet](https://twitter.com/AubreyMarcus/status/1162855975210115072))
 	- If you want to give up,
 	  Don’t.
 	  

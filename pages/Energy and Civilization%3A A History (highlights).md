@@ -1,0 +1,12 @@
+title:: Energy and Civilization: A History (highlights)
+author:: [[Blas]]
+full-title:: "Energy and Civilization: A History"
+category:: #articles
+url:: https://blas.com/energy-and-civilization/
+document_note:: This document examines the impact of energy on human civilization throughout history, from pre-agricultural foraging societies to modern societies powered by fossil fuels. It discusses the concept that energy is the only universal form of currency and explores how human bipedalism, the ability to make fire, and the domestication of plants and animals enabled humans to spread to different areas and adapt. It also looks at the three steps in the agricultural revolution and how energy use per person has become more efficient over time. Finally, it examines how the search for new and better energy sources has led to innovation, globalization, and the spread of wealth.
+
+- Highlights first synced by [[Readwise]] [[Feb 19th, 2023]]
+	- Energy is the only universal form of currency. It must be transformed in order to get anything done. Although the concept is universal, defining what energy is has proven hard. Matter is energy at rest, it can take many forms, and can’t be destroyed ([View Highlight](https://read.readwise.io/read/01gskfca0m5eh0k1bwefd1mw4s))
+		- **Note**: Energy is a universal form of currency that must be transformed in order to be used for any purpose. It exists in many forms as matter and cannot be destroyed, although it is difficult to precisely define what energy is.
+	- Agriculture and domestication of plants and animals obviously had huge impacts on how we lived, ate, traveled, and even how our bodies functioned. All animal meats and mushrooms have complete proteins but most cereals do not ([View Highlight](https://read.readwise.io/read/01gskfg4ztthg3h9g5nc7tenff))
+	- There are three steps in the agricultural revolution: the use of animals which helps eliminate the most difficult jobs, freeing up time to pursue other activities or simply make the work easier for the us; fertilization and irrigation which helps the whole process become more efficient; broader array of crops which helps make the whole process more productive and robust ([View Highlight](https://read.readwise.io/read/01gskfgd1938c4n14v7m2z3c6j))

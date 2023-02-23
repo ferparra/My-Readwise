@@ -76,7 +76,7 @@ url:: https://twitter.com/lennysan
 	- To win in B2C: Build something people want
 	  
 	  To win in B2B: Build something people need ([View Tweet](https://twitter.com/lennysan/status/1448691421410574340))
-	- Product management:
+	- [[Product management]]:
 	  ✔️ Setting the path
 	  ✔️ Keeping everyone on track
 	  ✔️ Making sure the track is heading in the right direction

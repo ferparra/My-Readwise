@@ -47,6 +47,6 @@ url:: https://twitter.com/sambhigham/status/1463255597277753359
 	- @ttorres - Focus in the right place
 	  
 	  https://t.co/xh1pUomXtC ([View Tweet](https://twitter.com/sambhigham/status/1463255615447388163))
-	- @cagan - How to get started in Product Management
+	- @cagan - How to get started in [[Product Management]]
 	  
 	  https://t.co/SmXom3WQYM ([View Tweet](https://twitter.com/sambhigham/status/1463255617255190529))

@@ -43,7 +43,7 @@ url:: https://twitter.com/tobiasrogers/status/1495756452727640071
 	  https://t.co/YPkjO4aAx5 ([View Tweet](https://twitter.com/tobiasrogers/status/1495756465784512515))
 	- Super-follow Shreyas
 	  
-	  Shreyas Doshi is the unofficial king of product management Twitter. 
+	  Shreyas Doshi is the unofficial king of [[product management]] Twitter. 
 	  
 	  If you've got a question, chances are he's answered it already. 
 	  

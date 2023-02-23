@@ -11,5 +11,5 @@ url:: https://www.sloww.co/enlightenment-chop-wood-carry-water/
 		- **Tags**: #[[favorite]]
 	- “Non­-resistance, non­-judgment, and non­-attachment are the three aspects of true freedom and enlightened living.” — Eckhart Tolle
 	- “The only Zen you find on tops of mountains is the Zen you bring there.” — Robert M. Pirsig
-	- “If you are not taking responsibility for your state of consciousness, you are not taking responsibility for life.” — Eckhart Tolle
-	- “Awakened doing is the alignment of your outer purpose­ what you do – with your inner purpose – awakening and staying awake. Through awakened doing, you become one with the outgoing purpose of the universe. Consciousness flows through you into this world. It flows into your thoughts and inspires them. It flows into what you do and guides and empowers it.” — Eckhart Tolle
+	- “If you are not taking [[responsibility]] for your state of [[consciousness]], you are not taking responsibility for life.” — [[Eckhart Tolle]]
+	- “Awakened doing is the alignment of your outer purpose­ what you do – with your inner [[purpose]] – [[awakening]] and staying awake. Through awakened doing, you become one with the outgoing [[purpose]] of the universe. [[Consciousness]] flows through you into this world. It flows into your thoughts and inspires them. It flows into what you do and guides and empowers it.” — [[Eckhart Tolle]]

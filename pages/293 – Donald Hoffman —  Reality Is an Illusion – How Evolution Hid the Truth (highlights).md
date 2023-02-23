@@ -8,7 +8,7 @@ url:: https://share.snipd.com/episode/3890bc58-7ecc-4b9f-b856-26221f71da9a
 	- Conscious Experiences
 	  
 	  Summary:
-	  The standard approach to consciousness is to figure out what complicated systems of matter with the right functional properties could possibly lead to the emergence of consciousness. Iht, so maybe you have to have neurons. Maybe only if you have neurons, but that might not be enough. They have certain kinds of complexity in their their organization and their dynamics,. Certain kinds of network abilities, for example. There are those who say, for example, consciousness arises from orchestrated collapse of quantum states of micro tubilsand in nurons.
+	  The standard approach to [[consciousness]] is to figure out what complicated systems of matter with the right functional properties could possibly lead to the emergence of [[consciousness]]. Iht, so maybe you have to have neurons. Maybe only if you have neurons, but that might not be enough. They have certain kinds of complexity in their their organization and their dynamics,. Certain kinds of [[network]] abilities, for example. There are those who say, for example, [[consciousness]] arises from orchestrated collapse of [[quantum states]] of micro tubilsand in nurons.
 	  
 	  Transcript:
 	  Speaker 1

@@ -1,0 +1,40 @@
+title:: The Art of Thinking Clearly (highlights)
+author:: [[Blas]]
+full-title:: "The Art of Thinking Clearly"
+category:: #articles
+url:: https://blas.com/art-of-thinking-clearly/
+document_note:: The Art of Thinking Clearly by Rolf Dobelli outlines some of the most common mental biases and cognitive errors that humans have been making for hundreds of years. The book explains how to recognize and avoid these errors and biases, such as survivorship bias, sunk cost fallacy, confirmation bias, authority bias, and hedonic treadmill, in order to make better decisions and avoid large mistakes. It also encourages readers to think deeply and take independent action in order to gain more reward in today's world.
+
+- Highlights first synced by [[Readwise]] [[Feb 18th, 2023]]
+	- **Reciprocity** - Beware free gifts ([View Highlight](https://read.readwise.io/read/01gsj1bp1qefxx618bzt08wxnq))
+	- **Confirmation bias** - skewing new information so it fits what we already believe. Must constantly search for disconfirming evidence which is one of the hardest things to do (Darwin the master) ([View Highlight](https://read.readwise.io/read/01gsj1br7k6n2ng52v1mabb6eb))
+	- **uthority bias** - Tend to blindly follow authority figures ([View Highlight](https://read.readwise.io/read/01gsj1bte4qpe5pzztshw3zx23))
+	- **Contrast effect** - Have difficulty with absolute judgments as we tend to always compare to something else. People awful at noticing small, gradual changes ([View Highlight](https://read.readwise.io/read/01gsj1bwxk3dfff47e1n5xt0d0))
+	- **Availability bias** - don't think that examples that are most likely to come to mind are necessarily correct or most telling. We think dramatically, not quantitatively. People tend to prefer wrong information to no information (map is not the terrain) ([View Highlight](https://read.readwise.io/read/01gsj1c0070jq2tz0h8k20hn43))
+	- **Story bias** - Stories simplify and distort reality as we build meaning into things only after the fact. Narratives often irrelevant but we find them irresistible. Be very aware of story teller's intentions and incentives (you are often the story teller) ([View Highlight](https://read.readwise.io/read/01gsj1c26gwd4vast3w8yjk73f))
+	- **Hindsight bias** - keeping a journal helps keep you honest. All seems clear in retrospect ([View Highlight](https://read.readwise.io/read/01gsj1c4rgqrvgqksc06jqkv27))
+	- **Overconfidence effect** - people are systematically overconfident in forecasts, knowledge, predictions and decisions on a massive scale. Experts suffer even more than laymen ([View Highlight](https://read.readwise.io/read/01gsj1c7cttfe1f1ey64p3yyrn))
+	- **Control illusion** - thinking we can sway an outcome when we can't ([View Highlight](https://read.readwise.io/read/01gsj1cck0e13ef3y5a34psbga))
+	- Regression to the mean ([View Highlight](https://read.readwise.io/read/01gsj1ch8g9k6dzec52eckndck))
+	- **Outcome bias** - Never judge a decision by its outcome, rather judge the process ([View Highlight](https://read.readwise.io/read/01gsj1cknvh69xz97gsv9zh8ty))
+	- **Liking bias** - will help or buy more from people we like, more similar the more we like them ([View Highlight](https://read.readwise.io/read/01gsj1cq9zdxwyf851qmgp6c9a))
+	- **Endowment effect** - liking something more merely because we own it ([View Highlight](https://read.readwise.io/read/01gsj1cszc1wxbaya16e8vss8a))
+	- **Groupthink** - reckless decisions made because social proof gets people to agree when they otherwise would not. In a tight group, speaking your mind even more important ([View Highlight](https://read.readwise.io/read/01gsj1cxg71f83jn2ccf6987p7))
+	- **Neglect of probability** - react to size or danger of event rather than likelihood of it happening. No intuitive grasp of risk ([View Highlight](https://read.readwise.io/read/01gsj1cznsa1sp75dr95xtkn78))
+	- **Scarcity error** - people more highly value what is scarce. Focus only on price and benefits ([View Highlight](https://read.readwise.io/read/01gsj1d2ehdaegdtzxe6dm1vc2))
+	- Base rate neglect ([View Highlight](https://read.readwise.io/read/01gsj1d55pf3yp42b0fxmwksrc))
+	- **Gamblers fallacy** - dice do not have memory, play the probability ([View Highlight](https://read.readwise.io/read/01gsj1d82v7wth4sd0k826ts07))
+	- **Fundamental attribution error** - Overestimate individual's influence and underestimate the environment's ([View Highlight](https://read.readwise.io/read/01gsj1dmrh6q5ffzj1enhn670p))
+	- **Halo effect** - a single bright characteristic makes everything else seem better ([View Highlight](https://read.readwise.io/read/01gsj1drgnt61xrybtfncctmz3))
+	- **Alternative paths** - all the outcomes that could have happened but didn't. Don't contemplate invisible or missing outcomes or info as much as we should ([View Highlight](https://read.readwise.io/read/01gsj1dxh6jxyc1ek9gcpm5afy))
+	- **Conjunction fallacy** - when we think a subset seems larger than the entire set. We all have soft spots for plausible stories ([View Highlight](https://read.readwise.io/read/01gsj1e0fzg5fj96qmv8mzfp4z))
+	- **Framing** - information is perceived differently depending on how it is presented ([View Highlight](https://read.readwise.io/read/01gsj1e3m3xrgdstq1sc676bak))
+	- **Action bias** - people want to look active even if it accomplishes nothing, accentuated in new situations or where you're unsure ([View Highlight](https://read.readwise.io/read/01gsj1e6hd395c7b8ae05cnehg))
+	- **Omission bias** - inaction seems more admissible than action even if both lead to the same outcome ([View Highlight](https://read.readwise.io/read/01gsj1e9eeqv0we1y0aq19v4vn))
+	- **Hedonic treadmill** - we always recalibrate happiness and sadness to our situation. Avoid negative things you can't get accustomed to, expect only short term happiness from material things, get as much free time, autonomy and deep relationships as possible ([View Highlight](https://read.readwise.io/read/01gsj1ed4gsb9jwk2frsse54z0))
+	- **Association bias** - seeing connections where none exist ([View Highlight](https://read.readwise.io/read/01gsj1egvr9n777hrdrpjqfr11))
+	- **Information bias** - the delusion that more information helps us make better decisions ([View Highlight](https://read.readwise.io/read/01gsj1ewenr67b5t0g1cxzhnkk))
+	- **Default tendency** - status quo bias, cling to way things are even if not the best option ([View Highlight](https://read.readwise.io/read/01gsj1fasy2qnzxwjw6c2z2jha))
+	- **Planning fallacy** - people take on too much and is even worse in groups, we are not natural planners and underestimate role of outside events, use pre mortems ([View Highlight](https://read.readwise.io/read/01gsj1fqkh8wr3fhsg395vvf1b))
+	- **Future positive effect** - missing information much harder to appreciate than what is present, have problems perceiving non events and the absence of things ([View Highlight](https://read.readwise.io/read/01gsj1g21pja6gmb8k3a2r1rj0))
+	- **Cherry picking** - selecting and showcasing only the best characteristics and hiding or not mentioning the rest. Always ask about the failures and try to notice what is missing or not mentioned ([View Highlight](https://read.readwise.io/read/01gsj1fwv7dvj2zbgz7t18zv2v))

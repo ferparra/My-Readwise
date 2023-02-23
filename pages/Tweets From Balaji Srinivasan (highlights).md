@@ -35,8 +35,8 @@ url:: https://twitter.com/balajis
 	  Amazon didn't need Barnes & Noble
 	  
 	  And we don't need legacy banks or media corporations. Though we do need to replace them! https://t.co/OKL5PmrHG9 ([View Tweet](https://twitter.com/balajis/status/1468096764917940226))
-	- First, extractive colonialism.
-	  Then, stagnating socialism.
-	  Now, capitalist ascent. 
+	- First, extractive [[colonialism]].
+	  Then, stagnating [[socialism]].
+	  Now, [[capitalist]] ascent. 
 	  
 	  ![](https://pbs.twimg.com/media/FNotu8fVUAM5XYd.jpg) ([View Tweet](https://twitter.com/balajis/status/1502563830794121218))

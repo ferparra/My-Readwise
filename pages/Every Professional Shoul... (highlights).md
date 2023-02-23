@@ -21,7 +21,7 @@ url:: https://twitter.com/rroudt/status/1617990665530667010
 	  
 	  When you ultralearn, you take complete ownership over your progress towards a goal *you* have set for yourself.
 	  
-	  But ultralearning is not for everyone; you must have skin in the game. ([View Tweet](https://twitter.com/rroudt/status/1617990669892726784))
+	  But ultralearning is not for everyone; you must have [[skin in the game]]. ([View Tweet](https://twitter.com/rroudt/status/1617990669892726784))
 	- The world is changing fast; learn to adapt.
 	  
 	  Ultralearning enables you to quickly learn the knowledge and skills needed to change direction in life.

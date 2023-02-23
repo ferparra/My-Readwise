@@ -15,7 +15,7 @@ document_note:: Sun Tzu's Art of War is a timeless classic and its principles ar
 	- Yin - yin requires sensitivity to register the full range of forces that define one's situation, and, on the basis of this awareness, to anticipate the various possibilities that can ensue. Adaptability refers to the conscious fluidity of one's own disposition. One can only turn prevailing circumstances to account if one maintains an attitude of readiness and flexibility. One must adapt oneself to the enemy's changing posture as naturally and as effortlessly as flowing water winding down a hillside ([View Highlight](https://read.readwise.io/read/01gs571v095yy7whq3y557536p))
 		- **Tags**: #[[adaptability]]
 		- **Note**: Yin-yang means being aware of all the things that affect your situation. You need to be ready to change, and be flexible in order to make the most of the situation. You should be able to adjust to the enemy's moves, just like water flowing down a hill.
-	- Leadership
+	- [[Leadership]]
 	  
 	  1.  All situations consequence of a dynamic process of organically related, mutually determining conditions
 	  2.  To be reliable, information must be firsthand and there is a key relationship between intelligence and timing. Once the specific time has past, information loses its strategic function and importance, and at best retains only historical value. Ideally, effective intelligence provides clear discernment of the enemy's situation and a full concealment of one's own

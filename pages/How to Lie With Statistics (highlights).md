@@ -1,0 +1,24 @@
+title:: How to Lie With Statistics (highlights)
+author:: [[Darrell Huff]]
+full-title:: "How to Lie With Statistics"
+category:: #articles
+url:: https://blas.com/how-to-lie-with-statistics/
+document_note:: This book provides an overview of the ways data and statistics can be manipulated to tell a desired story, as well as how to guard against this deception. It explains the need for writers to use statistical terms with honesty and understanding, as well as for readers to understand what they mean. The book provides five questions to ask when looking at data, such as "Who says so?" and "What's missing?", and it emphasizes the importance of representative sampling. It also explains the various types of averages, the danger of small sample sizes, and the fallacy of assuming that one thing causes another. Finally, the book emphasizes the power of percentages and discounts to distort information.
+tags:: #[[statistics]]
+
+- Highlights first synced by [[Readwise]] [[Feb 21st, 2023]]
+	- Not all the statistical information that you may come upon can be tested with the sureness of chemical analysis or of what goes on in an assayer’s laboratory. But you can prod the stuff with five simple questions, and by finding the answers avoid learning a remarkable lot that isn’t so. Who Says So?
+	  
+	  1.  How Does He Know?
+	  2.  What’s Missing?
+	  3.  Did Somebody Change the Subject? ([View Highlight](https://read.readwise.io/read/01gsq5jdypr32btbtg80rv6v5b))
+	- **A river cannot, we are told, rise above its source. Well, it can seem to if there is a pumping station concealed somewhere about. It is equally true that the result of a sampling study is no better than the sample it is based on. By the time the data have been filtered through layers of statistical manipulation and reduced to a decimal-pointed average, the result begins to take on an aura of conviction that a closer look at the sampling would deny.** To be worth much, a report based on sampling must use a representative sample, which is one from which every source of bias has been removed. The test of the random sample is this: Does every name or thing in the whole group have an equal chance to be in the sample? The purely random sample is the only kind that can be examined with entire confidence by means of statistical theory, but there is one thing wrong with it. It is so difficult and expensive to obtain for many uses that sheer cost eliminates it. A more economical substitute, which is almost universally used in such fields as opinion polling and market research, is called stratified random sampling. ([View Highlight](https://read.readwise.io/read/01gsq5jskkqq3m5kdm44nsmgw9))
+		- **Note**: This passage is saying that when we look at statistics, the data might not have been collected in the right way. To make sure the data is accurate, it needs to come from a sample that is not biased, which means that everyone has an equal chance of being part of the sample. The most reliable way to do this is by using a random sample, but this can be expensive and time consuming. A cheaper, but less reliable way is called stratified random sampling, and it is often used in opinion polls and market research.
+	- Averages
+	  
+	  1.  **When you are told that something is an average you still don’t know very much about it unless you can find out which of the common kinds of average it is—mean, median, or mode.** So when you see an average-pay figure, first ask: Average of what? Who’s included?
+	  2.  **Only when there is a substantial number of trials involved is the law of averages a useful description or prediction.**
+	  3.  If the source of your information gives you also the degree of significance, you’ll have a better idea of where you stand. This degree of significance is most simply expressed as a probability,
+	  4.  Comparisons between figures with small differences are meaningless. You must always keep that plus-or-minus in mind, even (or especially) when it is not stated. ([View Highlight](https://read.readwise.io/read/01gsq5kz1qpzvskn7xwxxw0jhp))
+		- **Note**: The text explains that when presented with an average statistic, it is important to ask which type of average is being used (mean, median, or mode) and who is included in the calculation. It also points out that the law of averages is only useful when there is a substantial number of trials. Additionally, it is important to consider the degree of significance and the plus-or-minus when comparing figures with small differences.
+	- Percentages offer a fertile field for confusion. And like the ever-impressive decimal they can lend an aura of precision to the inexact. ([View Highlight](https://read.readwise.io/read/01gsq5mevgjdjbk50qhga0wz8c))

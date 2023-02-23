@@ -17,7 +17,7 @@ url:: https://twitter.com/tobiasrogers
 	  [[OKRs]] [[@cwodtke]] 
 	  [[Community]] [[@lennysan]] 
 	  [[Career]] [[@jackiebo]] ([View Tweet](https://twitter.com/tobiasrogers/status/1464938380655923208))
-	- Product management's biggest secret: 
+	- [[Product management]]'s biggest secret: 
 	  
 	  None of us really know what we're doing. 
 	  

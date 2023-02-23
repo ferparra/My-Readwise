@@ -4,7 +4,7 @@ full-title:: "\#571 —  Boyd Varty — The Lion Tracker's Guide to Life"
 category:: #podcasts
 
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
-	- What Is The Ubuntu Consciousness?
+	- What Is The Ubuntu [[Consciousness]]?
 	  
 	  Summary:
 	  When you spend time with people, the buntu consciousness is activated in them. It's a kind of structuring in their very psyche. They experience things in relation. And they know that knowing yourself and being yourself is about being connected to people but also to broader field of sentient life.

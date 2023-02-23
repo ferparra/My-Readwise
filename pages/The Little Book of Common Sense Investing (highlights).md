@@ -1,0 +1,12 @@
+title:: The Little Book of Common Sense Investing (highlights)
+author:: [[Blas]]
+full-title:: "The Little Book of Common Sense Investing"
+category:: #articles
+url:: https://blas.com/the-little-book-of-common-sense-investing/
+document_note:: John C. Bogle, the founder of The Vanguard Group, provides evidence to suggest that for most people, a broad, market-wide index which is tax efficient and has minimal costs is the most efficient way to invest their money. The key takeaways from this include buying a fund that holds the market portfolio, finding an index with low fees and low-turnover, diversifying, minimizing investment expenses, rebalancing, being aware of reversion to the mean and setting up a "funny money" fund for risky investments. Ultimately, indexing the vast majority of a portfolio is suggested to be the no-brainer option.
+
+- Highlights first synced by [[Readwise]] [[Feb 17th, 2023]]
+	- Buying a fund that holds the market portfolio and holding it forever is the best possible play you can make for the long-term growth of your money. ([View Highlight](https://read.readwise.io/read/01gsffz3kf4fp723jqfx01bjpm))
+	- Diversify (which the index inherently does), minimize investment expenses, focus your emotions where they cannot wreak the kind of havoc that most people experience in their investment programs, rebalance in a disciplined fashion, spend less, save more, begin investing early, when something seems too good to be true it usually is, stop watching the stock markets, work less on investing, be skeptical ([View Highlight](https://read.readwise.io/read/01gsffz788y8xr0cv5n4t6nb6r))
+		- **Note**: When it comes to investing, it is important to spread your money out between different investments (this is called diversifying) so that you don't risk losing it all. Also, try to save as much money as you can, and start investing early. When making an investment, make sure it is something that is not too good to be true - if it sounds too good to be true, it probably is. Don't watch the stock markets too closely, and be careful and cautious about what you invest in.
+	- Stick to basics with discipline ([View Highlight](https://read.readwise.io/read/01gsfg06rsrbah7sf47vgt0bgh))

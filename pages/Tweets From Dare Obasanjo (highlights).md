@@ -27,3 +27,5 @@ url:: https://twitter.com/Carnage4Life
 	  An anti-pattern is deciding that if they aren’t in top right quadrant that it’s a performance problem. 
 	  
 	  ![](https://pbs.twimg.com/media/E9WVKFlUcAElDl1.jpg) ([View Tweet](https://twitter.com/Carnage4Life/status/1429212460297330688))
+- New highlights added [[Feb 16th, 2023]] at 9:44 AM
+	- “Google has 175,000+ capable and well-compensated employees who get very little done quarter over quarter, year over year. Like mice, they are trapped in a maze of approvals, launch processes, legal reviews, performance reviews, exec reviews,… and reorgs” https://t.co/z6AVGL5vBt ([View Tweet](https://twitter.com/Carnage4Life/status/1625678394502565893))

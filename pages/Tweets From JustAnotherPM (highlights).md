@@ -13,7 +13,7 @@ url:: https://twitter.com/JustAnotherPM
 	  
 	  #product #management ([View Tweet](https://twitter.com/JustAnotherPM/status/1357086512911966210))
 	- 6/100
-	  Understanding customer needs is crucial.
+	  Understanding [[customer needs]] is crucial.
 	  
 	  Updating the understanding regularly is even more important.
 	  

@@ -46,9 +46,9 @@ url:: https://twitter.com/ShaneAParrish/status/1394420743518277632
 	  The better you get at evaluating past decisions, the better you'll get at making future decisions. ([View Tweet](https://twitter.com/businessbarista/status/1394405035455488001))
 	- So how do you improve the quality of your decisions over time? 
 	  
-	  It's called Decision Journaling. 
+	  It's called [[Decision Journaling]]. 
 	  
-	  First introduced to me by @ShaneAParrish, who described its use by Daniel Kahneman, a Nobel Prize-winning Economist. 
+	  First introduced to me by @ShaneAParrish, who described its use by [[Daniel Kahneman]], a Nobel Prize-winning Economist. 
 	  
 	  ![](https://pbs.twimg.com/media/E1nr_llXIAc5usd.jpg) ([View Tweet](https://twitter.com/businessbarista/status/1394405040014696450))
 	- The story goes that legendary investor @mjmauboussin was meeting with Kahneman and asked him: 

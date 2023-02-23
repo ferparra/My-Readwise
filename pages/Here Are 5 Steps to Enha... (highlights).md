@@ -10,7 +10,7 @@ url:: https://twitter.com/hubermanlab/status/1486808180566810624
 	  Neuroimaging, EEG (brain electrical recording) and psychology studies show that the positive effects of a gratitude practice primarily occur when we receive, not when we give, gratitude. ([View Tweet](https://twitter.com/hubermanlab/status/1486808182483681280))
 	- 2) Make it Genuine
 	  
-	  The genuine intention of the gratitude giver has a direct impact on the degree of positive effect felt by the person receiving the gratitude (the thankee). So give thanks, but do so with honesty. It matters. https://t.co/Aw0tG7Cc9W ([View Tweet](https://twitter.com/hubermanlab/status/1486808184647868416))
+	  The genuine intention of the [[gratitude]] giver has a direct impact on the degree of positive effect felt by the person receiving the gratitude (the thankee). So give thanks, but do so with honesty. It matters. https://t.co/Aw0tG7Cc9W ([View Tweet](https://twitter.com/hubermanlab/status/1486808184647868416))
 	- 3) Observe/Recall Others Giving & Receiving Genuine Thanks
 	  
 	  Having a story you can recall in which someone received genuine gratitude is beneficial. Recall that story 1-3 times per week. ([View Tweet](https://twitter.com/hubermanlab/status/1486808187118362628))

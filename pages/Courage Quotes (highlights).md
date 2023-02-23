@@ -5,10 +5,10 @@ category:: #articles
 url:: https://www.goodreads.com/quotes/tag/courage
 
 - Highlights first synced by [[Readwise]] [[Nov 18th, 2022]]
-	- “Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.”
+	- “Being deeply loved by someone gives you strength, while loving someone deeply gives you [[courage]].”
 	    ―
 	  
-	    Lao Tzu
+	    [[Lao Tzu]]
 	- “It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.”
 	    ―
 	  
@@ -16,18 +16,18 @@ url:: https://www.goodreads.com/quotes/tag/courage
 	  
 	    
 	      Harry Potter and the Sorcerer's Stone
-	- “Success is not final, failure is not fatal: it is the courage to continue that counts.”
+	- “Success is not final, failure is not fatal: it is the [[courage]] to continue that counts.”
 	    ―
 	  
-	    Winston S. Churchill
-	- “It takes courage to grow up and become who you really are.”
+	    [[Winston S. Churchill]]
+	- “It takes [[courage]] to grow up and become who you really are.”
 	    ―
 	  
-	    E.E. Cummings
-	- “Courage is the most important of all the virtues because without courage, you can't practice any other virtue consistently.”
+	    [[E.E. Cummings]]
+	- “[[Courage]] is the most important of all the virtues because without courage, you can't practice any other virtue consistently.”
 	    ―
 	  
-	    Maya Angelou
+	    [[Maya Angelou]]
 	- “Bran thought about it. 'Can a man still be brave if he's afraid?''That is the only time a man can be brave,' his father told him.”
 	    ―
 	  
@@ -39,10 +39,10 @@ url:: https://www.goodreads.com/quotes/tag/courage
 	    ―
 	  
 	    Nora Ephron
-	- “You cannot swim for new horizons until you have courage to lose sight of the shore.”
+	- “You cannot swim for new horizons until you have [[courage]] to lose sight of the shore.”
 	    ―
 	  
-	    William Faulkner
+	    [[William Faulkner]]
 	- “Live the Life of Your Dreams: Be brave enough to live the life of your dreams according to your vision and purpose instead of the expectations and opinions of others.”
 	    ―
 	  

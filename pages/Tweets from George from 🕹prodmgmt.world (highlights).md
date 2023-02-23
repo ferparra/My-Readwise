@@ -18,7 +18,7 @@ url:: https://twitter.com/nurijanian
 	  
 	  Carves off 80% of things, so you can focus on refining the remaining 20% ([View Tweet](https://twitter.com/nurijanian/status/1588788249945833472))
 - New highlights added [[Nov 21st, 2022]] at 7:51 AM
-	- Best Product Management Tools (That Nobody Knows) in 2022:
+	- Best [[Product Management]] Tools (That Nobody Knows) in 2022:
 	  
 	  • OpinionX: Stack rank problems like a pro
 	  • Coda: If Confluence was 10X better
@@ -27,7 +27,7 @@ url:: https://twitter.com/nurijanian
 	  
 	  What did I miss? ([View Tweet](https://twitter.com/nurijanian/status/1594103262914834434))
 - New highlights added [[Nov 25th, 2022]] at 11:39 AM
-	- Another great framework for solving cross-company alignment on metrics quickly: Data Hierarchy Map
+	- Another great framework for solving cross-company alignment on [[metrics]] quickly: Data Hierarchy Map
 	  
 	  1. Pull up the org chart
 	  2. Connect the CEO's reports to the company's key metrics (acquisition, retention, monetisation)

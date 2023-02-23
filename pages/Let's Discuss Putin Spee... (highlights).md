@@ -12,7 +12,7 @@ url:: https://twitter.com/kamilkazani/status/1497306746330697738
 	- Why do we exist? Different Russian regimes gave different answers to this question. Bolshevik theocracy claimed to lead humanity to the earthly heaven of communism. Until 1960s they were serious about it. In 1960 Khruchev gave specific deadline: communism will be built by 1980 
 	  
 	  ![](https://pbs.twimg.com/media/FMeAmAVX0AEu1yU.jpg) ([View Tweet](https://twitter.com/kamilkazani/status/1497307881087057926))
-	- Khruchev however was the last true believer at power. In 1964 he was deposed by Brezhnev who didn't care. Brezhnev abandoned the agenda of building communism by a specific deadline. "Developed socialism" would be good enough. So we kinda don't march to the earthly heaven anymore 
+	- Khruchev however was the last true believer at power. In 1964 he was deposed by Brezhnev who didn't care. Brezhnev abandoned the agenda of building communism by a specific deadline. "Developed [[socialism]]" would be good enough. So we kinda don't march to the earthly heaven anymore 
 	  
 	  ![](https://pbs.twimg.com/media/FMeDIGUXMAg7g0z.jpg) ([View Tweet](https://twitter.com/kamilkazani/status/1497309595680878592))
 	- That however created a problem of justification and legitimacy. If we aren't unironically building Communism, then why do we exist? What's our source of legitimacy? Brezhnev told: because we won the WWII. We saved humanity from the Nazism which is our greatest accomplishment ever 

@@ -7,7 +7,7 @@ url:: https://twitter.com/alexgarcia_atx
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
 	- Apple's marketing philosophy breaks down into 3 parts:
 	  
-	  1. Empathy - Understand customer needs
+	  1. [[Empathy]] - Understand [[customer needs]]
 	  2. Focus - Eliminate BS and focus on one thing
 	  3. Impute - Great Marketing 
 	  

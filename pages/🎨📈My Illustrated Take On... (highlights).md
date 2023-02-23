@@ -26,7 +26,7 @@ url:: https://twitter.com/andrewcyu/status/1384122650050449410
 		- **Tags**: #[[favorite]]
 	- 6/ Satisfaction metrics
 	  
-	  Satisfied customers are most likely to spread the word about your product. Customer satisfaction impacts not only your other key metrics but also your company’s brand. https://t.co/kdtl3w9vjY ([View Tweet](https://twitter.com/andrewcyu/status/1384122603229433857))
+	  Satisfied customers are most likely to spread the word about your product. [[Customer satisfaction]] impacts not only your other [[key metrics]] but also your company’s brand. https://t.co/kdtl3w9vjY ([View Tweet](https://twitter.com/andrewcyu/status/1384122603229433857))
 		- **Tags**: #[[favorite]]
 	- 7/ Ecosystem metrics
 	  
@@ -36,7 +36,7 @@ url:: https://twitter.com/andrewcyu/status/1384122650050449410
 	  For some companies, the product is the business. For others, it delivers business results. https://t.co/ILkVBMV4xF ([View Tweet](https://twitter.com/andrewcyu/status/1384122614457651202))
 	- 9/ Refining your metrics 
 	  
-	  After choosing your suite of metrics, focus on a small set, your key metrics (KMs) and leading indicator metrics (LMs). https://t.co/cRyJgns7nM ([View Tweet](https://twitter.com/andrewcyu/status/1384122620149309449))
+	  After choosing your suite of metrics, focus on a small set, your [[key metrics]] (KMs) and leading indicator metrics (LMs). https://t.co/cRyJgns7nM ([View Tweet](https://twitter.com/andrewcyu/status/1384122620149309449))
 		- **Tags**: #[[favorite]]
 	- 10/ Key metrics
 	  

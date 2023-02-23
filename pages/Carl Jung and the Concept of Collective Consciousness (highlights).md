@@ -13,7 +13,7 @@ tags:: #[[@carl-jung]]
 	  Carl Jung’s theory is the [collective unconscious](https://www.wondriumdaily.com/?p=87227). He believed that human beings are connected to each other and their ancestors through a shared set of experiences. We use this collective consciousness to give meaning to the world. ([View Highlight](https://read.readwise.io/read/01gqp4ctcs4tnjvrwwvyv4778g))
 	- **What did Freud and Jung disagree on?**
 	  
-	  Freud and Jung disagreed on some key aspects. For example, Jung believed that religion was a natural part of human consciousness, but Freud thought of religion as a form of collective neurosis. Also, Jung believed in the [collective consciousness](https://www.wondriumdaily.com/?p=87227), which permanently split the two. ([View Highlight](https://read.readwise.io/read/01gqp4d3wbz0e96e00062dcgnp))
+	  [[Freud]] and [[Jung]] disagreed on some key aspects. For example, Jung believed that [[religion]] was a natural part of human [[consciousness]], but Freud thought of religion as a form of collective neurosis. Also, Jung believed in the [collective consciousness](https://www.wondriumdaily.com/?p=87227), which permanently split the two. ([View Highlight](https://read.readwise.io/read/01gqp4d3wbz0e96e00062dcgnp))
 	- **What is the best definition of archetype?**
 	  
 	  According to Jung, [archetypes are similar patterns](https://www.wondriumdaily.com/?p=87227) in image, characters, and events that repeat in myths, religions, and cultural beliefs from different communities that were unlikely to have been in contact with each other. ([View Highlight](https://read.readwise.io/read/01gqp4dcdxbp6krb0hyxv50w3s))

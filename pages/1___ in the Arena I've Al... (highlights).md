@@ -15,7 +15,7 @@ url:: https://twitter.com/jposhaughnessy/status/1624523689478725635
 		- **Note**: Thread
 	- 2/ but rather as a creative contributor to life. 
 	  
-	  I think of it more as having the courage to expose yourself to the critics and naysayers by striving (with great enthusiasm) to contribute, even when (especially when) you fall flat on your face. https://t.co/5COpkxOX5g ([View Tweet](https://twitter.com/jposhaughnessy/status/1624523691638882305))
+	  I think of it more as having the [[courage]] to expose yourself to the critics and naysayers by striving (with great enthusiasm) to contribute, even when (especially when) you fall flat on your face. https://t.co/5COpkxOX5g ([View Tweet](https://twitter.com/jposhaughnessy/status/1624523691638882305))
 	- 3/ It seems to be a feature, not a bug, of HumanOS to be wary of the judgment of others. 
 	  
 	  This probably has evolutionary origins, as when we were all living in tribes as hunter/gatherers, not fitting into the tribe often meant exile and death. Better then to fit IN, rather than https://t.co/rCHBoD3Rs5 ([View Tweet](https://twitter.com/jposhaughnessy/status/1624523693882847235))

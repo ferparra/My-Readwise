@@ -10,7 +10,7 @@ url:: https://twitter.com/SimonDeDeo/status/1334191811380842504
 	- Faculty hiring is more complicated, and it’s easier for people to look at metrics. Usually, how many papers in “top” journals; sometimes divided by the number of years the person’s been out.
 	- When I’ve looked over at startup culture, the metrics seem extreme: obsessive tracking of users, engagement, dollars, etc—coupled with arbitrary goals of being, say, “Ramen profitable”.
 	- Worth pointing to Keynes on “small” (meaning management==ownership) business. These were the backbone of the modern bourgeois world, and they basically has no metrics at all. https://t.co/1iHHw2bokT
-	- @nntaleb might say that you turn to metrics when you no longer have skin in the game—when your goal is not the thing itself, but convincing others that you have it (and dashing off before your pants fall down).
+	- @nntaleb might say that you turn to [[metrics]] when you no longer have [[skin in the game]]—when your goal is not the thing itself, but convincing others that you have it (and dashing off before your pants fall down).
 	- Metrics are famously a form of control, but one whose essential job is to fool people. A high h-index department is one that convinces USNWR (etc) that it’s doing good science. Metrics control image, not substance.
 		- **Tags**: #[[favorite]]
 	- I think about this in terms of the “quantified self”—the use of metrics for one’s personal life. There, I think it’s interestingly mixed.

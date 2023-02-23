@@ -1,0 +1,9 @@
+title:: Complexity: The Emerging Science at the Edge of Order and Chaos by Mitchell Waldrop (highlights)
+author:: [[The Rabbit Hole]]
+full-title:: "Complexity: The Emerging Science at the Edge of Order and Chaos by Mitchell Waldrop"
+category:: #articles
+url:: https://blas.com/complexity-waldrop/
+document_note:: This document discusses the science of complexity, which explores the relationship between order and chaos. It explains self-organization and emergence, and how complex systems are able to balance order and chaos at the "edge of chaos". Life is seen as operating at the edge of chaos, characterized by competition, cooperation, and perpetual novelty. It also explains the concept of autocatalytic sets, which can bootstrap their own creation and evolution. Furthermore, the document discusses adaptive agents, implicit expertise, and the "tao of complexity". It emphasizes the importance of feedback and learning, and suggests that optimal solutions cannot always be determined, but instead should be based on what is workable.
+
+- Highlights first synced by [[Readwise]] [[Feb 18th, 2023]]
+	- Emergence is hierarchical – building blocks at one level combining into new blocks at a higher level. Hierarchies are one of the fundamental organizing principles of the world. Found everywhere because a well-designed hierarchy is an excellent way of getting some work done without any one person being overwhelmed or having to know everything. Also, utterly transforms a system’s ability to learn, evolve and adapt – can reshuffle building blocks and take giant leaps. Can describe a great many complicated things from relatively few building blocks ([View Highlight](https://read.readwise.io/read/01gsj2581jnqtr0s8wszpb64jp))

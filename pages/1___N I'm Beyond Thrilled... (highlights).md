@@ -948,7 +948,7 @@ url:: https://twitter.com/Jeanvaljean689/status/1360350303611064320
 	  but it inspires a deep [[gratitude]] in me for --> https://t.co/RixHuEIXsC ([View Tweet](https://twitter.com/Jeanvaljean689/status/1364223929867407365))
 	- 155/n --> all the brave souls who are willing to contribute to the project, which, yes, has a clear destination, but at times feels risky + vertiginous -
 	  
-	  Particular shoutout of gratitude to @beauhaan , @RaygunIcecream , and @thepericulum , for their early understanding of this. ([View Tweet](https://twitter.com/Jeanvaljean689/status/1364223935437443080))
+	  Particular shoutout of [[gratitude]] to @beauhaan , @RaygunIcecream , and @thepericulum , for their early understanding of this. ([View Tweet](https://twitter.com/Jeanvaljean689/status/1364223935437443080))
 	- 156/n This is just to observe that BEFORE @RoamBookClub , I thought that the 2nd reading of a book I already read, via book club, would mean, maybe, I'd then understand it 150% as well, i.e. "half again" as well -
 	  
 	  This is wrong.

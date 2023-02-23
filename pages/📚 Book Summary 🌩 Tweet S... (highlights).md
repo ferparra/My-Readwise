@@ -193,7 +193,7 @@ url:: https://twitter.com/batkomichael/status/1172702983265480704
 	- Algorithms to Live By
 	  https://t.co/fgGUVK6FPd
 	  
-	  Up against hard cases, effective algorithms make assumptions, trade-off the costs of error against the cost of delay and take chances. These aren’t the concessions we make when we can’t be rational. They’re what being rational means. ([View Tweet](https://twitter.com/batkomichael/status/1172715617125666817))
+	  Up against hard cases, effective algorithms make assumptions, trade-off the costs of error against the [[cost of delay]] and take chances. These aren’t the concessions we make when we can’t be rational. They’re what being rational means. ([View Tweet](https://twitter.com/batkomichael/status/1172715617125666817))
 	- Radical Candor
 	  https://t.co/gA3ZHHXPfv
 	  
@@ -294,9 +294,9 @@ url:: https://twitter.com/batkomichael/status/1172702983265480704
 	  https://t.co/nc5C5YY4Ti
 	  
 	  Holistic overview of angel investing and how it's different to VC ([View Tweet](https://twitter.com/batkomichael/status/1211975605299941382))
-	- Courage to be Disliked
-	  Adlerian psychology - "The world is simple and life is too"
-	  About the desire for recognition and community, how to live and the meaning of life.
+	- [[Courage]] to be Disliked
+	  [[Adlerian psychology]] - "The world is simple and life is too"
+	  About the [[desire]] for [[recognition]] and [[community]], how to live and the [[meaning]] of life.
 	  
 	  https://t.co/Ig5OpFBjTN ([View Tweet](https://twitter.com/batkomichael/status/1213240087103909888))
 	- Daughter of Smoke and Bone

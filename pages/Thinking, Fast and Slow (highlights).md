@@ -165,13 +165,13 @@ tags:: #[[mental models]]
 	  •   Bernoulli did not take reference dependence into account ([View Highlight](https://read.readwise.io/read/01gs52n7e43k4xv2bc1w6tr9gg))
 		- **Tags**: #[[risk aversion]]
 		- **Note**: People are usually afraid to take risks, and when making decisions they should think about the average outcome of all the options.
-	- Prospect Theory
+	- [[Prospect Theory]]
 	  
-	  •   **Loss aversion drives most decisions but reference point also important**
+	  •   **[[Loss aversion]] drives most decisions but reference point also important**
 	  •   Staying at status quo a version of loss aversion
 	  •   Tastes change and bad effects look larger in your mind that good effects ([View Highlight](https://read.readwise.io/read/01gs52q0g5sgjemfxz3z9tdbyn))
 		- **Tags**: #[[risk aversion]] #[[decision making]]
-		- **Note**: Prospect Theory is a way of making decisions. It says that when we make decisions, we are usually more afraid of losing something than we are of gaining something. This means that we often try to stay in the same place or position (called the "status quo") in order to avoid losses. Our tastes also change over time and it often feels like bad things have a bigger impact on us than good things.
+		- **Note**: [[Prospect Theory]] is a way of making decisions. It says that when we make decisions, we are usually more afraid of losing something than we are of gaining something. This means that we often try to stay in the same place or position (called the "status quo") in order to avoid losses. Our tastes also change over time and it often feels like bad things have a bigger impact on us than good things.
 	- Endowment Effect
 	  
 	  •   **[Endowment Effect](http://en.wikipedia.org/wiki/Endowment_effect) - value of something goes up after you actually own it**

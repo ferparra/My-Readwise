@@ -1,0 +1,456 @@
+- A [[product manager]]'s introductory curriculum
+  collapsed:: true
+	- Introduction
+		- Overview of the role of a digital product manager
+		- Importance of [[cross-functional]] [[collaboration]] and [[stakeholder management]]
+		- Significance of [[soft skills]] in product management
+	- [[Product Strategy]] and [[Planning]]
+		- Conducting market and user research
+			- Identifying target users and their needs
+			- Conducting [[competitive analysis]]
+			- Analyzing market trends and opportunities
+			- Defining [[key metrics]] for product success
+		- Creating a [[product roadmap]]
+			- Setting product priorities and milestones
+			- Balancing [[long-term vision]] with [[short-term goals]]
+			- Communicating [[product strategy]] to [[stakeholders]]
+			- Building a [[product backlog]]
+			- Defining and [[prioritizing features]]
+			- Managing [[dependencies]] and [[risks]]
+			- [[Estimating]] time and resources required for development
+	- [[Collaboration]] and [[Co-Design]]
+		- Collaborating with [[product design]]
+			- Understanding [[design thinking]] principles
+			- Providing [[feedback]] on [[design]] concepts
+			- Ensuring design meets [[user needs]] and [[business goals]]
+		- Collaborating with [[software engineering]]
+			- Understanding [[agile development]] methodologies
+			- Participating in [[sprint planning]] and reviews
+			- Facilitating [[communication]] between [[developers]] and other [[stakeholders]]
+		- Managing overall stakeholder relationships
+			- Communicating with executives, investors, and customers
+			- Resolving conflicts between stakeholders
+			- Ensuring stakeholders are informed and engaged
+	- [[Soft Skills]] and [[Leadership]]
+		- Communication and collaboration
+			- Effective communication strategies
+			- Building relationships with team members and stakeholders
+			- Handling difficult conversations and conflicts
+		- Leadership and management
+			- Motivating and empowering team members
+			- Providing constructive feedback and coaching
+			- Managing and resolving conflicts
+		- Emotional intelligence and empathy
+			- Understanding and managing emotions
+			- Building empathy for users and stakeholders
+			- Creating a culture of empathy and collaboration
+	- Practical Tools and Techniques
+		- [[Lean product development]]
+			- Lean principles and methodologies
+			- Creating minimum viable products (MVPs)
+			- Continuous improvement and experimentation
+		- [[Value proposition canvas]]
+			- Identifying customer segments and value propositions
+			- Testing and validating value propositions
+			- Communicating value proposition to stakeholders
+		- [[The Mom Test]]
+			- Conducting effective customer interviews
+			- Asking the right questions to get meaningful feedback
+			- Using feedback to improve product development
+		- [[Opportunity mapping]]
+			- Identifying market opportunities and gaps
+			- Prioritizing opportunities based on impact and feasibility
+			- Developing solutions to address identified opportunities
+		- [[Design sprints]]
+			- Rapid prototyping and testing of product concepts
+			- Collaborative [[problem-solving]] with [[cross-functional teams]]
+			- Refining and iterating product concepts
+		- [[Continuous discovery]]
+			- Conducting ongoing research and testing
+			- Incorporating user feedback and data into product development
+			- Ensuring product continues to meet user needs and business goals
+- On [[data skills]]
+  collapsed:: true
+	- Foundations of [[Statistical Thinking]] and [[Causal Thinking]]
+		- Basic [[statistical]] concepts (e.g., [[distributions]], measures of [[central tendency]] and [[variability]])
+		- [[Hypothesis testing]]
+		- [[A/B testing]] and [[experimentation]]
+		- [[Correlation vs. causation]]
+	- [[Data Gathering]] and Analysis
+		- Event taxonomies and ontologies
+		- Designing and analyzing [[surveys]] and user feedback
+		- [[Data visualization]] and communication
+		- [[Product analytics]] tools (e.g., Amplitude, Mixpanel)
+	- [[Business Intelligence]] and [[Analytics]]
+		- Introduction to Business Intelligence (BI) systems and data warehouses
+		- Understanding and working with structured and unstructured data
+		- Extracting insights and making data-driven decisions
+		- Introduction to SQL
+	- Machine Learning and AI
+		- Introduction to machine learning and artificial intelligence
+		- Common machine learning techniques (e.g., clustering, regression, classification)
+		- Understanding and working with pre-built models
+		- Interpreting results and making decisions based on model outputs
+	- Advanced Topics in Data and Analytics
+		- Forecasting and time series analysis
+		- Data engineering and pipelines
+		- Data privacy and ethics
+		- Big data and cloud technologies
+	- Prominent people in this space include:
+		- [[Carl Anderson]], author of "Creating a Data-Driven Organization"
+		- DJ Patil, former Chief Data Scientist of the United States
+		- Cathy O'Neil, author of "Weapons of Math Destruction"
+		- [[Andrew Ng]], founder of deeplearning.ai and former VP and Chief Scientist at Baidu
+		- Hilary Mason, Founder of Fast Forward Labs and Data Scientist in Residence at Accel
+- On [[software development]], [[team topologies]], and organizational structures for modern companies
+  collapsed:: true
+	- Introduction to Agile Software Development
+		- Origins and principles of agile development
+		- Key values and principles of the Agile Manifesto
+		- Agile frameworks (e.g., Scrum, Kanban, Lean)
+	- Agile Roles and Responsibilities
+		- Product Owner, Scrum Master, and Development Team roles
+		- Responsibilities of each role
+		- Working with [[cross-functional teams]]
+	- [[Team Topologies]]
+		- Introduction to team topologies
+		- Different team topologies (e.g., stream-aligned teams, platform teams, enabling teams, complicated subsystem teams)
+		- Choosing the right team topology for your organization
+	- [[Organizational Structures]]
+		- Matrix structures and their advantages and disadvantages
+		- Flat organizational structures and their benefits and drawbacks
+		- The importance of [[cross-functional teams]] and [[breaking down silos]]
+	- [[Autonomy]] and [[Team Independence]]
+		- The benefits of autonomy and team independence
+		- Empowering teams to make decisions and take ownership
+		- Creating a culture of trust and collaboration
+	- [[External Collaborators]] and [[Consulting]]
+		- Benefits of external collaborators and consulting
+		- How to find and work with external collaborators
+		- Best practices for incorporating external collaborators into your team and organization
+	- Companies at Different Stages of Growth
+		- Agile software development for startups
+		- Scaling agile for scaleups
+		- Implementing agile in established companies with legacy systems and cash cows
+	- Prominent people in this space include:
+		- [[Jeff Sutherland]], co-creator of [[Scrum]]
+		- [[Gene Kim]], author of "The Phoenix Project" and "The Unicorn Project"
+		- [[Nicole Forsgren]], author of "Accelerate: The Science of Lean Software and DevOps"
+		- [[Conway's Law]], named after Melvin Conway, which states that the structure of an organization will reflect the structure of the software it produces.
+- [[Measurement theory]] and [[organizational performance]]
+  collapsed:: true
+	- Introduction to [[Measurement Theory]]
+		- Overview of measurement theory and its importance in [[organizational performance]]
+		- Key concepts of [[measurement theory]] (e.g., [[reliability]], [[validity]], [[scale types]])
+	- Determining and Communicating Goals
+		- Setting goals that are specific, measurable, achievable, relevant, and time-bound (SMART)
+		- Communicating goals to stakeholders and cross-functional teams
+		- Best practices for goal-setting and communication
+	- OKR Systems
+		- Introduction to OKR (Objectives and Key Results) systems
+		- Setting OKRs and key results
+		- Aligning OKRs with company strategy
+		- Evaluating and adjusting OKRs over time
+	- [[Causal Inference]]
+		- Introduction to [[causal inference]]
+		- Types of [[causal inference]] (e.g., experiments, observational studies)
+		- Best practices for conducting experiments and observational studies
+	- [[Performance Monitoring]]
+		- Monitoring performance against goals and OKRs
+		- Identifying key performance indicators (KPIs)
+		- Tools for monitoring performance (e.g., dashboards, alerts, reports)
+	- Visualization and Communication of Metrics
+		- Best practices for visualizing metrics (e.g., charts, graphs, heat maps)
+		- Tools for generating and documenting insights (e.g., Tableau, Power BI, Looker)
+	- Prominent people in this space include:
+		- Dr. Donald Berwick, former Administrator of the Centers for Medicare & Medicaid Services (CMS) and President Emeritus and Senior Fellow at the Institute for Healthcare Improvement (IHI)
+		- Dr. Deming, father of the Total Quality Management (TQM) movement and developer of the Plan-Do-Check-Act (PDCA) cycle
+		- Dr. W. [[Edwards Deming]], statistician and management consultant known for his work in Japan after WWII
+		- Dr. Shigeo Shingo, industrial engineer and pioneer of the Toyota Production System (TPS), which led to the development of lean manufacturing and the Just-In-Time (JIT) approach to production.
+- On business inputs
+  collapsed:: true
+	- Introduction to [[Business Inputs]]
+		- Overview of the importance of business inputs in [[product management]]
+		- Key concepts in business inputs (e.g., [[customer feedback]], [[product-market fit]], [[loyalty]], [[ease of use]])
+	- Capturing [[Customer Feedback]]
+		- Methods for capturing [[customer feedback]] (e.g., surveys, interviews, focus groups)
+		- Best practices for conducting [[customer research]] (e.g., [[sample size]], [[question design]], [[recruiting participants]])
+		- [[Qualitative]] analysis of customer feedback (e.g., [[affinity mapping]], [[thematic analysis]])
+	- Measuring [[Product-Market Fit]]
+		- Definition of product-market fit
+		- Methods for measuring product-market fit (e.g., survey questions, cohort analysis, customer retention rates)
+		- Analysis of product-market fit data and insights (e.g., pivot or persevere decision-making)
+	- Measuring [[Loyalty]] and Promoter Rates
+		- Overview of loyalty and promoter rates
+		- Methods for measuring loyalty and promoter rates (e.g., [[Net Promoter Score]], [[Customer Satisfaction Score]], [[Customer Effort Score]])
+		- Analysis of loyalty and promoter rate data and insights
+	- Measuring [[Ease of Use]]
+		- Definition of ease of use
+		- Methods for measuring ease of use (e.g., [[usability testing]], [[heuristic evaluations]], [[System Usability Scale]])
+		- Analysis of ease of use data and insights
+	- Combining Qualitative and Quantitative Tools
+		- Benefits and challenges of using qualitative and quantitative research methods
+		- Best practices for integrating qualitative and quantitative data
+		- Case studies and examples of successful integration
+	- [[Explorative]], [[Exploitative]], and [[Generative]] Methods
+		- Definitions of explorative, exploitative, and generative research methods
+		- Examples of when to use each method
+		- Overview of the experimentation process
+	- [[Synthesis]] Methods and Discussion Workshops
+		- Methods for synthesizing research data and insights (e.g., [[persona development]], [[customer journey mapping]], [[empathy mapping]])
+		- Best practices for conducting synthesis workshops with stakeholders
+		- Examples of successful synthesis and workshop processes
+	- Prominent people in this space include:
+		- [[Steve Blank]], author and entrepreneur known for his work on customer development methodology
+		- [[Clayton Christensen]], Harvard Business School professor and author known for his work on disruptive innovation
+		- [[Eric Ries]], entrepreneur and author known for his work on the Lean Startup methodology
+		- [[Don Norman]], author and usability expert known for his work on human-centered design and user experience
+- [[Research methods]]
+  collapsed:: true
+	- Introduction to Research Methods for Product Managers
+		- Explanation of the purpose and importance of research methods in product management
+		- Overview of the different research methods and their applicability
+	- Understanding [[Customer Needs]] and [[Jobs-to-be-Done]] (JTBD)
+		- Explanation of Jobs-to-be-Done framework and its role in product management
+		- How to conduct interviews and observations to understand customer needs
+		- Analyzing data to identify jobs-to-be-done and unmet needs
+	- [[Determination Theory]]
+		- Explanation of Determination Theory and how it can help in product management
+		- How to measure the user's motivation and ability to complete a job-to-be-done
+		- How to use Determination Theory to improve product design
+	- Planning and Sequencing Research Projects
+		- How to plan research projects
+		- Sequencing research projects
+		- How to [[prioritize]] [[research projects]] based on [[business goals]]
+	- [[Synthesis]] and [[Sharing of Insights]]
+		- How to synthesize research findings and insights
+		- How to share insights with cross-functional teams and stakeholders
+		- Best practices for making insights accessible and actionable
+	- [[Quantitative]] Research Methods
+		- Overview of quantitative research methods and their applicability in product management
+		- How to measure [[product market fit]], [[loyalty]], [[ease of use]], and other [[key metrics]]
+		- Tools and techniques for collecting and analyzing quantitative data
+	- Stakeholder Buy-in and Funding
+		- Strategies for gaining [[stakeholder buy-in]] and [[funding]] for [[research projects]]
+		- How to measure the [[ROI]] of research projects
+		- Factors that contribute to the success of research projects
+- [[High-growth]] [[product management]]
+  collapsed:: true
+	- Introduction
+		- Explanation of high-growth product management and why it is important
+		- Overview of different [[business archetypes]] and stages of growth
+	- Experimentation
+		- Importance of [[experimentation]] and [[A/B testing]]
+		- Prioritizing experiments using frameworks such as [[ICE]] or [[cost of delay]]
+		- Case studies of companies that have successfully implemented experimentation (e.g., Airbnb)
+	- Marketing and Product Funnels
+		- Overview of marketing and product funnels and how they differ
+		- Understanding the different stages of the funnel and the importance of retention
+		- Case studies of companies that have optimized their funnels (e.g., Dropbox)
+	- [[Network Effects]]
+		- Definition and explanation of network effects
+		- Case studies of companies that have leveraged network effects (e.g., [[Facebook]], [[LinkedIn]])
+	- [[Business Archetypes]]
+		- Overview of different business archetypes ([[SaaS]], [[B2C]], [[B2B]], [[DTC]], [[mobile]], [[gaming]], [[subscription services]], [[UGC]]) and their unique challenges and opportunities
+		- Case studies of companies in each archetype that have experienced high growth (e.g., Slack for SaaS, Glossier for DTC)
+	- [[Lean Analytics]]
+		- Explanation of Lean Analytics and how it can help drive growth
+		- Overview of [[key metrics]] to track and how to use them to drive [[growth]]
+		- Case studies of companies that have successfully implemented Lean Analytics (e.g., Buffer)
+	- [[Growth Hacking]]
+		- Introduction to growth hacking and how it can help drive growth
+		- Overview of key [[growth hacking]] strategies (e.g., [[referral programs]], [[virality]], [[influencer marketing]])
+		- Case studies of companies that have successfully implemented growth hacking (e.g., [[Dropbox]], [[Airbnb]])
+- [[Analytical intuition]] for product managers
+  collapsed:: true
+	- Foundations for Analytical Intuition
+		- The role of [[mental models]] and how to build them
+		- The importance of understanding [[data]] and [[measurement error]]
+		- The use of [[cognitive biases]] and [[heuristics]] in [[decision-making]]
+	- Developing Analytical Intuition
+		- The role of intuition and how to develop it
+		- The use of [[counterfactual thinking]] and [[what-if]] scenarios
+		- The importance of getting [[feedback]] and [[validation]]
+	- Tools for [[Interpretation]]
+		- [[Statistical thinking]] and [[causal thinking]] in practice
+		- How to identify [[patterns]] and [[trends]] in data
+		- The use of [[data visualization]] to communicate [[insights]]
+	- Managing Risks with Analytical Intuition
+		- Risk management frameworks for decision-making under high uncertainty
+		- The importance of scenario planning and contingency planning
+		- Mitigating risks through experimentation and rapid iteration
+- [[Business strategy]] [[alignment]] with [[product strategy]]
+  collapsed:: true
+	- Principles of a Good Business Strategy
+		- Clear understanding of the target market and customer needs
+		- A unique value proposition
+		- A solid competitive advantage
+		- Clear and specific goals and objectives
+		- A plan for execution
+	- Tools for Strategic Positioning
+		- [[SWOT analysis]]
+		- [[PESTLE analysis]]
+		- [[Competitor analysis]]
+		- [[Porter]]'s [[Five Forces analysis]]
+	- Branding and Positioning
+		- Creating a [[brand identity]]
+		- Communicating the [[brand message]]
+		- Developing a unique [[positioning]] strategy
+	- Examples of Companies with Winning Strategies
+		- [[Apple]]
+		- [[Netflix]]
+		- [[Amazon]]
+		- [[Microsoft]]
+	- Business Strategy and Product Strategy Alignment
+		- Identifying the key objectives and goals of the business
+		- Determining the product roadmap that aligns with business goals
+		- Ensuring that product features and developments support the business strategy
+	- The Importance of [[Flexibility]] and [[Evolution]]
+		- Business and [[market forces]] can change over time
+		- A successful [[business strategy]] must be able to adapt and evolve
+		- The need for a [[learning organization]] and [[continuous improvement]]
+- Understanding technology and software engineering for product managers
+  collapsed:: true
+	- Basic needs of software engineers
+		- Understanding the mindset and working environment of engineers
+		- Empathy for technical constraints and challenges
+		- Providing clear requirements and goals
+	- Assessment of new projects from a technical point of view
+		- Identifying technical risks and challenges
+		- Estimating development time and resources
+		- Balancing technical and business requirements
+	- Tools for ensuring quality and scalability
+		- Unit testing, integration testing, and test-driven development
+		- Code reviews and pair programming
+		- Design patterns and anti-patterns
+		- Performance optimization and scalability considerations
+	- Systems and toolkits for better engineering team performance
+		- [[Observability]] and monitoring
+		- [[Continuous integration and continuous deployment (CI/CD)]]
+		- [[API design]] and management
+		- [[Service-oriented architecture (SOA)]] and [[microservices]]
+	- Front-end and back-end considerations
+		- Understanding the roles and responsibilities of [[front-end]] and [[back-end]] developers
+		- Common [[front-end]] [[technologies]] and [[frameworks]]
+		- [[Back-end]] considerations, such as [[database design]], [[caching]], and [[scaling]]
+	- [[Monolithic]] vs. [[service-oriented architecture (SOA)]]
+		- Benefits and drawbacks of both approaches
+		- How to determine which approach is best for a given project
+	- Linking technical topics back to [[product management]]
+		- Better [[communication]] and collaboration between product and [[engineering teams]]
+		- Improved ability to make [[informed decisions]] regarding [[technical trade-offs]]
+		- Increased ability to understand and prioritize [[technical debt]]
+- [[Domain-driven design (DDD)]]
+  collapsed:: true
+	- [[Abstraction]] methodologies
+		- [[Model-View-Controller (MVC)]] [[pattern]] for separating presentation, application logic, and data storage
+		- [[Common Object Request Broker Architecture (CORBA)]] for interprocess communication across networks
+		- [[Representational State Transfer (REST)]] for building scalable web services
+		- [[Remote Procedure Call (RPC)]] for invoking procedures in a distributed system
+		- [[Observer pattern]] for handling [[events]] and [[notifications]] in a decoupled way
+	- Domain-driven design [[patterns]]
+		- [[Aggregates]] and [[aggregate roots]] for defining [[consistency boundaries]] and [[transactional integrity]]
+		- [[Entities]] and [[value objects]] for representing [[business concepts]] and [[attributes]]
+		- Repositories for managing the persistence of aggregates and entities
+		- Services for encapsulating complex domain logic
+		- Domain events for communicating changes within the domain
+	- Modelling and diagramming tools
+		- [[Unified Modeling Language (UML)]] for visualizing and communicating software design
+		- [[Domain-specific language (DSL)]] for creating abstractions that are closer to the business domain
+		- [[Context mapping]] for defining boundaries between bounded contexts
+		- [[Event storming]] for collaboratively exploring the domain and identifying events
+	- Case studies
+		- [[Netflix]]'s use of domain-driven design to manage its [[microservices architecture]]
+		- [[Uber]]'s adoption of [[bounded contexts]] and [[event-driven architecture]] to scale its ride-hailing platform
+		- Zalando's implementation of [[event sourcing]] and [[CQRS]] for its e-commerce platform
+- Creating initial alignment on [[project kick-offs]] and [[new initiatives]]
+  collapsed:: true
+	- [[Post-Mortems]]
+		- Definition and [[purpose]]
+		- When to use post-mortems
+		- Key elements of a post-mortem
+			- Objective and goals
+			- Stakeholders involved
+			- Key metrics and data
+			- Observations and insights
+			- Action items and next steps
+	- [[Briefing]] Documents
+		- Definition and purpose
+		- Components of a [[briefing document]]
+			- [[Background]] and [[context]]
+			- [[Goals]] and [[objectives]]
+			- [[Scope]] and [[constraints]]
+			- [[Timeline]] and [[milestones]]
+			- [[Stakeholders]] and [[team members]]
+			- [[Key risks]] and [[challenges]]
+		- Project Charters
+			- Definition and purpose
+			- Components of a project charter
+				- Project description
+				- [[Objectives]] and [[goals]]
+				- [[Deliverables]] and [[scope]]
+				- [[Timeline]] and [[milestones]]
+				- [[Budget]] and [[resources]]
+				- [[Stakeholders]] and [[team members]]
+	- [[Kickoff Meetings]]
+		- Definition and purpose
+		- Key elements of a kickoff meeting
+			- Introduction and welcome
+			- Overview of [[project goals]] and [[objectives]]
+			- Project [[scope]] and [[constraints]]
+			- [[Roles]] and [[responsibilities]]
+			- [[Timeline]] and [[milestones]]
+			- [[Risk management]] and [[mitigation]]
+	-
+	-
+- Effective [[incentive alignment]] for product managers
+  collapsed:: true
+	- Introduction
+		- Importance of effective incentive alignment in achieving [[shared goals]] and [[driving results]]
+		- [[Risks]] of [[misaligned incentives]] and [[competing agendas]]
+	- Defining Incentive Alignment
+		- Explanation of incentive alignment
+		- Differences between [[individual]] and [[collective]] incentives
+		- Identifying potential areas of misalignment
+	- Establishing Common Ground
+		- Importance of [[shared purpose]] and [[team goals]]
+		- The role of [[leadership]] in setting [[direction]] and [[vision]]
+		- Building a [[culture]] of [[trust]] and [[collaboration]]
+	- Creating [[Skin in the Game]]
+		- Definition of skin in the game
+		- Examples of how to create skin in the game
+		- [[Risks]] and [[challenges]] in implementing skin in the game
+	- [[Accountability]] and [[Ownership]]
+		- Importance of [[individual]] and [[team]] [[accountability]]
+		- Strategies for promoting [[ownership]] and [[responsibility]]
+		- Encouraging a sense of ownership in [[cross-functional teams]]
+- Marketing and branding for product managers
+  collapsed:: true
+	- Understanding Marketing
+		- What is marketing?
+		- [[Marketing mix]] (4Ps): [[product]], [[price]], [[promotion]], [[place]]
+		- [[Market segmentation]] and [[targeting]]
+		- [[Value proposition]] and [[positioning]]
+		- [[Product marketing]] vs. [[growth marketing]]
+	- [[Branding]]
+		- What is branding?
+		- Importance of [[brand identity]] and consistency
+		- [[Brand voice]] and messaging
+		- Building [[brand awareness]] and [[loyalty]]
+		- [[Personal branding]] for product managers
+	- Collaborating with Marketing
+		- Importance of collaboration between product and marketing teams
+		- Effective communication and feedback loops
+		- Using data to inform marketing decisions
+		- Creating a unified customer experience
+	- Accessing Tech Talent for Marketing and Branding
+		- Benefits of having [[technical skills]] in marketing and branding
+		- Resources for learning marketing and [[branding]] [[skills]]
+		- Finding and [[hiring]] tech-savvy marketing talent
+	- Recommended Online Resources and Further Reading
+		- [[Hubspot Academy]]: Marketing and Sales Training
+		- [[Google Analytics Academy]]: Free Online Courses
+		- [[Neil Patel]]: Digital Marketing Blog
+		- [[Seth Godin]]: Marketing Author and Speaker
+		- [[Contagious: Why Things Catch On]] by Jonah Berger
+-

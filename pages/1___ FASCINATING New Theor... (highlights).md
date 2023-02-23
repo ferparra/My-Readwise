@@ -13,7 +13,7 @@ url:: https://twitter.com/wolfejosh/status/1520954573552496641
 	  
 	  ![](https://pbs.twimg.com/media/FRuEENJXMAAWoXy.jpg) ([View Tweet](https://twitter.com/wolfejosh/status/1520954573552496641))
 		- **Note**: Thread
-	- 2/ Go back to Descartes who thought the 🧠 worked like hydraulic pumps ⛽️––the available new tech or his era 
+	- 2/ Go back to [[Descartes]] who thought the 🧠 worked like hydraulic pumps ⛽️––the available new tech or his era 
 	  
 	  ![](https://pbs.twimg.com/media/FRuEXW6XEAIK9xL.png) ([View Tweet](https://twitter.com/wolfejosh/status/1520954939543011328))
 	- 3/ Freud looked to the tech of his time to describe the mechanics of the brain––the steam engine 

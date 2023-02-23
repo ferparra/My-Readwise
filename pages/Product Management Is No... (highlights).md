@@ -5,7 +5,7 @@ category:: #tweets
 url:: https://twitter.com/PawelHuryn/status/1609534462605361154
 
 - Highlights first synced by [[Readwise]] [[Jan 2nd, 2023]]
-	- Product management is not about:
+	- [[Product management]] is not about:
 		- **Note**: Thread
 	- Obsessing over velocity, deadlines, and roadmaps
 	- It's about:

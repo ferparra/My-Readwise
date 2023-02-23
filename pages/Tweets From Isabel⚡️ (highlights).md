@@ -30,7 +30,7 @@ url:: https://twitter.com/isabelunraveled
 	  
 	  ![](https://pbs.twimg.com/media/FkX2a6WX0CAhgNU.jpg) ([View Tweet](https://twitter.com/isabelunraveled/status/1604959788873535503))
 - New highlights added [[Dec 21st, 2022]] at 1:39 PM
-	- bertrand russell: philosophy is to be studied for the sake of the questions themselves 
+	- [[Bertrand Russell]]: [[philosophy]] is to be studied for the sake of the questions themselves 
 	  
 	  ![](https://pbs.twimg.com/media/Fkceba2XoAA4Hsv.jpg) ([View Tweet](https://twitter.com/isabelunraveled/status/1605285253819600896))
 - New highlights added [[Dec 26th, 2022]] at 3:32 PM

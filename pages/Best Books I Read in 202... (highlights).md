@@ -110,7 +110,7 @@ url:: https://twitter.com/robkhenderson/status/1342137255914315784
 	- "Enforcing monogamy causes dissatisfaction. Allowing sex with others arouses jealousy...Most cultures have emphasized controlling sexuality to preserve relationships. Now, some are trying to control attachments to preserve sexual opportunities” https://t.co/IVZDBtgmUK 
 	  
 	  ![](https://pbs.twimg.com/media/Ep72eMsW4AMRnAu.jpg) ([View Tweet](https://twitter.com/robkhenderson/status/1341780820114219008))
-	- Conquest of Happiness, Bertrand Russell
+	- Conquest of [[Happiness]], [[Bertrand Russell]]
 	  
 	  https://t.co/LXabc5mByu
 	  

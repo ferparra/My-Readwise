@@ -13,16 +13,16 @@ url:: https://twitter.com/anafabrega11/status/1441414138203459584
 	  
 	  ![](https://pbs.twimg.com/media/FADsbQLWUAMjAYX.jpg) ([View Tweet](https://twitter.com/anafabrega11/status/1441414138203459584))
 		- **Note**: Thread
-	- Nassim Taleb is an expert on probability and real-world risk.
+	- [[Nassim Taleb]] is an expert on [[probability]] and real-world [[risk]].
 	  
-	  He’s written a series of books on how to make decisions under uncertainty.
+	  He’s written a series of books on how to make decisions under [[uncertainty]].
 	  
 	  The capstone volume is on skin in the game, the idea that those who make a decision should also shoulder its risks.
 	  
 	  https://t.co/D9LbpA7sty ([View Tweet](https://twitter.com/anafabrega11/status/1441414140518559752))
 	- In life, our choices have consequences, both good and bad.
 	  
-	  Skin in the game means WE bear those consequences.
+	  [[Skin in the game]] means WE bear those consequences.
 	  
 	  As a result, we end up learning much more from trial and error. ([View Tweet](https://twitter.com/anafabrega11/status/1441414142817030151))
 	- In essence, skin in the game creates a system for error correction.
@@ -59,20 +59,20 @@ url:: https://twitter.com/anafabrega11/status/1441414138203459584
 	  🤩and more exciting
 	  
 	  Here’s why: ([View Tweet](https://twitter.com/anafabrega11/status/1441414153797779456))
-	- First, skin in the game makes learning easier.
+	- First, [[skin in the game]] makes [[learning]] easier.
 	  
 	  When the stakes are high, our bodies direct all our energy to our brains 🧠 
 	  
 	  Our mental vision clears.
 	  Our thoughts focus.
-	  Our motivation kicks into gear. ([View Tweet](https://twitter.com/anafabrega11/status/1441414155269918723))
+	  Our [[motivation]] kicks into gear. ([View Tweet](https://twitter.com/anafabrega11/status/1441414155269918723))
 		- **Tags**: #[[favorite]]
 	- Second, skin in the game makes learning more memorable.
 	  
 	  Our brains sear what we learn from hard experience into our neural networks.
 	  
 	  Those lessons stick with us for life! ([View Tweet](https://twitter.com/anafabrega11/status/1441414156771594241))
-	- Third, skin in the game makes learning more exciting.
+	- Third, [[skin in the game]] makes [[learning]] more exciting.
 	  
 	  As Taleb says, he didn’t care for statistics in school, but then he learned about options trading.
 	  

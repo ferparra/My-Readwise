@@ -63,3 +63,9 @@ url:: https://twitter.com/GergelyOrosz
 	  Software Architecture: the Hard Parts by Neal Ford, Mark Richards, Pramod Sadalage & Zhamak Dehghani 
 	  
 	  ![](https://pbs.twimg.com/media/Fm7tZ6xWAAQSe6x.jpg) ([View Tweet](https://twitter.com/GergelyOrosz/status/1616490353191682059))
+- New highlights added [[Feb 18th, 2023]] at 3:53 PM
+	- @Carnage4Life The reality is almost all “large” mobile apps are pretty messy as a result of continuous evolution. Of course FB stands out with all the custom stuff.
+	  
+	  Very few companies had a leader with the guts to do what TK did: greenlight a full rewrite:
+	  
+	  https://t.co/dsZpwcWexH ([View Tweet](https://twitter.com/GergelyOrosz/status/1626568086504591361))

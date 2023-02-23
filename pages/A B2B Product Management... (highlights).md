@@ -5,7 +5,7 @@ category:: #tweets
 url:: https://twitter.com/shreyas/status/1376173087918419971
 
 - Highlights first synced by [[Readwise]] [[Nov 18th, 2022]]
-	- A B2B Product Management Story: on discovering problems that customers actually care about
+	- A B2B Product [[Management Story]]: on discovering problems that customers actually care about
 	  
 	  Very visual story thread👇🏾 https://t.co/SQKpmLtBGC ([View Tweet](https://twitter.com/shreyas/status/1376033582305615873))
 	- Our story starts with a new product idea
@@ -82,9 +82,9 @@ url:: https://twitter.com/shreyas/status/1376173087918419971
 	- We need to understand this
 	  
 	  And remember it https://t.co/QNqK1Nu3WG ([View Tweet](https://twitter.com/shreyas/status/1376033720390455297))
-	- Daniel Kahneman said:
+	- [[Daniel Kahneman]] said:
 	  
-	  “Nothing in life is as important as you think it is, while you are thinking about it”
+	  “Nothing in life is as important as you think it is, while you are thinking about it” #quotes
 	  
 	  This is the Focusing Illusion. https://t.co/xOAA0RD08Z ([View Tweet](https://twitter.com/shreyas/status/1376037550603661317))
 	- The Focusing Illusion, in business:

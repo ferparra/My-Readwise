@@ -8,7 +8,7 @@ url:: https://share.snipd.com/episode/022850ea-10d8-4147-97bb-d6b6711a8e04
 	- How Do We Measure Progress?
 	  
 	  Key takeaways:
-	  (* Noises are most celebrated addiction these days,., * We often measure progress and productivity in terms of how much mental stuff we're creating,., * GDP is a measure of how much industrial stuff we're creating, but also how much sound and stimulus, data and content we're creating., * If you take our attention and you chop it up and turn it into eyeballs on a Facebook page that juices advertising revenue, then that increases GDP., * But if you keep our attention whole, if you keep our attention pristine in a moment of undisturbed play with our kids or admiring a beautiful piece of art in a museum or enjoying a walk in nature, that's not optimizing GDP.)
+	  (* Noises are most celebrated addiction these days,., * We often measure progress and productivity in terms of how much mental stuff we're creating,., * [[GDP]] is a measure of how much industrial stuff we're creating, but also how much sound and stimulus, data and content we're creating., * If you take our attention and you chop it up and turn it into eyeballs on a Facebook page that juices advertising revenue, then that increases GDP., * But if you keep our attention whole, if you keep our attention pristine in a moment of undisturbed play with our kids or admiring a beautiful piece of art in a museum or enjoying a walk in nature, that's not optimizing GDP.)
 	  
 	  Transcript:
 	  Speaker 1

@@ -43,17 +43,17 @@ url:: https://twitter.com/gaganbiyani/status/1569718860852625409
 	  That's why Maven courses have rave reviews (9.1/10 average) ([View Tweet](https://twitter.com/gaganbiyani/status/1569718865810305027))
 	- Maven courses focus on in-demand skills.
 	  Short, targeted cohorts that move the needle in areas like:
-	  • Leadership
-	  • Marketing
-	  • Financials
-	  • Investing
-	  • Writing
-	  • Branding
-	  • Networking
+	  • [[Leadership]]
+	  • [[Marketing]]
+	  • [[Financials]]
+	  • [[Investing]]
+	  • [[Writing]]
+	  • [[Branding]]
+	  • [[Networking]]
 	  • Crypto/NFTs
-	  • Technical skills
-	  • Audience building
-	  • Product management ([View Tweet](https://twitter.com/gaganbiyani/status/1569718867018289158))
+	  • [[Technical skills]]
+	  • [[Audience building]]
+	  • [[Product management]] ([View Tweet](https://twitter.com/gaganbiyani/status/1569718867018289158))
 	- Today, we're launching a new website with over 100 courses available–all starting in the next few weeks.
 	  
 	  As part of Maven's Fall Season, we've also launched a new student experience.

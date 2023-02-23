@@ -15,7 +15,7 @@ url:: https://twitter.com/burny_tech/status/1624446691368660993
 	  
 	  ![](https://pbs.twimg.com/media/FosxY6oXsAIa6YG.jpg) ([View Tweet](https://twitter.com/burny_tech/status/1624446691368660993))
 		- **Note**: Thread
-	- @algekalipso The Future of Consciousness: https://t.co/P4pQDH04aq (2/6) 
+	- @algekalipso The Future of [[Consciousness]]: https://t.co/P4pQDH04aq (2/6) 
 	  
 	  ![](https://pbs.twimg.com/media/Fosxx-BWIAcA-Ys.jpg) 
 	  

@@ -36,7 +36,7 @@ url:: https://twitter.com/woloski/status/1369426189832617988
 	- 8/ If they haven’t done it before, they will be questioned. Because things will go wrong and it’s then when you need to bring confidence.
 	  A VP of Engineering will help a lot as well (providing input and rationale on the all-things engineering). ([View Tweet](https://twitter.com/woloski/status/1369426197919174656))
 	- 9/ Of course, that person will also have to hire the first Product Managers to help them. So their network will be important to bring those initial PMs. A strong PM will make a huge difference on the teams they work with. ([View Tweet](https://twitter.com/woloski/status/1369426199131414536))
-	- 10/ Bringing Product Management into an Engineering org is disruptive. Priorities will be questioned, data will be asked, plans will be changed… Be prepared for friction :) ([View Tweet](https://twitter.com/woloski/status/1369426200402272260))
+	- 10/ Bringing [[Product Management]] into an [[Engineering]] org is disruptive. Priorities will be questioned, data will be asked, plans will be changed… Be prepared for friction :) ([View Tweet](https://twitter.com/woloski/status/1369426200402272260))
 	- 11/ At Scale (Post-Series C/D) 🚀
 	  
 	  Once you are past that stage (could take 2/3 years after Series A), the shape of a great VP of Product changes. At that point, the machinery should be more or less working and there is more people/structure (e.g. VP/Director/Manager). ([View Tweet](https://twitter.com/woloski/status/1369426201379495947))

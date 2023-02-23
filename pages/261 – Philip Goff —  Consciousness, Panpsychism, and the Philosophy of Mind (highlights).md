@@ -4,10 +4,10 @@ full-title:: "\#261 – Philip Goff —  Consciousness, Panpsychism, and the Phi
 category:: #podcasts
 
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
-	- Panpsychism
+	- [[Panpsychism]]
 	  
 	  Summary:
-	  Panpsychism may be in contrast to aa naturalistic, dualism and other kind of views of consciousness. It agrees with the materialist that there's just the physical world, ultimately, there's just particles and fields. The panth panpsychist thinks there's there's more to the physical than what physical science reveals. So consciousness is not outside of the physical as the dualist thinks. it's embedded in ar underlies the kind of description of the world we get from physics.
+	  Panpsychism may be in contrast to aa naturalistic, dualism and other kind of views of [[consciousness]]. It agrees with the materialist that there's just the physical world, ultimately, there's just particles and fields. The panth panpsychist thinks there's there's more to the physical than what physical science reveals. So [[consciousness]] is not outside of the physical as the [[dualist]] thinks. it's embedded in ar underlies the kind of description of the world we get from physics.
 	  
 	  Transcript:
 	  Speaker 1
