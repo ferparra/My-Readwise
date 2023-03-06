@@ -1,0 +1,21 @@
+title:: The Art of Community: Seven Principles for Belonging (highlights)
+author:: [[Blas]]
+full-title:: "The Art of Community: Seven Principles for Belonging"
+category:: #articles
+url:: https://blas.com/the-art-of-community/
+document_note:: The Art of Community: Seven Principles for Belonging outlines the essential elements of building a successful and sustainable community. It emphasizes the importance of shared values, insider understanding, membership identity, boundary, initiation, rituals, temple, stories, symbols, tokens, inner rings, and graduated sanctions for rule-breakers. Additionally, Nobel Prize-winning economist Elinor Ostrom's research suggests that meaningfulness involves understanding our lives beyond the present time and place.
+
+- Highlights first synced by [[Readwise]] [[Feb 25th, 2023]]
+	- •   **To create something that others want to join and support, we have to remember a core tenet: communities function best and are most durable when they’re helping members to be more successful in some way in a connected and dynamic world.**
+	  •   **A community is a group of individuals who share mutual concern for each other’s welfare. When we form a community that grows friendship, we create what we seek, friends who care about the welfare of one another.** Strong communities teach members how to succeed in ways they cannot achieve on their own. The education comes from a body of knowledge and wisdom that members cannot access or manage on their own. So, in a strong community, members must know how to access the knowledge held by others. This can be informal (by hanging out with other members) or formal (with personal lessons, classes, or apprenticeships). ([View Highlight](https://read.readwise.io/read/01gsw8veh53bqn7mjrmew2xeeg))
+		- **Note**: The core tenet of creating a community that others want to join and support is that it should help members to be more successful. A strong community is one that fosters friendships and offers members access to knowledge and wisdom that they cannot access or manage on their own. This can be done informally through spending time with other members, or formally through personal lessons, classes, or apprenticeships.
+	- Inner Rings: A path to growth as we participate.
+	  
+	  1.  An exploration zone is important for visitors. This is how we protect insiders while giving outsiders a chance to participate, to learn more about our community, and to decide whether it’s right for them. We can encourage explorers by sharing some specified activities and areas, but not all. These are outer ring activities. Areas reserved for insiders (whether formal or informal) are inner ring.
+	  2.  If you prefer welcoming visitors to all community activities, an inner ring can be designated by privileges (at these same events). This means that members are allowed to do things that visitors are not. These privileges might include the following: Providing opening remarks Inviting guests Scheduling events Reserving space Teaching skills
+	  3.  On our journey, we want to be taught, and we also want to teach. This is why creating opportunities to both mentor and be mentored are powerful. ([View Highlight](https://read.readwise.io/read/01gsw8tgq4hck3nhncgzqf1tgy))
+		- **Note**: Inner Rings are special areas within a community that are only accessible to people who have been part of the community for a long time. This gives visitors a chance to explore and learn more about the community without being overwhelmed by too much information. Visitors can explore some of the activities and areas that are designated as outer rings, but not all of them. These outer rings are areas that are reserved for insiders.
+		  
+		  If you want visitors to be able to participate in all community activities, you can give them special privileges to do so. These privileges might include things like making opening remarks, inviting other people to join the community, organizing events, reserving spaces, and teaching skills.
+		  
+		  On our journey as members of a community, we want to learn from others and also teach others. This is why it is important to create opportunities for both mentoring and being mentored.

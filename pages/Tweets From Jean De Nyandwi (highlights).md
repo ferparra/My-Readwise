@@ -32,14 +32,14 @@ url:: https://twitter.com/Jeande_d
 	  140 videos that you can watch at your pace. Slides are also provided to follow along ⬇️⬇️ 
 	  
 	  ![](https://pbs.twimg.com/media/Ff8IXxuVsAA-pXp.jpg) ([View Tweet](https://twitter.com/Jeande_d/status/1584994804588457985))
-	- Awesome Self-Supervised Learning
+- New highlights added [[Nov 27th, 2022]] at 6:16 PM
+	- Awesome [[Self-Supervised Learning]]
 	  
 	  Self-supervision is the tech behind most large-scale AI systems across different modalities(vision, language, robotics, speech,...). Here is a great curated list of self-supervised learning resources: CV, NLP, ASR, etc...
 	  
 	  https://t.co/cGPy6IhHu4 
 	  
 	  ![](https://pbs.twimg.com/media/FgBQS6iVIAARuN0.jpg) ([View Tweet](https://twitter.com/Jeande_d/status/1585355358754643968))
-- New highlights added [[Nov 27th, 2022]] at 6:16 PM
 	- Deep Learning for Computer Vision - Justin Johnson at Michigan
 	  
 	  THIS is inarguably one of the best(if not the best) deep learning & computer vision courses. The course covers essential deep learning techniques and modern visual recognition architectures.

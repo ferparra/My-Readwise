@@ -45,3 +45,13 @@ url:: https://twitter.com/TfTHacker
 	- An amazing feature of @ReadwiseReader is that it can be navigated almost completely by the keyboard. It sounds unimportant, but it is, it keeps your eyes focused on reading while you navigate through an article, to other articles, etc. #TfT 
 	  
 	  Give it a try https://t.co/vVjoJW9yRr https://t.co/BJIP7zTK66 ([View Tweet](https://twitter.com/TfTHacker/status/1621252897479577603))
+- New highlights added [[Feb 28th, 2023]] at 9:35 PM
+	- The Extended Mind - Book review by @zsviczian
+	  
+	  Zsolt is an amazing thinker and does a wonderful review of the book "The Extended Mind" by @anniemurphypaul.
+	  
+	  Highlights:
+	  + Generate cognitive loops
+	  + Spicy foods - help collaborate better (not kidding)
+	  #TfT
+	  https://t.co/3zo2Xv3cO6 ([View Tweet](https://twitter.com/TfTHacker/status/1630115566743863296))

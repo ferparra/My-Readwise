@@ -17,3 +17,6 @@ url:: https://www.chrissaad.com/startupsnippets/2022/9/oese8e8gicnbvdy4bkqngcc9z
 	  
 	  No goal is when leadership is chasing shiny objects - whatever investors or customers say. ([View Highlight](https://read.readwise.io/read/01gje8aawrgjd1wj7xwv0rcpnm))
 		- **Tags**: #[[team incentives]]
+- New highlights added [[Mar 6th, 2023]] at 6:45 PM
+	- Don’t wait for full conviction. That’s impossible. Instinct, passion, experimentation and informed iteration/pivots are essential parts of the startup journey. ([View Highlight](https://read.readwise.io/read/01gtbv5tr2kqhvky7axz2d2w70))
+		- **Tags**: #[[experimentation]]

@@ -74,3 +74,11 @@ url:: https://twitter.com/nurijanian
 	  ![](https://pbs.twimg.com/media/Fon7zmlWYAEawvF.jpg) 
 	  
 	  ![](https://pbs.twimg.com/media/Fon7zmqWYAAd0on.jpg) ([View Tweet](https://twitter.com/nurijanian/status/1624106009902850049))
+- New highlights added [[Feb 26th, 2023]] at 7:48 PM
+	- Over the past 5 years, I have used these 3 frameworks to grow my product craft:
+	  
+	  1. Opportunity-Solution Trees: Understand the structure of the problem/solution space
+	  2. L-N-O: Choose high-leverage tasks to work on
+	  3. Racecar Framework: Decide how to grow a product
+	  
+	  You can too. ([View Tweet](https://twitter.com/nurijanian/status/1629481400909852678))

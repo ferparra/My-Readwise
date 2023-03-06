@@ -7,7 +7,8 @@ url:: https://twitter.com/gpt_index/status/1621558579403841537
 - Highlights first synced by [[Readwise]] [[Feb 4th, 2023]]
 	- GPT Index 0.3.4
 		- **Note**: Thread
-	- Recall that GPT Index allows you to define a graph structure on top of your indices, so that parent indices can "route" to child indices.
+	- Recall that [[GPT Index]] allows you to define a graph structure on top of your indices, so that parent indices can "route" to child indices.
+	  id:: 63e765c4-c1c3-4525-a426-b3e75e923bcf
 	  
 	  Now you can also have more control in “fetching” the indices that make up this graph. ([View Tweet](https://twitter.com/gpt_index/status/1621558580884414466))
 	- First, you can define a doc_id for each subindex (see 🖼️) 

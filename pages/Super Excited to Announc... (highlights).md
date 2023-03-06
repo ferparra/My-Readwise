@@ -9,7 +9,8 @@ url:: https://twitter.com/jerryjliu0/status/1608632335695745024
 	  
 	  Have gotten questions on what use cases GPT Index can support - it can support a lot! This guide is a big step towards answering that 👇 ([View Tweet](https://twitter.com/jerryjliu0/status/1608632335695745024))
 		- **Note**: Thread
-	- At its core, GPT Index is about:
+	- At its core, [[GPT Index]] is about:
+	  id:: 63e765ca-5d19-49c6-a6df-90817638edff
 	  
 	  1. loading in external data (@NotionHQ, @Slack, .txt, etc.)
 	  2. Building indices over that data
@@ -51,4 +52,4 @@ url:: https://twitter.com/jerryjliu0/status/1608632335695745024
 	- @dbenyamin @gpt_index Of course, langchain is a general LLM toolkit and offers some of this stuff already (like data connections, response synthesis, etc.). But that is largely GPT Index's focus. 
 	  
 	  Langchain offers broader stuff like interactive agent reasoning, and evaluation framework, and more. ([View Tweet](https://twitter.com/jerryjliu0/status/1608645839463010304))
-	- @dbenyamin @gpt_index GPT Index uses langchain under the hood so the cost of using both shouldn't be too high. There's prob broader integration opportunities as well. cc @hwchase17 to chime in though! ([View Tweet](https://twitter.com/jerryjliu0/status/1608646120892411907))
+	- @dbenyamin @gpt_index [[GPT Index]] uses [[langchain]] under the hood so the cost of using both shouldn't be too high. There's prob broader integration opportunities as well. cc @hwchase17 to chime in though! ([View Tweet](https://twitter.com/jerryjliu0/status/1608646120892411907))

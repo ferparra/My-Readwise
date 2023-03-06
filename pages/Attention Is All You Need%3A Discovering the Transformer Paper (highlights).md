@@ -12,7 +12,7 @@ tags:: #[[language models]] #[[tensorflow]] #[[transformers]]
 	- In this work we propose the Transformer, a model architecture eschewing recurrence and instead relying entirely on an attention mechanism to draw global dependencies between input and output. The Transformer allows for significantly more parallelization … the Transformer is the first transduction model relying entirely on self-attention to compute representations of its input and output without using sequence-aligned RNNs or convolution.
 	  
 	  “Attention is all you need” paper [1] ([View Highlight](https://read.readwise.io/read/01gqehmms7r3t983dm25etjs3y))
-	- ![](https://miro.medium.com/max/428/1*ZCFSvkKtppgew3cc7BIaug.png) ([View Highlight](https://read.readwise.io/read/01gqehne9aejsqqa5pjhr99q6k))
+	- ![](https://miro.medium.com/max/428/1*ZCFSvkKtppgew3cc7BIaug.png){:height 589, :width 428} ([View Highlight](https://read.readwise.io/read/01gqehne9aejsqqa5pjhr99q6k))
 	- Self-attention is a sequence-to-sequence operation: a sequence of vectors goes in, and a sequence of vectors comes out. Let’s call the input vectors `x1`, `x2`,…, `xt` and the corresponding output vectors `y1`, `y2`,…, `yt`. The vectors all have dimension k. To produce output vector `yi`, the self attention operation simply takes *a weighted average over all the input vectors,* the simplest option is the dot product.
 	  
 	  [Transformers from scratch by Peter Bloem](http://peterbloem.nl/blog/transformers) [2] ([View Highlight](https://read.readwise.io/read/01gqehnxam3wrakpxe0g5ttfcw))
@@ -26,3 +26,5 @@ tags:: #[[language models]] #[[tensorflow]] #[[transformers]]
 		- **Tags**: #[[neural networks]] #[[normalization]]
 	- ![](https://miro.medium.com/max/692/1*y05XJlCykLUE5wPdWfVoiQ.png) ([View Highlight](https://read.readwise.io/read/01gqehqs5h0xvtr2prh6yqfcyc))
 	- ![](https://miro.medium.com/max/700/1*zuBmEZDoS2WvNRfIACwrCA.png) ([View Highlight](https://read.readwise.io/read/01gqehr09en8c1p9b9100y7tzh))
+- New highlights added [[Feb 28th, 2023]] at 9:35 PM
+	- ![](https://miro.medium.com/max/428/1*ZCFSvkKtppgew3cc7BIaug.png) ([View Highlight](https://read.readwise.io/read/01gtbs3jf989kk7sq2jhe0v4wf))

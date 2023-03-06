@@ -36,10 +36,10 @@ url:: https://twitter.com/martin_gorner/status/1599755684941557761
 	- @geoffreyhinton How about inference ? Again concatenate an MNIST digit with a label, any label, feed it through the network and see if the network as a whole is exited about it. You will have to do it for all image-label combinations though. 
 	  
 	  ![](https://pbs.twimg.com/media/FjOBqs6WYAA3kfZ.jpg) ([View Tweet](https://twitter.com/martin_gorner/status/1599764917589921792))
-	- @geoffreyhinton Even better, the Forward-Forward algorithm lends itself quite naturally to self-supervised learning. You can learn about "digits" by feeding non-digits as "bad data" (example non-digit generation from paper). Such a network can then be fine-tuned on a downstream task. 
+	- @geoffreyhinton Even better, the [[Forward-Forward]] algorithm lends itself quite naturally to [[self-supervised learning]]. You can learn about "digits" by feeding non-digits as "bad data" (example non-digit generation from paper). Such a network can then be fine-tuned on a downstream task. 
 	  
 	  ![](https://pbs.twimg.com/media/FjOCYPNXEAQKpNg.jpg) ([View Tweet](https://twitter.com/martin_gorner/status/1599765732312555523))
-	- @geoffreyhinton Additional benefit: Forward-Forward training does NOT require that the entire forward pass be differentiable. There can be a non-differentiable black box in the middle, the FF algorithm does not care! With backprop, you would need to reach for slow Reinforcement Learning here. 
+	- @geoffreyhinton Additional benefit: [[Forward-Forward]] training does NOT require that the entire forward pass be differentiable. There can be a non-differentiable black box in the middle, the FF algorithm does not care! With backprop, you would need to reach for slow Reinforcement Learning here. 
 	  
 	  ![](https://pbs.twimg.com/media/FjODtiQWQAAtLLc.jpg) ([View Tweet](https://twitter.com/martin_gorner/status/1599767270409969665))
 	- @geoffreyhinton And finally, Hinton points out that FF is easily implementable with very power-efficient analog circuits. This could allow us to run very large language models in a fraction of a Watt!

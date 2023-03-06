@@ -40,3 +40,9 @@ url:: https://twitter.com/zsviczian
 	  👉👉👉 https://t.co/4Z18e3ftzc 
 	  
 	  ![](https://pbs.twimg.com/media/FonnwedXsAk9jKU.jpg) ([View Tweet](https://twitter.com/zsviczian/status/1624084506599731202))
+- New highlights added [[Feb 28th, 2023]] at 9:35 PM
+	- Excited to share my presentation of 'The Extended Mind' by @anniemurphypaul, created in @obsdmd/@excalidraw for Cohort-2's final showcase session at the https://t.co/vGC7arr4YR. Can't wait to see the team's summaries! Check it out and share your thoughts!
+	  
+	  https://t.co/XEe9pIyPGS 
+	  
+	  ![](https://pbs.twimg.com/media/FpLb0ObWAAMFH54.jpg) ([View Tweet](https://twitter.com/zsviczian/status/1626606586167803906))

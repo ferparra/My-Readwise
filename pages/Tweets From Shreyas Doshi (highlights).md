@@ -370,3 +370,15 @@ url:: https://twitter.com/shreyas
 	- The biggest problem with saying that Execution is more important than Ideas is that it demonstrates a gross misunderstanding of how you get outstanding Execution: you get it through 100s of excellent (and usually correct) Ideas about what to do & how to do it, day in and day out. ([View Tweet](https://twitter.com/shreyas/status/1616621603550527490))
 - New highlights added [[Feb 2nd, 2023]] at 5:16 PM
 	- As a product leader, make sure to spend more time (than you currently do) with the creative people in your group, no matter what level & what function they are in. Listen to what they’re excited about, share the challenges / opportunities as you see them and listen to their ideas ([View Tweet](https://twitter.com/shreyas/status/1621024604948144130))
+- New highlights added [[Mar 6th, 2023]] at 6:45 PM
+	- The LNO System [0] was career-changing & life-changing for me as a senior IC PM.
+	  
+	  The Radical Delegation Framework was career-changing & life-changing for me as a PM leader.
+	  
+	  Career-changing because they enabled greater effectiveness & outcomes.
+	  
+	  Life-changing because they… https://t.co/jM8HR7MVhb 
+	  
+	  ![](https://pbs.twimg.com/media/Fqa82aEagAA6Zlx.jpg) 
+	  
+	  ![](https://pbs.twimg.com/media/Fqa9A-maMAEx3WO.jpg) ([View Tweet](https://twitter.com/shreyas/status/1632200170799763456))

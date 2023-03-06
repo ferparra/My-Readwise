@@ -17,3 +17,5 @@ tags:: #[[biology]]
 - New highlights added [[Nov 25th, 2022]] at 9:39 PM
 	- DNA is broken up into a number of large sequences called **chromosomes** that are tucked into the nucleus. Chromosomes typically come in pairs (one from your father and one from your mother) and are wrapped around proteins called **histones** ([View Highlight](https://read.readwise.io/read/01gjq31d02drxhr8gps3dsg0m0))
 	- 22 pairs of **autosomes** (chromosomes shared by both sexes) and a pair of sex chromosomes (XX for females or XY for males ([View Highlight](https://read.readwise.io/read/01gjq31tgp4sf6dx85m7jrx425))
+- New highlights added [[Mar 6th, 2023]] at 6:45 PM
+	- **Cells** are the smallest unit of life and are the building blocks of organisms, from a single-celled bacteria to the [trillions of cells that make up the human body](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002533). Cells are complicated organized structures that take a variety of forms, forming tissues and organs and completing the body's functions. ([View Highlight](https://read.readwise.io/read/01gtbvj5536ytvn522en2x86cb))

@@ -15,7 +15,7 @@ url:: https://twitter.com/jerryjliu0/status/1593283660702048256
 	- One reason to fine-tune your model could be to feed in custom knowledge that wasn’t available to GPT at the time of training. But the downsides are 
 	  1) finetuning is super expensive
 	  2) there’s actually a ton of other ways to interact with external knowledge sources! ([View Tweet](https://twitter.com/jerryjliu0/status/1593283664355344384))
-	- There's lots of great research/tools exploring GPT’s ability to reason and interact with external data: chain-of-thought (@goodside, @ShunyuYao12, @_akhaliq, @OfirPress, @_jasonwei, @dmdohan etc.), tools (@LangChainAI, @dust4ai, a quick plug for GPT Index by yours truly..) ([View Tweet](https://twitter.com/jerryjliu0/status/1593283665970143232))
+	- There's lots of great research/tools exploring [[GPT]]’s ability to reason and interact with external data: [[chain-of-thought]] ([[@goodside]], @ShunyuYao12, @_akhaliq, @OfirPress, @_jasonwei, @dmdohan etc.), tools ([[@LangChainAI]], [[@dust4ai]], a quick plug for [[GPT Index]] by yours truly..) ([View Tweet](https://twitter.com/jerryjliu0/status/1593283665970143232))
 	- There’s more: there’s text to SQL to db, text to Wikipedia, text to Excel actions (@shubroski) all powered by GPT; @AdeptAILabs’s transformers are around interactions with our existing tools; and so much more I haven’t seen yet… ([View Tweet](https://twitter.com/jerryjliu0/status/1593283667324850176))
 	- All of these provide novel ways for GPT to process your custom data and deliver value beyond just finetuning! 
 	  
