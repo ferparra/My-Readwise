@@ -25,3 +25,7 @@ url:: https://twitter.com/euwyngoh
 	  5. Aesthete: “beauty will save the world”
 	  6. Existentialist: all is ideology
 	  7. Christian (phenomenology) ([View Tweet](https://twitter.com/euwyngoh/status/1622786065152245760))
+- New highlights added [[Mar 9th, 2023]] at 9:40 AM
+	- @oldbooksguy Love is to experience the world not from the POV of identity, but from difference:
+	  
+	  "Love isn’t simply about two people meeting and their inward-looking relationship: it is a construction, a life that is being made, no longer from the perspective of One but ... Two."
