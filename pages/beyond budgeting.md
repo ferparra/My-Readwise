@@ -1,0 +1,2 @@
+- Budgeting is a process whereby an organization allocates resources to specific activities. [[Beyond budgeting]] is an approach that moves beyond the traditional budgeting process. It is founded on the principle that the budgeting process should be flexible and adaptable to the ever-changing needs of the organization. Beyond budgeting also takes into account the fact that the external environment is also constantly changing and that organizations need to be able to respond quickly to these changes.
+-

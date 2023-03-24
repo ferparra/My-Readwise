@@ -1,0 +1,11 @@
+title:: Balaji Srinivasan: Social Media, War, Censorship, Wokeism, Crypto, and AI | Lex Fridman Podcast #331 Part 3/3 (highlights)
+author:: [[Stan Rizzo]]
+full-title:: "Balaji Srinivasan: Social Media, War, Censorship, Wokeism, Crypto, and AI | Lex Fridman Podcast \#331 Part 3/3"
+category:: #articles
+url:: https://podcastnotes.org/lex-fridman-podcast/balaji-srinivasan-social-media-war-censorship-wokeism-crypto-and-ai-lex-fridman-podcast-331-part-3-3/
+document_note:: In this part of their conversation, Balaji Srinivasan and Lex Fridman discuss Donald Trump’s banning from social media, war, censorship, social media, Wokeism, Communism, the NYT-CCP-BTC triangle, cryptocurrency, open AI, AR, VR, and how young people should prepare for the future. They discuss how Donald Trump's de-platforming from the perspective of Trump supporters and left-libertarians, historical scenarios and their opposite outcomes, the US dollar vs Bitcoin, Woke Capital vs Communist Capital vs Crypto Capital, the return of secret societies, and the ideal combination of skills for young people. They also discuss how tech has impacted traditional media, the US dollar's role in a hyperbitcoinized world, the NYT-CCP-BTC triangle, ethical and operational differences between an American corporation and the Chinese state, the Network State, and the importance of building one's own audience and media company.
+
+- Highlights first synced by [[Readwise]] [[Mar 12th, 2023]]
+	- Don’t be anti-conventional for the sake of being anti-conventional; iterate on conventional wisdom to contribute to progress ([View Highlight](https://read.readwise.io/read/01gv9knejvkfbz0fz6fj920gcj))
+	- The ideal combination of skills that young people should aspire to acquire are those of a full-stack engineer and full-stack influencer ([View Highlight](https://read.readwise.io/read/01gv9kmmz705ypn7j55y2wmsxj))
+	- If you’re going to build a billion-dollar company, you should also build a media company in tandem with it that has a million followers because the legacy media companies will not be economically or socially aligned with your business ([View Highlight](https://read.readwise.io/read/01gv9kmydnwcc1m3hhcm5nsd62))

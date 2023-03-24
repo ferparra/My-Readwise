@@ -18,3 +18,15 @@ tags:: #[[depression]]
 		- **Tags**: #[[emotional intelligence]]
 	- [Daniel J. Siegel](https://www.mindsightinstitute.com/) calls *Mindsight*. One key aspect of *mindsight* is the continuous observation of the self, so that we can keep improving, so that we can continue to upgrade the outdated parts of our emotional hardware. ([View Highlight](https://read.readwise.io/read/01gqdn8d7zwn4mzvgets93z71b))
 		- **Tags**: #[[mindsight]]
+- New highlights added [[Mar 10th, 2023]] at 10:24 AM
+	- Exercise reminds me after years of neglect that I have a body. My body is the greatest technology under the sun and the most powerful instrument I will ever own, and I hadn’t even been using it! ([View Highlight](https://read.readwise.io/read/01gv2v35cb38jdyegp4b208t5z))
+	- At the same time, I read [a book](https://www.ajahnchah.org/pdf/food_for_the_heart.pdf) by Thai Buddhist monk, [Ajahn Chah](http://www.ajahnchah.org/), and he mandates for me the best mind management philosophy I have ever come across.
+	  
+	  This is what I learn from him:
+	  
+	  1.  *You are not your thoughts*
+	  2.  *All psychological phenomena (i.e. everything you think) is rubbish*
+	  3.  *You’re going to die eventually, so stop wishing for things to get better, they won’t*
+	  4.  *If things are not going to get better then that mustn’t be the purpose of life. If that’s not the purpose, what is?*
+	  5.  *The purpose is that you’re here to learn to let go*
+	  6.  *Let go* ([View Highlight](https://read.readwise.io/read/01gv2v4s6k47c3j88tzkcbexct))

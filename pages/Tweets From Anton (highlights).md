@@ -20,3 +20,9 @@ url:: https://twitter.com/afxreindl
 	  ![](https://pbs.twimg.com/media/FmelmiWX0AIz3LK.png) 
 	  
 	  ![](https://pbs.twimg.com/media/FmeltWXXoAE5dRJ.png) ([View Tweet](https://twitter.com/abacaj/status/1614444077679874049))
+- New highlights added [[Mar 14th, 2023]] at 8:37 AM
+	- LLaMA has been fine-tuned by stanford, 
+	  
+	  "We performed a blind pairwise comparison between text-davinci-003 and Alpaca 7B, and we found that these two models have very similar performance: Alpaca wins 90 versus 89 comparisons against text-davinci-003." 
+	  
+	  ![](https://pbs.twimg.com/media/FrHy5h_XsAAiZSG.jpg) ([View Tweet](https://twitter.com/abacaj/status/1635355642289618944))

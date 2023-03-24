@@ -24,3 +24,7 @@ url:: https://twitter.com/mckaywrigley
 	  Code & dataset is 100% open-source for anyone to use.
 	  
 	  GitHub: https://t.co/1buQTJT4Ge https://t.co/OcYMAp5W9H ([View Tweet](https://twitter.com/mckaywrigley/status/1631328308116996097))
+- New highlights added [[Mar 19th, 2023]] at 10:12 PM
+	- Come learn how to build an OpenAI Q&A bot with ChatGPT API + embeddings!
+	  
+	  You’ll learn how to:

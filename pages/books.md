@@ -1,0 +1,2 @@
+- On [[product development]]
+	- [[The Principles of Product Development Flow: Second Generation Lean Product Development]]

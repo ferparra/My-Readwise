@@ -16,3 +16,7 @@ url:: https://share.snipd.com/episode/2eb32f4b-97f4-4388-8685-b3692d362b8b
 	  
 	  Speaker 2
 	  In fact, I think that even showed that you can do better than the original network by training the sparse network, which is pretty counterintuitive. ([Time 0:08:59](https://share.snipd.com/snip/9f9472e1-89d3-4fe9-990e-7f138cf06510))
+- New highlights added [[Mar 17th, 2023]] at 5:05 PM
+	- What Is a Not-Correlational?
+	  
+	  Key takeaways:

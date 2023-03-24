@@ -18,3 +18,15 @@ url:: https://twitter.com/SJosephBurns
 	  8)Simulator-@tradersync 
 	  
 	  ![](https://pbs.twimg.com/media/FebyqkrWYAM1lSa.jpg) ([View Tweet](https://twitter.com/SJosephBurns/status/1578215535573090305))
+- New highlights added [[Mar 24th, 2023]] at 8:18 PM
+	- Traders to follow to learn technical analysis from and how to use signals to create trading systems: 
+	  
+	  Day trading: @BearBullTraders 
+	  Mentor: @DanFitzpatrick 
+	  Trading Coach: @austinsilverfx
+	  Momentum: @DanZanger
+	  Options: @Ardi_Aaziznia 
+	  Journal: @tradesviz 
+	  Simulator: @tradersync… https://t.co/pPFETSIzAq 
+	  
+	  ![](https://pbs.twimg.com/media/Fr9DBYhX0AYsRIS.jpg) ([View Tweet](https://twitter.com/SJosephBurns/status/1639102483736809472))

@@ -5,7 +5,7 @@ category:: #tweets
 url:: https://twitter.com/MishaLaskin/status/1483584738799624197
 
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
-	- Building on parts 1 & 2 which explained multi-head attention and GPT, in part 3 of the Transformer Series we'll cover masked language models like BERT. 
+	- Building on parts 1 & 2 which explained [[multi-head attention]] and GPT, in part 3 of the Transformer Series we'll cover masked language models like BERT. 
 	  
 	  This thread → masked language models, diff between causal and bi-directional masked attention, finetuning, and code.
 	  
@@ -13,7 +13,7 @@ url:: https://twitter.com/MishaLaskin/status/1483584738799624197
 	  
 	  ![](https://pbs.twimg.com/media/FJbAdMeWUAYiEPN.jpg) ([View Tweet](https://twitter.com/MishaLaskin/status/1483584738799624197))
 		- **Note**: Thread
-	- Since we'll be referencing multi-head attention and GPT, make sure to read parts 1 & 2 if you're unfamiliar with these concepts.
+	- Since we'll be referencing [[multi-head attention]] and GPT, make sure to read parts 1 & 2 if you're unfamiliar with these concepts.
 	  
 	  Part 2, GPT:  https://t.co/5KgMtVVgFU
 	  Part 1, Multi-head attention: https://t.co/Hwlnmk1OAB

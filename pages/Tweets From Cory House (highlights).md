@@ -53,3 +53,13 @@ url:: https://twitter.com/housecor
 	  ✅Routes via React Router, Remix, Next, Tanstack Router, etc... ([View Tweet](https://twitter.com/housecor/status/1586704800988684288))
 - New highlights added [[Dec 2nd, 2022]] at 5:18 PM
 	- @edorsey I use @ApiMocking for both local dev and for tests on CI. This way UI tests are fast and predictable. And my mocks aren’t tied to Playwright or Cypress, so I can use them in Storybook, Jest, local dev, etc. ([View Tweet](https://twitter.com/housecor/status/1597966392741236738))
+- New highlights added [[Mar 12th, 2023]] at 11:38 AM
+	- Avoid Sprints.
+	  
+	  Sprints create an arbitrary deadline every x days. This creates estimation overhead, and fosters short-term thinking. 👎
+	  
+	  Instead: 
+	  1. Break work down into small tickets.
+	  2. Estimate future flow by tracking the number tickets completed per week.
+	  
+	  Simple. ([View Tweet](https://twitter.com/housecor/status/1634175905793732609))

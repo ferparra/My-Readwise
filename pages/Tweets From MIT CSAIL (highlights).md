@@ -10,3 +10,9 @@ url:: https://twitter.com/MIT_CSAIL
 	  (v/@fermatslibrary) 
 	  
 	  ![](https://pbs.twimg.com/media/E6b0526WEAkgekF.jpg) ([View Tweet](https://twitter.com/MIT_CSAIL/status/1417880799693742082))
+- New highlights added [[Mar 24th, 2023]] at 8:18 PM
+	- All major neural networks, in one chart: https://t.co/F6da67Gr3C 
+	  
+	  (article v/@TDataScience, chart v/@asimovinstitute) 
+	  
+	  ![](https://pbs.twimg.com/media/Es04DfBXEAEnAGu.jpg) ([View Tweet](https://twitter.com/MIT_CSAIL/status/1355561417043111937))

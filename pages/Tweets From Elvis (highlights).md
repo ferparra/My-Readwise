@@ -27,3 +27,13 @@ url:: https://twitter.com/omarsar0
 	  ![](https://pbs.twimg.com/media/E4U0mnoWYAAIu5D.jpg) 
 	  
 	  ![](https://pbs.twimg.com/media/E4U0pmLXIAUnb1c.jpg) ([View Tweet](https://twitter.com/omarsar0/status/1406588553098846212))
+- New highlights added [[Mar 24th, 2023]] at 8:18 PM
+	- Code Search with GPT-4
+	  
+	  bloop is a fast code-search engine that leverages LLM QA capabilities to answer questions about code in a conversational way.
+	  
+	  This is a really neat application of GPT-4.
+	  
+	  https://t.co/TKCKIHlrmI https://t.co/aJbbhhgl3U 
+	  
+	  ![](https://pbs.twimg.com/media/FrtX2FTWAAEgAEO.jpg) ([View Tweet](https://twitter.com/omarsar0/status/1637999609778774019))

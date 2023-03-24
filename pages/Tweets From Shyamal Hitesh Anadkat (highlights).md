@@ -23,3 +23,5 @@ url:: https://twitter.com/shyamalanadkat
 	  1.0: Capable of generating original text and reasoning about it.
 	  2.0: Able to evolve, refine its output, and acquire new abilities to act rationally.
 	  3.0+: Can design its own actions/capabilities to interact with the external world ([View Tweet](https://twitter.com/shyamalanadkat/status/1595817675367645184))
+- New highlights added [[Mar 24th, 2023]] at 8:18 PM
+	- we also dropped the chatgpt retrieval plugin that enables semantic search and retrieval of personal or organizational documents. s/o to @IsaFDev. https://t.co/ydHbBfMnch ([View Tweet](https://twitter.com/shyamalanadkat/status/1638988286378283008))

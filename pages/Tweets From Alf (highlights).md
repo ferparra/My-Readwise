@@ -62,3 +62,23 @@ url:: https://twitter.com/MacroAlf
 	- The most important long-term chart in global macro. 
 	  
 	  ![](https://pbs.twimg.com/media/FlZkCKLWQAU7AH0.png) ([View Tweet](https://twitter.com/MacroAlf/status/1609674577323376651))
+- New highlights added [[Mar 17th, 2023]] at 5:05 PM
+	- Our financial system is built around Treasuries.
+	  
+	  It is so engrained in the system that even when the entire world blames banks' exposure to Treasuries for the ongoing mayhem...
+	  
+	  ...Treasuries rally.
+	  
+	  Understanding money and financial plumbing is a true edge in macro investing. ([View Tweet](https://twitter.com/MacroAlf/status/1636126622733443072))
+- New highlights added [[Mar 24th, 2023]] at 8:18 PM
+	- The bond market contains a lot of informational value for investors, but it does a bad job at predicting the path and magnitude of Fed's rate cuts or hikes.
+	  
+	  Dotted lines: market-implied Fed Funds ahead
+	  Dark blue: realized Fed Funds 
+	  
+	  Not a great track record. 
+	  
+	  ![](https://pbs.twimg.com/media/Frv6RgOaAAMs0Td.jpg) ([View Tweet](https://twitter.com/MacroAlf/status/1638180106676981762))
+	- Ladies and gentlemen, the 3-month versus 10-year Treasury yield curve slope. 
+	  
+	  ![](https://pbs.twimg.com/media/Fr6OSoFXsAAUGMc.jpg) ([View Tweet](https://twitter.com/MacroAlf/status/1638948974198661121))

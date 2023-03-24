@@ -5,7 +5,7 @@ category:: #tweets
 url:: https://twitter.com/MishaLaskin/status/1479246928454037508
 
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
-	- Transformers are arguably the most impactful deep learning architecture from the last 5 yrs.
+	- [[Transformers]] are arguably the most impactful deep learning architecture from the last 5 yrs.
 	  
 	  In the next few threads, we’ll cover multi-head attention, GPT and BERT, Vision Transformer, and write these out in code. This thread → understanding multi-head attention.
 	  
@@ -49,7 +49,7 @@ url:: https://twitter.com/MishaLaskin/status/1479246928454037508
 	  8/n 
 	  
 	  ![](https://pbs.twimg.com/media/FIdOjHAXMAMeYYe.jpg) ([View Tweet](https://twitter.com/MishaLaskin/status/1479246957285683200))
-	- Technically what we’ve shown is called single-head self-attention. Before going to multi-head attention, let’s code up what we’ve done so far. 
+	- Technically what we’ve shown is called single-head self-attention. Before going to [[multi-head attention]], let’s code up what we’ve done so far. 
 	  
 	  9/n 
 	  

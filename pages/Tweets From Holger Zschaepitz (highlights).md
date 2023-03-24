@@ -21,3 +21,7 @@ url:: https://twitter.com/Schuldensuehner
 	- OOPS! Cost of insuring against US default hast jumped. 1y CDS price now trades at 69bps. 
 	  
 	  ![](https://pbs.twimg.com/media/Fm2HUf4X0AMqrTN.png) ([View Tweet](https://twitter.com/Schuldensuehner/status/1616096634919690242))
+- New highlights added [[Mar 21st, 2023]] at 8:24 AM
+	- 10y US Treasury yields fall to 3.32%, lowest since Sep2022 due to banking stress. Banking crises always have a deflationary effect. 
+	  
+	  ![](https://pbs.twimg.com/media/FrpQVHaX0AEwVGb.png) ([View Tweet](https://twitter.com/Schuldensuehner/status/1637710326379544579))

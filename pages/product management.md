@@ -453,4 +453,28 @@
 		- [[Neil Patel]]: Digital Marketing Blog
 		- [[Seth Godin]]: Marketing Author and Speaker
 		- [[Contagious: Why Things Catch On]] by Jonah Berger
+- [[Finance]]
+	- Introduction
+		- Importance of financial knowledge for product managers
+		- Key financial concepts that product managers should understand
+	- [[Budgeting]]
+		- Definition of budgeting and why it's important
+		- Understanding the budgeting process and key components
+		- How to create a budget for a product or project
+		- Examples of budgeting tools and resources
+	- [[Forecasting]]
+		- Definition of forecasting and why it's important
+		- Different types of forecasting methods
+		- Key factors to consider when creating a forecast
+		- Examples of forecasting tools and resources
+	- [[Managerial Accounting]]
+		- Definition of [[managerial accounting]] and why it's important
+		- Key concepts such as cost behavior, cost-volume-profit analysis, and contribution margin
+		- How to use [[managerial accounting]] to make better product decisions
+		- Examples of [[managerial accounting]] tools and resources
+	- [[Financial Estimations]] and Documentation
+		- How to estimate the financial impact of a product or project
+		- Key documents that product managers should be familiar with, such as [[financial statements]] and [[cash flow]] statements
+		- How to use financial information to communicate effectively with stakeholders
+		- Examples of financial estimation and documentation tools and resources
 -

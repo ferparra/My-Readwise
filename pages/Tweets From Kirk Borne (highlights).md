@@ -15,3 +15,5 @@ url:: https://twitter.com/KirkDBorne
 	  #abdsc #BigData #DataScience #Mathematics #Statistics #StatisticalLiteracy #MachineLearning #AI #DataScientists 
 	  
 	  ![](https://pbs.twimg.com/media/FHwIGfyXoAAhnI6.jpg) ([View Tweet](https://twitter.com/KirkDBorne/status/1476063694215856128))
+- New highlights added [[Mar 16th, 2023]] at 12:36 AM
+	- Years ago, data managers envisioned a QBE (Query-By-Example) tool that did Feature Vector Similarity Search. Well, here you go… @abacusai has built & deployed something similar, but far better => searches Vector Embeddings of images, documents, & more, using #DeepLearning models https://t.co/x832B3Zgox ([View Tweet](https://twitter.com/KirkDBorne/status/1635778104768462849))

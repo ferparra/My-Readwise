@@ -9,3 +9,5 @@ url:: https://www.neelnanda.io/blog/39-reflection
 - New highlights added [[Jan 2nd, 2023]] at 12:02 PM
 	- What’s weighing on my mind? ([View Highlight](https://read.readwise.io/read/01gnqxjyfzzwze9cb158rpgxgm))
 	- you need to **systematise going meta** ([View Highlight](https://read.readwise.io/read/01gnqxm9p0c22bm6etn2y0cv6z))
+- New highlights added [[Mar 12th, 2023]] at 11:38 AM
+	- Regular debugging - I ask myself what my biggest bottleneck is, then set a 5 minute timer and try to solve it. Sometimes this works! ([View Highlight](https://read.readwise.io/read/01gv81h3ew8bntz9gzgs9dwhmj))

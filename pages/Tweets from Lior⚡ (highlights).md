@@ -18,3 +18,11 @@ New highlights added [[Jan 24th, 2023]] at 10:45 AM
 	  @Galileo_AI is the first AI product trained on thousands of outstanding designs. It can turn a simple text description into high-fidelity editable UI designs.
 	  
 	  Signup here: https://t.co/ZeBzMkro7F https://t.co/SQAqZLZ2s3 ([View Tweet](https://twitter.com/AlphaSignalAI/status/1623707730367086595))
+- New highlights added [[Mar 18th, 2023]] at 12:55 PM
+	- Google just released Vid2Seq!
+	  
+	  It's a pretrained visual language model that can understand and describe multi-event videos.
+	  
+	  The team augmented a LM with time tokens to predict event boundaries and textual descriptions in the same output sequence.
+	  
+	  Paper: https://t.co/5ez6JiYFGz… https://t.co/EfPAQraax6 https://t.co/Q2MApAkrnT ([View Tweet](https://twitter.com/AlphaSignalAI/status/1636794258693685276))

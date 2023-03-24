@@ -44,3 +44,7 @@ url:: https://twitter.com/arankomatsuzaki
 	  abs: https://t.co/VDChnSTVIa 
 	  
 	  ![](https://pbs.twimg.com/media/Fokb7HZagAAcaYm.png) ([View Tweet](https://twitter.com/arankomatsuzaki/status/1623860375644143616))
+- New highlights added [[Mar 20th, 2023]] at 2:42 PM
+	- CoLT5: Faster Long-Range Transformers with Conditional Computation
+	  
+	  Achieves:

@@ -16,3 +16,27 @@ url:: https://twitter.com/abacusai
 	  https://t.co/XODmEg4uFg 
 	  
 	  ![](https://pbs.twimg.com/media/FongYu7aAAI6RuD.jpg) ([View Tweet](https://twitter.com/abacusai/status/1624075870108528640))
+- New highlights added [[Mar 24th, 2023]] at 8:18 PM
+	- 3 FREE Linear Algebra books that you can download right now:
+	  
+	  • Linear Algebra: https://t.co/hTjNsH3Qp6
+	  • Linear Algebra, Theory, and Applications: https://t.co/JvqHGFp3IW
+	  • Linear Algebra Done Wrong: https://t.co/jLYwtXwu5n 
+	  
+	  ![](https://pbs.twimg.com/media/FrwIlrzaEAczARb.jpg) 
+	  
+	  ![](https://pbs.twimg.com/media/FrwImGnaIAEJ6Mf.png) 
+	  
+	  ![](https://pbs.twimg.com/media/FrwImUraIAMXE8X.png) ([View Tweet](https://twitter.com/abacusai/status/1638193822474829824))
+	- A 2-page PDF cheat sheet about Deep Learning.
+	  
+	  From Stanford.
+	  
+	  FREE download from this link: https://t.co/h9dzhmlz8E 
+	  
+	  ![](https://pbs.twimg.com/media/Fr6bvqQaEAEOeCc.jpg) ([View Tweet](https://twitter.com/abacusai/status/1638918564584521731))
+	- Scikit-learn is one of the most useful and important Python 🐍 libraries for machine learning.
+	  
+	  A great cheat sheet that will help you decide which algorithm to use: 
+	  
+	  ![](https://pbs.twimg.com/media/Fr7uID3aAAAsWZh.jpg) ([View Tweet](https://twitter.com/abacusai/status/1639009140667465728))

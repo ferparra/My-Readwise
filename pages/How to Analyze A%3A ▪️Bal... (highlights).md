@@ -7,9 +7,9 @@ url:: https://twitter.com/BrianFeroldi/status/1571487917691863041
 - Highlights first synced by [[Readwise]] [[Nov 19th, 2022]]
 	- How to analyze a:
 	  
-	  ▪️Balance Sheet
-	  ▪️Income Statement
-	  ▪️Cash Flow Statement
+	  ▪️[[Balance Sheet]]
+	  ▪️[[Income Statement]]
+	  ▪️[[Cash Flow]] Statement
 	  
 	  In less than 5 minutes: 
 	  

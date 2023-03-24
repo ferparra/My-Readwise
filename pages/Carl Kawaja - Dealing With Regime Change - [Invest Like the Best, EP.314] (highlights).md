@@ -5,7 +5,7 @@ category:: #podcasts
 url:: https://share.snipd.com/episode/f55ad58d-451c-4c94-ac6d-17e23f6c8c72
 
 - Highlights first synced by [[Readwise]] [[Feb 4th, 2023]]
-	- Cost of Capital and Exploratory Action
+	- [[Cost of Capital]] and Exploratory Action
 	  
 	  Key takeaways:
 	  (* The cost of capital affects how much exploratory action companies take., * The cost of capital has increased in recent years, leading to a shift in the market valuation of companies.)

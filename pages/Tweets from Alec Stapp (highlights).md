@@ -18,3 +18,5 @@ url:: https://twitter.com/AlecStapp
 	  Immigration is the key to American exceptionalism. 
 	  
 	  ![](https://pbs.twimg.com/media/FXd2lDhXgAUiP7C.jpg) ([View Tweet](https://twitter.com/AlecStapp/status/1546836025615568902))
+- New highlights added [[Mar 12th, 2023]] at 11:38 AM
+	- https://t.co/uq5xlsLrpz ([View Tweet](https://twitter.com/AlecStapp/status/1634311960157192192))
