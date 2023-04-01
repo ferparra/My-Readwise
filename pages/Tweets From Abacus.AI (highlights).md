@@ -40,3 +40,20 @@ url:: https://twitter.com/abacusai
 	  A great cheat sheet that will help you decide which algorithm to use: 
 	  
 	  ![](https://pbs.twimg.com/media/Fr7uID3aAAAsWZh.jpg) ([View Tweet](https://twitter.com/abacusai/status/1639009140667465728))
+- New highlights added [[Mar 28th, 2023]] at 12:34 PM
+	- A full Computer Science curriculum that starts from the very beginning.
+	  
+	  100% FREE. Approximately 2 years' worth of content.
+	  
+	  https://t.co/pFt09X0KBF. 
+	  
+	  ![](https://pbs.twimg.com/media/FsJ4g1pacAAEDAj.jpg) ([View Tweet](https://twitter.com/abacusai/status/1640005724796518401))
+	- ChatGPT is awesome.
+	  
+	  But it only knows what it knows.
+	  
+	  Here is something better: You can now train a custom chat AI model on your data.
+	  
+	  It takes a few hours and you'll 10x the quality of responses:
+	  
+	  Check it out here: https://t.co/iCY8KzseGv ([View Tweet](https://twitter.com/abacusai/status/1640096296643219457))

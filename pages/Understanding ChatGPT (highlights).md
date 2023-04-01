@@ -1,0 +1,12 @@
+title:: Understanding ChatGPT (highlights)
+author:: [[Jeff Prosise]]
+full-title:: "Understanding ChatGPT"
+category:: #articles
+url:: https://www.atmosera.com/ai/understanding-chatgpt/
+document_note:: ChatGPT is an advanced language model developed by OpenAI using the GPT-3.5 architecture. It is trained on vast amounts of text from the internet, books, and other sources, and is capable of understanding and generating natural language, engaging in conversations with people to provide informative and helpful responses. It has applications in areas such as language translation, customer service, personal assistants, and creative writing. It is also able to generate code, and has adjustable parameters to make the generated text more natural and creative.
+
+- Highlights first synced by [[Readwise]] [[Mar 28th, 2023]]
+	- Bidirectional Encoder Representations from Transformers (BERT)
+	  
+	  Building models like Google Translate is expensive. First, you have to collect (or manufacture) billions of lines of training data. Then you need massive amounts of compute power to do the training. Models like these often require weeks to train on hundreds of graphics processing units (GPUs) or tensor processing units (TPUs) costing $10,000 or more each. But the introduction of transformers in 2017 laid the groundwork for another landmark innovation in the NLP space: *Bidirectional Encoder Representations from Transformers*, or BERT for short. Introduced by Google researchers in a 2018 paper titled “[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)”, BERT advanced the state of the art by providing pre-trained transformers that can be fine-tuned for a variety of NLP tasks. ([View Highlight](https://read.readwise.io/read/01gwgxg0y709b0rf6syt4htyk1))
+		- **Note**: Building technology like Google Translate is very expensive and time consuming. In 2017, Google researchers invented a new way of doing this called 'Bidirectional Encoder Representations from Transformers', or BERT for short. BERT is a type of transformer that can be used for different tasks related to natural language processing, like understanding language. In 2018, Google released a paper about BERT and how it can be used to help understand language better. BERT was trained using billions of words from Wikipedia and Google Books so it could understand language better.

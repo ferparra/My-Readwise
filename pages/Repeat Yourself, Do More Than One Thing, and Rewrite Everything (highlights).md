@@ -1,0 +1,14 @@
+title:: Repeat Yourself, Do More Than One Thing, and Rewrite Everything (highlights)
+author:: [[programming is terrible]]
+full-title:: "Repeat Yourself, Do More Than One Thing, and Rewrite Everything"
+category:: #articles
+url:: https://programmingisterrible.com/post/176657481103/repeat-yourself-do-more-than-one-thing-and
+document_note:: This document is about the idea of not repeating yourself in coding and how it is often misinterpreted. It suggests that repeating yourself can be beneficial as it can help you find the right abstractions, and that code reuse shouldn’t be the main focus when creating abstractions. In addition, it explains that rewrites of code should not be rushed and should be driven by triage to make sure they are successful. Ultimately, the idea of “Don’t Repeat Yourself” is a tradeoff that is good for beginners, but can be hazardous without further consideration.
+tags:: #[[software development]]
+
+- Highlights first synced by [[Readwise]] [[Apr 1st, 2023]]
+	- The problem with always using an abstraction is that you’re preemptively guessing which parts of the codebase need to change together. “Don’t Repeat Yourself” will lead to a rigid, tightly coupled mess of code. Repeating yourself is the best way to discover *which* abstractions, if any, you actually need. ([View Highlight](https://read.readwise.io/read/01gwwxszzvbv0c4hkzct4rzrkg))
+	- Invoking the ‘single responsibility principle’, programmers have been known to brutally decompose software into a terrifyingly large number of small interlocking pieces—a craft rarely seen outside of obscenely expensive watches, or bash. ([View Highlight](https://read.readwise.io/read/01gwwxt9az9ddqmfyf2g46zy54))
+	- The purpose of MVC isn’t to just keep all the database code in one place, but also to keep it away from frontend code. The data we have and how we want to view it will change over time independent of the frontend code. ([View Highlight](https://read.readwise.io/read/01gwwxtrssvwhe6hxevbw0wsd7))
+	- Successful rewrites plan for migration to and from the old system, plan to ease in the existing load, and plan to handle things being in one or both places at once. Both systems are continuously maintained until one of them can be decommissioned. A slow, careful migration is the only option that reliably works on larger systems. ([View Highlight](https://read.readwise.io/read/01gwwxv1zexgba5y0ev7se1spf))
+	- When you hear a piece of advice, you need to understand the structure and environment in place that made it true, because they can just as often make it false. Things like “Don’t Repeat Yourself” are about making a tradeoff, usually one that’s good in the small or for beginners to copy at first, but hazardous to invoke without question on larger systems. ([View Highlight](https://read.readwise.io/read/01gwwxvwv2dzmjsqc6dy61d3s4))

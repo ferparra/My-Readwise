@@ -23,3 +23,13 @@ url:: https://twitter.com/leeerob
 	- Vercel Cron Jobs. Next week. 
 	  
 	  ![](https://pbs.twimg.com/media/Fo4J6XZWcAMFUnf.png) ([View Tweet](https://twitter.com/leeerob/status/1625249090932994051))
+- New highlights added [[Mar 28th, 2023]] at 4:45 PM
+	- The @nextjs App Router now supports static exports!
+	  
+	  Start with a static site / SPA, then later upgrade to use server features. It now also supports static i18n routing and static API Routes (with Route Handlers).
+	  
+	  Now available on `canary`, soon stable!
+	  
+	  https://t.co/DoRPgN1sqM 
+	  
+	  ![](https://pbs.twimg.com/media/FsQIGXaagAAvR0S.jpg) ([View Tweet](https://twitter.com/leeerob/status/1640445075959484418))

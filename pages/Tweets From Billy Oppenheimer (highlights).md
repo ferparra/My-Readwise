@@ -9,3 +9,5 @@ url:: https://twitter.com/bpoppenheimer
 - New highlights added [[Feb 12th, 2023]] at 6:18 PM
 	- @TheMBA_coach or analog!
 	  https://t.co/gTizFCKXsw ([View Tweet](https://twitter.com/bpoppenheimer/status/1624535149827301376))
+- New highlights added [[Mar 28th, 2023]] at 4:45 PM
+	- Steven Pressfield's rule of thumb: the more Resistance you feel towards doing something, the more sure you can be that you have to do it. https://t.co/XPlFmv3cRg ([View Tweet](https://twitter.com/bpoppenheimer/status/1640376956234366976))

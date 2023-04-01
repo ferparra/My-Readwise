@@ -52,3 +52,11 @@ url:: https://twitter.com/krugermacro
 	  ![](https://pbs.twimg.com/media/Fd96bi9UcAAaVsP.png) 
 	  
 	  ![](https://pbs.twimg.com/media/Fd96kAzUYAEJ1R2.png) ([View Tweet](https://twitter.com/krugermacro/status/1576113305642422273))
+- New highlights added [[Apr 1st, 2023]] at 4:36 PM
+	- Two great paths
+	  
+	  If well off = (BTC + ETH + MSFT + NVDA + AMD) * (DCA + HODL)
+	  
+	  If not well off = (MICROCAPS) * DYOR
+	  
+	  DYOR means "do your own research". Requires front-running large influencers. If getting intel from YT or TikTok doing it wrong. Need to dig into forums & chats. https://t.co/VDx5siTGKs ([View Tweet](https://twitter.com/krugermacro/status/1641867196598218753))

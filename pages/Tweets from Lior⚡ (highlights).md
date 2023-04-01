@@ -26,3 +26,9 @@ New highlights added [[Jan 24th, 2023]] at 10:45 AM
 	  The team augmented a LM with time tokens to predict event boundaries and textual descriptions in the same output sequence.
 	  
 	  Paper: https://t.co/5ez6JiYFGz… https://t.co/EfPAQraax6 https://t.co/Q2MApAkrnT ([View Tweet](https://twitter.com/AlphaSignalAI/status/1636794258693685276))
+- New highlights added [[Mar 29th, 2023]] at 2:34 PM
+	- Game changer. You can now run GPT locally on your macbook with GPT4All, a new 7B LLM based on LLaMa.
+	  
+	  It's completely open source:  demo, data and code to train an assistant-style large language model with ~800k GPT-3.5-Turbo Generations based on LLaMa
+	  
+	  https://t.co/4TOENuZUy6 https://t.co/1a2XtYjI2K ([View Tweet](https://twitter.com/AlphaSignalAI/status/1640873710717468674))

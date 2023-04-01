@@ -10,3 +10,9 @@ url:: https://twitter.com/mayowaoshin
 	  Powered by @LangChainAI and @pinecone 
 	  
 	  #openai #chatgpt #gpt4 #legal #lawyers #law https://t.co/WZtqPDS5Dc ([View Tweet](https://twitter.com/mayowaoshin/status/1636165883876745217))
+- New highlights added [[Mar 29th, 2023]] at 2:34 PM
+	- I recently added a multiple PDF file upload feature to the gpt4 pdf repo. Now you can 'chat' with multiple large PDF docs.
+	  
+	  3,400 stars so far and still climbing 🙏
+	  
+	  code: https://t.co/DZ0sMKZpx8 https://t.co/iaCFcwxGxH ([View Tweet](https://twitter.com/mayowaoshin/status/1640757194642653199))

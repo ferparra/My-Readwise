@@ -1,0 +1,9 @@
+title:: PLATO: How an Educational Computer System From the ’60s Shaped the Future (highlights)
+author:: [[Cameron Kaiser]]
+full-title:: "PLATO: How an Educational Computer System From the ’60s Shaped the Future"
+category:: #articles
+url:: https://arstechnica.com/gadgets/2023/03/plato-how-an-educational-computer-system-from-the-60s-shaped-the-future/
+document_note:: PLATO was an innovative educational computer system developed at the University of Illinois Urbana-Champaign in the 1960s. It featured bright graphics, a touchscreen, a speech synthesizer, messaging apps, games, and educational software. It was built with the ILLIAC I computer, a consumer TV set, and a small keypad originally used for the Naval Tactical Defense System. It also pioneered time-sharing, which allowed multiple users to use the system simultaneously. PLATO has been credited with introducing many of the computing innovations we use today, such as forums, instant messaging, and multiplayer video games.
+
+- Highlights first synced by [[Readwise]] [[Mar 28th, 2023]]
+	- For the actual processing, Bitzer used the University's pre-existing [ILLIAC I](https://music.illinois.edu/ems-history-illiac-i) (then just “ILLIAC”) computer. It was the first computer built and owned entirely by an educational institution, and it was a duplicate of the slightly earlier ORDVAC. Both were built in 1952, and they had full software compatibility. IILIAC's 2,718 vacuum tubes gave it more computing power than even Bell Labs had in 1956, with an addition time of 75 microseconds and an average multiply time of 700 microseconds, 1024 40-bit memory words, and a 10,240-word magnetic drum unit. Bitzer worked with programmer Peter Braunfeld to design the software. ([View Highlight](https://read.readwise.io/read/01gwdhgy4zqzda9f43cmpehhjg))

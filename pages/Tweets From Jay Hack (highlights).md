@@ -42,3 +42,11 @@ url:: https://twitter.com/mathemagic1an
 	  https://t.co/8EWq4Kf0AX 
 	  
 	  ![](https://pbs.twimg.com/media/FruMHcgaMAAQBVz.jpg) ([View Tweet](https://twitter.com/mathemagic1an/status/1638057591187324930))
+- New highlights added [[Mar 29th, 2023]] at 2:34 PM
+	- GPT4All - Llama.cpp trained on 800k outputs from ChatGPT-3.5-Turbo
+	  
+	  Over 10x increase in ChatGPT samples from Alpaca.cpp. Outputs seem much better.
+	  
+	  + runs on your macbook! (love to see it 👏)
+	  
+	  https://t.co/YA7qQGJwmO https://t.co/TnbN1vWWMQ ([View Tweet](https://twitter.com/mathemagic1an/status/1640864659631755264))

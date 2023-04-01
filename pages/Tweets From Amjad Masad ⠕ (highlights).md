@@ -19,3 +19,5 @@ url:: https://twitter.com/amasad
 	- Carmack’s description of AGI is super reasonable and seems doable. 
 	  
 	  ![](https://pbs.twimg.com/media/FoCyvF5WQAEvNnS.jpg) ([View Tweet](https://twitter.com/amasad/status/1621492395861737473))
+- New highlights added [[Mar 28th, 2023]] at 12:34 PM
+	- Most LLM prompt hacks — eg “let’s think step by step” — are basically introducing looping to a feed forward network. Every new token generated is a loop, and the more you give the LLM space to “talk” the better it can compute because looping is essential for that. ([View Tweet](https://twitter.com/amasad/status/1640189761053954049))

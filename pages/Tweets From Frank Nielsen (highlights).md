@@ -58,3 +58,20 @@ url:: https://twitter.com/FrnkNlsn
 	  https://t.co/I6ayC0LCq2 
 	  
 	  ![](https://pbs.twimg.com/media/FjCgJQoVEAAx_79.jpg) ([View Tweet](https://twitter.com/FrnkNlsn/status/1598955543137488904))
+- New highlights added [[Mar 29th, 2023]] at 2:34 PM
+	- "Mathematics for machine learning" (CUP, 2020).
+	  Free PDF from https://t.co/mbzGgyoAVP 😊
+	  A must-read masterpiece, nicely structured and richly 
+	   color-illustrated! 
+	  
+	  ![](https://pbs.twimg.com/media/FsTcLM4aEAEtt2H.jpg) ([View Tweet](https://twitter.com/FrnkNlsn/status/1640678276204212224))
+- New highlights added [[Mar 31st, 2023]] at 11:28 AM
+	- Nicely written book covering many concepts and structures.
+	  Very useful & worth checking!
+	  "Mathematics translates concepts into formalisms and applies those formalisms to derive insights*that are usually not amenable to a less formal analysis."
+	- Minimizing Kullback-Leibler divergence can be interpreted as an information projection wrt to Fisher orthogonality and exponential or mixture connection.
+	  Uniqueness of projection proof may be proved with a generalization of the Pythagoras' theorem!
+	  
+	  👉PDF: https://t.co/Tmk1V5RBOh 
+	  
+	  ![](https://pbs.twimg.com/media/FsbXkkQaEAECFPm.jpg) ([View Tweet](https://twitter.com/FrnkNlsn/status/1641236148000534529))

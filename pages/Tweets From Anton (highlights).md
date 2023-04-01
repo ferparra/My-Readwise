@@ -26,3 +26,7 @@ url:: https://twitter.com/afxreindl
 	  "We performed a blind pairwise comparison between text-davinci-003 and Alpaca 7B, and we found that these two models have very similar performance: Alpaca wins 90 versus 89 comparisons against text-davinci-003." 
 	  
 	  ![](https://pbs.twimg.com/media/FrHy5h_XsAAiZSG.jpg) ([View Tweet](https://twitter.com/abacaj/status/1635355642289618944))
+- New highlights added [[Mar 28th, 2023]] at 2:40 PM
+	- GPT can be expensive if you’re using it to extract content from semi structured/unstructured text (documents, html etc). They usually have a large amount of noise
+	  
+	  You can use something like Flan-T5 to filter out noise first, it’s quite good at it because of the encoder https://t.co/k3DuVYmUgg ([View Tweet](https://twitter.com/abacaj/status/1640431128224866312))

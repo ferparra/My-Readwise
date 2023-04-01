@@ -63,3 +63,19 @@ url:: https://twitter.com/housecor
 	  2. Estimate future flow by tracking the number tickets completed per week.
 	  
 	  Simple. ([View Tweet](https://twitter.com/housecor/status/1634175905793732609))
+- New highlights added [[Mar 28th, 2023]] at 12:34 PM
+	- Problem: Feature flags are handy, but it’s easy to forget to remove them later. This leads to needless overhead, complexity, and risk.
+	  
+	  Solution: Write an automated test that fails if the flag still exists after a given date. ([View Tweet](https://twitter.com/housecor/status/1639975667713409030))
+- New highlights added [[Mar 31st, 2023]] at 11:28 AM
+	- Over-engineering: 
+	  Premature use of microservices/microfrontends
+	  Ignoring the rule of least power
+	  Premature optimization
+	  Excessive abstraction
+	  Speculative features
+	  100% test coverage
+	  Needless flexibility
+	  Build from scratch
+	  Ignoring YAGNI
+	  Gold plating ([View Tweet](https://twitter.com/housecor/status/1607412976876666880))

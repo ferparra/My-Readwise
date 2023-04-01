@@ -25,3 +25,7 @@ url:: https://share.snipd.com/episode/b3d4d474-b009-4eb7-9047-bbfbf82b8890
 	  
 	  Speaker 1
 	  Oh, so I think that's a really interesting take. I hear what you're saying, and I think your characterization of perverse incentives is the way that it's usually talked about. I think the way I think about these things is that these two things are basically the same. And I think it's partly because I think about ([Time 0:07:36](https://share.snipd.com/snip/7962c917-76ad-4c5a-a6a3-93f2bc4b32d4))
+- New highlights added [[Mar 25th, 2023]] at 3:45 PM
+	- [[Good theory-building gradually decreases ambiguity with metrics]]
+	  
+	  Key takeaways:

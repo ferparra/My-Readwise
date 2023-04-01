@@ -382,3 +382,13 @@ url:: https://twitter.com/shreyas
 	  ![](https://pbs.twimg.com/media/Fqa82aEagAA6Zlx.jpg) 
 	  
 	  ![](https://pbs.twimg.com/media/Fqa9A-maMAEx3WO.jpg) ([View Tweet](https://twitter.com/shreyas/status/1632200170799763456))
+- New highlights added [[Mar 28th, 2023]] at 7:35 PM
+	- You want more 0 to 1 success in your company and 
+	  
+	  you ask your 0 to 1 teams to create “move [metric] from A to B”-style OKRs like everyone else 
+	  
+	  and of course you are going to “hold them accountable” for these metrics
+	  
+	  and you want them to report weekly status like everyone… https://t.co/0l9sv5djYv ([View Tweet](https://twitter.com/shreyas/status/1640604471695912961))
+- New highlights added [[Mar 28th, 2023]] at 10:05 PM
+	- One by one, the “Proof of Worth” PM activities like taking notes, running SQL, answering product questions on Slack will be unnecessary / commoditized, leaving some PMs to contend with the reality that these things were never actually the main job. AI just makes this very clear. https://t.co/jOjOmYvFZC ([View Tweet](https://twitter.com/shreyas/status/1640576993396920321))
