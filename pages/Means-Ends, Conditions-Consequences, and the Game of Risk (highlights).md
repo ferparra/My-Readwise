@@ -1,0 +1,21 @@
+title:: Means-Ends, Conditions-Consequences, and the Game of Risk (highlights)
+author:: [[Tasshin]]
+full-title:: "Means-Ends, Conditions-Consequences, and the Game of Risk"
+category:: #articles
+url:: https://tasshin.com/blog/means-ends-conditions-consequences-and-the-game-of-risk/
+tags:: #[[business strategy]] #[[sun tzu]]
+
+- Highlights first synced by [[Readwise]] [[Apr 7th, 2023]]
+	- **Most Western strategic thought takes place in a means-ends framework**. We have a particular goal (win this war, defeat this competitor, earn this degree…); we consider the best possible plan to achieve that goal; and then we execute that plan. There’s a reason that we take this approach: it works.
+	  
+	  Means-ends seems to work especially well in stable and/or non-competitive environments. However, when you introduce complexity, change, and/or competition, the means-ends approach works less well. Failure is common; despair abounds. ([View Highlight](https://read.readwise.io/read/01gxar6729m4zq0j8r8fknwd7f))
+		- **Note**: This document discusses an alternative to traditional means-ends strategic thinking, known as conditions-consequences. It uses the game of RISK to illustrate that when faced with complexity, change, and competition, means-ends thinking can be less effective than conditions-consequences thinking. This approach involves recognizing that the future is unpredictable, and creating conditions that lead to good consequences, rather than intervening. Additionally, Sun Tzu's The Art of War is referenced, and it is suggested that this strategy of non-interventionism can be applied to other scenarios.
+	- ![](https://tasshin.com/wp-content/uploads/2019/08/word-image.jpeg)
+	  
+	  Strategy Cycle courtesy of [Simon Wardley](https://twitter.com/swardley), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) ([View Highlight](https://read.readwise.io/read/01gxargcq4j411pmhyxhazvyp1))
+	- Risk, the classic game of military strategy, can help make ideas from *The Art of War* much more vivid, and to put them into practice, especially the shift from means-ends to conditions-consequences. ([View Highlight](https://read.readwise.io/read/01gxarc8zvvqx20fyb792ncqcm))
+	- To be near the goal while the enemy is still far from it, to wait at ease while the enemy is toiling and struggling, to be well-fed while the enemy is famished—this is the art of husbanding one’s strength.” – Sun Tzu, *The Art of War* ([View Highlight](https://read.readwise.io/read/01gxarh5aae8zbjydj9kseq5sz))
+		- **Note**: This text discusses an alternative approach to means-ends strategic thinking called conditions-consequences. It is illustrated through the game of Risk, where the goal is to create conditions which will make a good outcome inevitable. This approach requires an awareness of the meta-game and the ability to be mindful of the conditions you create. It is based on Sun Tzu's The Art of War and it can be used in a variety of situations.
+	- **According to Ben Mosior, the lesson here isn’t about world domination, warfare, or even how to play RISK. It’s about** [**strategic non-**](https://www.youtube.com/watch?time_continue=5&v=Oz6XrzNqkXE)[**interventionism**](https://www.youtube.com/watch?time_continue=5&v=Oz6XrzNqkXE)**.** ([View Highlight](https://read.readwise.io/read/01gxare24a6dwrgy7skp67hwys))
+	- A byproduct of means-ends thinking is meddling, which always creates a whole host of new problems. Conditions-consequences thinking is certainly about moving when an opportunity presents itself, but the difference is the default focus on the meta-game. ([View Highlight](https://read.readwise.io/read/01gxarec68ad8hwgerpsfrpz28))
+	- You can sensitize them to what good and bad outcomes look like, let the circumstances unfold, and be ready to help them back up if they fall over. In this way you’ve husbanded your strength — your limited time and attention, as well as the equitability of the relationship — for the most important step: guiding their reflection, learning, and growth. ([View Highlight](https://read.readwise.io/read/01gxaretavw4xcrjg8qa0mbhhe))

@@ -1,0 +1,25 @@
+title:: Big Day for the Web: Chr... (highlights)
+author:: [[@benmschmidt on Twitter]]
+full-title:: "Big Day for the Web: Chr..."
+category:: #tweets
+url:: https://twitter.com/benmschmidt/status/1644122769108418567
+
+- Highlights first synced by [[Readwise]] [[Apr 7th, 2023]]
+	- Big day for the Web: Chrome just shipped WebGPU without flags. Someone on @nomic_ai's GPT4All discord asked me to ELI5 what this means, so I'm going to cross-post it here—it's more important than you'd think for both visualization and ML people. (thread)
+	  https://t.co/nSoL75Qtf7 ([View Tweet](https://twitter.com/benmschmidt/status/1644122769108418567))
+		- **Note**: Thread
+	- So: GPUs are processors on basically every computer/phone. Individually they're weaker than CPUs, but they run in packs of little ones that run in parallel. The G is for 'graphics,' but it's turned out they're good for anything involving lots of math. ([View Tweet](https://twitter.com/benmschmidt/status/1644124971386519554))
+	- Like 'AI', which at core boils down to lots (and lots and lots) of matrix multiplication operations. To do math, not graphics, on a GPU you need an API/language for them; the most important of these is CUDA, which is tightly coupled to NVidia and a real PITA to set up. ([View Tweet](https://twitter.com/benmschmidt/status/1644125734351323140))
+	- On the web, we've only been able to access the GPU through something called WebGL. It's old, and while you can do some neat stuff with it, it's fundamentally built for graphics, not for the matrix-multiplication type stuff that is the bread and butter of deep learning models. ([View Tweet](https://twitter.com/benmschmidt/status/1644126014723747844))
+	- Since WebGL launched in 2011, lots of companies have been designing better languages that only run on their particular systems--Vulkan for Android, Metal for iOS, etc. These are great where they work, but even harder to run everywhere than CUDA. ([View Tweet](https://twitter.com/benmschmidt/status/1644126438113648640))
+	- WebGPU is an API and programming that sits on top of all these super low-level languages and allows people to write GPU code that runs on all of them--that is, on just about any phone/computer with a web browser. This is a big deal, because... ([View Tweet](https://twitter.com/benmschmidt/status/1644127003891703809))
+	- it has "compute shaders" that lets you write programs that take data and turn it into other data. Working with data in WebGL is really weird--you have to do things like draw to an invisible canvas and then read the colors as numbers. In WebGPU, you can just do math. Really fast. ([View Tweet](https://twitter.com/benmschmidt/status/1644127235354370048))
+	- That means it's actually capable of doing--say--inference on a machine-learning model like GPT4All, multiplications on data frames, etc. There are already some crazy things out there, like a version of Stable Diffusion that runs in your web browser. https://t.co/uagzcsPzA0 ([View Tweet](https://twitter.com/benmschmidt/status/1644127646081531906))
+	- I wrote something two years ago about why WebGPU makes javascript the most interesting programming language out there for data analysts/ML people. https://t.co/1X7okUOKAu Even more seems possible now... ([View Tweet](https://twitter.com/benmschmidt/status/1644127848234467328))
+	- A dataframe library on Apache Arrow, say; in browser chatbots; etc. Maps like https://t.co/nQmTs9RaY9 can render 5,000,000 tweets incredibly fast, need CPU for compute--I have a long and growing list of things that are nearly impossible in WebGL but will be quite easy in WebGPU. ([View Tweet](https://twitter.com/benmschmidt/status/1644128137729523712))
+	- Right now it's only released on Chrome, but it's not an only-Google thing forever. It's an honest-to-goodness W3C standard like HTML, CSS, or SVG. All the browsers have been working on it; Chrome is just shipping first because Google is rich compared to Safari and Firefox. ([View Tweet](https://twitter.com/benmschmidt/status/1644128250367492096))
+	- One of my favorite parts about reading the minutes of the WebGPU committee over the last year is watching people from the other browsers complain to Chrome people about how much money Google throws at them. https://t.co/z2h2shxpGR 
+	  
+	  ![](https://pbs.twimg.com/media/FtEeWtzXsAAL2_k.jpg) ([View Tweet](https://twitter.com/benmschmidt/status/1644128900631392258))
+	- But they'll come along--the Chrome-derived ones like Edge first, but Safari and Firefox eventually too because GPU compute is just *such* an important thing. And when they do, it rescrambles the whole compute stack. ([View Tweet](https://twitter.com/benmschmidt/status/1644129325153677312))
+	- Slowly but surely real GPU compute, tensor operations, all the stuff that makes AI tick moves from  something that happens only in the cloud, to something that can get reshuffled, rearranged, and done privately on PCs again. Another chance to reclaim compute from the cloud. ([View Tweet](https://twitter.com/benmschmidt/status/1644129887685320710))

@@ -362,3 +362,11 @@ url:: https://twitter.com/hubermanlab
 	  
 	  1) Deliberate focus (the more intense the  better) on the thing you’re trying to learn
 	  2) Sleep & Non-Sleep Deep Rest (NSDR) states, which are when actual neural rewiring occurs ([View Tweet](https://twitter.com/hubermanlab/status/1626999119255580672))
+- New highlights added [[Apr 13th, 2023]] at 5:52 PM
+	- Some tools from the new Huberman Lab Podcast w/@DrAndyGalpin
+	  
+	  1) Do deliberate heat/sauna after training.
+	  
+	  2) Get your heart rate up to max with 1-5, 90sec cardio intervals 1X weekly (& do other cardio too of course).
+	  
+	  3) Train each muscle group for ~10sets per week, minimum. ([View Tweet](https://twitter.com/hubermanlab/status/1510299864776724485))

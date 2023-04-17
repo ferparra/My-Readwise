@@ -37,3 +37,11 @@ url:: https://twitter.com/omarsar0
 	  https://t.co/TKCKIHlrmI https://t.co/aJbbhhgl3U 
 	  
 	  ![](https://pbs.twimg.com/media/FrtX2FTWAAEgAEO.jpg) ([View Tweet](https://twitter.com/omarsar0/status/1637999609778774019))
+- New highlights added [[Apr 13th, 2023]] at 9:25 AM
+	- ChatLLaMA - an open-source implementation of LLaMA based on RLHF.
+	  
+	  Claims a 15x faster training process than ChatGPT. It allows users to fine-tune personalized ChatLLaMA assistants.
+	  
+	  https://t.co/puc3BF1JSU 
+	  
+	  ![](https://pbs.twimg.com/media/Fp-qsYOXsAAZt8T.png) ([View Tweet](https://twitter.com/omarsar0/status/1630211059876339713))

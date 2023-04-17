@@ -14,3 +14,18 @@ url:: https://twitter.com/karpathy
 	- Potentially nitpicky but competitive advantage in AI goes not so much to those with data but those with a data engine: iterated data aquisition, re-training, evaluation, deployment, telemetry. And whoever can spin it fastest. Slide from Tesla to ~illustrate but concept is general 
 	  
 	  ![](https://pbs.twimg.com/media/FjPQ8HqVQAAXRaw.jpg) ([View Tweet](https://twitter.com/karpathy/status/1599852921541128194))
+- New highlights added [[Apr 7th, 2023]] at 5:55 PM
+	- The analogy between GPTs of today to the CPUs of early days of computing are interesting. GPT is a funny kind of programmable text computer. Have to think through it more 🤔 but e.g.:
+- New highlights added [[Apr 13th, 2023]] at 9:25 AM
+	- This is a baby GPT with two tokens 0/1 and context length of 3, viewing it as a finite state markov chain. It was trained on the sequence "111101111011110" for 50 iterations. The parameters and the architecture of the Transformer modifies the probabilities on the arrows.
+	  
+	  E.g. we… 
+	  
+	  ![](https://pbs.twimg.com/media/FtSa2CGacAAVphm.jpg) ([View Tweet](https://twitter.com/karpathy/status/1645115622517542913))
+- New highlights added [[Apr 15th, 2023]] at 11:58 AM
+	- Random note on k-Nearest Neighbor lookups on embeddings: in my experience much better results can be obtained by training SVMs instead. Not too widely known.
+	  
+	  Short example:
+	  https://t.co/RXO9xiOmAB
+	  
+	  Works because SVM ranking considers the unique aspects of your query w.r.t. data. ([View Tweet](https://twitter.com/karpathy/status/1647025230546886658))

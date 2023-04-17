@@ -81,3 +81,11 @@ url:: https://twitter.com/LynAldenContact
 	- I'm actually shocked by the majority of the answers to this thread.
 	  
 	  Many people assumed that everyone in a developing country with an active currency crisis has 1) a brokerage account with access to global securities and 2) can trust their local banks to hold dollars for them. https://t.co/lywKtieXpE ([View Tweet](https://twitter.com/LynAldenContact/status/1592278982166450176))
+- New highlights added [[Apr 16th, 2023]] at 10:26 AM
+	- Three big global risks over the next decade, imo:
+	  
+	  -Insufficient energy security.
+	  
+	  -Sovereign debt crisis combined with lack of establishment/institution credibility.
+	  
+	  -Widespread disregard for objectivity, combined with AI making it harder to verify what is true. ([View Tweet](https://twitter.com/LynAldenContact/status/1647365323476160512))

@@ -246,3 +246,9 @@ url:: https://twitter.com/emollick
 	  ![](https://pbs.twimg.com/media/FkzqA6PaMAAN2_y.jpg) 
 	  
 	  ![](https://pbs.twimg.com/media/FkzqA6QaUAE-ZDj.jpg) ([View Tweet](https://twitter.com/emollick/status/1606916649843838983))
+- New highlights added [[Apr 15th, 2023]] at 11:58 AM
+	- Here's all of biomedical research. 
+	  
+	  Each dot is one of 21 million papers, based on connections between their abstracts identified by AI. Scroll for the tour, which is both beautiful & shows the method's ability to answer important questions about science. https://t.co/6kUnUhXGde 
+	  
+	  ![](https://pbs.twimg.com/media/FtrJDVLWcAMf3Vf.jpg) ([View Tweet](https://twitter.com/emollick/status/1646849727290392576))

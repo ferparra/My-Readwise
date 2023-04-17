@@ -36,3 +36,10 @@ url:: https://twitter.com/NotionHQ
 	  → Weekly [[async]] updates
 	  
 	  ✌🏽 All this for the team to find in one place! Get inspired by their workspace: https://t.co/XbEWst8IW6 ([View Tweet](https://twitter.com/NotionHQ/status/1597656065520578560))
+- New highlights added [[Apr 13th, 2023]] at 9:25 AM
+	- Notion now supports @Pinterest embeds 📌
+	  
+	  Moodboard away! https://t.co/kiHD0eIaD4 ([View Tweet](https://twitter.com/NotionHQ/status/1644401004413353984))
+	- You asked for more "How Notion Uses Notion to Build Notion" 🤪
+	  
+	  This time, we're showing off our product team's OS. Template included: https://t.co/HRVXu0wl5J ([View Tweet](https://twitter.com/NotionHQ/status/1645460490339102720))

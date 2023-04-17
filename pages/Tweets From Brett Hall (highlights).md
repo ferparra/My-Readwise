@@ -34,3 +34,5 @@ url:: https://twitter.com/ToKTeacher
 	  2. @ThibaultDiP threads on optimism & progress
 	  3. @jimmpierce insights on introspection, Enlightenment & wisdom
 	  4. @masonhellcat comedy from all angles: standup, sketches & content curation ([View Tweet](https://twitter.com/ToKTeacher/status/1626574435091365888))
+- New highlights added [[Apr 13th, 2023]] at 9:25 AM
+	- Realism, fallibilism, objectivity, reason: all terms with subtly different emphasis on: “It’s possible to be wrong because there’s something to be wrong about.” ([View Tweet](https://twitter.com/ToKTeacher/status/1646045378016579589))

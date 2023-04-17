@@ -1,0 +1,10 @@
+title:: ChatGPT Everyday Prompting 📚 (highlights)
+author:: [[Chase Curtis]]
+full-title:: "ChatGPT Everyday Prompting 📚"
+category:: #articles
+url:: https://twitter.com/realchasecurtis/status/1646152256398450689
+
+- Highlights first synced by [[Readwise]] [[Apr 13th, 2023]]
+	- → Summary 1. Summarize the contents of the following text into a few brief paragraphs [or sentences]: [insert text] 2. Write a brief [or lengthy] description for insert topic/idea 3. Use the following information to create a tweet [blog post or email] about [topic/idea]: [insert text] 4. Explain this to me like I'm 5 [10, 15, or 20]: [insert text] 5. What's the difference between [idea one] and [idea two]? 6. Summarize the key points of the following text into bullet points: [insert text] 7. Condense the following text into a very short blurb: [insert text] ([View Highlight](https://read.readwise.io/read/01gxvw7p4fnxvnx37k2rbkg6c9))
+	- → Rewrites 1. Rewrite the following text for clarity [or readability]: insert text 2. Use the knowledge from your previous response[s] to rewrite the following text: [insert text] 3. Rewrite this to be a fluid story with a beginning and an end rather than concluding with a summation of parts: [insert text] 4. Rewrite the previous list into cohesive paragraphs 5. Reformat the previous responses with the following template: insert sample text/template 6. Correct any grammatical errors and improve the flow of writing when needed: insert text 7. How would you rewrite this? ([View Highlight](https://read.readwise.io/read/01gxvw854vrk0r5g92sg9zv2wj))
+	- → Creation 1. Write a brief introduction for [insert topic/idea] 2. Give me a few more titles for [insert title or previous response] 3. Please provide examples of each item listed: [insert text] 4. Please provide examples of each item in your last response 5. I have an image of [describe image] – come up with a few captions to turn it into a meme 6. What would be a good word for [describe scenario]? 7. Is this sentence [paragraph or text] grammatically correct: [insert text] ([View Highlight](https://read.readwise.io/read/01gxvw7zrn5kb6dm7cknngxakw))

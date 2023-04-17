@@ -1,0 +1,12 @@
+title:: The Role of Experimentation at Booking.com (highlights)
+author:: [[Booking.com for Partners]]
+full-title:: "The Role of Experimentation at Booking.com"
+category:: #articles
+url:: https://partner.booking.com/en-us/click-magazine/industry-perspectives/role-experimentation-bookingcom
+tags:: #[[experimentation]]
+
+- Highlights first synced by [[Readwise]] [[Apr 7th, 2023]]
+	- One way we do this is through A/B testing - something Booking.com is well known for - where we split the target audience into two groups. One half keeps the current version of a product, while the other half sees an updated version. We compare behaviours and if those using the new version behave as anticipated then we conclude the experiment worked as expected and put the change ‘live’ for everyone else. If it doesn’t work as assumed, then we’ve either misunderstood the problem or what the solution should be. At the very least, we’ve learned something and ensured we’re not making a change that doesn’t have the impact we want. ([View Highlight](https://read.readwise.io/read/01gx2jhjhqmfsggyq2qdw44trn))
+	- If we make changes based purely on assumptions, we risk making unnecessary adjustments to our products. It’s crucial to check whether our changes actually have the desired effect on peoples’ behaviour. The worst thing we could do is constantly make all of these updates to our products, potentially confusing users if the changes don’t actually work how we intended. ([View Highlight](https://read.readwise.io/read/01gx36r444ht5bjcpz3q726q00))
+	- I think two of the most important ingredients are transparency and accountability. We really encourage peer reviews - there needs to be some way for people to see each other's work and give their input. We’ve built this into our infrastructure by making descriptions of all iterations available, with the platform acting as a searchable repository of all previous experiments. ([View Highlight](https://read.readwise.io/read/01gx36rf5bw3mmm3vhf9ag8g5t))
+	- It’s also important for leaders to know that it’s okay to fail and be wrong - and communicate this to staff. When it comes to experimentation, people can sometimes be hesitant to adopt these methodologies. In my opinion, this is not a technical problem, but rather a mindset: you have to be willing to admit you don’t always know what’s best - and that’s okay. ([View Highlight](https://read.readwise.io/read/01gx36rrhqebhtzwt1ksrfamy1))

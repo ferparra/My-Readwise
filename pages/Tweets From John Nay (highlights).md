@@ -55,3 +55,57 @@ url:: https://twitter.com/johnjnay
 	  Paper https://t.co/DD1nNSkCA9 
 	  
 	  ![](https://pbs.twimg.com/media/FsdreO5XgAIhnPa.jpg) ([View Tweet](https://twitter.com/johnjnay/status/1641400468667498502))
+- New highlights added [[Apr 7th, 2023]] at 3:38 PM
+	- LLMs Can Iteratively Self-Refine
+	  
+	  -LLM creates draft
+	  -Provides its own feedback
+	  -Iteratively refines
+	  
+	  On all 7 eval tasks
+	  (review & code rewriting
+	  toxicity removal
+	  responses
+	  acronyms
+	  stories
+	  etc.)
+	  outputs are preferred by humans & by automated metrics
+	  
+	  https://t.co/qQl4VEAIsI 
+	  
+	  ![](https://pbs.twimg.com/media/FswLy55WwAI9v8G.jpg) ([View Tweet](https://twitter.com/johnjnay/status/1642704826776559617))
+	- A Framework For Applying Psychotherapy to LLMs
+	  
+	  -SafeguardGPT attempts to apply "psychotherapy" on LLMs
+	  -4 types of Agents
+	  Therapist
+	  Chatbot
+	  Critic
+	  User
+	  -Human moderator
+	  -Simulates Chat / Therapy / Eval / Control phases to try to align to preferences
+	  
+	  https://t.co/roCF5JZbON 
+	  
+	  ![](https://pbs.twimg.com/media/Fs32NdlWAAEioEH.jpg) ([View Tweet](https://twitter.com/johnjnay/status/1643241834158718979))
+- New highlights added [[Apr 13th, 2023]] at 5:52 PM
+	- Boosted Prompt Ensembles for LLMs
+	  
+	  -Construct a small set of few-shot prompts that comprise a "boosted prompt ensemble'"
+	  -Examples chosen stepwise to be ones previous step's ensemble is uncertain of
+	  -Outperforms single-prompt output-space ensembles
+	  
+	  https://t.co/6iezzNhbZF 
+	  
+	  ![](https://pbs.twimg.com/media/FtkA12eaQAAHTXJ.jpg) ([View Tweet](https://twitter.com/johnjnay/status/1646349289386577920))
+- New highlights added [[Apr 17th, 2023]] at 9:20 PM
+	- Power-Seeking Can Be Probable For Trained AI Agents
+	  
+	  -Assuming trained AI agent learns a goal from set of goals consistent w/ training rewards:
+	  -If agent faces a choice to 
+	  shut down or avoid shutdown 
+	  in a new situation, agent is likely to avoid shutdown
+	  
+	  https://t.co/mjMfxoLTqj 
+	  
+	  ![](https://pbs.twimg.com/media/Ft4IQNVWwAAOzLH.jpg) ([View Tweet](https://twitter.com/johnjnay/status/1647763679830581250))

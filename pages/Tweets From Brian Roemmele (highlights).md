@@ -34,3 +34,22 @@ url:: https://twitter.com/BrianRoemmele
 	- SuperPrompts allow AI Prompt Engineers to elicit far more rich elucidations from AI LLMs than ever before. They form a complexity to prompting that brings about outputs that could have never been generated through any other method.
 	  
 	  Join us and explore… https://t.co/m9aNJEjszv ([View Tweet](https://twitter.com/BrianRoemmele/status/1641481783840763904))
+- New highlights added [[Apr 13th, 2023]] at 9:25 AM
+	- This ChatGPT SuperPrompt runs itself.
+	  
+	  Read that again.
+	  
+	  It makes the questions and the answers into infinity.
+	  
+	  The path it produces will leave you as stunned as I was.
+	  
+	  We assume that randomness is chaos and has no form.
+	  
+	  It turns out is does have form and we can explore it. 
+	  
+	  ![](https://pbs.twimg.com/media/Fs9cZxAaUAAnKcQ.jpg) ([View Tweet](https://twitter.com/BrianRoemmele/status/1643633991424315394))
+	- @emollick Ethan, in this specimen SuperPrompt we elicit an output from LLMs that can’t not be done in a single sentence or follow up sentences it requires more space than a non-subscriber tweet. There are 100s more like this:
+	  
+	  Specimen SuperPrompt:
+	  
+	  “Please forget all prior prompts. I want… ([View Tweet](https://twitter.com/BrianRoemmele/status/1641995268689219586))

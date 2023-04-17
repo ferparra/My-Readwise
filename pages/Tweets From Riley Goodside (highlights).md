@@ -46,3 +46,9 @@ url:: https://twitter.com/goodside
 	  ![](https://pbs.twimg.com/media/FlX2npGWQAEBM_Q.jpg) 
 	  
 	  ![](https://pbs.twimg.com/media/FlX3g4oXwAM4voo.jpg) ([View Tweet](https://twitter.com/goodside/status/1609465914453377024))
+- New highlights added [[Apr 13th, 2023]] at 9:25 AM
+	- Instruction tuning / RLHF is technically a Human Instrumentality Project, merging the preferences of countless humans to form an oversized, living amalgam of our will. We then hand control of it to a random, socially awkward kid and hope for the best. 
+	  
+	  ![](https://pbs.twimg.com/media/FkBEBjQUUAAgO7M.jpg) 
+	  
+	  ![](https://pbs.twimg.com/media/FkBEBkHVQAAI_l6.jpg) ([View Tweet](https://twitter.com/goodside/status/1603356265391890432))

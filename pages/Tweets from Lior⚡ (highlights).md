@@ -32,3 +32,11 @@ New highlights added [[Jan 24th, 2023]] at 10:45 AM
 	  It's completely open source:  demo, data and code to train an assistant-style large language model with ~800k GPT-3.5-Turbo Generations based on LLaMa
 	  
 	  https://t.co/4TOENuZUy6 https://t.co/1a2XtYjI2K ([View Tweet](https://twitter.com/AlphaSignalAI/status/1640873710717468674))
+- New highlights added [[Apr 13th, 2023]] at 5:52 PM
+	- OpenAI just released the implementation/weights of their Consistency Models, a strong contender to Diffusion Models!
+	  
+	  Consistency models do not require adversarial training, which makes them easier to train and less prone to mode collapse. 
+	  
+	  They also allow for few-step sampling… 
+	  
+	  ![](https://pbs.twimg.com/media/FthxIO7WIAEWkck.jpg) ([View Tweet](https://twitter.com/AlphaSignalAI/status/1646190153235349507))

@@ -1,0 +1,16 @@
+title:: The ChatGPT Retrieval Plugin - Weaviate as a Long-Term Memory Store for Generative AI (highlights)
+author:: [[weaviate.io]]
+full-title:: "The ChatGPT Retrieval Plugin - Weaviate as a Long-Term Memory Store for Generative AI"
+category:: #articles
+url:: https://weaviate.io/blog/weaviate-retrieval-plugin
+
+- Highlights first synced by [[Readwise]] [[Apr 7th, 2023]]
+	- In short, plugins give ChatGPT the ability to leverage third-party resources to act upon the conversations that you have with it! Not only can ChatGPT call upon the wealth of Apps currently available to actually perform and impact things in the real world but also use the strengths of this App network to make up for some of its own shortcomings. ([View Highlight](https://read.readwise.io/read/01gx9spnap6t11hh4dgjpy3q7q))
+	- The (ChatGPT retrieval plugin)[https://github.com/openai/chatgpt-retrieval-plugin] allows you to connect ChatGPT to an instance of a [vector database](https://weaviate.io/developers/weaviate). Anything stored in a connected vector database can then be used to answer questions to prompts, thus allowing ChatGPT to “know” your custom data and answer questions based on the details stored in the vector database! Not only that but the vector database can also be used as a *long-term storage* of memory for ChatGPT to persist and store portions of your conversations from the short-lived memory of a tab to the long-term storage capabilities of a vector database. A vector database once connected via the retrieval plugin acts as the cortex of ChatGPT! 🧠 ([View Highlight](https://read.readwise.io/read/01gx9sq2a294d7mbf5emynnd88))
+	- ![diagram](https://weaviate.io/assets/images/diagram-dark-eb901d672566b84f0c2c97e7e76e7f7f.png#gh-dark-mode-only) ([View Highlight](https://read.readwise.io/read/01gx9sq5rebws3ap3vzjgqfbqh))
+	- In short, you can update the knowledge that ChatGPT knows about without having to go through the costly and time-consuming process of having to retrain the weights. The main functionality this plugin enables is:
+	  
+	  •   It allows you to attach a vector database to ChatGPT that has proprietary data that can be used by ChatGPT when answering very specific questions
+	  •   It allows you to persist personal documents and details to give ChatGPT a personal touch so that answers are not just general but can be catered to you (based on detailed specified in the vector database)
+	  •   You can persist conversations with ChatGPT in the attached vector database to carry on conversations between turning on and shutting off ChatGPT ([View Highlight](https://read.readwise.io/read/01gx9srk0dx1d75r6hh8kq4sgj))
+	- In order to benefit from the capabilities of LLMs like ChatGPT's GPT-3 in real-life use cases, it would be ideal if we could apply its generative power to new or custom data. For example, this would enable a private customized version of ChatGPT that's been trained on your company's internal documents and could act as a human resources chatbot. Wondering what the onboarding process for new employees looks like or how you can sign up for health benefits? You can simply ask your customized ChatGPT! The applications of a customized ChatGPT are limitless and quite exciting! ([View Highlight](https://read.readwise.io/read/01gx9sqm1qma2n3xyp5gsnq3x2))
