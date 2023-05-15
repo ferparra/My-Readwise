@@ -53,3 +53,13 @@ url:: https://twitter.com/dvassallo
 	- @austin_rief https://t.co/2zscDt1iEG
 	  
 	  Filmed entirely with iPhones and a drone, and edited an iPad. Beats all HGTV / Discovery channel building shows. ([View Tweet](https://twitter.com/dvassallo/status/1616880659343233024))
+- New highlights added [[May 7th, 2023]] at 1:05 PM
+	- Everyone is surprised Amazon Prime Video is ditching Lambda for a monolith.
+	  
+	  I saw Lambda being born, and understood it inside out. I was never convinced it would become a suitable application host.
+	  
+	  From my book “The Good Parts of AWS” (2019):
+	  
+	  https://t.co/ZtRX9lAwhb 
+	  
+	  ![](https://pbs.twimg.com/media/FvdRBPnaYAEuoGV.jpg) ([View Tweet](https://twitter.com/dvassallo/status/1654880475603935232))

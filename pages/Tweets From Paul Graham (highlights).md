@@ -13,3 +13,7 @@ url:: https://twitter.com/paulg
 	- 87% of journalism majors regret their choice, followed by 72% of sociology majors. 
 	  
 	  ![](https://pbs.twimg.com/media/FhiFxLNXgAIDAqz.jpg) ([View Tweet](https://twitter.com/paulg/status/1592169670479679490))
+- New highlights added [[May 7th, 2023]] at 7:36 PM
+	- Men commit 95% of homicides. I don't consider it a slander if someone says men are inherently more violent. It seems obviously true.
+	  
+	  https://t.co/QRMyt0JNeA ([View Tweet](https://twitter.com/paulg/status/1655118826973872128))

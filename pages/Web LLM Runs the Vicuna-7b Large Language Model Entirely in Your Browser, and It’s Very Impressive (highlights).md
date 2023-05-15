@@ -1,0 +1,15 @@
+title:: Web LLM Runs the Vicuna-7b Large Language Model Entirely in Your Browser, and It’s Very Impressive (highlights)
+author:: [[Simon Willison]]
+full-title:: "Web LLM Runs the Vicuna-7b Large Language Model Entirely in Your Browser, and It’s Very Impressive"
+category:: #articles
+url:: https://simonwillison.net/2023/Apr/16/web-llm/
+document_note:: Web LLM is a web-based language model created by the team behind Web Stable Diffusion, which runs the vicuna-7b-delta-v0 model in a browser utilizing the brand new WebGPU API in Chrome's beta version. It has the capability to manipulate language in various ways, such as summarization, fact extraction, and answering questions. Running entirely in a browser makes it a secure sandbox for personal AI assistants that can carefully control what information and tools it has access to. However, Vicuna isn't openly licensed for commercial use because the training data is not licensed for such purposes.
+tags:: #[[LLMs]] #[[open source]]
+
+- Highlights first synced by [[Readwise]] [[Apr 27th, 2023]]
+	- [Web LLM](https://github.com/mlc-ai/web-llm) is a project from the same team as Web Stable Diffusion which runs the [vicuna-7b-delta-v0](https://huggingface.co/lmsys/vicuna-7b-delta-v0) model in a browser, taking advantage of the brand new WebGPU API that just arrived in Chrome in beta. ([View Highlight](https://read.readwise.io/read/01gys1ff1bkzx3mtefx4z6kr28))
+	- As I’ve noted before, I don’t particularly care about having a locally executing LLM that can answer questions about every factual topic under the sun.
+	  
+	  What I want instead is a [calculator for words](https://simonwillison.net/2023/Apr/2/calculator-for-words/). I want a model that I can feed content into and have it manipulate the language in that input—summarization, fact extraction, [question answering](https://simonwillison.net/2023/Jan/13/semantic-search-answers/) based on a carefully crafted prompt—that kind of thing. ([View Highlight](https://read.readwise.io/read/01gys1f4fderek4r81d3d35hff))
+	- LLMs are inherently risky technology. Not because they might break out and try to kill all humans—that remains pure science fiction. They’re dangerous because they will follow instructions no matter where those instructions came from. Ask your LLM assistant to summarize the wrong web page and an attacker could trick it into leaking all your private data, or deleting all of your emails, or worse. ([View Highlight](https://read.readwise.io/read/01gys1e7j98x1d4k87bdteqf0c))
+	- The [OpenAssistant](https://github.com/LAION-AI/Open-Assistant) project is worth watching here too: they’ve been crowdsourcing large amounts of openly licensed fine-tuning data, and are beginning to publish their own models ([View Highlight](https://read.readwise.io/read/01gys1dmejqmqn3xmnpve73qgt))

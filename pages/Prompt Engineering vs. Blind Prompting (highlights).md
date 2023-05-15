@@ -1,0 +1,16 @@
+title:: Prompt Engineering vs. Blind Prompting (highlights)
+author:: [[Mitchell Hashimoto]]
+full-title:: "Prompt Engineering vs. Blind Prompting"
+category:: #articles
+url:: https://mitchellh.com/writing/prompt-engineering-vs-blind-prompting
+tags:: #[[GPT]] #[[LLMs]]
+
+- Highlights first synced by [[Readwise]] [[Apr 23rd, 2023]]
+	- **"Prompting"** is the act of using prompts as a way to extract desired information from a model. It is an attractive approach to extracting information because you don't need a large offline training set, you don't need offline access to a model, and it feels intuitive even for non-engineers. Prompting is just [one method to tune a model](https://huyenchip.com/2023/04/11/llm-engineering.html#prompting_vs_finetuning_vs_alternatives).
+	  
+	  Finally, **"prompt engineering"** describes a more rigorous discipline (as will be shown in this post) that aims to utilize prompting as a way to build reliable functionality for real-world applications. It differs from ChatGPT-style prompting because the prompts generated through prompt engineering are usually meant to be used repeatedly in high-volume, diverse situations in order to solve a specific problem reliably for an application. ([View Highlight](https://read.readwise.io/read/01gynwx0ehgppenkq0pv213hfh))
+		- **Note**: Prompt engineering uses prompting to build reliable functionality for applications.
+	- It may be tempting to try to get the model to extract our entire event such as event name, attendees, time, location, etc. and output it as some beautiful ready-to-use JSON or some other format. The model may be able to do this. But when approaching a new problem, I recommend decomposing it into a single problem first. ([View Highlight](https://read.readwise.io/read/01gynwyg392g27k41qkqg24knn))
+	- **Finally, a brief note on *output decoding*:** LLMs will complete your prompt in various ways: it may be a complete sentence, it may add a period, it may be capitalized, etc. You should determine how perfect you want your output from the LLM to be and how much you're willing to normalize prior to validating your demonstration set. ([View Highlight](https://read.readwise.io/read/01gynwyzrd6hxkz3jtxena3ech))
+	- keep the output from the LLM as simple and flexible as possible, and perform some normalization operations in your application. ([View Highlight](https://read.readwise.io/read/01gynwz82e2mvetfhwtqt40khz))
+	- you may decide to go back and test **other approaches to increase accuracy.** For example, you may try a [self-consistency decoding strategy (Wang, et al 2022)](https://arxiv.org/abs/2203.11171) on a lower cost model to see if that improves the accuracy enough. Sometimes, using more tokens on a lower cost model will save significant money vs. low-token usage on a higher cost model. For example, GPT-4 is ~15x more expensive than GPT-3.5 today. That means that you effectively have 15x more token budget to increase the GPT-3.5 prompt accuracy (caveats around rate limits noted). ([View Highlight](https://read.readwise.io/read/01gynwzzjykjkjydwbak113mtz))

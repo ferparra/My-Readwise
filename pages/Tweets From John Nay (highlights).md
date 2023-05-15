@@ -109,3 +109,28 @@ url:: https://twitter.com/johnjnay
 	  https://t.co/mjMfxoLTqj 
 	  
 	  ![](https://pbs.twimg.com/media/Ft4IQNVWwAAOzLH.jpg) ([View Tweet](https://twitter.com/johnjnay/status/1647763679830581250))
+- New highlights added [[Apr 22nd, 2023]] at 3:27 PM
+	- Gisting: 26x Compression of LLM Prompts
+	  
+	  -Trains LLM to compress prompts into smaller sets of "gist" tokens to be reused for compute efficiency
+	  -Can be easily trained as part of instruction fine-tuning
+	  -FLOPs reductions, time speedups & storage savings
+	  
+	  https://t.co/mamTebMRgE 
+	  
+	  ![](https://pbs.twimg.com/media/Ft9aVKeXgAEMlmC.jpg) ([View Tweet](https://twitter.com/johnjnay/status/1648135433136615425))
+- New highlights added [[Apr 23rd, 2023]] at 4:20 PM
+	- LlamaAcademy: Fine-tuning LLMs to Learn How to Talk to APIs
+	  
+	  Pipeline: 
+	  -Crawling
+	  -GPT-4 data gen
+	  -Fine-tuning Vicuna-13B on synthetic data
+	  
+	  LLM can then read new API docs (Stripe Notion etc), gen code
+	  
+	  Instead of hosting API docs, host API implementation
+	  
+	  https://t.co/itFuuMMNpy 
+	  
+	  ![](https://pbs.twimg.com/media/FuU8K5bWAAIM3_v.jpg) ([View Tweet](https://twitter.com/johnjnay/status/1649792913109397508))

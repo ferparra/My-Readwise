@@ -15,3 +15,6 @@ url:: https://twitter.com/simonw
 	  Use GPT-3 to answer questions against an existing collection of documents, using a combination of embedding-based semantic search and prompt engineering (and @datasetteproj)
 	  
 	  https://t.co/tJhq4ziKAE ([View Tweet](https://twitter.com/simonw/status/1614048265166811136))
+- New highlights added [[Apr 27th, 2023]] at 12:21 PM
+	- Web LLM runs the vicuna-7b Large Language Model entirely in your browser, and it’s very impressive
+	  https://t.co/mBf3Chgjn0 ([View Tweet](https://twitter.com/simonw/status/1647620022762876929))

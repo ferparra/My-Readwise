@@ -79,3 +79,13 @@ url:: https://twitter.com/housecor
 	  Build from scratch
 	  Ignoring YAGNI
 	  Gold plating ([View Tweet](https://twitter.com/housecor/status/1607412976876666880))
+- New highlights added [[Apr 27th, 2023]] at 12:21 PM
+	- Why I’m so excited about React’s server components:
+	  
+	  I can do full stack development with just React. 
+	  
+	  I don’t need to build REST/GraphQL APIs anymore. I can query the DB from my React server components via SQL. 🔥
+	  
+	  An entire layer of code just disappears!
+	  
+	  Bye bye APIs! 👋 ([View Tweet](https://twitter.com/housecor/status/1650654484865994753))
